@@ -1,0 +1,4 @@
+transit_gain_group,n_lsoas,mean_transit_gain,median_transit_gain,mean_walk_access,mean_transit_access,mean_imd_decile,most_deprived_pct,least_deprived_pct,inner_london_pct,older_adults_pct,children_pct,caregiver_household_intensity,older_gain,children_gain,care_gain,older_mismatch_z,children_mismatch_z,care_mismatch_index
+Bottom 20% gain,1000,15.94,17.36,48.5,64.44,4.63,42.7,16.9,52.7,11.19,17.98,28.93,15.77,16.08,15.98,-0.92,-0.99,-10.58
+Middle 60%,2995,25.39,25.42,36.76,62.15,5.1,33.6,21.1,35.8,12.06,19.34,32.5,26.26,25.69,24.22,-0.01,0.02,3.7
+Top 20% gain,999,33.58,33,23.8,57.38,5.7,22.6,27.3,19.9,13.25,19.45,33.42,34.89,34.22,31.62,0.94,0.93,14.76

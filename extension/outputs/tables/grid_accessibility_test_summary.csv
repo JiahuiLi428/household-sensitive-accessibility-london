@@ -1,0 +1,7 @@
+lsoa21cd,group,mode,grid_count,mean_basket_score,median_basket_score,min_basket_score,max_basket_score,mean_missing_facilities,any_na_basket
+E01000001,caregiving_adults,walk_15min,7,67.75,64.2,59.67,80.27,0,FALSE
+E01000095,caregiving_adults,walk_15min,42,21.64,20.37,0,44,4.48,FALSE
+E01000115,caregiving_adults,walk_15min,28,29,29.03,18.27,43.13,3.64,FALSE
+E01000001,caregiving_adults,walk_transit_30min,7,83.88,82.1,79.83,90.13,0,FALSE
+E01000095,caregiving_adults,walk_transit_30min,42,46.3,45.63,0,66.53,1.74,FALSE
+E01000115,caregiving_adults,walk_transit_30min,28,59.87,58.93,50.17,71.33,0,FALSE

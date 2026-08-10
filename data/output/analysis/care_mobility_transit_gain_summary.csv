@@ -1,0 +1,4 @@
+care_gain_group,n_lsoas,care_transit_gain,care_walk_index,care_transit_index,care_mismatch_index,caregiver_household_intensity,lone_parent_intensity,mean_imd_decile,most_deprived_pct,inner_london_pct
+Bottom 20% care gain,999,15.43,43.96,59.39,-6.46,30.34,8.26,4.69,41.6,45.3
+Middle 60%,2996,24.21,35.88,60.09,3.12,32.21,7.87,5.13,33.2,37.3
+Top 20% care gain,999,32.2,26.35,58.54,12.36,32.9,6.99,5.54,24.7,22.7

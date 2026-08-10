@@ -1,0 +1,207 @@
+osm_type,osm_id,name,category,lon,lat,source_geometry_type
+node,254005151,Priory Hospital,healthcare_hospitals,-0.1183042,51.6320636,Point
+node,289563831,Bridge Lane Health Centre,healthcare_hospitals,-0.1663173,51.4732684,Point
+node,296563324,British Home & Hospital for Incurables,healthcare_hospitals,-0.1070682,51.423089,Point
+node,444635673,Chelsfield Park Hospital,healthcare_hospitals,0.1316749,51.3582569,Point
+node,637882835,Sloane Hospital,healthcare_hospitals,-0.0045395,51.4082042,Point
+node,1131534975,Queen Mary's Childrens' Hospital,healthcare_hospitals,-0.1848418,51.3797984,Point
+node,1971677516,Chapel Orchard Day Surgery,healthcare_hospitals,-0.1715368,51.4020487,Point
+node,2778453137,The Portland Hospital,healthcare_hospitals,-0.1435858,51.5224709,Point
+node,5567284557,Day Surgery Centre,healthcare_hospitals,-0.0930863,51.4690343,Point
+node,6237807570,Dermatology Entrance,healthcare_hospitals,-0.0172982,51.4530939,Point
+node,6295492762,Schoen Clinic,healthcare_hospitals,-0.1498767,51.5162998,Point
+node,6295862569,North London Hospice Winchmore Hill,healthcare_hospitals,-0.0925094,51.6249907,Point
+node,10995777570,Sexual Health Clinic,healthcare_hospitals,-0.1123103,51.3911811,Point
+node,10995777571,Macmillan Cancer Support Centres,healthcare_hospitals,-0.1115896,51.3895435,Point
+node,10995801768,Main Reception,healthcare_hospitals,-0.1111571,51.3892531,Point
+node,10995804162,Patient Advice and Liaison Service (PALS),healthcare_hospitals,-0.108499,51.388644,Point
+node,10995804163,Maternity Reception,healthcare_hospitals,-0.1110591,51.3912926,Point
+node,10995804164,Fertility Treatment,healthcare_hospitals,-0.1102788,51.3911477,Point
+node,10995804171,Gynaecology Department,healthcare_hospitals,-0.1093613,51.3905149,Point
+node,10995804179,Women's Health Unit,healthcare_hospitals,-0.1110648,51.3909333,Point
+node,10995804180,Croydon Heart Centre,healthcare_hospitals,-0.11113,51.3887004,Point
+node,10995804184,Dental Department,healthcare_hospitals,-0.1097438,51.3902698,Point
+node,10995804185,Dermatology Department,healthcare_hospitals,-0.1099614,51.3904846,Point
+node,10995804186,Diabetic Department,healthcare_hospitals,-0.108209,51.3886983,Point
+node,10995804187,MRI,healthcare_hospitals,-0.1088304,51.3888297,Point
+node,10995804195,Main X-Ray,healthcare_hospitals,-0.1087926,51.3891088,Point
+node,10995804196,Vascular Ultrasound,healthcare_hospitals,-0.1103441,51.3891619,Point
+node,10995804197,Wound Clinic,healthcare_hospitals,-0.1102589,51.3890953,Point
+node,10995804198,Moorfields Eye Unit,healthcare_hospitals,-0.1099839,51.3893068,Point
+node,10995804199,The Willows (Children's Clinic),healthcare_hospitals,-0.1097382,51.389144,Point
+node,10995804200,Day Surgery Unit (DSU),healthcare_hospitals,-0.1107072,51.3898664,Point
+node,10995811829,Emergency Department,healthcare_hospitals,-0.1092569,51.3887022,Point
+node,11170258999,King's College Hospital Emergency Department,healthcare_hospitals,-0.0927953,51.4687588,Point
+node,12026398668,Dental Hospital,healthcare_hospitals,-0.0927114,51.4691229,Point
+node,12187913901,Great Ormond Street Outpatients - Zebra and Hippo Clinic Areas,healthcare_hospitals,-0.1213221,51.5216322,Point
+node,12313941685,Hounslow Medical Centre,healthcare_hospitals,-0.3772728,51.4694387,Point
+node,12601902086,National Hospital for Neurology and Neurosurgery at Cleveland Street,healthcare_hospitals,-0.1380023,51.5196573,Point
+node,12842417237,Medlabs Diagnostics,healthcare_hospitals,-0.1124702,51.5208997,Point
+node,12873147549,Proton International @ UCLH,healthcare_hospitals,-0.1363481,51.5238264,Point
+node,12873147555,HCA Healthcare UK Laboratories,healthcare_hospitals,-0.1352478,51.5225872,Point
+node,12873180107,Optimal Vision,healthcare_hospitals,-0.1302119,51.5199661,Point
+node,12873245976,Until SOHO,healthcare_hospitals,-0.1299683,51.5145533,Point
+node,12875654728,Queen Square Imaging Centre,healthcare_hospitals,-0.1230571,51.5217376,Point
+node,12886273770,Tunica Diagnostics,healthcare_hospitals,-0.1300121,51.5145501,Point
+node,12924662500,Clinical Research Facility,healthcare_hospitals,-0.1360165,51.5227136,Point
+node,13006104317,Sleep & Health Clinic,healthcare_hospitals,-0.1403723,51.5234503,Point
+node,13262025383,"Neonatal Unit, L1 Z2",healthcare_hospitals,0.0367652,51.5229852,Point
+node,13262504860,A&E Department,healthcare_hospitals,0.0343603,51.5229803,Point
+node,13262504861,Rainbow Ward,healthcare_hospitals,0.0350684,51.5233041,Point
+node,13436406358,Moorfields at Hoxton,healthcare_hospitals,-0.0898754,51.5346809,Point
+way,4211785,St Ann's Hospital,healthcare_hospitals,-0.08786791246519822,51.580088950000004,MultiPolygon
+way,4271138,North Middlesex University Hospital,healthcare_hospitals,-0.07361673295030607,51.61275585,MultiPolygon
+way,4356408,The Wilson Hospital,healthcare_hospitals,-0.16315830636309064,51.39751415,MultiPolygon
+way,4363883,Hammersmith Hospital,healthcare_hospitals,-0.23622437089891515,51.5176352,MultiPolygon
+way,4379364,Barnet Hospital,healthcare_hospitals,-0.21423324791209003,51.650778700000004,MultiPolygon
+way,4536914,St George's Hospital,healthcare_hospitals,-0.1758360142029976,51.426433,MultiPolygon
+way,4822314,St. Helier Hospital,healthcare_hospitals,-0.18427821573317915,51.3803766,MultiPolygon
+way,4907493,Barnes Hospital,healthcare_hospitals,-0.25586387630546836,51.4671869,MultiPolygon
+way,6134866,Northwick Park Hospital,healthcare_hospitals,-0.3215279840426735,51.57518005,MultiPolygon
+way,7954585,Queen Mary's Hospital,healthcare_hospitals,0.10390418273417693,51.41885325,MultiPolygon
+way,8684419,BMI The Kings Oak Hospital,healthcare_hospitals,-0.10557611576911126,51.66791135,MultiPolygon
+way,20259708,St Mark's,healthcare_hospitals,-0.3200340535258722,51.57592635,MultiPolygon
+way,23088561,Tolworth Hospital,healthcare_hospitals,-0.2892074733476625,51.37950155,MultiPolygon
+way,23109454,Kingston Hospital,healthcare_hospitals,-0.2825102389517615,51.41498435,MultiPolygon
+way,24414388,Finchley Memorial Hospital,healthcare_hospitals,-0.1766931739627739,51.60568605,MultiPolygon
+way,24437604,Chase Farm Hospital,healthcare_hospitals,-0.10258796049504051,51.6668387,MultiPolygon
+way,24437660,St Michael's Community Hospital,healthcare_hospitals,-0.08426354074651807,51.661897800000006,MultiPolygon
+way,24525110,St Anthony's,healthcare_hospitals,-0.2206891590445758,51.3798987,MultiPolygon
+way,24648544,Central Middlesex Hospital,healthcare_hospitals,-0.2677642601310697,51.531318850000005,MultiPolygon
+way,24787431,Lambeth Hospital,healthcare_hospitals,-0.12250677269950219,51.46533985000001,MultiPolygon
+way,26617656,Croydon University Hospital,healthcare_hospitals,-0.11031090100572093,51.3900897,MultiPolygon
+way,26730443,West Middlesex Hospital,healthcare_hospitals,-0.3243681730246492,51.47286495,MultiPolygon
+way,27219238,Norbury Health Centre,healthcare_hospitals,-0.1203612931283082,51.4049859,MultiPolygon
+way,27315691,Normanby Building,healthcare_hospitals,-0.09434175849394497,51.4686068,MultiPolygon
+way,28226427,"Royal National Throat, Nose and Ear Hospital",healthcare_hospitals,-0.11925307182404199,51.529249,MultiPolygon
+way,28476793,Green Parks House,healthcare_hospitals,0.05674432479995203,51.366061099999996,MultiPolygon
+way,31636962,St Charles' Hospital,healthcare_hospitals,-0.21770627308768964,51.522393750000006,MultiPolygon
+way,31927218,Hillingdon Hospital,healthcare_hospitals,-0.46151731238843186,51.52545995,MultiPolygon
+way,32612277,Newham University Hospital,healthcare_hospitals,0.038922673192365656,51.52160755,MultiPolygon
+way,35776498,Bethlem Royal Hospital,healthcare_hospitals,-0.031196944032878877,51.38264165,MultiPolygon
+way,35781504,Queen Mary's Hospital,healthcare_hospitals,-0.24177229871562234,51.4550336,MultiPolygon
+way,41378470,Whipps Cross University Hospital,healthcare_hospitals,0.002766592993063862,51.57748615,MultiPolygon
+way,43290805,St. Pancras Hospital,healthcare_hospitals,-0.13146982179610817,51.5363051,MultiPolygon
+way,43514739,Homerton University Hospital,healthcare_hospitals,-0.04547978838965567,51.550799600000005,MultiPolygon
+way,45388015,St Mary's Hospital,healthcare_hospitals,-0.1743244996014025,51.51743395,MultiPolygon
+way,47630726,Mount Vernon,healthcare_hospitals,-0.44543772817557803,51.6156441,MultiPolygon
+way,47698729,Royal National Orthopaedic Hospital,healthcare_hospitals,-0.3089951343048215,51.63160605,MultiPolygon
+way,48915770,The Whittington Hospital,healthcare_hospitals,-0.13935317803030103,51.566557700000004,MultiPolygon
+relation,1204745,Wembley Centre for Health & Care,healthcare_hospitals,-0.30609915223269457,51.55008745000001,MultiPolygon
+relation,1204747,,healthcare_hospitals,-0.3051659859887236,51.550120449999994,MultiPolygon
+way,80402499,Ealing Hospital,healthcare_hospitals,-0.34516025047376475,51.5078786,MultiPolygon
+way,80888181,The Princess Grace Hospital,healthcare_hospitals,-0.15291093286437757,51.52238665,MultiPolygon
+way,80888190,King Edward VII's Hospital,healthcare_hospitals,-0.15041009347674344,51.52091095,MultiPolygon
+way,80888195,The Portland Hospital,healthcare_hospitals,-0.14430632018167633,51.523059450000005,MultiPolygon
+way,85472872,Royal Brompton Hospital,healthcare_hospitals,-0.17100462152092888,51.48938045,MultiPolygon
+way,85472885,The Royal Marsden Hospital,healthcare_hospitals,-0.17262143336605104,51.49056885,MultiPolygon
+way,89825005,Cambian Churchill,healthcare_hospitals,-0.10962313256297207,51.497197650000004,MultiPolygon
+relation,1333891,Clayponds Hospital,healthcare_hospitals,-0.2982131317898269,51.4950934,MultiPolygon
+way,92785814,,healthcare_hospitals,-0.28197175905807437,51.5904169,MultiPolygon
+way,97175523,CRGH,healthcare_hospitals,-0.10154194544398007,51.5201865,MultiPolygon
+way,102265907,Caldecot Centre,healthcare_hospitals,-0.09387086517387308,51.46969345,MultiPolygon
+way,110476079,The London Welbeck Hospital,healthcare_hospitals,-0.14937614426608853,51.5182529,MultiPolygon
+way,111343934,Lister Hospital,healthcare_hospitals,-0.15020584719311775,51.4864471,MultiPolygon
+way,111800473,Vincent Square Clinic,healthcare_hospitals,-0.13463041668814224,51.4914696,MultiPolygon
+way,112682015,Gordon Hospital,healthcare_hospitals,-0.13598024753063814,51.49215905,MultiPolygon
+way,116629214,Evelina London Children's Hospital,healthcare_hospitals,-0.11846303981604964,51.498302800000005,MultiPolygon
+way,120359076,Grays Court Community Hospital,healthcare_hospitals,0.15805747772569878,51.5392759,MultiPolygon
+way,122227536,St Thomas' Hospital,healthcare_hospitals,-0.11869682617206007,51.49906445,MultiPolygon
+way,122299506,Cleveland Clinic London,healthcare_hospitals,-0.14875500075220863,51.4994183,MultiPolygon
+way,130345641,Queens Hospital,healthcare_hospitals,0.17925729184969857,51.5688113,MultiPolygon
+way,137754985,Purley War Memorial Hospital,healthcare_hospitals,-0.11476720712377173,51.34056475,MultiPolygon
+way,142385900,Royal Hospital for Neuro-Disability,healthcare_hospitals,-0.2137252032286256,51.45196695,MultiPolygon
+way,145477095,Biggin Hill Clinic,healthcare_hospitals,0.03446460256127731,51.313064749999995,MultiPolygon
+way,150470710,The Groves Medical Centre,healthcare_hospitals,-0.26142910953950077,51.410365049999996,MultiPolygon
+way,156497004,Springdene Nursing Home,healthcare_hospitals,-0.16795382896999894,51.63443035,MultiPolygon
+way,164458516,Edgware Community Hospital,healthcare_hospitals,-0.27056749556771587,51.6066065,MultiPolygon
+way,166385829,Bowes Road Clinic,healthcare_hospitals,-0.13109906521174453,51.615495550000006,MultiPolygon
+way,170732745,St Bartholomew's Hospital,healthcare_hospitals,-0.09983021074113416,51.517531500000004,MultiPolygon
+way,182344201,Shirley Oaks Hospital,healthcare_hospitals,-0.05658707970168539,51.38221,MultiPolygon
+way,184154674,Mile End Hospital,healthcare_hospitals,-0.04221452120216965,51.52505405,MultiPolygon
+way,186977094,The Old Red Hill Clinic (Barnet Adolescent Services),healthcare_hospitals,-0.27726976318441054,51.611419749999996,MultiPolygon
+way,188617701,Charing Cross Hospital,healthcare_hospitals,-0.21961938482411025,51.486920350000005,MultiPolygon
+way,193432693,The Broadway Health Centre,healthcare_hospitals,-0.3792694950364488,51.51117605,MultiPolygon
+way,197910029,Victoria Hospital,healthcare_hospitals,0.18819124582907742,51.583773,MultiPolygon
+way,208072187,Millway Medical Practice,healthcare_hospitals,-0.24400940371390425,51.61555775,MultiPolygon
+way,222183797,St Bernards Hospital (West London Mental Health NHS Trust),healthcare_hospitals,-0.34711647204396434,51.50633085,MultiPolygon
+relation,1205172,The Clementine Churchill Hospital,healthcare_hospitals,-0.3320614593984527,51.56508505,MultiPolygon
+way,229290055,Cygnet Hospital,healthcare_hospitals,-0.33758612573942437,51.567229100000006,MultiPolygon
+way,255439869,Queen Elizabeth Hospital,healthcare_hospitals,0.04979006909752184,51.477704599999996,MultiPolygon
+way,263728248,Coborn Centre for Adolescent Mental Health,healthcare_hospitals,0.03838112024197014,51.51967475,MultiPolygon
+relation,3542120,Newham Centre for Mental Health,healthcare_hospitals,0.038431096447004764,51.520285,MultiPolygon
+relation,3641021,City & Hackney Centre for Mental Health,healthcare_hospitals,-0.04483551057089154,51.550321600000004,MultiPolygon
+way,275414908,,healthcare_hospitals,0.02911743646862621,51.58377875,MultiPolygon
+relation,8286235,Maudsley Hospital,healthcare_hospitals,-0.08999905427805721,51.469004850000005,MultiPolygon
+way,277432734,King's College Hospital,healthcare_hospitals,-0.09366820875426096,51.46813305,MultiPolygon
+way,307058677,,healthcare_hospitals,-0.032748603675505056,51.3775522,MultiPolygon
+way,315305511,Cygnet Hospital Ealing,healthcare_hospitals,-0.29718495944010437,51.521155,MultiPolygon
+way,322546930,Spire London East,healthcare_hospitals,0.04361593132317072,51.58724225,MultiPolygon
+way,326277354,John Howard Centre,healthcare_hospitals,-0.039225031641360306,51.54801474999999,MultiPolygon
+way,352120259,Harefield Hospital,healthcare_hospitals,-0.4834809751442428,51.60702795,MultiPolygon
+way,402012627,Moorfields Eye Hospital (City Road campus),healthcare_hospitals,-0.09022402582294245,51.527282549999995,MultiPolygon
+way,413948227,London Bridge Hospital,healthcare_hospitals,-0.08588001972395873,51.50608435,MultiPolygon
+way,420411264,Fitzrovia Hospital,healthcare_hospitals,-0.14039556372369585,51.52347455,MultiPolygon
+way,440410278,University College Hospital,healthcare_hospitals,-0.13650496913234114,51.524895400000005,MultiPolygon
+way,444440630,Weymouth Street Hospital,healthcare_hospitals,-0.1505415457174755,51.52021965,MultiPolygon
+way,448178927,Barking Community Hospital,healthcare_hospitals,0.09881613915096488,51.538682699999995,MultiPolygon
+way,463924137,Cassel Hospital,healthcare_hospitals,-0.30933090996219537,51.4323599,MultiPolygon
+way,484298094,University Hospital Lewisham,healthcare_hospitals,-0.017405463087774423,51.4539513,MultiPolygon
+way,492083208,Highgate Mental Health Centre,healthcare_hospitals,-0.14252759099393486,51.56667535,MultiPolygon
+way,497718283,Mildmay Mission Hospital,healthcare_hospitals,-0.07559591368149232,51.52771075,MultiPolygon
+way,504129695,BMI Hendon Hospital,healthcare_hospitals,-0.22444942728713868,51.59371495,MultiPolygon
+way,514349576,Nuffield Health Highgate Hospital,healthcare_hospitals,-0.15688832079822806,51.57665925,MultiPolygon
+way,540185923,Renal Dialysis Unit,healthcare_hospitals,0.014416966721558663,51.4011388,MultiPolygon
+way,548533106,Great Ormond Street Hospital for Children,healthcare_hospitals,-0.12037279195275108,51.5224889,MultiPolygon
+way,581607863,Princess Royal University Hospital,healthcare_hospitals,0.058706460714282316,51.366161899999994,MultiPolygon
+way,582082097,,healthcare_hospitals,0.05926223066898026,51.3663698,MultiPolygon
+way,591570712,Blackheath Hospital,healthcare_hospitals,0.006683492166186083,51.463437150000004,MultiPolygon
+way,640495338,Royal London Hospital,healthcare_hospitals,-0.059885067801315084,51.51750265,MultiPolygon
+way,654480339,Erith and District Hospital,healthcare_hospitals,0.16673454986387518,51.47699205,MultiPolygon
+way,660411791,The Portland Hospital Consulting Suite,healthcare_hospitals,-0.14421685104958976,51.52278015,MultiPolygon
+way,669882382,Privé Clinics,healthcare_hospitals,-0.1464769004218197,51.518668399999996,MultiPolygon
+way,670848153,Queen Anne Street Medical Centre,healthcare_hospitals,-0.1471037992981521,51.5182106,MultiPolygon
+way,672219101,Nuffield Health,healthcare_hospitals,-0.1483065543814347,51.517716050000004,MultiPolygon
+way,688880323,Nightingale Hospital,healthcare_hospitals,-0.1651950084524865,51.521792649999995,MultiPolygon
+way,699934188,Hospital of St John and St Elizabeth,healthcare_hospitals,-0.1751377644399444,51.5332645,MultiPolygon
+way,707322577,Guy's Hospital,healthcare_hospitals,-0.0867273478494055,51.503209850000005,MultiPolygon
+way,713671496,Memorial Hospital,healthcare_hospitals,0.06321151277242223,51.467953699999995,MultiPolygon
+way,727431875,,healthcare_hospitals,-0.07851896333222523,51.4213036,MultiPolygon
+relation,10286924,London Clinic,healthcare_hospitals,-0.1495791305164972,51.52293085,MultiPolygon
+way,780482089,Goodmayes Hospital,healthcare_hospitals,0.11126918966207208,51.57737685,MultiPolygon
+way,818779914,Royal Free Hospital,healthcare_hospitals,-0.16549640024746282,51.5529389,MultiPolygon
+way,821710065,Cromwell Hospital,healthcare_hospitals,-0.19139326669277107,51.49507175,MultiPolygon
+way,824501402,Worlds End Health Centre,healthcare_hospitals,-0.1847420974689149,51.480466050000004,MultiPolygon
+way,831768505,Beckenham Beacon,healthcare_hospitals,-0.033333961139122785,51.40515025,MultiPolygon
+way,833201881,University College Hospital at Westmoreland Street,healthcare_hospitals,-0.1496468879700618,51.519671900000006,MultiPolygon
+way,839142057,Royal Marsden Hospital,healthcare_hospitals,-0.19210520761450428,51.34440895,MultiPolygon
+way,855389355,Teddington Memorial Hospital,healthcare_hospitals,-0.34091956712569715,51.425905650000004,MultiPolygon
+way,860476845,Beckenham Beacon,healthcare_hospitals,-0.03301075754767628,51.40518915,MultiPolygon
+way,863316715,Nuffield Health Cancer Centre London,healthcare_hospitals,-0.22374551213942315,51.4338501,MultiPolygon
+way,863401259,St. George's Health & Wellbeing Hub,healthcare_hospitals,0.2189306341078095,51.5487464,MultiPolygon
+way,868274062,Cygnet Hospital Beckton,healthcare_hospitals,0.06473009364619325,51.5135872,MultiPolygon
+way,872044524,New Victoria Hospital,healthcare_hospitals,-0.2541464083326721,51.415648149999996,MultiPolygon
+way,881918254,Chelsea and Westminster Hospital,healthcare_hospitals,-0.1813432723044543,51.4843131,MultiPolygon
+way,888717352,Royal Brompton Hospital,healthcare_hospitals,-0.17396553485443095,51.48998665,MultiPolygon
+way,902050280,King George Hospital,healthcare_hospitals,0.11124365799076769,51.58019845,MultiPolygon
+way,904874618,Eltham Community Hospital,healthcare_hospitals,0.05367380377962721,51.44924215,MultiPolygon
+way,912368818,Queen Charlotte's & Chelsea Hospital,healthcare_hospitals,-0.23736840576123577,51.51635295,MultiPolygon
+way,926396835,Noah's Ark Children's Hospice,healthcare_hospitals,-0.21493095710890828,51.65815255,MultiPolygon
+way,988525443,The Doctors Laboratory,healthcare_hospitals,-0.1280153923007246,51.52801695,MultiPolygon
+way,1003262004,Huntercombe Hospital,healthcare_hospitals,-0.2422342384141337,51.4478673,MultiPolygon
+way,1043104661,The Cavell Hospital,healthcare_hospitals,-0.10234984871884982,51.659046599999996,MultiPolygon
+relation,11620516,The Priory,healthcare_hospitals,-0.251617309656914,51.4622279,MultiPolygon
+way,1113340300,Royal National ENT and Eastman Dental Hospitals,healthcare_hospitals,-0.1345097610477381,51.5225387,MultiPolygon
+way,1114959175,Macmillan Cancer Centre,healthcare_hospitals,-0.13514396171647047,51.523038549999995,MultiPolygon
+way,1120163062,,healthcare_hospitals,-0.29716354896018415,51.5211714,MultiPolygon
+way,1157931537,Baring Road Medical Centre,healthcare_hospitals,0.019468301001177017,51.43541295,MultiPolygon
+way,1164672572,Springfield University Hospital,healthcare_hospitals,-0.17039887240037072,51.437055,MultiPolygon
+way,1194334017,Hayes Priory,healthcare_hospitals,0.014862362580779696,51.3729666,MultiPolygon
+way,1217422518,Orpington Hospital,healthcare_hospitals,0.09479195467698764,51.36251955,MultiPolygon
+way,1306349223,Jane Atkinson Health and Wellbeing Centre,healthcare_hospitals,-0.006925627315507539,51.5908199,MultiPolygon
+way,1390491265,National Hospital for Neurology and Neurosurgery,healthcare_hospitals,-0.12189250420806663,51.522178999999994,MultiPolygon
+way,1390491266,Royal London Hospital for Integrated Medicine,healthcare_hospitals,-0.1214318891025604,51.52178535,MultiPolygon
+way,1416702354,,healthcare_hospitals,-0.33955452239186,51.430787800000004,MultiPolygon
+way,1432555189,The London Independent Hospital,healthcare_hospitals,-0.04723646298310025,51.52020315,MultiPolygon
+way,1458084061,,healthcare_hospitals,-0.12509112847594717,51.411920800000004,MultiPolygon
+way,1477757914,Tessa Jowell Health Centre,healthcare_hospitals,-0.08055307253375801,51.45936675,MultiPolygon

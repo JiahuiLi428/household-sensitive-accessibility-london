@@ -1,0 +1,7 @@
+group,scenario,mean_index,median_index,q1_index,q3_index
+Children and Adolescents,Walk 15,38.87,39.07,26.8,51.83
+Children and Adolescents,Walk + Transit 30,64.34,66.67,57.8,74.13
+Caregiving Adults,Walk 15,35.59,35,24.6,46.33
+Caregiving Adults,Walk + Transit 30,59.64,60.73,51.83,69.89
+Older adults,Walk 15,35.1,34.27,20.95,48.27
+Older adults,Walk + Transit 30,60.98,63.42,52.77,72.06

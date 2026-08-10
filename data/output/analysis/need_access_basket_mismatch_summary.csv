@@ -1,0 +1,9 @@
+population_group,mismatch,n_lsoas,mean_need_pct,mean_basket_time_min,mean_imd_decile
+Older people,High need / high access,881,14.98,7.52,5.77
+Older people,Low need / high access,1549,7.7,7.08,3.82
+Older people,Low need / low access,948,8.31,12.66,4.03
+Older people,High need / low access,1616,17.04,13.31,6.56
+Children,Low need / high access,1408,14.93,6.57,4.79
+Children,High need / high access,1089,22.73,7.24,4.19
+Children,High need / low access,1408,22.45,12.22,5.15
+Children,Low need / low access,1089,16.48,12.2,6.46

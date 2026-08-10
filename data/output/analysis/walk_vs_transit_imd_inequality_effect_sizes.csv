@@ -1,0 +1,9 @@
+facility_category,H_walk_15min,H_walk_transit_30min,p_value_walk_15min,p_value_walk_transit_30min,eta_sq_h_walk_15min,eta_sq_h_walk_transit_30min,n_walk_15min,n_walk_transit_30min,eta_change_transit_minus_walk,inequality_change
+education_schools,137.0476,191.4741,4.195e-25,2.023e-36,0.0294,0.0387,4360,4727,0.0093,Increased under transit
+food_retail_supermarkets,86.8629,216.5344,6.922e-15,1.12e-41,0.0249,0.0444,3133,4686,0.0195,Increased under transit
+green_space_parks,222.6446,320.8185,5.814e-43,9.939e-64,0.0522,0.066,4099,4734,0.0138,Increased under transit
+healthcare_gps,32.5735,146.9369,0.0001584,3.799e-27,0.0081,0.0302,2917,4584,0.0221,Increased under transit
+healthcare_hospitals,11.0719,18.68,0.2708,0.02806,0.0034,0.003,611,3224,-4e-04,Reduced under transit
+healthcare_pharmacies,88.099,154.8903,3.915e-15,8.544e-29,0.0227,0.0312,3496,4691,0.0085,Increased under transit
+transport_bus_stops,150.1743,150.0963,8.116e-28,8.424e-28,0.0297,0.0297,4758,4759,0,No change
+transport_underground_metro_stations,7.4463,14.7403,0.5908,0.09832,0,0.0019,1332,3105,0.0019,Increased under transit

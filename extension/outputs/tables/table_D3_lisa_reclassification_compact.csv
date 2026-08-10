@@ -1,0 +1,28 @@
+household_group,classification,n_lsoas,share_pct
+children_and_adolescents,never high-high,4090,81.9
+children_and_adolescents,new high-high,183,3.7
+children_and_adolescents,stable high-high,597,12
+children_and_adolescents,no longer high-high,122,2.4
+caregiving_adults,never high-high,4209,84.3
+caregiving_adults,stable high-high,564,11.3
+caregiving_adults,no longer high-high,106,2.1
+caregiving_adults,new high-high,113,2.3
+older_adults,never high-high,4038,80.9
+older_adults,stable high-high,790,15.8
+older_adults,new high-high,93,1.9
+older_adults,no longer high-high,71,1.4
+children_and_adolescents,Low-low surplus cluster,1020,20.4
+children_and_adolescents,Not significant,3147,63
+children_and_adolescents,High-high mismatch cluster,780,15.6
+children_and_adolescents,Low-high spatial outlier,24,0.5
+children_and_adolescents,High-low spatial outlier,21,0.4
+caregiving_adults,Low-low surplus cluster,907,18.2
+caregiving_adults,Not significant,3367,67.4
+caregiving_adults,High-high mismatch cluster,677,13.6
+caregiving_adults,Low-high spatial outlier,17,0.3
+caregiving_adults,High-low spatial outlier,24,0.5
+older_adults,High-low spatial outlier,10,0.2
+older_adults,Not significant,3137,62.8
+older_adults,Low-low surplus cluster,934,18.7
+older_adults,High-high mismatch cluster,883,17.7
+older_adults,Low-high spatial outlier,28,0.6

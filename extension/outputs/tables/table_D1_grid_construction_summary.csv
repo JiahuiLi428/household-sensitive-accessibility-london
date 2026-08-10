@@ -1,0 +1,6 @@
+metric,value
+total_100m_grid_cells,157370
+residential_grid_cells,106018
+lsoas_with_residential_grids,4992
+mean_residential_grids_per_lsoa,21.23
+residential_filter,OSM residential buildings and residential land-use

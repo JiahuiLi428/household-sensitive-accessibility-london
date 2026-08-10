@@ -1,0 +1,31 @@
+borough_name,london_ring,missing_lsoas,mean_population,median_population
+Tower Hamlets,Inner London,27,1524.48148148148,1553
+Newham,Outer London,22,1555.5,1536.5
+Greenwich,Inner London,15,1400.13333333333,1355
+Southwark,Inner London,9,1472.66666666667,1409
+Barnet,Outer London,9,1571.88888888889,1529
+Croydon,Outer London,9,1446.66666666667,1421
+Hillingdon,Outer London,9,1784.44444444444,1769
+Brent,Outer London,8,1667.375,1640
+Hounslow,Outer London,8,1615.375,1704
+Harrow,Outer London,7,1542.71428571429,1435
+Wandsworth,Inner London,7,1490.42857142857,1494
+Lewisham,Inner London,6,1403.5,1390
+Barking and Dagenham,Outer London,6,1582.83333333333,1664
+Hackney,Inner London,6,1367.16666666667,1365.5
+Havering,Outer London,3,1386,1382
+Lambeth,Inner London,3,1344.66666666667,1396
+Ealing,Outer London,3,1684,1312
+Redbridge,Outer London,3,1401,1418
+Islington,Inner London,3,1309,1281
+Bexley,Outer London,2,1574,1574
+Haringey,Outer London,2,1948,1948
+Sutton,Outer London,2,1470.5,1470.5
+Bromley,Outer London,2,1294.5,1294.5
+Waltham Forest,Outer London,2,1452.5,1452.5
+Merton,Outer London,2,1304.5,1304.5
+Hammersmith and Fulham,Inner London,2,1732.5,1732.5
+Enfield,Outer London,1,1300,1300
+Kingston upon Thames,Outer London,1,1256,1256
+Camden,Inner London,1,1951,1951
+Westminster,Inner London,1,1220,1220

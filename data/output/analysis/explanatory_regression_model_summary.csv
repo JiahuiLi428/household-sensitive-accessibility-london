@@ -1,0 +1,5 @@
+model,r_squared,adj_r_squared,n
+gp_time,0.1477,0.147,4813
+older_access,0.3213,0.3208,4813
+children_access,0.3359,0.3353,4813
+older_mismatch,0.741,0.7407,4813

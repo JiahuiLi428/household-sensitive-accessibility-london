@@ -1,0 +1,6 @@
+metric,value
+lsoa_rows,4994
+direct_imd_matches,4659
+bestfit_imd_matches,4813
+remaining_missing_imd,181
+bestfit_assigned_lsoas,154

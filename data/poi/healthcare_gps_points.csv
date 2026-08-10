@@ -1,0 +1,956 @@
+osm_type,osm_id,name,category,lon,lat,source_geometry_type
+node,27386452,,healthcare_gps,0.2030686,51.5743099,Point
+node,32544814,Greenford Road Medical Centre,healthcare_gps,-0.345581,51.5376755,Point
+node,36216886,Simpson House Medical Centre,healthcare_gps,-0.3726437,51.5617106,Point
+node,36675819,Hillview Surgery,healthcare_gps,-0.3166269,51.5399944,Point
+node,36679518,St Mark's Medical Centre,healthcare_gps,-0.3028624,51.5293025,Point
+node,36681423,,healthcare_gps,-0.3091505,51.5268254,Point
+node,43500718,Macmillan Way Medical Centre,healthcare_gps,-0.1513333,51.4316018,Point
+node,48705631,Bethnal Green Health Centre,healthcare_gps,-0.0642499,51.5269619,Point
+node,94244330,Albion Health Centre,healthcare_gps,-0.0572096,51.5199458,Point
+node,247806030,Wallington Medical Centre,healthcare_gps,-0.1287623,51.3569878,Point
+node,248042439,Manor Practice,healthcare_gps,-0.1336673,51.3533719,Point
+node,248915406,Manor Health Centre,healthcare_gps,-0.1360928,51.4654256,Point
+node,250323757,Kingshead Medical Practice,healthcare_gps,-0.0109791,51.635404,Point
+node,251815502,Jubilee Health Centre,healthcare_gps,-0.1508145,51.3572418,Point
+node,252615134,Imperial College Health Centre,healthcare_gps,-0.1721382,51.4986558,Point
+node,262560317,GP Direct,healthcare_gps,-0.3559498,51.5652088,Point
+node,264128999,Aldersbrook Medical Centre,healthcare_gps,0.0373545,51.5611337,Point
+node,279548031,Langthorne Health Centre,healthcare_gps,0.0021076,51.5554417,Point
+node,279651355,,healthcare_gps,-0.1111882,51.5559408,Point
+node,291427314,Palace Road Surgery,healthcare_gps,-0.1210286,51.4439837,Point
+node,292002127,Doctor's Surgery,healthcare_gps,0.0422116,51.4277293,Point
+node,293236765,The Albion Surgery,healthcare_gps,0.1472902,51.4547222,Point
+node,293884983,Old Coulsdon Medical Practice,healthcare_gps,-0.1191587,51.307088,Point
+node,305383270,Wembley G.P Surgery,healthcare_gps,-0.3045395,51.5503707,Point
+node,306034565,Prebend Street Surgery,healthcare_gps,-0.0964775,51.53662,Point
+node,318696831,Lime Tree Surgery,healthcare_gps,0.0051538,51.5549725,Point
+node,320334276,Trowbridge Surgery,healthcare_gps,-0.0295826,51.5452722,Point
+node,333125743,Camberwell Green Surgery,healthcare_gps,-0.0932482,51.4742407,Point
+node,334399162,The Project Surgery,healthcare_gps,0.0197145,51.5319915,Point
+node,338507307,Wasabi,healthcare_gps,-0.1199798,51.5177803,Point
+node,344976618,Islington Central Medical Centre,healthcare_gps,-0.1056154,51.544499,Point
+node,355914372,,healthcare_gps,-0.1758792,51.4207272,Point
+node,359716381,Grove Road Surgery,healthcare_gps,-0.038768,51.5299247,Point
+node,359718042,St. Stephen's Health Centre,healthcare_gps,-0.0310944,51.5322104,Point
+node,360750010,Ritchie Street Group Practice,healthcare_gps,-0.1078253,51.5347178,Point
+node,362347548,The Holloway Medical Clinic,healthcare_gps,-0.1082797,51.5498192,Point
+node,366880656,Civic Medical Centre,healthcare_gps,-0.3376524,51.5873514,Point
+node,369848266,Caledonian Road Medical Practic,healthcare_gps,-0.1174653,51.5421778,Point
+node,376836457,The Green Surgery,healthcare_gps,-0.3391808,51.4444013,Point
+node,382513012,Great Chapel Street Medical Centre,healthcare_gps,-0.1320631,51.5146661,Point
+node,389942144,Sobell Medical Centre,healthcare_gps,-0.1135738,51.5540055,Point
+node,392184142,Shaftesbury Medical Centre,healthcare_gps,-0.3540587,51.5717975,Point
+node,414084102,Dr Shah and Partners,healthcare_gps,-0.0861943,51.3805633,Point
+node,415581119,Acorn & Gaumont House Surgery,healthcare_gps,-0.0657762,51.4741027,Point
+node,425354919,Eden Park Surgery,healthcare_gps,-0.0413247,51.3992865,Point
+node,429640066,Star Lane Medical Centre,healthcare_gps,0.0107065,51.5198249,Point
+node,459222976,Statham Grove Surgery,healthcare_gps,-0.0892898,51.5571541,Point
+node,460453461,The Vale Surgery,healthcare_gps,-0.1365155,51.4173809,Point
+node,490555498,The Hoxton Surgery,healthcare_gps,-0.0867676,51.5334946,Point
+node,504468934,Porters Avenue Health Centre,healthcare_gps,0.1236789,51.545868,Point
+node,504921234,St Peters Street Medical Practice,healthcare_gps,-0.1009449,51.5356955,Point
+node,510163151,Manor Place Surgery,healthcare_gps,-0.0967107,51.4891988,Point
+node,520913694,Tottenham Health Centre,healthcare_gps,-0.0683364,51.6045778,Point
+node,522101399,,healthcare_gps,-0.1752435,51.6227641,Point
+node,529096633,Charlton House Medical Centre,healthcare_gps,-0.0690366,51.5961892,Point
+node,541125074,GP Direct,healthcare_gps,-0.3588965,51.5752911,Point
+node,598513119,,healthcare_gps,0.1573507,51.5399544,Point
+node,612024075,Ashdown Medical Group,healthcare_gps,0.0125516,51.425917,Point
+node,665608511,Triangle Group Practice,healthcare_gps,-0.0116534,51.4579469,Point
+node,679124827,Chiswick Medical Practice (Wellesley Road Site),healthcare_gps,-0.2716415,51.4908311,Point
+node,694466026,The Dun Cow Surgery,healthcare_gps,-0.0779953,51.4890989,Point
+node,694469672,City Of London Medical Centre,healthcare_gps,-0.0759764,51.5116888,Point
+node,701292868,Portsoken Health Centre,healthcare_gps,-0.0739782,51.5133533,Point
+node,731087866,Westbourne Grove Medical Centre,healthcare_gps,-0.2009828,51.5140691,Point
+node,751823611,Artesian Health Centre,healthcare_gps,-0.0748591,51.4940173,Point
+node,763390818,East Finchley Medical Practice,healthcare_gps,-0.1621514,51.588168,Point
+node,785751734,The Fulham Medical Centre,healthcare_gps,-0.1930439,51.4806019,Point
+node,802185050,Princess Street Group Practice,healthcare_gps,-0.1023189,51.4956686,Point
+node,823341293,Dr China,healthcare_gps,-0.2001346,51.4826314,Point
+node,838705074,East Street Surgery,healthcare_gps,-0.0823848,51.4903875,Point
+node,874823407,Bloomsbury Surgery,healthcare_gps,-0.1229302,51.5256284,Point
+node,893961870,The Practice @ 188,healthcare_gps,-0.2048047,51.5763455,Point
+node,903651569,Bermondsey & Landowne Medical Mission,healthcare_gps,-0.0831484,51.4974045,Point
+node,909388968,Chomley Gardens Surgery,healthcare_gps,-0.1953564,51.5521635,Point
+node,976866477,Parkside Group Practice,healthcare_gps,-0.0979964,51.3507007,Point
+node,996556207,,healthcare_gps,-0.2011722,51.4859685,Point
+node,1091170273,Clapham Junction Medical Practice,healthcare_gps,-0.1742032,51.4660161,Point
+node,1102388190,Hackbridge Medical Centre,healthcare_gps,-0.1558644,51.3781084,Point
+node,1111103377,Figges Marsh Surgery,healthcare_gps,-0.1621082,51.4102296,Point
+node,1116939132,Wanstead Place,healthcare_gps,0.0247817,51.5784325,Point
+node,1127931142,Park Road Medical Centre,healthcare_gps,-0.1509251,51.3634531,Point
+node,1128258057,The Wrythe Green Surgery,healthcare_gps,-0.1713025,51.3719715,Point
+node,1182043030,Swiss Cottage Surgery,healthcare_gps,-0.1724588,51.542767,Point
+node,1201334007,,healthcare_gps,-0.1530684,51.5494885,Point
+node,1231979098,,healthcare_gps,-0.1630654,51.5535604,Point
+node,1245972948,Horn Lane Surgery,healthcare_gps,-0.268801,51.5146208,Point
+node,1268205463,St John's Wood Medical Practice,healthcare_gps,-0.1745254,51.5328574,Point
+node,1275772518,Chelsea Outpatient Centre,healthcare_gps,-0.1717992,51.4867745,Point
+node,1277971118,The Abingdon Medical Practice,healthcare_gps,-0.197129,51.4962877,Point
+node,1279783543,Cricklewood Health Centre,healthcare_gps,-0.2153174,51.5576309,Point
+node,1300022261,Lyndhurst Medical Centre,healthcare_gps,0.1586714,51.4611785,Point
+node,1304814191,Willesden Green Surgery,healthcare_gps,-0.2168887,51.5537317,Point
+node,1311769889,Dr Jefferies & Partners,healthcare_gps,-0.2130438,51.4816044,Point
+node,1438598092,Dr TURNER & partner,healthcare_gps,-0.3943836,51.4766332,Point
+node,1456548823,Sommers Town Medical Centre,healthcare_gps,-0.1307643,51.5300647,Point
+node,1489521446,,healthcare_gps,0.0899246,51.4988157,Point
+node,1586001812,Abernethy House Surgery,healthcare_gps,-0.0811159,51.6545388,Point
+node,1586001826,White Lodge Medical Practice,healthcare_gps,-0.0808805,51.6543325,Point
+node,1600999346,North London Health Centre,healthcare_gps,-0.1118079,51.6185336,Point
+node,1604667067,Hilly Fields Group Practice,healthcare_gps,-0.0249929,51.4570722,Point
+node,1605590700,North End Medical Centre,healthcare_gps,-0.2038072,51.4875476,Point
+node,1616074110,Weight Medics,healthcare_gps,-0.1198739,51.5172096,Point
+node,1617991730,Kensington Park Medical Centre,healthcare_gps,-0.2076989,51.4966863,Point
+node,1686333051,Bridge House Medical Practice,healthcare_gps,-0.0990957,51.5773526,Point
+node,1706832040,Sutton Medical Centre,healthcare_gps,-0.1759134,51.3633059,Point
+node,1708980403,Court Yard Surgery,healthcare_gps,0.0508779,51.4493529,Point
+node,1736263781,Lakeside Medical Practice,healthcare_gps,0.1225666,51.4965805,Point
+node,1964534410,ESS Clinic,healthcare_gps,0.0253718,51.5933211,Point
+node,1973260576,Regency Clinic,healthcare_gps,-0.087879,51.5292339,Point
+node,1975218556,Southdene Surgery,healthcare_gps,0.0257123,51.5937334,Point
+node,1975218561,The Shrubberies Medical Centre,healthcare_gps,0.0243498,51.5947649,Point
+node,1975218571,Lily House Consulting Rooms,healthcare_gps,0.0244517,51.5946666,Point
+node,2019201429,The Elgin Clinic,healthcare_gps,-0.1985547,51.5248028,Point
+node,2026639107,The Aberfeldy Practice,healthcare_gps,-0.0046991,51.5123779,Point
+node,2029897172,Cable Street Surgery,healthcare_gps,-0.0489391,51.5114007,Point
+node,2066433702,The Torrington Park Group Practice,healthcare_gps,-0.1748915,51.6170585,Point
+node,2066433703,The Torrington Speedwell Practice,healthcare_gps,-0.1751008,51.6170811,Point
+node,2112979606,Edridge Road Community Health Centre,healthcare_gps,-0.0987279,51.3705795,Point
+node,2152020843,Grafton Square Surgery,healthcare_gps,-0.1398881,51.46473,Point
+node,2154003694,The Bailey Practice,healthcare_gps,-0.0072788,51.5838417,Point
+node,2280277430,Saint Peter's Medical Centre,healthcare_gps,-0.3504736,51.5768831,Point
+node,2283458600,Leyton Healthcare,healthcare_gps,-0.0133479,51.5597725,Point
+node,2296936354,Poland Medical,healthcare_gps,-0.3319425,51.5535621,Point
+node,2302433440,Mansell Road Practice,healthcare_gps,-0.3589077,51.5256916,Point
+node,2333408414,The Old Surgery,healthcare_gps,-0.0996612,51.583278,Point
+node,2378062663,Lanfranc Medical Centre,healthcare_gps,-0.3327406,51.5614591,Point
+node,2431577568,Carpenters Practice,healthcare_gps,-0.0031967,51.5373244,Point
+node,2462804568,Staunton Group Practice,healthcare_gps,-0.1120395,51.5989934,Point
+node,2478124873,Eltham Medical Centre,healthcare_gps,0.0505401,51.4573639,Point
+node,2478124909,,healthcare_gps,0.0576692,51.4608404,Point
+node,2503401931,The 157 Medical Practice,healthcare_gps,-0.1140612,51.5700145,Point
+node,2522664042,Maylands Healthcare,healthcare_gps,0.1906019,51.5528765,Point
+node,2536960900,The Museum Practice,healthcare_gps,-0.1252315,51.5184356,Point
+node,2619588901,Glebelands Practice,healthcare_gps,0.0252967,51.5925389,Point
+node,2635266505,Hoil Dental,healthcare_gps,-0.143462,51.5281189,Point
+node,2679315084,De Beauvoir Surgery,healthcare_gps,-0.0787291,51.5384221,Point
+node,2923914372,The Blithehale Health Centre,healthcare_gps,-0.0648543,51.5237677,Point
+node,3005231407,Churchill Medical Centre,healthcare_gps,-0.2882507,51.4134261,Point
+node,3016699799,Twickenham Park Surgery,healthcare_gps,-0.3123063,51.4553327,Point
+node,3022544500,Vale Drive Medical Practice,healthcare_gps,-0.1948378,51.6494796,Point
+node,3023991876,Cloister Road Surgery,healthcare_gps,-0.2662996,51.5212293,Point
+node,3088999777,,healthcare_gps,-0.399425,51.5281448,Point
+node,3174844583,St Philips Medical Centre,healthcare_gps,-0.1151372,51.51371,Point
+node,3194380052,St Andrews Health Centre,healthcare_gps,-0.0148611,51.523898,Point
+node,3202905011,Bounds Green Group Practice,healthcare_gps,-0.126948,51.6069109,Point
+node,3218868671,Northolt Family Practice,healthcare_gps,-0.3734866,51.5329923,Point
+node,3232166042,Rebas Medical Clinic,healthcare_gps,-0.1244976,51.4845733,Point
+node,3232964659,Upminster Medical Centre,healthcare_gps,0.2541762,51.5565798,Point
+node,3276817698,Benhill & Belmont GP Centre,healthcare_gps,-0.1902786,51.3666331,Point
+node,3285701649,The Grove Medical Practice,healthcare_gps,-0.361827,51.5558602,Point
+node,3313026835,Southall Medical Centre,healthcare_gps,-0.3797495,51.4986694,Point
+node,3328254705,Waterside Medical Centre,healthcare_gps,-0.3636979,51.5022201,Point
+node,3362468897,Falcon Road Medical Centre,healthcare_gps,-0.170733,51.4686225,Point
+node,3386771173,Battersea Medical Centre,healthcare_gps,-0.1491641,51.4757152,Point
+node,3397556276,Body Logic Health,healthcare_gps,-0.1679061,51.4716089,Point
+node,3496830300,Gould Pharmacy,healthcare_gps,-0.1534815,51.5125428,Point
+node,3503602189,,healthcare_gps,-0.3701742,51.4656817,Point
+node,3547782393,The Law Medical Group Practice,healthcare_gps,-0.277281,51.548208,Point
+node,3662263439,Ashville Surgery,healthcare_gps,-0.2011205,51.4764171,Point
+node,3685970625,The Belgravia Centre,healthcare_gps,-0.1458801,51.4961332,Point
+node,3703086371,London Fields Medical Centre,healthcare_gps,-0.0615649,51.5367382,Point
+node,3723647596,Vale Practice,healthcare_gps,-0.1258731,51.5814039,Point
+node,3725451671,Northfields Surgery,healthcare_gps,-0.3185691,51.5045792,Point
+node,3726486459,Walk in GP Centre,healthcare_gps,-0.0853788,51.50571,Point
+node,3781068764,Shepherds Bush Medical Centre,healthcare_gps,-0.2331352,51.5065548,Point
+node,3930590125,Herne Hill Group Practice,healthcare_gps,-0.0992508,51.4556097,Point
+node,4006233831,Triangle Surgery,healthcare_gps,-0.1983169,51.4567613,Point
+node,4053806901,Nightingale Surgery,healthcare_gps,-0.0472939,51.6392287,Point
+node,4166607880,Abbey Medical Centre,healthcare_gps,0.0791663,51.5412987,Point
+node,4173236724,The Child & Family Centre,healthcare_gps,0.079361,51.5356198,Point
+node,4232062730,Hampton Hill Medical Centre,healthcare_gps,-0.3547749,51.4277467,Point
+node,4254744158,St. Katharine Docks Practice,healthcare_gps,-0.0682198,51.5071804,Point
+node,4275913728,The James O'Riordan Medical Centre,healthcare_gps,-0.2134385,51.3843765,Point
+node,4304629380,Highgrove Surgery,healthcare_gps,0.0987973,51.5388874,Point
+node,4313039239,Shirland Road Medical Centre,healthcare_gps,-0.2036677,51.5291616,Point
+node,4317396089,Sisu,healthcare_gps,-0.3059346,51.4585864,Point
+node,4360622778,The Skin Laser & Cosmetic Surgery Clinic,healthcare_gps,-0.1005321,51.5853342,Point
+node,4362962809,Mitcham Family Practice,healthcare_gps,-0.1675791,51.4112206,Point
+node,4457290495,The Medical Clinic,healthcare_gps,-0.1096031,51.5508043,Point
+node,4480990823,GP Private,healthcare_gps,-0.2418993,51.5960961,Point
+node,4539920712,Westbury Medical Centre,healthcare_gps,-0.0934014,51.5980098,Point
+node,4546806426,Rose Valley Medical Centre,healthcare_gps,0.0453366,51.4728584,Point
+node,4689036195,The Spitalfields Practice,healthcare_gps,-0.0696236,51.5173977,Point
+node,4693286247,Hatch End Medical Centre,healthcare_gps,-0.3773827,51.6060242,Point
+node,4719415989,Shoreditch Park Surgery,healthcare_gps,-0.0869858,51.5334317,Point
+node,4730058869,Holly Road Medical Centre,healthcare_gps,-0.2603917,51.4928205,Point
+node,4766714897,The Nelson Medical Practice,healthcare_gps,-0.2088107,51.4106975,Point
+node,4771992239,Parkview Centre for Health and Wellbeing,healthcare_gps,-0.2353006,51.5112128,Point
+node,4891900604,Elsdale Street Surgery,healthcare_gps,-0.0490709,51.5430475,Point
+node,5133709825,Wandle Valley Health Centre,healthcare_gps,-0.1647861,51.3844949,Point
+node,5135000825,The Old Courthouse Surgery,healthcare_gps,-0.1929383,51.3654754,Point
+node,5139797190,Deerbrook Surgery,healthcare_gps,-0.1063255,51.4383349,Point
+node,5217359172,Westminster Physiotherapy Centre,healthcare_gps,-0.145242,51.4981616,Point
+node,5276633666,The Belgravia Surgery,healthcare_gps,-0.1485854,51.4949786,Point
+node,5346627622,Surgery,healthcare_gps,-0.096533,51.4892079,Point
+node,5359914414,SameDayDoctor,healthcare_gps,-0.0189145,51.4995321,Point
+node,5413338301,Covent Garden Medical Centre,healthcare_gps,-0.1247294,51.5150982,Point
+node,5617222951,St John's Hill Surgery - Begg Practice,healthcare_gps,-0.1793443,51.4598896,Point
+node,5743765714,Thornton Road & Valley Park Surgery,healthcare_gps,-0.1207668,51.3880411,Point
+node,5797011698,Bluebird care,healthcare_gps,-0.0975309,51.3563021,Point
+node,5808565650,XX Place Health Centre,healthcare_gps,-0.0427222,51.5244487,Point
+node,5823918890,High Road Surgery,healthcare_gps,0.0049843,51.5538908,Point
+node,5851378233,St. James Medical Centre,healthcare_gps,-0.0930579,51.3819385,Point
+node,5888569702,Student Medical Centre,healthcare_gps,-0.2436382,51.4553815,Point
+node,5890360895,Mersham Medical Centre,healthcare_gps,-0.0963938,51.4041393,Point
+node,5937792477,Chartfield Surgery,healthcare_gps,-0.2263183,51.4573552,Point
+node,5940261538,Woodcote Medical,healthcare_gps,-0.124241,51.3412198,Point
+node,5941212043,Mulgrave Road Surgery,healthcare_gps,-0.1962853,51.358341,Point
+node,5956800857,Addiscombe Road Surgery,healthcare_gps,-0.0603943,51.3764716,Point
+node,5959533600,Shirley Medical Centre,healthcare_gps,-0.0437019,51.3754083,Point
+node,5971390531,Willow Tree Family Doctors,healthcare_gps,-0.265583,51.5896925,Point
+node,6013901460,Friends' Road Medical,healthcare_gps,-0.094977,51.3711916,Point
+node,6016183252,Wick Health Centre,healthcare_gps,-0.0373885,51.5473165,Point
+node,6037513858,The Coulsdon Medical Practice,healthcare_gps,-0.1348706,51.3236918,Point
+node,6060260266,Woodcote Medical,healthcare_gps,-0.1442892,51.3192787,Point
+node,6122424507,Sutton Health Clinic,healthcare_gps,-0.1982131,51.3438973,Point
+node,6129146649,Hackney Podiatry,healthcare_gps,-0.0350229,51.5452333,Point
+node,6183125365,Portland Outpatient Consulting Suites,healthcare_gps,-0.1444272,51.5234875,Point
+node,6183125391,Urgent Care Centre for Children,healthcare_gps,-0.1441321,51.5228275,Point
+node,6230033422,Clapham Family Practice,healthcare_gps,-0.1334645,51.4631719,Point
+node,6235947331,Hampton Surgery,healthcare_gps,0.0017528,51.5659176,Point
+node,6273524242,,healthcare_gps,-0.1463007,51.5182882,Point
+node,6273702324,,healthcare_gps,-0.1465407,51.5184205,Point
+node,6293868956,Green Lanes Surgery & Pharmacy,healthcare_gps,-0.0940168,51.6330775,Point
+node,6295568777,Gillian House Surgery,healthcare_gps,-0.1058105,51.6220216,Point
+node,6359152655,Earlsfield Practice,healthcare_gps,-0.1873741,51.4386629,Point
+node,6391756280,Park Practice @ Oaks Medical Centre,healthcare_gps,-0.0632611,51.4131323,Point
+node,6439032333,Binfield Road General Practice,healthcare_gps,-0.1235916,51.4726026,Point
+node,6464111881,Hurley Clinic Kennington GP Surgery,healthcare_gps,-0.1067888,51.4906951,Point
+node,6600756766,Elthorne Park Surgery,healthcare_gps,-0.326262,51.5037643,Point
+node,6683379034,Coyne Medical,healthcare_gps,-0.19448,51.4751028,Point
+node,6687266221,Knoll Medical Practice,healthcare_gps,0.1011988,51.3757246,Point
+node,6780555603,Health Centre,healthcare_gps,-0.2055147,51.5263247,Point
+node,6813682542,Half Penny Steps Health Centre,healthcare_gps,-0.2062283,51.5262206,Point
+node,6830736896,Health At The Stowe,healthcare_gps,-0.190928,51.5204926,Point
+node,6946976671,HCA UK at Docklands,healthcare_gps,-0.0196149,51.5026304,Point
+node,6952421607,Aspire Medical Centre,healthcare_gps,0.0501296,51.5325668,Point
+node,6991344248,Bayswater Medical Centre,healthcare_gps,-0.1795448,51.5135553,Point
+node,7087241286,London Professional Aesthetics,healthcare_gps,-0.0938349,51.5242198,Point
+node,7112793485,Eudelo Skin Experience Centre,healthcare_gps,-0.1682985,51.4933932,Point
+node,7177774408,Scarsdale Medical Centre,healthcare_gps,-0.1919002,51.4994073,Point
+node,7200507876,Richmond Medical Group,healthcare_gps,-0.278731,51.4795157,Point
+node,7236214788,Chiropractic Alchemy,healthcare_gps,-0.2103548,51.5202866,Point
+node,7254764211,Meanwhile Garden Medical Centre,healthcare_gps,-0.2024236,51.5221919,Point
+node,7255009409,The Golborne Medical Centre,healthcare_gps,-0.2066006,51.5240112,Point
+node,7359687539,Anerley Surgery,healthcare_gps,-0.0606243,51.4090535,Point
+node,7370243196,Belmont Health Centre,healthcare_gps,-0.3205834,51.601061,Point
+node,7440239078,Enderley Road Medical Centre,healthcare_gps,-0.3406969,51.6026877,Point
+node,7494360855,Cuckoo Lane Practice,healthcare_gps,-0.3345803,51.5101417,Point
+node,7512086275,Kensington Eye centre,healthcare_gps,-0.1921146,51.5036922,Point
+node,7539055427,The Sandringham Practice,healthcare_gps,-0.0668686,51.5481176,Point
+node,7539076653,Dalston Practice,healthcare_gps,-0.0668575,51.5480376,Point
+node,7549942998,Holborn Medical Centre,healthcare_gps,-0.1186012,51.5222434,Point
+node,7552050124,Whiston Road Surgery,healthcare_gps,-0.0773031,51.5339976,Point
+node,7618314667,Bramley Avenue Surgery,healthcare_gps,-0.1404561,51.3233416,Point
+node,7698684419,Kensington Therapy Centre,healthcare_gps,-0.1967569,51.499551,Point
+node,7705612751,Group Practice,healthcare_gps,-0.1975306,51.4975818,Point
+node,7761794553,Wimbledon Medical Practice,healthcare_gps,-0.1981951,51.4175604,Point
+node,7765523597,Elm House Surgery,healthcare_gps,-0.0332712,51.4049877,Point
+node,7795481948,Downland Surgery,healthcare_gps,-0.1238605,51.3043403,Point
+node,7815143513,Londoncryo,healthcare_gps,-0.078572,51.5184009,Point
+node,7833153857,West London Medical Centre,healthcare_gps,-0.4534094,51.5257651,Point
+node,7833564100,Acorn Medical Centre,healthcare_gps,-0.4507308,51.5420116,Point
+node,7844463603,The Good Practice,healthcare_gps,-0.1779046,51.4827625,Point
+node,7858059921,Chelsea Medical Services,healthcare_gps,-0.1831155,51.4922913,Point
+node,7898767504,Enfield Island Surgery,healthcare_gps,-0.0167839,51.668295,Point
+node,7908351156,Clapham Park Group Practice,healthcare_gps,-0.1358101,51.4520083,Point
+node,7947564653,The Southgate Surgery,healthcare_gps,-0.1426597,51.6403025,Point
+node,7996664435,The Sloane Street Surgery,healthcare_gps,-0.1589982,51.4962599,Point
+node,8005203141,51 Sloane Street Clinic,healthcare_gps,-0.1595228,51.4982486,Point
+node,8086880065,The Smart Clinics,healthcare_gps,-0.1740081,51.4948754,Point
+node,8086880090,The Spencer Clinic of Trichology,healthcare_gps,-0.1738948,51.4945697,Point
+node,8092979993,South Kensington GP Clinic,healthcare_gps,-0.1733453,51.4937579,Point
+node,8130388274,Morecambe Surgery,healthcare_gps,-0.0857787,51.617188,Point
+node,8140892682,Brompton Medical Centre,healthcare_gps,-0.1900879,51.4893626,Point
+node,8167917117,Earls Court Surgery,healthcare_gps,-0.1918438,51.4887873,Point
+node,8170552925,Guy Gold Performance Centre,healthcare_gps,-0.1407415,51.5491427,Point
+node,8175548221,The Women's Wellness Centre,healthcare_gps,-0.1848436,51.4839492,Point
+node,8237360562,Pontoon Dock Health Centre,healthcare_gps,0.0303382,51.5019881,Point
+node,8241093086,E7 Health,healthcare_gps,0.0248399,51.5513939,Point
+node,8241093088,The Forest Practice,healthcare_gps,0.0248024,51.5511137,Point
+node,8264049736,The Vale Surgery,healthcare_gps,-0.2520713,51.506499,Point
+node,8324610720,Gordon House Surgery,healthcare_gps,-0.3152273,51.5099294,Point
+node,8360558078,Sloane Square Medical,healthcare_gps,-0.157696,51.4920587,Point
+node,8398782985,The Chelsea Practice,healthcare_gps,-0.1668011,51.4867901,Point
+node,8398782986,Violet Melchett Health Centre,healthcare_gps,-0.1665002,51.4868904,Point
+node,8455210154,David Whitehead ENT,healthcare_gps,-0.1462544,51.5171004,Point
+node,8497975804,Otterfield Road Medical Centre,healthcare_gps,-0.4707555,51.5145114,Point
+node,8579781469,The Lea Surgery,healthcare_gps,-0.0428781,51.5484,Point
+node,8617517823,Handsworth Medical Practice,healthcare_gps,0.0010818,51.6080554,Point
+node,8623690205,Tooting Bec Family Practice,healthcare_gps,-0.1624504,51.4342909,Point
+node,8650432807,St Paul's Way Medical Centre,healthcare_gps,-0.024764,51.5181513,Point
+node,8679208511,Private Walk-In Clinic,healthcare_gps,-0.2296736,51.5019684,Point
+node,8715224219,Tooting South Medical Centre,healthcare_gps,-0.1616049,51.4220974,Point
+node,8807085334,The Chislehurst Medical Practice,healthcare_gps,0.0673232,51.4188498,Point
+node,8865127100,Mapesbury Medical Group,healthcare_gps,-0.2094738,51.551523,Point
+node,9033769904,Brook Green Clinic Osteopath,healthcare_gps,-0.2231589,51.4974673,Point
+node,9137190903,Sterndale Surgery,healthcare_gps,-0.2209906,51.4982992,Point
+node,9228600020,Acton Lane Medical Centre,healthcare_gps,-0.2655803,51.5016804,Point
+node,9299686120,Goodman's Field Medical Practice,healthcare_gps,-0.0687635,51.5130654,Point
+node,9416694488,Lambeth Walk Group Practice,healthcare_gps,-0.112504,51.4956222,Point
+node,9524929498,Bolingbroke Medical Centre,healthcare_gps,-0.1679934,51.4563793,Point
+node,9560757564,White Lodge Medical Practice,healthcare_gps,-0.0878444,51.6585471,Point
+node,9645757179,Daneburgy Avenue Surgery,healthcare_gps,-0.2486529,51.4523676,Point
+node,9650419567,Wimbledon Village Doctor's Surgery,healthcare_gps,-0.2196308,51.4250141,Point
+node,9707587496,Sangam Surgery,healthcare_gps,0.0556974,51.5542424,Point
+node,9922201844,Castleview Surgery,healthcare_gps,-0.0751622,51.598347,Point
+node,9966640666,Harrow Road GP Practice,healthcare_gps,0.0081981,51.5584616,Point
+node,9994446468,Springfield Medical Centre,healthcare_gps,-0.1329676,51.470633,Point
+node,10048901819,MWH Practice - Hounslow,healthcare_gps,-0.3937836,51.4716925,Point
+node,10082409232,The York Medical Practice,healthcare_gps,-0.3255736,51.4493965,Point
+node,10176131226,St George's Medical Centre,healthcare_gps,-0.3745142,51.5215428,Point
+node,10178544661,The Muswell Hill Practice,healthcare_gps,-0.1408985,51.5911092,Point
+node,10209345734,Queenhill Medical Practice,healthcare_gps,-0.0657642,51.3453567,Point
+node,10261263857,Bruce Grove Primary Health Care Centre,healthcare_gps,-0.0700608,51.5921455,Point
+node,10280308663,Lauren Turner Aesthetics,healthcare_gps,0.0092179,51.4659662,Point
+node,10302568731,Tulasi Medical Centre,healthcare_gps,0.0847681,51.5340403,Point
+node,10544332750,Greenwich Private Doctors,healthcare_gps,-0.0162566,51.4770297,Point
+node,10605326394,,healthcare_gps,0.0688145,51.5870789,Point
+node,10613311567,The Harley Street Eye Centre,healthcare_gps,-0.1460981,51.5178117,Point
+node,10774395780,Thandy's Footsteps,healthcare_gps,-0.1964515,51.6508664,Point
+node,10804537660,DS Beauty Studio,healthcare_gps,-0.1115217,51.4873606,Point
+node,10834147970,Clayhall Group Practice,healthcare_gps,0.0505523,51.5908447,Point
+node,10847002561,Regents Park Practice,healthcare_gps,-0.1417929,51.5294441,Point
+node,10934475216,EdgCare,healthcare_gps,-0.275948,51.6216462,Point
+node,10971700020,Clover Health Centre,healthcare_gps,0.0686395,51.4902336,Point
+node,11055571609,Park View Medical Centre,healthcare_gps,-0.0087965,51.4449333,Point
+node,11108714949,The Enmore Practice,healthcare_gps,-0.0677534,51.3929922,Point
+node,11128519240,Penrose Maddock Way,healthcare_gps,-0.1029943,51.4826277,Point
+node,11195660141,Sudbury & Alperton Medical Centre,healthcare_gps,-0.2980806,51.536906,Point
+node,11218254691,Headstone Road Surgery,healthcare_gps,-0.3410488,51.5837063,Point
+node,11232248868,One Bromley Wellbeing Hub,healthcare_gps,0.0170613,51.4038809,Point
+node,11277151232,Fieldway Medical Centre,healthcare_gps,-0.0200667,51.3559623,Point
+node,11398976469,Emma Coleman Skin,healthcare_gps,0.0716516,51.3897474,Point
+node,11486801276,Jenner Health Centre,healthcare_gps,-0.0420806,51.4424064,Point
+node,11499675434,Hook Surgery,healthcare_gps,-0.3120554,51.3586825,Point
+node,11520009739,James Wigg Group Practice,healthcare_gps,-0.1399241,51.5461577,Point
+node,11543695099,Chadwell Heath Surgery,healthcare_gps,0.1253052,51.5732187,Point
+node,11626551018,Woodlands Health Centre,healthcare_gps,-0.0049313,51.4498659,Point
+node,11686574859,Dr Vas,healthcare_gps,0.0350006,51.3926127,Point
+node,11730194829,Old Church Surgery,healthcare_gps,-0.001009,51.6201193,Point
+node,11731596271,Kenton Clinic,healthcare_gps,-0.2923997,51.5859965,Point
+node,11734469332,Hammond Road Surgery,healthcare_gps,-0.3795299,51.4998554,Point
+node,11786328293,South Lambeth Road Practice,healthcare_gps,-0.1236799,51.4771081,Point
+node,11821397281,Blackheath Standard Surgery,healthcare_gps,0.0198692,51.4781356,Point
+node,11872842040,Fortes Clinic,healthcare_gps,-0.1796921,51.5256164,Point
+node,11879297773,Poland Medical,healthcare_gps,-0.340077,51.6046223,Point
+node,11883160411,London Psychiatric Clinic,healthcare_gps,-0.3087422,51.3914607,Point
+node,11942623430,West Green Surgery,healthcare_gps,-0.0998413,51.5842886,Point
+node,11945959330,St. Ann's Road Surgery,healthcare_gps,-0.0877039,51.581439,Point
+node,11946401799,eMed,healthcare_gps,-0.140677,51.5262188,Point
+node,12036665504,Richford Gate Medical Practice,healthcare_gps,-0.2265406,51.5004946,Point
+node,12142316543,Tabard,healthcare_gps,-0.0942595,51.5007146,Point
+node,12196972955,The Plastic Surgery Group,healthcare_gps,-0.1403604,51.5195434,Point
+node,12204768481,,healthcare_gps,-0.2460062,51.5356999,Point
+node,12230165926,Deptford Surgery,healthcare_gps,-0.0265413,51.4747896,Point
+node,12239927468,Victoria and Five Elms Medical Centre,healthcare_gps,0.0761899,51.5408807,Point
+node,12334619556,The Spine MDT,healthcare_gps,-0.1465553,51.5170362,Point
+node,12376356199,Monet Beauty Clinic,healthcare_gps,-0.1841014,51.5310034,Point
+node,12517207001,Clapham Park Dermatology,healthcare_gps,-0.1315117,51.4595599,Point
+node,12590392194,Putneymead Group Medical Practice,healthcare_gps,-0.220298,51.4617441,Point
+node,12613202342,The Evergreen Surgery,healthcare_gps,0.0256647,51.5780413,Point
+node,12617827313,Patient First Social Enterprise,healthcare_gps,0.0071494,51.5421674,Point
+node,12623507658,Kingston Health Centre,healthcare_gps,-0.3050718,51.4140079,Point
+node,12624186428,Red Lion Road Surgery,healthcare_gps,-0.2893621,51.3829992,Point
+node,12624191872,Lambert Sports Clinic,healthcare_gps,-0.2867062,51.3825433,Point
+node,12625702113,Hanover House,healthcare_gps,-0.2834049,51.4125893,Point
+node,12630521134,Ching Way Medical Practice,healthcare_gps,-0.0250305,51.6077159,Point
+node,12633139283,Hornsey Wood Green GP Surgery,healthcare_gps,-0.1101344,51.5891981,Point
+node,12636188357,The Clapton Surgery,healthcare_gps,-0.0517089,51.5647945,Point
+node,12636188358,The Riverside Practice,healthcare_gps,-0.051836,51.5647525,Point
+node,12686760467,Dr. Dital Practice,healthcare_gps,-0.0029208,51.5877486,Point
+node,12701764689,E4 Primary Care Network,healthcare_gps,-0.0223925,51.615948,Point
+node,12706680697,Newham Vicarage Practice,healthcare_gps,0.0097126,51.5417603,Point
+node,12706680698,The Vicarage Lane Surgery,healthcare_gps,0.0096381,51.5418678,Point
+node,12713974304,Queen Mary Practice,healthcare_gps,0.0216247,51.5974834,Point
+node,12715457275,Evesham Terrace,healthcare_gps,-0.3081335,51.3928597,Point
+node,12716577502,Fitzrovia Medical Clinic,healthcare_gps,-0.1403064,51.5234491,Point
+node,12728499970,GP CTS,healthcare_gps,-0.0250514,51.6076877,Point
+node,12728634806,Addison Road Medical Practice,healthcare_gps,-0.0101523,51.5828053,Point
+node,12728634807,Comely Bank Health Clinic,healthcare_gps,-0.0100799,51.5826987,Point
+node,12728781318,Eleos Clinic,healthcare_gps,0.0246458,51.5945119,Point
+node,12728781319,London Circumcision Centre,healthcare_gps,0.0253345,51.5933082,Point
+node,12730420887,Sunray Surgery,healthcare_gps,-0.2739977,51.3823861,Point
+node,12730421137,Orchard Practice,healthcare_gps,-0.3026631,51.368434,Point
+node,12730421287,Transcend Consulting Rooms,healthcare_gps,-0.2770293,51.3831315,Point
+node,12738955008,St James Medical Practice,healthcare_gps,-0.035176,51.5802553,Point
+node,12739334073,Rejuvence Clinic,healthcare_gps,-0.020239,51.4981711,Point
+node,12739334075,Barkantine Practice,healthcare_gps,-0.0257066,51.4985351,Point
+node,12752616702,St Lukes' Medical Centre,healthcare_gps,0.0135444,51.5120323,Point
+node,12754540625,Beechwood Medical Centre,healthcare_gps,-0.0705876,51.5461227,Point
+node,12759497695,Newham Transitional Practice,healthcare_gps,0.0538532,51.5478237,Point
+node,12771492603,Harley Cosmetics London,healthcare_gps,-0.1626066,51.5186203,Point
+node,12775581861,LL Medical Care,healthcare_gps,0.0019093,51.5555318,Point
+node,12776277610,Carpenter's Practice (St. Luke's Site),healthcare_gps,0.0135302,51.5119914,Point
+node,12776537381,Vicarage Lane Transitional Team,healthcare_gps,0.0096776,51.5418187,Point
+node,12783505784,Carpenters Practice (Church Road),healthcare_gps,0.0540073,51.547737,Point
+node,12783894646,Sangam Surgery (Gladstone Avenue),healthcare_gps,0.0533563,51.5415177,Point
+node,12786402093,Sk:n,healthcare_gps,-0.0157496,51.504846,Point
+node,12786402096,Pure Sports Medicine,healthcare_gps,-0.0219634,51.5052173,Point
+node,12789113713,Suttons Wharf Health Centre,healthcare_gps,-0.0418183,51.5290715,Point
+node,12794213620,Harford Health Centre,healthcare_gps,-0.0380658,51.5183373,Point
+node,12794348848,Langthorne Sharma Family Practice,healthcare_gps,0.0018409,51.5554859,Point
+node,12794644813,Church Road Health,healthcare_gps,0.0537435,51.5477144,Point
+node,12794664832,Plashet Harmony Practice,healthcare_gps,0.0438172,51.5400489,Point
+node,12794962441,The Mission Practice,healthcare_gps,-0.0563575,51.5312788,Point
+node,12797493257,City Square Medical Group,healthcare_gps,-0.055255,51.5135759,Point
+node,12798202667,LSDC Healthcare,healthcare_gps,-0.078274,51.5181716,Point
+node,12799722719,Liberty Bridge Road Practice,healthcare_gps,-0.005471,51.5485182,Point
+node,12802250262,Student Practice,healthcare_gps,-0.0410255,51.5243769,Point
+node,12802527591,Dr Mohammad Hossain Howlader,healthcare_gps,-0.0664122,51.5172302,Point
+node,12804103269,,healthcare_gps,-0.0200767,51.5048698,Point
+node,12804188101,Dr. Wayne Cottrell,healthcare_gps,-0.0156791,51.5049904,Point
+node,12809659946,Shrewsbury Road Surgery,healthcare_gps,0.0436654,51.5393632,Point
+node,12809837722,Island Health,healthcare_gps,-0.0134182,51.4952254,Point
+node,12809855164,Gough Walk Practice,healthcare_gps,-0.0128093,51.5109723,Point
+node,12813528171,The Greenhouse Practice,healthcare_gps,-0.0557421,51.539042,Point
+node,12813856855,British Association for Performing Arts Medicine,healthcare_gps,-0.0729411,51.5124897,Point
+node,12813963519,The Azad Practice,healthcare_gps,0.0455999,51.5313666,Point
+node,12821116746,Central Park Surgery,healthcare_gps,0.0502188,51.5325807,Point
+node,12827842777,The Elmhurst Practice,healthcare_gps,0.0216653,51.5973417,Point
+node,12827842783,Harley Fitzrovia Health,healthcare_gps,0.0195992,51.6003939,Point
+node,12830308839,Nuffield Health Barbican Medical Centre,healthcare_gps,-0.0972262,51.5210448,Point
+node,12830323540,The Neaman Practice,healthcare_gps,-0.098165,51.5189642,Point
+node,12841676111,Numan,healthcare_gps,-0.1059226,51.5199682,Point
+node,12842417235,2Me Clinic,healthcare_gps,-0.1124404,51.5208528,Point
+node,12842417236,Med Logistics Properties,healthcare_gps,-0.1124562,51.5208757,Point
+node,12842554812,Peppy Health,healthcare_gps,-0.0883276,51.5266889,Point
+node,12842554813,City Road Medical Centre,healthcare_gps,-0.091063,51.5279146,Point
+node,12847193219,Citydoc Moorgate,healthcare_gps,-0.0874787,51.5222097,Point
+node,12847193222,,healthcare_gps,-0.0880369,51.5252393,Point
+node,12847193233,The General Health Clinic,healthcare_gps,-0.093868,51.5242168,Point
+node,12847250461,Pure Sports Medicine,healthcare_gps,-0.087277,51.5216609,Point
+node,12848684144,S E I K Psychiatry,healthcare_gps,-0.0796902,51.5212954,Point
+node,12848684145,Elite Sports Professional Services,healthcare_gps,-0.084049,51.521596,Point
+node,12856681343,The Robins Surgery,healthcare_gps,0.2248224,51.6063203,Point
+node,12856681344,Dr B. Saheecha & Dr N. Saheecha,healthcare_gps,0.2249383,51.6061625,Point
+node,12856681345,Central Park Surgery,healthcare_gps,0.224794,51.6064907,Point
+node,12856681346,Abbamoor Surgery,healthcare_gps,0.2250094,51.6060842,Point
+node,12856681392,Hornchurch Healthcare,healthcare_gps,0.2193116,51.566476,Point
+node,12857308538,Nomad Health Technologies,healthcare_gps,-0.086404,51.5168263,Point
+node,12857308543,The Doctors Clinic Group,healthcare_gps,-0.0793772,51.5172383,Point
+node,12857308544,Myo - Suvera,healthcare_gps,-0.0828167,51.5170171,Point
+node,12857308545,Health Management,healthcare_gps,-0.0836491,51.5167435,Point
+node,12857308546,Cosmedics City,healthcare_gps,-0.0844454,51.5170044,Point
+node,12857659628,Japan Green Medical Centre,healthcare_gps,-0.0864938,51.5162197,Point
+node,12857659629,London Gynaecology at Austin Friars,healthcare_gps,-0.0859598,51.5158178,Point
+node,12858003960,The Mole Clinic,healthcare_gps,-0.089718,51.5152261,Point
+node,12858003961,One5 Health City,healthcare_gps,-0.0888949,51.51634,Point
+node,12858003963,Bupa Health Centre - Basinghall,healthcare_gps,-0.0909095,51.5151711,Point
+node,12866448575,Nuffield Health Fitness & Wellbeing,healthcare_gps,-0.0897167,51.5197077,Point
+node,12866448577,Enterprise Health Care,healthcare_gps,-0.0837524,51.510457,Point
+node,12866448579,The London Migraine Clinic,healthcare_gps,-0.0841346,51.5125178,Point
+node,12866448580,Askinology,healthcare_gps,-0.0828927,51.512579,Point
+node,12866448581,London Bridge Regenerative Clinic,healthcare_gps,-0.0820084,51.5095935,Point
+node,12866448582,Messina Clinic,healthcare_gps,-0.0840574,51.5100655,Point
+node,12866592641,Andreea Medical,healthcare_gps,-0.0926757,51.51168,Point
+node,12866592643,Derma Revive Skin Clinic,healthcare_gps,-0.0923099,51.5116166,Point
+node,12866592645,Nuffield Health,healthcare_gps,-0.0914348,51.5096835,Point
+node,12866683210,Fortius Clinic,healthcare_gps,-0.0871576,51.5115058,Point
+node,12866683213,Pure Sports Medicine Limited,healthcare_gps,-0.0955187,51.5141746,Point
+node,12866683214,Geno Health Clinic,healthcare_gps,-0.1075988,51.5143536,Point
+node,12866694118,HCA Medical Centre,healthcare_gps,-0.0938371,51.5114139,Point
+node,12866694122,Fleet Street Clinic,healthcare_gps,-0.1102502,51.5138204,Point
+node,12867023550,Dr John Segarajasinghe,healthcare_gps,-0.1087361,51.5248464,Point
+node,12867023551,Clerkenwell Medical Practice,healthcare_gps,-0.108881,51.5249089,Point
+node,12867023553,Samedaydoctor,healthcare_gps,-0.0793343,51.5172196,Point
+node,12867023556,Broadgate Spine & Joint Clinic,healthcare_gps,-0.0864241,51.5168479,Point
+node,12867023557,Medical Prime,healthcare_gps,-0.0863978,51.5168441,Point
+node,12867043095,The Doctors Clinic,healthcare_gps,-0.1204393,51.5294925,Point
+node,12871313076,Amwell Group Practice,healthcare_gps,-0.1106071,51.5281795,Point
+node,12871313078,Apricity Fertility,healthcare_gps,-0.1114326,51.5187638,Point
+node,12871313079,Pure Sports Medicine,healthcare_gps,-0.1119666,51.5162308,Point
+node,12871313081,Preventicum UK,healthcare_gps,-0.1119982,51.5162735,Point
+node,12875068996,Embankment Place Primary Healthcare,healthcare_gps,-0.1236645,51.5078146,Point
+node,12875068997,King's College London NHS Health Centre,healthcare_gps,-0.1172991,51.5129533,Point
+node,12875654729,Vie Aesthetics Holborn,healthcare_gps,-0.1149954,51.5232769,Point
+node,12875654730,Embla,healthcare_gps,-0.1136556,51.5187054,Point
+node,12878632142,The Bush Doctors,healthcare_gps,-0.2194804,51.5034065,Point
+node,12881034565,Ashton Gardens Surgery,healthcare_gps,0.1397511,51.5722396,Point
+node,12881238603,Medpro Aesthetics,healthcare_gps,-0.1195754,51.5184861,Point
+node,12881238604,Sk:n,healthcare_gps,-0.1195432,51.5184219,Point
+node,12881238607,Dottore London,healthcare_gps,-0.1156262,51.5187988,Point
+node,12882994775,London Wall Clinic,healthcare_gps,-0.0852836,51.5171788,Point
+node,12883041148,CheqUp HQ,healthcare_gps,-0.120789,51.5171371,Point
+node,12886273771,NewWoman Health,healthcare_gps,-0.1235537,51.5148134,Point
+node,12902407056,AT Medics / The Loxford Practice,healthcare_gps,0.0771564,51.5459504,Point
+node,12924664401,MEDii Health,healthcare_gps,-0.1287851,51.527253,Point
+node,12947063345,Medical Health Limited,healthcare_gps,-0.1124246,51.5209107,Point
+node,12947063346,H3 Care,healthcare_gps,-0.0863181,51.5167219,Point
+node,12978331058,The Grantham Practice,healthcare_gps,-0.1241727,51.4705576,Point
+node,13018465644,AI Beauty Clinic,healthcare_gps,-0.1368722,51.5156929,Point
+node,13144946216,Brockwel Park Surgery,healthcare_gps,-0.1016367,51.4487331,Point
+node,13158236048,,healthcare_gps,-0.1382374,51.5507321,Point
+node,13250939512,Angel Chiropody & Podiatry,healthcare_gps,-0.0849614,51.550525,Point
+node,13301771527,Mulberry Medical Practice,healthcare_gps,-0.2912161,51.62132,Point
+node,13336395264,Mount Medical Centre,healthcare_gps,-0.3875155,51.4404636,Point
+node,13456500073,The Ridgeway Surgery,healthcare_gps,-0.3648917,51.5812208,Point
+node,13462613294,Bromleag Care Practice,healthcare_gps,-0.0259305,51.4102831,Point
+node,13462685723,Ballater Surgery,healthcare_gps,0.0950126,51.382202,Point
+node,13462696464,Bank House Surgery,healthcare_gps,0.0701398,51.3592357,Point
+node,13462697560,Manor Road Surgery,healthcare_gps,-0.0239297,51.4073229,Point
+node,13462697562,Atwork GP,healthcare_gps,-0.0179949,51.4073912,Point
+node,13462697563,Corner Ways Surgery,healthcare_gps,-0.0202668,51.4070834,Point
+node,13462705375,DR RAJASUNDARAM,healthcare_gps,0.059596,51.4000524,Point
+node,13462733966,Chelsfield Surgery,healthcare_gps,0.1033495,51.355983,Point
+node,13462776442,Oakview Family Practice,healthcare_gps,0.0081392,51.4298973,Point
+node,13462788565,Dysart Surgery,healthcare_gps,0.0157419,51.4004833,Point
+node,13462792856,Sundridge Medical Centre,healthcare_gps,0.0169636,51.414585,Point
+node,13462814363,The Family Surgery,healthcare_gps,0.0900015,51.3553163,Point
+node,13462814364,Green Street Green Medical Centre,healthcare_gps,0.0900713,51.3541982,Point
+node,13462824281,Forge Close Surgery,healthcare_gps,0.0166243,51.3771474,Point
+node,13462856889,White Horse Hill,healthcare_gps,0.0578928,51.4247832,Point
+node,13462856890,Hill Surgery,healthcare_gps,0.0560555,51.4261078,Point
+node,13462858921,Highland Medical Practice,healthcare_gps,0.0964093,51.3686039,Point
+node,13462886877,Cator Medical Centre,healthcare_gps,-0.032841,51.4049216,Point
+node,13462893531,London Lane Clinic,healthcare_gps,0.009841,51.4147891,Point
+node,13462904004,Links Medical Practice,healthcare_gps,0.0147575,51.4199018,Point
+node,13462905176,Tubbenden Lane Branch,healthcare_gps,0.0876975,51.3702382,Point
+node,13462924501,Pickhurst Surgery,healthcare_gps,0.0108495,51.3779937,Point
+node,13462924503,South View Partnership,healthcare_gps,0.0263983,51.4059891,Point
+node,13462930621,ES11 Ltd,healthcare_gps,-0.0419699,51.3991278,Point
+node,13462930622,St James' Practice,healthcare_gps,-0.0436288,51.3991973,Point
+node,13462959715,Station Road Surgery,healthcare_gps,-0.0147656,51.3770695,Point
+node,13462959740,The Woodlands Practice,healthcare_gps,0.0640833,51.4209932,Point
+node,13463009155,The Artemis Clinic,healthcare_gps,-0.0195788,51.3769933,Point
+node,13463009156,Wickham Park Surgery,healthcare_gps,-0.0230697,51.3768301,Point
+node,13463010589,The Whitehouse Surgery,healthcare_gps,0.076282,51.3853034,Point
+node,13463048787,SpaMedica Bromley,healthcare_gps,0.0164607,51.4084779,Point
+node,13463061428,Integura,healthcare_gps,0.009326,51.4091245,Point
+node,13463098126,Chislehurst,healthcare_gps,0.0557296,51.4076631,Point
+node,13580264558,,healthcare_gps,-0.079589,51.6484693,Point
+node,13619556427,The Royal College of Radiologists,healthcare_gps,-0.1186334,51.5161453,Point
+node,13620928037,Plumbridge Medical Centre,healthcare_gps,-0.0139409,51.473225,Point
+node,13623541086,Roselawn Surgery,healthcare_gps,-0.2557208,51.3979898,Point
+node,13651143201,John Scott Health Centre,healthcare_gps,-0.093762,51.5683422,Point
+node,13658881251,Harley Grove Medical Centre,healthcare_gps,-0.0276301,51.5275585,Point
+node,13859056978,Old Kent Road Surgery,healthcare_gps,-0.0810351,51.4904631,Point
+way,7730106,Maswell Park Health Centre,healthcare_gps,-0.35948891937232275,51.461163549999995,MultiPolygon
+way,23806545,Brentford Health Centre,healthcare_gps,-0.3097956931554001,51.48687665,MultiPolygon
+way,26356975,Grove Village Medical Centre,healthcare_gps,-0.4313007,51.4490444,MultiPolygon
+way,26596785,Balham Park Surgery,healthcare_gps,-0.15585396101321594,51.4406794,MultiPolygon
+way,28016059,Manor Drive Surgery,healthcare_gps,-0.2475518691555143,51.38111045,MultiPolygon
+way,28476953,The Bromley Common Practice,healthcare_gps,0.03838147044334983,51.38813555,MultiPolygon
+way,28831480,Allum Medical Centre,healthcare_gps,0.0027658006469861813,51.570318099999994,MultiPolygon
+way,29402599,Cosmedics UK,healthcare_gps,-0.21596690931087092,51.46137195,MultiPolygon
+way,30197868,,healthcare_gps,-0.11921490618458333,51.5393277,MultiPolygon
+way,30896449,Andover Medial Centre,healthcare_gps,-0.11641877314474819,51.561785099999994,MultiPolygon
+way,31289212,The Family Practice,healthcare_gps,-0.10714959505396285,51.548394099999996,MultiPolygon
+way,34040868,The Harold Macmillan Medical Centre,healthcare_gps,-0.34591650000000207,51.578834549999996,MultiPolygon
+way,34212711,White City Health Centre,healthcare_gps,-0.23155316397559933,51.51083185,MultiPolygon
+way,35932604,Chingford Medical Practice,healthcare_gps,-0.022643141774589585,51.61598975,MultiPolygon
+way,38771881,Stuart Crescent Health Centre,healthcare_gps,-0.11027794586884734,51.60012355,MultiPolygon
+way,38821519,Tynemouth Road Health Centre,healthcare_gps,-0.06838757916750282,51.58639085,MultiPolygon
+way,45667110,Athena Medical Centre,healthcare_gps,-0.0524441663818446,51.55529175,MultiPolygon
+way,45855328,Brunel Medical Centre,healthcare_gps,-0.472298,51.5318513,MultiPolygon
+way,48043782,Lister Primary Care Centre,healthcare_gps,-0.07558091132543021,51.47460425,MultiPolygon
+way,48734415,Balaam Street Surgery,healthcare_gps,0.02374274869582648,51.52580005,MultiPolygon
+way,50748258,Limehouse Practice,healthcare_gps,-0.02875066584390507,51.5112472,MultiPolygon
+way,51176572,Wellington Way Centre,healthcare_gps,-0.024725447840126473,51.526364900000004,MultiPolygon
+way,52381429,Tollgate Medical Centre,healthcare_gps,0.05639212675047823,51.51562775,MultiPolygon
+way,54268791,St Johns Medical Centre,healthcare_gps,-0.021380740433078145,51.46687235,MultiPolygon
+way,55821480,Bromley by Bow Health Centre,healthcare_gps,-0.01307071330320585,51.52691175,MultiPolygon
+way,57903163,The Gardens surgery,healthcare_gps,-0.06688173555045798,51.460647949999995,MultiPolygon
+relation,907507,Woodfield Road Medical Centre,healthcare_gps,-0.19772861596628227,51.522641199999995,MultiPolygon
+way,59063098,Hampton Medical Centre,healthcare_gps,-0.37267154999999996,51.4184687,MultiPolygon
+way,62325479,DMC,healthcare_gps,-0.07139725,51.45577585,MultiPolygon
+way,65658376,Londsdale Medical Centre,healthcare_gps,-0.20456630000000275,51.53684045,MultiPolygon
+way,68510596,River Place Health Centre,healthcare_gps,-0.09667797678653417,51.54056435,MultiPolygon
+way,70923862,Sir John Kirk Close Surgery,healthcare_gps,-0.09969839639738003,51.4795541,MultiPolygon
+way,71246021,Hornsey Rise Health Clinic,healthcare_gps,-0.12506443956234617,51.57143495,MultiPolygon
+way,72032065,,healthcare_gps,-0.06733423060661858,51.4666962,MultiPolygon
+way,74165227,Dulwich Medical Centre,healthcare_gps,-0.0754621,51.46831995,MultiPolygon
+way,75720859,Ravenscroft Medical Centre,healthcare_gps,-0.20248749543072803,51.57511825,MultiPolygon
+way,77664501,The Medical Centre,healthcare_gps,-0.20514165,51.541533,MultiPolygon
+way,77755317,Blackfriars Medical Practice,healthcare_gps,-0.10577567688788449,51.505345250000005,MultiPolygon
+way,79414242,,healthcare_gps,-0.10473077046071208,51.4917064,MultiPolygon
+way,80339123,Villa Street Medical Centre,healthcare_gps,-0.0882521,51.4865724,MultiPolygon
+way,85192334,Adelaide Medical Centre,healthcare_gps,-0.16123803396860886,51.5435282,MultiPolygon
+way,85255721,Camden Psychotherapy Unit,healthcare_gps,-0.14928767475767546,51.5458436,MultiPolygon
+way,86651869,King's Occupational Health,healthcare_gps,-0.0907499399050012,51.47107255,MultiPolygon
+way,92798481,Carlton House Surgery,healthcare_gps,-0.07661831322303839,51.662497,MultiPolygon
+way,93507695,Ealing Park Health Centre,healthcare_gps,-0.30517585352566723,51.49702255,MultiPolygon
+way,93530023,Ealing Park Surgery,healthcare_gps,-0.30522111601652974,51.497145450000005,MultiPolygon
+way,95525304,Forest Hill Group Practice,healthcare_gps,-0.06162037929830948,51.4536436,MultiPolygon
+way,95525305,Elm Lodge Surgery,healthcare_gps,-0.09612450268182815,51.45221095,MultiPolygon
+way,97390807,Hammersmith Surgery,healthcare_gps,-0.22731887663981099,51.49086855,MultiPolygon
+way,97667223,Greenfield Medical Centre,healthcare_gps,-0.20518461421444212,51.56115115,MultiPolygon
+way,99473883,Townley Road Health Clinic,healthcare_gps,-0.07788565000000076,51.453654900000004,MultiPolygon
+way,107400649,My Health & Wellbeing,healthcare_gps,-0.06672098199317869,51.51754965000001,MultiPolygon
+way,108008866,Riley House and Moorfield Surgeries,healthcare_gps,-0.04353437843785394,51.6648743,MultiPolygon
+way,108429741,Kilburn Park Medical Centre,healthcare_gps,-0.19348389631410268,51.5346563,MultiPolygon
+way,111872207,Milson Road Health Centre,healthcare_gps,-0.21668911258490925,51.50012375,MultiPolygon
+way,117687315,Abbey Road Health Centre,healthcare_gps,0.005902876065124902,51.53477665,MultiPolygon
+way,118621062,Somerford Grove Health Centre,healthcare_gps,-0.07262210231981156,51.55383785,MultiPolygon
+way,121492403,Third Avenue Surgery,healthcare_gps,0.15695277827702703,51.53121375,MultiPolygon
+way,121762435,First Avenue Surgery,healthcare_gps,0.15676472293794308,51.52974315,MultiPolygon
+way,123372233,Willesden Green Surgery,healthcare_gps,-0.23055650453614548,51.5468274,MultiPolygon
+way,125968147,Killick Street Health Centre,healthcare_gps,-0.1189359204304431,51.53396945,MultiPolygon
+way,126081730,Waterloo Health Centre,healthcare_gps,-0.11304591263485274,51.5008793,MultiPolygon
+way,126219066,Rosslyn Surgery,healthcare_gps,-0.17088540651404704,51.55419335,MultiPolygon
+way,127010462,The Surgery,healthcare_gps,0.14410710746229555,51.5401782,MultiPolygon
+way,128621491,Florence Road Surgery,healthcare_gps,-0.29849321250748606,51.5117265,MultiPolygon
+way,129317567,Keats Group Practice,healthcare_gps,-0.17180078152903375,51.554893899999996,MultiPolygon
+way,131724838,London Claremont Clinic,healthcare_gps,-0.14911710449632315,51.51887565,MultiPolygon
+way,141056400,The Lordship Lane Surgery,healthcare_gps,-0.07332610535682693,51.4484426,MultiPolygon
+way,144367587,Stratford Health Centre,healthcare_gps,0.004869068175783628,51.54522125,MultiPolygon
+way,148884430,London Medical,healthcare_gps,-0.15134346187980524,51.52145335,MultiPolygon
+way,149616254,Kilburn Park Medical Centre,healthcare_gps,-0.20264994555410404,51.5333198,MultiPolygon
+way,151555190,The Medical Centre,healthcare_gps,-0.2039169182873195,51.48447605,MultiPolygon
+way,152615582,Consort Road Clinic,healthcare_gps,-0.060545074135337815,51.46488975,MultiPolygon
+way,153088442,St John's Way Medical Centre,healthcare_gps,-0.13113228634568552,51.56794175,MultiPolygon
+way,155731379,Medstar Clinic,healthcare_gps,-0.11803110066242228,51.52628805,MultiPolygon
+way,155894290,Grays Inn Medical Practice,healthcare_gps,-0.11456380286091485,51.52278185,MultiPolygon
+way,155894326,Cosmetic Courses,healthcare_gps,-0.11220198930700509,51.52342324999999,MultiPolygon
+way,156546222,Lancaster Gate Medical Centre,healthcare_gps,-0.18324375390166928,51.51145794999999,MultiPolygon
+way,169083839,Grand Drive Surgery,healthcare_gps,-0.2288032919441716,51.402548499999995,MultiPolygon
+way,173773082,Brook Green Surgery,healthcare_gps,-0.22020408911980816,51.4957876,MultiPolygon
+way,181747675,Heronsgate Medical Centre,healthcare_gps,0.08230240101235636,51.4933469,MultiPolygon
+way,183069345,Christchurch Hall Surgery,healthcare_gps,-0.1253168555851023,51.57795555,MultiPolygon
+way,183141731,Rainham Health Centre,healthcare_gps,0.19672380426687142,51.519692899999995,MultiPolygon
+way,184125323,Thurleigh Road Surgery,healthcare_gps,-0.1561775501699344,51.45246265,MultiPolygon
+way,184479990,Hetherington Group Practice,healthcare_gps,-0.12849120915968393,51.461172700000006,MultiPolygon
+way,185883138,Hornsey Central Neighbourhood Health Centre,healthcare_gps,-0.1311715094426706,51.5840681,MultiPolygon
+way,187885990,Friern Barnet Medical Centre,healthcare_gps,-0.15642639393744784,51.6132536,MultiPolygon
+way,191308317,Chrisp Street Health Centre,healthcare_gps,-0.014307147716011194,51.5141762,MultiPolygon
+way,191755900,London Medical Centre,healthcare_gps,-0.1484433398338549,51.5228616,MultiPolygon
+way,191755914,The London Clinic consulting rooms and pathology,healthcare_gps,-0.14811071874999976,51.521993,MultiPolygon
+way,191755937,London Global Practice,healthcare_gps,-0.14762529007509623,51.5218644,MultiPolygon
+way,194342560,Paxton Green Health Centre,healthcare_gps,-0.08625973615914842,51.428319650000006,MultiPolygon
+way,196384565,E16 Health - Albert Road Surgery,healthcare_gps,0.05302513062200992,51.50156375,MultiPolygon
+way,198678806,Croydon Eye Clinic,healthcare_gps,-0.09946326248093829,51.3736892,MultiPolygon
+way,199721888,Hendon Way Surgery,healthcare_gps,-0.2412658859237462,51.5786731,MultiPolygon
+way,200036934,Oak Lodge Medical Centre,healthcare_gps,-0.2715862630186477,51.60428125,MultiPolygon
+way,200495979,The Firs Medical Centre,healthcare_gps,-0.035146277233157004,51.58029395,MultiPolygon
+way,202317915,Dr Shantir Practice,healthcare_gps,-0.026079447801957104,51.589721749999995,MultiPolygon
+way,202352323,Crawford Street Surgery,healthcare_gps,-0.16123690212532693,51.519346049999996,MultiPolygon
+way,203291564,Queens Road Medical Centre,healthcare_gps,-0.02136599375688608,51.57959975,MultiPolygon
+way,204738602,Bupa Clapham,healthcare_gps,-0.17018864571037115,51.46284645,MultiPolygon
+way,208090961,Wapping Group Practice,healthcare_gps,-0.05877994337314667,51.505942000000005,MultiPolygon
+way,217676712,Wood Street Health Centre,healthcare_gps,-0.002969893357910815,51.58767885,MultiPolygon
+way,219021857,Elm Trees Surgery,healthcare_gps,-0.3387714035936906,51.55052725,MultiPolygon
+way,220249127,Grove Medical Centre,healthcare_gps,-0.011383740217390022,51.579179499999995,MultiPolygon
+way,222234375,The Argyle Surgery,healthcare_gps,-0.3224634521914066,51.5197548,MultiPolygon
+way,222654862,Chepstow Gardens Medical Centre,healthcare_gps,-0.3749807706906189,51.51762735,MultiPolygon
+way,223435165,West End Surgery,healthcare_gps,-0.39796322693102865,51.534759449999996,MultiPolygon
+way,224388619,Auckland Road Surgery,healthcare_gps,-0.08089467473268278,51.40953405,MultiPolygon
+way,225302690,Crowndale Health Centre,healthcare_gps,-0.13727078976157225,51.5342496,MultiPolygon
+way,225978405,West 12 Health Centre,healthcare_gps,-0.22575007375000083,51.50774025,MultiPolygon
+way,226119019,Barnard Medical Practice,healthcare_gps,0.10559233030772075,51.4280303,MultiPolygon
+way,228370466,Wells Park Practice,healthcare_gps,-0.060167730616412785,51.43051615,MultiPolygon
+way,228432398,Well Street Surgery,healthcare_gps,-0.052760502904495105,51.53954315,MultiPolygon
+way,228849252,The Wallace Health Centre,healthcare_gps,-0.018644507598300906,51.4814868,MultiPolygon
+way,232952236,Elizabeth Avenue Group Practice,healthcare_gps,-0.09215190722453409,51.53886455,MultiPolygon
+way,236402402,Park House Medical Centre,healthcare_gps,-0.20702195743410673,51.53447145,MultiPolygon
+way,237621547,,healthcare_gps,-0.2482295123491437,51.55930085,MultiPolygon
+way,237626887,Forty Willows Surgery,healthcare_gps,-0.27145827084600005,51.565836700000006,MultiPolygon
+way,238426721,Eltham Medical Practice,healthcare_gps,0.050562879708825365,51.457367700000006,MultiPolygon
+way,239260752,Grand Union Health Centre,healthcare_gps,-0.19105905070429516,51.519991149999996,MultiPolygon
+way,239663985,Eltham Medical Practice,healthcare_gps,0.06114536003484007,51.45459030000001,MultiPolygon
+way,243988324,Kenton Bridge Medical Centre,healthcare_gps,-0.3160012374999974,51.58214175,MultiPolygon
+way,245844824,Billet Lane Medical Practice,healthcare_gps,0.21920487849583725,51.56647545,MultiPolygon
+way,249420203,Riverhouse Surgery,healthcare_gps,-0.18347336721861382,51.4208504,MultiPolygon
+way,256099090,North Croydon Medical Centre,healthcare_gps,-0.11116257349739009,51.38831075,MultiPolygon
+way,267568324,Spitalfields Medical Centre (Health E1),healthcare_gps,-0.07127073875844858,51.5176608,MultiPolygon
+way,274050559,Archway Medical Centre,healthcare_gps,-0.1260547339895449,51.5625479,MultiPolygon
+way,286822540,Island Medical Centre,healthcare_gps,-0.010021534125079223,51.49812785,MultiPolygon
+way,287887411,Church End Medical Centre,healthcare_gps,-0.25340316487515224,51.54797025,MultiPolygon
+way,288244786,Queen's Road Surgery,healthcare_gps,-0.064048813594654,51.475112499999994,MultiPolygon
+way,288575477,Staines Road Surgery,healthcare_gps,-0.35865444316818074,51.43954695,MultiPolygon
+way,291650383,Brunswick Medical Centre,healthcare_gps,-0.12375458169040088,51.524702700000006,MultiPolygon
+way,294683400,Latimer Health Centre,healthcare_gps,-0.0495476699620489,51.5466272,MultiPolygon
+way,298834133,The Park Road Surgery,healthcare_gps,-0.3344492417520487,51.42448235,MultiPolygon
+way,305035322,The Lawson Practice,healthcare_gps,-0.07928747884535223,51.5337696,MultiPolygon
+way,307193930,Eagle House Surgery,healthcare_gps,-0.046191992342129964,51.64791975,MultiPolygon
+way,307194320,Dean House Surgery,healthcare_gps,-0.04625042812499863,51.645429449999995,MultiPolygon
+way,307335331,Hurst Place Surgery,healthcare_gps,0.12461128937969883,51.4385113,MultiPolygon
+way,315304797,Corfton Road Surgery,healthcare_gps,-0.29750085052554104,51.51997165,MultiPolygon
+way,315600015,Dormers Wells Medical Centre,healthcare_gps,-0.3643821062500003,51.51543315,MultiPolygon
+way,316812038,The Surgery,healthcare_gps,-0.3206422850770931,51.5509913,MultiPolygon
+way,317360335,Oldfield Family Practice,healthcare_gps,-0.3510749492573182,51.5304833,MultiPolygon
+way,318392861,Greenford Avenue Family Health Practice,healthcare_gps,-0.3402697046979454,51.521740449999996,MultiPolygon
+way,318402483,Elmbank Surgery,healthcare_gps,-0.3418861363657648,51.525308949999996,MultiPolygon
+way,320226972,The Medical Centre,healthcare_gps,-0.4760691554062343,51.5047492,MultiPolygon
+way,325489265,Kingsmead Healthcare,healthcare_gps,-0.03446681157785046,51.55149635,MultiPolygon
+way,326145171,Belmont Medical Centre,healthcare_gps,-0.38518672588185604,51.500895650000004,MultiPolygon
+way,326572022,The Medical Centre,healthcare_gps,-0.3802567247947207,51.50733745,MultiPolygon
+way,330139553,Docklands Medical Centre,healthcare_gps,-0.021153922045743248,51.49114935,MultiPolygon
+way,332135245,Station Road Surgery,healthcare_gps,0.10196735000000001,51.4314421,MultiPolygon
+way,337077443,Highgate Group Practice,healthcare_gps,-0.15249324357326477,51.5778775,MultiPolygon
+way,356683830,The Notting Hill Osteopathic Practice,healthcare_gps,-0.19744679900990106,51.50991115,MultiPolygon
+way,360599474,Randolph Surgery,healthcare_gps,-0.18653310126581868,51.5300709,MultiPolygon
+way,364348752,,healthcare_gps,-0.14646413540947179,51.516938800000005,MultiPolygon
+way,370105899,Richmond Road Medical Centre,healthcare_gps,-0.06707991838928942,51.54296775,MultiPolygon
+way,371437267,Queensbridge Group Practice,healthcare_gps,-0.07146366457592516,51.54145165,MultiPolygon
+way,373053302,Mildmay Medical Practice,healthcare_gps,-0.08562114886578652,51.5525823,MultiPolygon
+way,374736605,The New Surgery,healthcare_gps,-0.23565918360091692,51.5060192,MultiPolygon
+way,374848782,The Penrhyn Surgery,healthcare_gps,-0.023578899999998727,51.597112949999996,MultiPolygon
+way,375755825,The Forest Surgery,healthcare_gps,-0.0050377516039924065,51.59473265,MultiPolygon
+way,379341302,Barton House Health Centre,healthcare_gps,-0.08394202252467814,51.56047955,MultiPolygon
+way,393003390,Albion Street Group Practice,healthcare_gps,-0.050746771656051,51.50095795,MultiPolygon
+way,399343180,Bush Hill Park Trinity Surgery,healthcare_gps,-0.0666935500000034,51.64084815,MultiPolygon
+way,399908721,The Broadway Surgery,healthcare_gps,0.033332002054937714,51.60853455,MultiPolygon
+way,403539591,Claremont Medical Centre,healthcare_gps,-0.033261995518049495,51.5946706,MultiPolygon
+way,405493932,Partnership Primary Care Centre,healthcare_gps,-0.1225319,51.5539,MultiPolygon
+way,406567942,Higham Hill Medical Centre,healthcare_gps,-0.03462023601694869,51.59533175,MultiPolygon
+way,422540667,Gower Street Practice,healthcare_gps,-0.13009934999999168,51.5203745,MultiPolygon
+way,422540690,The Ridgmount Practice,healthcare_gps,-0.1311053017429792,51.52041115,MultiPolygon
+way,425662551,Define Clinic,healthcare_gps,-0.13393735372636034,51.518633300000005,MultiPolygon
+way,426304981,Ruston Street Clinic,healthcare_gps,-0.02659732909397656,51.536363550000004,MultiPolygon
+way,429100419,The Tredegar Practice,healthcare_gps,-0.03174594028662293,51.5313082,MultiPolygon
+way,443430175,Alexandra Surgery,healthcare_gps,-0.20460494309429011,51.423546,MultiPolygon
+way,445029227,Holmwood Corner Surgery,healthcare_gps,-0.2550305753580454,51.3973528,MultiPolygon
+way,448571435,The Junction Medical Practice,healthcare_gps,-0.13773017810558935,51.55704725,MultiPolygon
+way,449212717,Lincoln Road Medical Practice,healthcare_gps,-0.06184008915518434,51.645876,MultiPolygon
+way,449285762,Grove Medical Centre,healthcare_gps,-0.03528827332040844,51.4902419,MultiPolygon
+way,450257637,Tottenham Hale Medical Practice,healthcare_gps,-0.05768851812354312,51.5902485,MultiPolygon
+way,453545381,Fulham Osteopaths,healthcare_gps,-0.2037453175272711,51.476520300000004,MultiPolygon
+way,460068151,The Goodinge Group Practice,healthcare_gps,-0.12550617152686228,51.548366650000006,MultiPolygon
+way,460379434,Chamberlayne Surgery,healthcare_gps,-0.22054634110787746,51.5355048,MultiPolygon
+way,463380163,Ecclesbourne Surgery,healthcare_gps,-0.001070176581372954,51.580756449999996,MultiPolygon
+way,465223056,St Albans Surgery,healthcare_gps,0.13349456987794717,51.53668435,MultiPolygon
+way,468562279,Harpal Clinic,healthcare_gps,-0.10153330318308354,51.512927250000004,MultiPolygon
+way,469085226,Mitchison Road Surgery,healthcare_gps,-0.08785998612799614,51.5450645,MultiPolygon
+way,476339483,Bedford Hill Family Practice,healthcare_gps,-0.1490615755818729,51.44079275,MultiPolygon
+way,481262560,Francis Grove Surgery,healthcare_gps,-0.2090529151675815,51.41978745,MultiPolygon
+way,482814285,Lambton Road Medical Practice,healthcare_gps,-0.23064760204787574,51.4101439,MultiPolygon
+way,484034256,Valley Road Surgery,healthcare_gps,-0.11942677618163436,51.42859205,MultiPolygon
+way,486780530,Medical Centre,healthcare_gps,-0.22907190000000469,51.6181206,MultiPolygon
+way,489652883,Claremont Medical Centre,healthcare_gps,-0.30719122759472617,51.3908711,MultiPolygon
+way,496919074,Highlands GP Practice,healthcare_gps,-0.11066726096538512,51.64635655,MultiPolygon
+way,500071587,Vineyard Surgery,healthcare_gps,-0.30101642156480324,51.45818225,MultiPolygon
+way,508283779,Squires Lane Medical Practice,healthcare_gps,-0.17493451674130142,51.6024888,MultiPolygon
+way,511091535,Woolstone Medical Centre,healthcare_gps,-0.034730254896582144,51.43893365,MultiPolygon
+way,516113621,Wide Way Medical Centre,healthcare_gps,-0.1346957940808995,51.402190250000004,MultiPolygon
+way,516139391,Crompton Medical Centre,healthcare_gps,-0.17634074773449993,51.5239677,MultiPolygon
+way,517041745,Broad Street Medical Centre,healthcare_gps,0.15223030635291768,51.5350983,MultiPolygon
+way,517043308,Gracefield Gardens Health Centre,healthcare_gps,-0.1279029381295054,51.432516250000006,MultiPolygon
+way,521076874,Faccini House Surgery,healthcare_gps,-0.19003016178607257,51.38967845,MultiPolygon
+way,531123862,90 Sloane Street,healthcare_gps,-0.15899789750413224,51.4960205,MultiPolygon
+way,533237402,Sidcup Medical Centre,healthcare_gps,0.10753685264423424,51.42385195,MultiPolygon
+way,539475188,Alexandra Surgery,healthcare_gps,-0.1373247616115299,51.5990573,MultiPolygon
+way,544525130,Belgrave Medical Centre,healthcare_gps,-0.15109106933962363,51.49074,MultiPolygon
+way,556313641,Wood Lane Medical Centre,healthcare_gps,0.19623986988636927,51.544582250000005,MultiPolygon
+way,556541723,Staverton Surgery,healthcare_gps,-0.2259622689922893,51.54438855,MultiPolygon
+way,556555429,"The Surgery, Dr T Rahman and Dr C Y Tsoi",healthcare_gps,0.20404456585760572,51.5472308,MultiPolygon
+way,558919889,Stratford Village Surgery,healthcare_gps,0.00707314520981732,51.54216,MultiPolygon
+way,581720288,Summercroft Surgery,healthcare_gps,0.0593949963276844,51.3676734,MultiPolygon
+way,583302264,The Corner Surgery,healthcare_gps,-0.09599688039596585,51.469562100000005,MultiPolygon
+way,584421611,The Paradise Road Practice,healthcare_gps,-0.3013846321887004,51.460179249999996,MultiPolygon
+way,586579986,Canbury Medical Centre,healthcare_gps,-0.2970326967243634,51.414202,MultiPolygon
+way,586616818,The Manor Park Practice,healthcare_gps,0.05584866029498522,51.55341695,MultiPolygon
+way,587229818,Fencepiece Road Medical Centre,healthcare_gps,0.08435984087320009,51.60025520000001,MultiPolygon
+way,587732537,Battersea Fields Practice,healthcare_gps,-0.13860850000000735,51.4768371,MultiPolygon
+way,588054322,Parkshot Medical Practice,healthcare_gps,-0.3020562853974652,51.464354,MultiPolygon
+way,605636111,Leander Road Health Centre,healthcare_gps,-0.11727459601912135,51.399154499999995,MultiPolygon
+relation,8435470,The Selsdon Park Medical Practicee,healthcare_gps,-0.0642408231318934,51.34260115,MultiPolygon
+way,613537350,North Kensington Medical Centre,healthcare_gps,-0.22046621017441798,51.5196534,MultiPolygon
+way,613719052,Newton Medical Centre,healthcare_gps,-0.19104185,51.5164853,MultiPolygon
+way,616729966,Temple Fortune Health Centre,healthcare_gps,-0.1977527197204314,51.5809874,MultiPolygon
+way,617618456,Cricket Green Medical Practice,healthcare_gps,-0.17274094999999934,51.40490165,MultiPolygon
+way,617621744,Manor Practice,healthcare_gps,-0.15067545273128385,51.36322935,MultiPolygon
+way,630380803,Cross Deep Surgery,healthcare_gps,-0.3301398408262454,51.4450717,MultiPolygon
+way,631126142,Spring Park Medical Practice,healthcare_gps,-0.02972819364232197,51.36932025,MultiPolygon
+way,640166828,The Acorn Group Practice,healthcare_gps,-0.32905524287683796,51.4467001,MultiPolygon
+way,649506083,Essex House Surgery,healthcare_gps,-0.24781934059546828,51.4729148,MultiPolygon
+way,664859209,Churchill Medical Centre,healthcare_gps,-0.018374953016025156,51.6184206,MultiPolygon
+way,665036671,South Hornchurch Medical Practice,healthcare_gps,0.1912956546678638,51.5323766,MultiPolygon
+way,666975857,Ilford Medical Centre,healthcare_gps,0.074557089999986,51.556618099999994,MultiPolygon
+way,669552215,Wellman Clinic,healthcare_gps,-0.14691456766316202,51.52090269999999,MultiPolygon
+way,669559092,The Harley Street General Practice,healthcare_gps,-0.14777587973350897,51.521526300000005,MultiPolygon
+way,669563565,,healthcare_gps,-0.14671838070875343,51.5209295,MultiPolygon
+way,669627096,Consulting Rooms,healthcare_gps,-0.14717143590964216,51.5201814,MultiPolygon
+way,669890678,Cognacity,healthcare_gps,-0.1468029564222496,51.5190975,MultiPolygon
+way,669890680,Doctors Surgery,healthcare_gps,-0.1467450539356649,51.5189778,MultiPolygon
+way,669902344,Isokinetic,healthcare_gps,-0.1464883277975771,51.51712005,MultiPolygon
+way,670141392,,healthcare_gps,-0.14644612586818606,51.5171859,MultiPolygon
+way,670141393,,healthcare_gps,-0.1464454610717812,51.51725895,MultiPolygon
+way,678624916,Larkshall Medical Centre,healthcare_gps,0.003572828115779109,51.628130850000005,MultiPolygon
+way,678659652,The Ridgeway Surgery,healthcare_gps,-0.01161903619131275,51.6276228,MultiPolygon
+way,678685323,The Microfaculty,healthcare_gps,-0.018239358563636923,51.611807549999995,MultiPolygon
+way,678698206,Seymour Medical Centre,healthcare_gps,-0.02955852577163793,51.5684933,MultiPolygon
+way,678826276,Vineyard Hill Road Surgery,healthcare_gps,-0.20037706237623668,51.4330398,MultiPolygon
+way,679201140,Green Man Medical Centre,healthcare_gps,0.015490034530140244,51.571892399999996,MultiPolygon
+way,679201142,Lyndhurst Surgery,healthcare_gps,-0.0030337999999991384,51.5721808,MultiPolygon
+way,679201143,SMA Medical Centre,healthcare_gps,-0.008652538441026869,51.57161325,MultiPolygon
+way,679223366,Crawley Road Medical Centre,healthcare_gps,-0.010792870924451036,51.5658635,MultiPolygon
+way,679248285,Francis Road Medical Centre,healthcare_gps,-0.004012262559576629,51.56228805,MultiPolygon
+way,681222165,Townfield Doctors Surgery,healthcare_gps,-0.411456833249774,51.5162957,MultiPolygon
+way,681222186,Kincora Doctors Surgery,healthcare_gps,-0.41247479999999714,51.5116383,MultiPolygon
+way,681227099,Hesa Primary Care Centre,healthcare_gps,-0.4195971922104075,51.50565254999999,MultiPolygon
+way,682012536,West Barnes Lane Surgery,healthcare_gps,-0.23271597821092913,51.39847315,MultiPolygon
+way,689959013,Bursted Wood Surgery,healthcare_gps,0.15332271864116093,51.4658474,MultiPolygon
+way,691965442,Honor Oak Group Practice,healthcare_gps,-0.04111677937908727,51.45815055,MultiPolygon
+way,694978232,The Manor Practice,healthcare_gps,-0.020677349999997097,51.57170685,MultiPolygon
+relation,9893695,,healthcare_gps,0.0841076324705759,51.5337012,MultiPolygon
+way,731172001,Richmond Lock Surgery,healthcare_gps,-0.32288257383570473,51.4645014,MultiPolygon
+way,737130563,Commercial Way Surgery,healthcare_gps,-0.07268920861820899,51.47737525,MultiPolygon
+way,738949922,Welling Medical Practice,healthcare_gps,0.07366380161199068,51.438189550000004,MultiPolygon
+way,742149081,The Connaught Square Practice,healthcare_gps,-0.16373545213795174,51.513709250000005,MultiPolygon
+way,746532002,Garway Medical Practice,healthcare_gps,-0.18569498302355622,51.51537035,MultiPolygon
+way,763285623,The Pembridge Villas Surgery,healthcare_gps,-0.19720014993367602,51.512557799999996,MultiPolygon
+way,764404799,Kew Medical Practice,healthcare_gps,-0.2828805000000011,51.4758078,MultiPolygon
+way,765396919,The Surgery,healthcare_gps,0.21981240676956684,51.5557084,MultiPolygon
+way,767941716,Crayford Town Surgery,healthcare_gps,0.18053176281853262,51.45017935,MultiPolygon
+way,769723863,Woodlands Surgery,healthcare_gps,0.08897042903116456,51.439797,MultiPolygon
+way,771918602,Colville Health Centre,healthcare_gps,-0.20628902502138946,51.5159149,MultiPolygon
+way,772671802,Parkside Clinic,healthcare_gps,-0.2067127598264183,51.5172268,MultiPolygon
+way,773853762,Merton Medical Practice,healthcare_gps,-0.18480751402116397,51.41594695,MultiPolygon
+way,786179057,,healthcare_gps,-0.20837330035393292,51.5079088,MultiPolygon
+way,791658605,Wood Wharf Health Centre,healthcare_gps,-0.009578144701135917,51.5021751,MultiPolygon
+way,795478544,The Nightingale Practice,healthcare_gps,-0.06167949999999991,51.5581337,MultiPolygon
+way,799457016,Sheldon Practice,healthcare_gps,-0.2157078450221384,51.555651749999996,MultiPolygon
+way,800176334,Medisonal,healthcare_gps,-0.1246001337446321,51.52105895,MultiPolygon
+way,801372328,Chichele Road Surgery,healthcare_gps,-0.21588563152639068,51.5554294,MultiPolygon
+way,813024459,Kynance Practice,healthcare_gps,-0.18449430867174263,51.49746965,MultiPolygon
+way,816685577,Tamwoth House Medical Centre,healthcare_gps,-0.14449228448275764,51.400397749999996,MultiPolygon
+way,817843183,The Jubilee Street Practice,healthcare_gps,-0.050520119123598856,51.5136391,MultiPolygon
+way,818264652,West London Physiotherapy,healthcare_gps,-0.1886764306639777,51.49944525,MultiPolygon
+way,820513329,St John's Health Centre,healthcare_gps,-0.32568858636382114,51.4493796,MultiPolygon
+way,822824283,North Wood Group Practice,healthcare_gps,-0.10837088488325378,51.440899,MultiPolygon
+way,824241040,Anamaya,healthcare_gps,-0.19461030982142852,51.50005255,MultiPolygon
+way,824501402,Worlds End Health Centre,healthcare_gps,-0.1847420974689149,51.480466050000004,MultiPolygon
+way,824666634,Eastbury Surgery,healthcare_gps,-0.4238104259739027,51.61201885,MultiPolygon
+way,833139543,Medicare Francais,healthcare_gps,-0.19411162927960524,51.4926493,MultiPolygon
+way,833254829,Earls Court Medical Centre,healthcare_gps,-0.1928886272983792,51.49186885,MultiPolygon
+way,833624514,Stroud Green Medical Clinic,healthcare_gps,-0.11513681989345476,51.5704379,MultiPolygon
+way,834319395,Seymour House Medical Practice,healthcare_gps,-0.2927890494592349,51.462433000000004,MultiPolygon
+way,835331055,THMG sk:n London,healthcare_gps,-0.08779871125704133,51.51695855,MultiPolygon
+way,835487916,Essex Lodge,healthcare_gps,0.027528217012443477,51.527265299999996,MultiPolygon
+way,837543787,Allerton Road Medical Centre,healthcare_gps,-0.09182685558807739,51.5646837,MultiPolygon
+way,838583396,The Medical Chambers Kensington,healthcare_gps,-0.19033146295669248,51.493633599999995,MultiPolygon
+way,839021500,Argyle Health Isleworth Practice,healthcare_gps,-0.32872311072673277,51.46783105,MultiPolygon
+way,841130319,Courtfield Private Practice,healthcare_gps,-0.1873369369459182,51.49281995,MultiPolygon
+way,841327181,Yeading Medical Centre,healthcare_gps,-0.39709888220158507,51.533644100000004,MultiPolygon
+way,841788283,Wakemans Hill Surgery,healthcare_gps,-0.25261368024423947,51.587593150000004,MultiPolygon
+way,842058042,The SW7 Clinic,healthcare_gps,-0.18183143833418228,51.49303865,MultiPolygon
+way,843994902,Stanhope Mews West Surgery,healthcare_gps,-0.18196483511523068,51.49444855,MultiPolygon
+way,845810549,Berwick Surgery,healthcare_gps,0.21404482939317193,51.526712700000004,MultiPolygon
+way,851847861,Harold Hill Medical Centre,healthcare_gps,0.22489190000000014,51.60631675,MultiPolygon
+way,856154833,Trevelyan House Surgery,healthcare_gps,-0.1713627081434575,51.424962550000004,MultiPolygon
+way,858998311,Grosvenor Road Surgery,healthcare_gps,0.14736393480567217,51.563087249999995,MultiPolygon
+way,860266443,Fairhill Medical Practice,healthcare_gps,-0.2824978891054998,51.417138449999996,MultiPolygon
+way,865831597,Rainham Medical Centre,healthcare_gps,0.17699168120141012,51.5279819,MultiPolygon
+way,868040588,Royal Docks Medical Practice,healthcare_gps,0.0626746188423652,51.50978265,MultiPolygon
+way,868479127,Custom House Surgery,healthcare_gps,0.026022768860632574,51.51114805,MultiPolygon
+way,868627781,Glen Road Medical Centre,healthcare_gps,0.03186780001416907,51.5224092,MultiPolygon
+way,871537848,Langstone Way Surgery,healthcare_gps,-0.2104073844320486,51.6070129,MultiPolygon
+way,878356645,Redcliffe Surgery (G.P.),healthcare_gps,-0.1886848488996743,51.4864154,MultiPolygon
+way,889205861,Greengate Medical Centre,healthcare_gps,0.028077092068072837,51.52537665,MultiPolygon
+way,899834233,The White House Surgery,healthcare_gps,0.0877380834780236,51.53422725,MultiPolygon
+way,900393243,Herne Hill Road Medical Practice,healthcare_gps,-0.1006265979607239,51.465663,MultiPolygon
+way,906672314,South Lewisham Health Centre,healthcare_gps,-0.013347068677103618,51.429768100000004,MultiPolygon
+way,915043772,Morland Road Surgery,healthcare_gps,-0.08624952468231309,51.3805679,MultiPolygon
+way,915239944,The Mountwood Surgery,healthcare_gps,-0.4425270348504061,51.615929050000005,MultiPolygon
+way,916533960,The Westway Surgery,healthcare_gps,-0.24806608685475506,51.51428645,MultiPolygon
+way,918031151,Cumberland Medical Centre,healthcare_gps,0.025747797773455434,51.518575350000006,MultiPolygon
+way,926095712,The Medical Centre,healthcare_gps,-0.24372437246900827,51.5069864,MultiPolygon
+way,928631278,Gillmans Road Surgery,healthcare_gps,0.11071266520730888,51.37776635,MultiPolygon
+way,930545546,Waterfall House,healthcare_gps,-0.1724715511639287,51.42320995,MultiPolygon
+way,935101915,Streatham Place Surgery,healthcare_gps,-0.1266080076619922,51.446346950000006,MultiPolygon
+way,935794645,New Eltham Medical Centre,healthcare_gps,0.07486954653348854,51.4348794,MultiPolygon
+way,940172454,Grafton Medical Partners,healthcare_gps,-0.16532960578221895,51.430271399999995,MultiPolygon
+way,947161419,,healthcare_gps,0.05834171888754852,51.43124695,MultiPolygon
+way,955370437,The Graham Practice,healthcare_gps,0.04979225567880461,51.541402000000005,MultiPolygon
+way,960900985,Oak Lane Medical Centre,healthcare_gps,-0.32514511886996444,51.4487177,MultiPolygon
+way,961323112,The North Clinic,healthcare_gps,-0.32959616701318517,51.44487935,MultiPolygon
+way,967025255,Blackfen Medical Centre,healthcare_gps,0.09571594024999949,51.4516096,MultiPolygon
+way,969561760,Five Elms Health Centre,healthcare_gps,0.14278005082462766,51.55370055,MultiPolygon
+relation,13044501,Lordship Lane Primary Care Centre,healthcare_gps,-0.08050217909044258,51.59724865,MultiPolygon
+way,972292527,Claremont Clinic,healthcare_gps,0.035289899439044606,51.547701700000005,MultiPolygon
+way,984744631,Woodgrange Medical Practice,healthcare_gps,0.025197284146934576,51.548625799999996,MultiPolygon
+way,988771671,Hanley Primary Care Centre,healthcare_gps,-0.11945270699983035,51.56861055,MultiPolygon
+way,991213507,,healthcare_gps,-0.07341649802259426,51.605384400000005,MultiPolygon
+way,991706919,Bellegrove Surgery,healthcare_gps,0.09584979775419569,51.46459895,MultiPolygon
+way,993524349,Churchfield Surgery,healthcare_gps,-0.2665473028156997,51.5087258,MultiPolygon
+way,999059265,Falkland House Health Clinic,healthcare_gps,-0.20563160340440167,51.49168855,MultiPolygon
+way,1005958640,Derry Downs Surgery,healthcare_gps,0.1165690363250266,51.3857424,MultiPolygon
+way,1006448294,Westbury Road Medical Practice,healthcare_gps,0.029780278373298014,51.5452298,MultiPolygon
+way,1006781714,Upton Lane Medical Centre,healthcare_gps,0.026488484103720622,51.54329955,MultiPolygon
+way,1008664217,East End Medical Centre,healthcare_gps,0.02567279830924179,51.5373659,MultiPolygon
+way,1012713221,Stamford Hill Group Practice,healthcare_gps,-0.0714673195197651,51.573966150000004,MultiPolygon
+way,1013327071,The Crescent Surgery,healthcare_gps,0.10663100738255024,51.3903612,MultiPolygon
+way,1014095980,Plashet Medical Centre,healthcare_gps,0.032346855750698233,51.53743325,MultiPolygon
+way,1015060662,Plas Meddyg Surgery,healthcare_gps,0.1444820840370592,51.44284385,MultiPolygon
+way,1015959527,Broomwood Health Centre,healthcare_gps,0.10874650751252801,51.40271605,MultiPolygon
+way,1017327706,Birchdale Road Medical Centre,healthcare_gps,0.03822174491788424,51.5475444,MultiPolygon
+way,1017620538,Hanworth Medical Centre,healthcare_gps,-0.3727246196216063,51.43704235,MultiPolygon
+way,1018256172,Lathom Road Medical Centre,healthcare_gps,0.05214391236960393,51.537674499999994,MultiPolygon
+way,1022637454,,healthcare_gps,0.10287630555556379,51.4437276,MultiPolygon
+way,1022637460,,healthcare_gps,0.1050642369314839,51.44528205,MultiPolygon
+way,1024326267,Lucas Avenue Practice,healthcare_gps,0.030217981706621388,51.53719975,MultiPolygon
+way,1028386433,Primrose Hill Surgery,healthcare_gps,-0.15660706690394896,51.54198855,MultiPolygon
+way,1029392574,Poverest Medical Centre,healthcare_gps,0.10383544798213304,51.3897369,MultiPolygon
+way,1029900032,Kingfisher Medical Centre,healthcare_gps,-0.030501614154512295,51.4818805,MultiPolygon
+way,1034315881,Colney Hatch Lane Surgery,healthcare_gps,-0.14756934967741087,51.601310749999996,MultiPolygon
+way,1034412943,Rutland House Surgery,healthcare_gps,-0.14449713647345358,51.5952207,MultiPolygon
+way,1035393419,Addington Road Surgery,healthcare_gps,-0.0025710908819701235,51.3699479,MultiPolygon
+way,1038703444,The Whitehorse Practice,healthcare_gps,-0.09726193010321094,51.386063,MultiPolygon
+way,1039675536,360 Med,healthcare_gps,-0.14669700061559993,51.590491150000005,MultiPolygon
+way,1041078471,The Hodford Road Surgery,healthcare_gps,-0.19931976294404374,51.5690173,MultiPolygon
+way,1046959830,JS Medical Practice Westbury,healthcare_gps,-0.09849266668103959,51.593141349999996,MultiPolygon
+way,1056623512,Solent Road Health Centre,healthcare_gps,-0.19637761617647098,51.549871499999995,MultiPolygon
+way,1057635159,Newbury Park Health Centre,healthcare_gps,0.08600638639287625,51.57640495,MultiPolygon
+way,1059257283,Alma Healthcare,healthcare_gps,-0.03598812450703199,51.64202765,MultiPolygon
+way,1065926488,Belmont Hill Surgery,healthcare_gps,-0.004452694689550618,51.462574950000004,MultiPolygon
+way,1067695512,Acton Health Centre,healthcare_gps,-0.2701876281215589,51.5062699,MultiPolygon
+way,1068492529,Rutland House Surgery,healthcare_gps,-0.14756172517465707,51.59188575,MultiPolygon
+way,1089065999,Chiro London,healthcare_gps,-0.1915195,51.4710197,MultiPolygon
+way,1106823473,,healthcare_gps,-0.13615332970228441,51.465399000000005,MultiPolygon
+way,1106895682,St Margarets Medical Practice,healthcare_gps,-0.3230426682180847,51.45938905,MultiPolygon
+way,1116592163,Beam Park Medical Practice,healthcare_gps,0.17098054303638804,51.5247681,MultiPolygon
+way,1117516253,Parchmore Medical Centre,healthcare_gps,-0.10112193203796258,51.4025016,MultiPolygon
+way,1122415788,Market Street Health Group,healthcare_gps,0.05787786989031231,51.530648549999995,MultiPolygon
+way,1122899518,Boleyn Medical Centre,healthcare_gps,0.04564239570860895,51.5313532,MultiPolygon
+way,1126723045,Ripple Road Medical Centre,healthcare_gps,0.09373432539923193,51.53530925,MultiPolygon
+way,1126732657,Julia Engwell Health Centre,healthcare_gps,0.1256280924287274,51.538945600000005,MultiPolygon
+way,1133512394,John Smith Medical Centre,healthcare_gps,0.11147464727772538,51.53871395,MultiPolygon
+way,1133914442,Green Lane Surgery,healthcare_gps,0.13087252483313108,51.56158015,MultiPolygon
+way,1134989244,Oak Tree Medical Centre,healthcare_gps,0.09658719893880219,51.560750299999995,MultiPolygon
+way,1135478443,E12 Medical Centre,healthcare_gps,0.05045046235293991,51.540874200000005,MultiPolygon
+way,1136432730,Southgate Road Medical Centre,healthcare_gps,-0.0854212509650721,51.54134945,MultiPolygon
+way,1137012238,The Moorings Surgery,healthcare_gps,-0.09983938951175407,51.3242087,MultiPolygon
+way,1157488433,Balfour Medical Centre,healthcare_gps,0.0755144631458519,51.56283825,MultiPolygon
+way,1167925789,Sinnott Medical Centre,healthcare_gps,-0.039271524443106,51.59287015,MultiPolygon
+way,1200676916,The Penrose Surgery,healthcare_gps,-0.09737558881074568,51.487153,MultiPolygon
+relation,16408578,Mawbey Group Practice,healthcare_gps,-0.12536968908318535,51.47977655,MultiPolygon
+way,1216295314,The Crosslands Surgery,healthcare_gps,-0.37215759707934365,51.4911138,MultiPolygon
+relation,16810189,Burnt Ash Surgery,healthcare_gps,0.011184234512010399,51.45329285,MultiPolygon
+way,1230361957,The Heathcote Primary Care Centre,healthcare_gps,0.0735773459121005,51.581187650000004,MultiPolygon
+way,1233248748,Hounslow Family Practice,healthcare_gps,-0.3665450511716819,51.47291095,MultiPolygon
+way,1244923279,The Caversham Group Practice,healthcare_gps,-0.13782881620529808,51.550374250000004,MultiPolygon
+way,1256735390,Tudor Way Surgery,healthcare_gps,0.07912018206038743,51.38900155,MultiPolygon
+way,1283384564,Lower Clapton General Practice,healthcare_gps,-0.05150741674025648,51.55337945,MultiPolygon
+way,1292147592,The Law Medical Group Practice,healthcare_gps,-0.233895320026354,51.533687549999996,MultiPolygon
+way,1299836135,Sangam Surgery (Katherine Road),healthcare_gps,0.03626397036319455,51.54582165,MultiPolygon
+way,1318117489,Freuchen Medical Centre,healthcare_gps,-0.24270993343098168,51.534341749999996,MultiPolygon
+way,1319020187,The Greenwood Practise,healthcare_gps,0.22076984134394978,51.58367885,MultiPolygon
+way,1364121845,Woodlawn Medical Centre,healthcare_gps,-0.3668305422208128,51.4444702,MultiPolygon
+way,1374706304,,healthcare_gps,0.028161896163912948,51.59188185,MultiPolygon
+way,1376229441,St Mary Cray Practice,healthcare_gps,0.11334856558415148,51.386429750000005,MultiPolygon
+way,1377460951,Healy Medical Centre,healthcare_gps,-0.059927908957918004,51.56674545,MultiPolygon
+way,1381154230,Strouts Place Medical Centre,healthcare_gps,-0.07412249492271206,51.529468699999995,MultiPolygon
+way,1382306529,Dr CM Patel's Surgery,healthcare_gps,0.03574136676601991,51.540339,MultiPolygon
+way,1382843024,Spring Hill Practice,healthcare_gps,-0.07192842565278804,51.56510555,MultiPolygon
+way,1386072187,London Psychiatry Clinic,healthcare_gps,-0.1410736694209167,51.52302185,MultiPolygon
+way,1386072203,Fitzroy Medical Centre,healthcare_gps,-0.14050189296507337,51.52247735,MultiPolygon
+way,1391563401,Upminster Bridge Surgery,healthcare_gps,0.23495229999999817,51.5589921,MultiPolygon
+way,1393885472,The Palms Medical Centre,healthcare_gps,0.08845565919811321,51.577514,MultiPolygon
+way,1396094953,Ravensbury Park Medical Centre,healthcare_gps,-0.17845477481389577,51.3985573,MultiPolygon
+way,1419710850,,healthcare_gps,-0.16765406501063118,51.4439809,MultiPolygon
+way,1473808076,Tessa Jowell Health Centre,healthcare_gps,-0.08036057932773169,51.45928885,MultiPolygon
+way,1499915004,The Willow Podiatry and Osteopathy,healthcare_gps,0.2671166388717149,51.56213355,MultiPolygon
+way,1502665233,Streatham Common Practice,healthcare_gps,-0.1290588899345843,51.4159807,MultiPolygon
+way,1503213967,Chinbrook Medical Cosmetics Centre,healthcare_gps,0.023216582786885112,51.431353200000004,MultiPolygon

@@ -1,0 +1,5 @@
+borough_name,n_lsoas,older_access_mean,children_access_mean,general_access_mean,older_mismatch_mean,children_mismatch_mean,mean_imd_decile,older_access_rank,children_access_rank,older_mismatch_rank,children_mismatch_rank,case_label,borough_short
+Tower Hamlets,169,58.22,62.26,54.28,-47.33,-23.19,3.69,2,2,33,29,Deprived but highly accessible,Tower Hamlets
+Camden,130,49.46,53.58,50.08,-24.08,-19.02,5.42,7,8,24,28,Inner London high-access reference,Camden
+Richmond upon Thames,115,28.14,32.58,28.13,4.03,16.73,8.32,18,20,10,11,Affluent but lower accessibility,Richmond
+Bromley,199,19.7,24.69,20.13,14.96,22.91,7.11,29,29,3,5,Outer London high-mismatch case,Bromley

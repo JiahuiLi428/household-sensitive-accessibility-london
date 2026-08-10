@@ -1,0 +1,4 @@
+inference,high_high_n,high_high_share_pct
+"Analytical, unadjusted",670,13.42
+"Conditional permutation, unadjusted (9999 simulations)",964,19.3
+Conditional permutation + BH-FDR (9999 simulations),570,11.41

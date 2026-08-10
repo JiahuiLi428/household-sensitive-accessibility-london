@@ -1,0 +1,16 @@
+inference,lisa_cluster,n_lsoas,share_lsoas_pct
+"Analytical, unadjusted",Low-low surplus cluster,888,17.78
+"Analytical, unadjusted",Not significant,3365,67.38
+"Analytical, unadjusted",High-high mismatch cluster,670,13.42
+"Analytical, unadjusted",Low-high spatial outlier,31,0.62
+"Analytical, unadjusted",High-low spatial outlier,40,0.8
+"Conditional permutation, unadjusted (9999 simulations)",Low-low surplus cluster,987,19.76
+"Conditional permutation, unadjusted (9999 simulations)",Not significant,2921,58.49
+"Conditional permutation, unadjusted (9999 simulations)",Low-high spatial outlier,65,1.3
+"Conditional permutation, unadjusted (9999 simulations)",High-high mismatch cluster,964,19.3
+"Conditional permutation, unadjusted (9999 simulations)",High-low spatial outlier,57,1.14
+Conditional permutation + BH-FDR (9999 simulations),Low-low surplus cluster,700,14.02
+Conditional permutation + BH-FDR (9999 simulations),Not significant,3680,73.69
+Conditional permutation + BH-FDR (9999 simulations),High-high mismatch cluster,570,11.41
+Conditional permutation + BH-FDR (9999 simulations),Low-high spatial outlier,22,0.44
+Conditional permutation + BH-FDR (9999 simulations),High-low spatial outlier,22,0.44

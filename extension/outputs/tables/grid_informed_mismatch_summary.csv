@@ -1,0 +1,4 @@
+group,n_lsoas,mean_original_mismatch,mean_grid_mean_mismatch,mean_lowest_decile_mismatch,original_high_high_count,grid_high_high_count
+children_and_adolescents,4992,0,0,0,719,780
+caregiving_adults,4992,0,0,0,670,677
+older_adults,4992,0.001,0.001,0.001,861,883

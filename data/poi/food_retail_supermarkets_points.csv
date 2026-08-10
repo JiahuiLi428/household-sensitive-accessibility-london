@@ -1,0 +1,1259 @@
+osm_type,osm_id,name,category,lon,lat,source_geometry_type
+node,26618618,M&S Foodhall,food_retail_supermarkets,-0.1420408,51.53781,Point
+node,26819169,Waitrose,food_retail_supermarkets,-0.1872591,51.516488,Point
+node,31472695,Siragro Food & Wine,food_retail_supermarkets,-0.3197216,51.551496,Point
+node,36312259,Co-op Food,food_retail_supermarkets,-0.1610793,51.3651976,Point
+node,45274552,Co-op Food,food_retail_supermarkets,0.2333935,51.5935962,Point
+node,49233948,Sainsbury's New Barnet,food_retail_supermarkets,-0.1714391,51.6495733,Point
+node,49311845,Waitrose,food_retail_supermarkets,-0.2039214,51.6559569,Point
+node,243583757,Lidl,food_retail_supermarkets,-0.04804,51.4252759,Point
+node,243584788,Lidl,food_retail_supermarkets,-0.0262991,51.4263195,Point
+node,246116024,Tesco,food_retail_supermarkets,-0.1467756,51.4533735,Point
+node,248444186,Co-op Food,food_retail_supermarkets,-0.0905348,51.5256052,Point
+node,254383447,Lidl,food_retail_supermarkets,-0.0802413,51.532981,Point
+node,262411966,China Ark,food_retail_supermarkets,-0.0525884,51.5203402,Point
+node,263018277,Whole Foods Market,food_retail_supermarkets,-0.0752635,51.5622036,Point
+node,265255750,"Drinks, Food And Wine",food_retail_supermarkets,-0.2871931,51.5101799,Point
+node,279651368,Arsenal Mini Mart,food_retail_supermarkets,-0.111026,51.5538294,Point
+node,282618049,Co-op Food,food_retail_supermarkets,-0.0992896,51.5004995,Point
+node,285921198,Waitrose,food_retail_supermarkets,-0.0921222,51.5222888,Point
+node,291666435,Tesco Express,food_retail_supermarkets,-0.070647,51.387036,Point
+node,296014936,Costless Supermarket,food_retail_supermarkets,-0.1677061,51.5251868,Point
+node,299443505,Planet Organic,food_retail_supermarkets,-0.0994848,51.5378737,Point
+node,300612033,M&S Foodhall,food_retail_supermarkets,-0.0253471,51.4093012,Point
+node,304421999,Supersave Food & Wine,food_retail_supermarkets,-0.2463002,51.535802,Point
+node,304690532,Pak Discount Cash & Carry,food_retail_supermarkets,-0.2506357,51.5387965,Point
+node,305084453,Lidl,food_retail_supermarkets,-0.2810103,51.5611699,Point
+node,312671346,Sainsbury's,food_retail_supermarkets,-0.1931919,51.4029424,Point
+node,313617786,Sriracha Market,food_retail_supermarkets,-0.2395565,51.4932737,Point
+node,317291389,M&S Foodhall,food_retail_supermarkets,-0.1336008,51.5196423,Point
+node,331880904,Budgens,food_retail_supermarkets,-0.1034635,51.5435891,Point
+node,339857059,Longdan,food_retail_supermarkets,-0.0246506,51.5684253,Point
+node,352644243,Budgens,food_retail_supermarkets,-0.2125111,51.4803248,Point
+node,367075882,Costcutter,food_retail_supermarkets,-0.097606,51.4047157,Point
+node,369975053,Organic Food Centre,food_retail_supermarkets,-0.0739597,51.5597162,Point
+node,387432650,Asda,food_retail_supermarkets,0.130167,51.4582491,Point
+node,411095362,Little Waitrose,food_retail_supermarkets,-0.192598,51.5515632,Point
+node,414230664,Lina Food Centre,food_retail_supermarkets,0.0059555,51.5328914,Point
+node,420738697,Lidl,food_retail_supermarkets,0.0148911,51.4040111,Point
+node,425907411,The Co-operative Food,food_retail_supermarkets,0.0341609,51.3932665,Point
+node,426001389,The Co-operative Food,food_retail_supermarkets,-0.089194,51.5356791,Point
+node,448750353,M&S Simply Food,food_retail_supermarkets,0.2498087,51.5583267,Point
+node,452168084,Green Valley,food_retail_supermarkets,-0.1622861,51.5151994,Point
+node,453670078,Waitrose,food_retail_supermarkets,-0.2191224,51.506411,Point
+node,459786453,Costcutter,food_retail_supermarkets,-0.1106833,51.5987065,Point
+node,482835037,Lidl,food_retail_supermarkets,-0.0947626,51.4868967,Point
+node,502010829,So Real,food_retail_supermarkets,-0.065799,51.568775,Point
+node,506326945,Spar,food_retail_supermarkets,-0.113791,51.4993973,Point
+node,506351494,Kollos Supermarket,food_retail_supermarkets,-0.0728931,51.5634509,Point
+node,510606735,Sainsbury's,food_retail_supermarkets,-0.0732063,51.547484,Point
+node,511168315,Planet Organic,food_retail_supermarkets,-0.1911509,51.515552,Point
+node,528136443,Waitrose,food_retail_supermarkets,-0.1239343,51.5795019,Point
+node,533720901,Sainsbury's,food_retail_supermarkets,-0.4747792,51.5485855,Point
+node,535936545,Lidl,food_retail_supermarkets,-0.0610958,51.5868126,Point
+node,548204081,Food Bazaar,food_retail_supermarkets,-0.0978701,51.5392452,Point
+node,552439299,Co-op Food,food_retail_supermarkets,-0.3061477,51.5000156,Point
+node,571285800,Sainsbury's,food_retail_supermarkets,-0.0013384,51.5417035,Point
+node,587754776,Greensmiths,food_retail_supermarkets,-0.1123721,51.500924,Point
+node,596786062,Waitrose,food_retail_supermarkets,-0.179645,51.5464243,Point
+node,597237387,Tesco,food_retail_supermarkets,0.1639417,51.598887,Point
+node,610453006,Lidl,food_retail_supermarkets,-0.2185824,51.5032216,Point
+node,631450335,Bumblebee Natural Foods,food_retail_supermarkets,-0.1304196,51.5497897,Point
+node,632550029,Sainsbury's,food_retail_supermarkets,-0.303411,51.4097308,Point
+node,647005382,M&S Food,food_retail_supermarkets,-0.1267022,51.5326493,Point
+node,655197621,Q Stores,food_retail_supermarkets,-0.1780135,51.6165904,Point
+node,660899264,The 99p shop,food_retail_supermarkets,-0.0739865,51.5611161,Point
+node,675748021,Lidl,food_retail_supermarkets,-0.0814561,51.6504896,Point
+node,676071755,Aldi,food_retail_supermarkets,-0.0966034,51.5765714,Point
+node,677228899,Iceland,food_retail_supermarkets,-0.3551755,51.5635945,Point
+node,689563111,Sainsbury's,food_retail_supermarkets,-0.030627,51.4059642,Point
+node,692162503,Amazon Fresh,food_retail_supermarkets,-0.0848775,51.5125242,Point
+node,693728392,The Co-operative Food,food_retail_supermarkets,-0.0577434,51.4062571,Point
+node,701538560,Addis Food and Wine,food_retail_supermarkets,-0.1046361,51.5533382,Point
+node,712768510,Waitrose,food_retail_supermarkets,-0.1027254,51.524152,Point
+node,763574976,The Co-operative Food,food_retail_supermarkets,0.0936301,51.4572755,Point
+node,835785497,Little Waitrose,food_retail_supermarkets,-0.2163434,51.3587154,Point
+node,842436325,M&S Food,food_retail_supermarkets,-0.1354683,51.5651738,Point
+node,885372058,Nisa Local,food_retail_supermarkets,-0.0780602,51.6522338,Point
+node,885683227,City Road Supermarket,food_retail_supermarkets,-0.0972154,51.5292775,Point
+node,935555304,Iceland,food_retail_supermarkets,-0.2524358,51.5612397,Point
+node,940335848,Planet Organic,food_retail_supermarkets,-0.3047286,51.5118474,Point
+node,954345457,Smart,food_retail_supermarkets,-0.1869563,51.5109354,Point
+node,1000463949,Empire,food_retail_supermarkets,-0.28646,51.5100189,Point
+node,1012420461,International Supermarket,food_retail_supermarkets,0.0251881,51.5934277,Point
+node,1024136518,The Source Bulk Foods,food_retail_supermarkets,-0.1240837,51.5785534,Point
+node,1096305316,Ealing Supermarket,food_retail_supermarkets,-0.3066355,51.5001176,Point
+node,1097959384,Neighbourhood Grocers,food_retail_supermarkets,-0.3063405,51.4991958,Point
+node,1104936815,Metro Food Centre,food_retail_supermarkets,-0.0041542,51.5900585,Point
+node,1112173774,Whole Foods Market,food_retail_supermarkets,-0.1666907,51.4637582,Point
+node,1112279406,Waitrose,food_retail_supermarkets,-0.1677865,51.4626128,Point
+node,1129189918,Lidl,food_retail_supermarkets,-0.1923342,51.3622499,Point
+node,1132689647,Sainsbury's,food_retail_supermarkets,-0.1481762,51.3583294,Point
+node,1149802733,Bottega Italia,food_retail_supermarkets,-0.1324714,51.5646214,Point
+node,1183415035,Aldi,food_retail_supermarkets,-0.4742683,51.5145616,Point
+node,1202312485,Co-op Food,food_retail_supermarkets,-0.323031,51.4495755,Point
+node,1242482560,Aldi,food_retail_supermarkets,-0.1809041,51.5479103,Point
+node,1271493960,Chelsea farm,food_retail_supermarkets,-0.1826036,51.4848317,Point
+node,1312678769,Lidl,food_retail_supermarkets,-0.3849345,51.5953653,Point
+node,1319523746,Aldi,food_retail_supermarkets,-0.3991261,51.5792022,Point
+node,1321888824,Lidl,food_retail_supermarkets,-0.0010622,51.5417094,Point
+node,1321939437,Loon Fung,food_retail_supermarkets,-0.0012258,51.5416185,Point
+node,1324709957,Tesco Express,food_retail_supermarkets,-0.2428552,51.5963268,Point
+node,1333431580,Lituanica,food_retail_supermarkets,0.0627241,51.5164669,Point
+node,1375514254,Waitrose & Partners,food_retail_supermarkets,-0.3289565,51.4484848,Point
+node,1490044833,Lidl,food_retail_supermarkets,-0.3369249,51.580285,Point
+node,1507914720,Co-Operative,food_retail_supermarkets,-0.0814627,51.6457017,Point
+node,1538888927,Village wholefoods,food_retail_supermarkets,-0.1163324,51.5367562,Point
+node,1567342580,Co-op Food,food_retail_supermarkets,-0.2150974,51.5572104,Point
+node,1569415538,Waitrose,food_retail_supermarkets,-0.3058558,51.4111573,Point
+node,1600339691,M&S Simply Food,food_retail_supermarkets,-0.1252823,51.6335411,Point
+node,1631432624,Dacha Russian and Eastern European Shop,food_retail_supermarkets,-0.1586196,51.5819338,Point
+node,1634359228,Tesco Express,food_retail_supermarkets,-0.1998182,51.6531662,Point
+node,1634398576,Village Food Centre,food_retail_supermarkets,-0.2013645,51.6541733,Point
+node,1640218897,Waitrose,food_retail_supermarkets,-0.0841614,51.6517074,Point
+node,1667374985,Sainsbury's,food_retail_supermarkets,-0.195038,51.4808003,Point
+node,1668630326,Lidl,food_retail_supermarkets,0.1190726,51.4959114,Point
+node,1668640307,Co-op Food,food_retail_supermarkets,0.1137149,51.4873675,Point
+node,1692903432,M&S Simply Food,food_retail_supermarkets,-0.3054997,51.3925319,Point
+node,1699816075,Lidl,food_retail_supermarkets,-0.3100315,51.3604903,Point
+node,1708718478,Waitrose,food_retail_supermarkets,-0.0167335,51.5046343,Point
+node,1716036953,Asda,food_retail_supermarkets,-0.0247563,51.5828635,Point
+node,1728823903,Sainsbury's,food_retail_supermarkets,0.1492248,51.4561921,Point
+node,1799402605,Little Waitrose,food_retail_supermarkets,-0.219429,51.483934,Point
+node,1873309077,,food_retail_supermarkets,-0.0741708,51.4990754,Point
+node,1887555582,Lidl,food_retail_supermarkets,-0.1295659,51.4310043,Point
+node,1893982006,Costcutter,food_retail_supermarkets,0.0529398,51.4669777,Point
+node,1940052292,Lidl,food_retail_supermarkets,-0.1937558,51.4013351,Point
+node,1993188867,Tesco Express,food_retail_supermarkets,-0.2812476,51.5852933,Point
+node,2006375680,Whole Foods Market,food_retail_supermarkets,-0.0844427,51.5179134,Point
+node,2025485255,Oseyo,food_retail_supermarkets,-0.107041,51.533804,Point
+node,2026133641,Foodways,food_retail_supermarkets,-0.1672832,51.4791141,Point
+node,2091367254,Co-op Food,food_retail_supermarkets,0.0286728,51.5913359,Point
+node,2096457002,Orion,food_retail_supermarkets,-0.285688,51.4774611,Point
+node,2195957055,Bengali Fonga Market,food_retail_supermarkets,-0.0585012,51.5271873,Point
+node,2207345846,St. Marcus,food_retail_supermarkets,-0.2500213,51.4632814,Point
+node,2238113479,The Co-operative Food,food_retail_supermarkets,-0.1704756,51.4791352,Point
+node,2288431435,Nisa Local,food_retail_supermarkets,-0.3368802,51.5555985,Point
+node,2293040160,Wing Yip,food_retail_supermarkets,-0.2291356,51.5672269,Point
+node,2301522009,Lidl,food_retail_supermarkets,-0.350475,51.527239,Point
+node,2316983587,Cumberland Food & Wine,food_retail_supermarkets,-0.1594742,51.5140743,Point
+node,2319693669,Co-op Food,food_retail_supermarkets,-0.373975,51.544482,Point
+node,2323026541,Co-operative Food,food_retail_supermarkets,-0.3944342,51.5351923,Point
+node,2326315391,Tesco,food_retail_supermarkets,0.082181,51.5859108,Point
+node,2327367004,Longdan,food_retail_supermarkets,-0.098029,51.491484,Point
+node,2333320760,Euromax Market,food_retail_supermarkets,-0.100231,51.5841458,Point
+node,2341125366,Ari Food Centre,food_retail_supermarkets,-0.1769398,51.6132731,Point
+node,2375236954,Waitrose,food_retail_supermarkets,-0.0156614,51.4823225,Point
+node,2429826564,Londis,food_retail_supermarkets,-0.167622,51.4275642,Point
+node,2429828501,Aldi,food_retail_supermarkets,-0.1670006,51.4287571,Point
+node,2437755947,Local Express,food_retail_supermarkets,-0.1291364,51.6489462,Point
+node,2445328601,Express Supermarket,food_retail_supermarkets,-0.0522225,51.6355831,Point
+node,2451262443,Lidl,food_retail_supermarkets,-0.0597461,51.6246547,Point
+node,2478124996,The Co-operative Food,food_retail_supermarkets,0.0506202,51.456844,Point
+node,2481856556,Budgens,food_retail_supermarkets,-0.1317226,51.5577007,Point
+node,2493885160,Naz Food Centre,food_retail_supermarkets,-0.3356392,51.5801903,Point
+node,2522664025,Co-op Food,food_retail_supermarkets,0.1992338,51.5488986,Point
+node,2522666611,Sainsbury's,food_retail_supermarkets,0.180272,51.5751744,Point
+node,2530634771,Co-op Food,food_retail_supermarkets,0.070926,51.4384069,Point
+node,2563680049,Lidl,food_retail_supermarkets,-0.005146,51.4604134,Point
+node,2622422137,Londis,food_retail_supermarkets,-0.1445504,51.5291262,Point
+node,2626187868,Neel's news,food_retail_supermarkets,-0.1436484,51.5283956,Point
+node,2626207028,Robert Street Supermarket,food_retail_supermarkets,-0.1434343,51.5283433,Point
+node,2793137225,Westbourne Nogs Grocery,food_retail_supermarkets,-0.1961853,51.5190088,Point
+node,2906520923,Lidl,food_retail_supermarkets,-0.4836689,51.53523,Point
+node,2931951408,Londis,food_retail_supermarkets,0.0073691,51.618556,Point
+node,2990692742,Lidl,food_retail_supermarkets,-0.2639412,51.564695,Point
+node,3041707059,Whole Foods Market,food_retail_supermarkets,-0.1360939,51.5105264,Point
+node,3066007494,Londis,food_retail_supermarkets,-0.1580402,51.455582,Point
+node,3086703847,Olive Tree Organic,food_retail_supermarkets,-0.1096276,51.588854,Point
+node,3130095871,Oncu Food,food_retail_supermarkets,-0.0515252,51.6357228,Point
+node,3138276750,Asda,food_retail_supermarkets,-0.0460313,51.6416535,Point
+node,3152358847,Morrisons,food_retail_supermarkets,-0.1105006,51.6175918,Point
+node,3160179099,Booze Store,food_retail_supermarkets,-0.0738625,51.6523171,Point
+node,3163051609,The Source Bulk Foods,food_retail_supermarkets,-0.1667529,51.4609137,Point
+node,3179049020,Lidl,food_retail_supermarkets,-0.3402487,51.5420925,Point
+node,3190931061,Costcutter,food_retail_supermarkets,-0.1327877,51.4904091,Point
+node,3202320667,Pricewise Food & Wine,food_retail_supermarkets,-0.179954,51.5470224,Point
+node,3202935071,The Bounds Greens,food_retail_supermarkets,-0.1245494,51.6071536,Point
+node,3216125760,Lidl,food_retail_supermarkets,-0.3362529,51.5081155,Point
+node,3217518263,Ozdiller Supermarket,food_retail_supermarkets,-0.0699827,51.5923802,Point
+node,3249150758,Tesco Express,food_retail_supermarkets,-0.216861,51.531313,Point
+node,3340248584,Mor Foods,food_retail_supermarkets,-0.3783882,51.5076573,Point
+node,3357928801,M&S Simply Food,food_retail_supermarkets,-0.1428187,51.5069399,Point
+node,3357928802,M&S Simply Food,food_retail_supermarkets,-0.149711,51.5139709,Point
+node,3384334001,Aldi,food_retail_supermarkets,-0.0752895,51.5213413,Point
+node,3406254803,Foodland Supermarket,food_retail_supermarkets,-0.1000826,51.3854688,Point
+node,3412445293,Sahar,food_retail_supermarkets,-0.2451289,51.5359863,Point
+node,3455881294,Way 2 Save,food_retail_supermarkets,-0.247632,51.5362751,Point
+node,3536507882,Sainsbury's,food_retail_supermarkets,-0.0660883,51.6060531,Point
+node,3559809293,Mestizo Mexican Market,food_retail_supermarkets,-0.1388052,51.5275278,Point
+node,3606132322,E1 Local,food_retail_supermarkets,-0.0675928,51.5147715,Point
+node,3660611628,Geranium,food_retail_supermarkets,-0.0967055,51.5198011,Point
+node,3664425342,Tawana Oriental Supermarket,food_retail_supermarkets,-0.1951537,51.5158124,Point
+node,3668994573,Co-op Food,food_retail_supermarkets,-0.200867,51.4749229,Point
+node,3706671121,Cooperative Food,food_retail_supermarkets,-0.0865371,51.3804446,Point
+node,3749907547,Co-op Food,food_retail_supermarkets,-0.1392317,51.4547854,Point
+node,3760471134,Tolian's,food_retail_supermarkets,-0.1602435,51.4355303,Point
+node,3774627180,Waitrose,food_retail_supermarkets,-0.1351202,51.4824122,Point
+node,3780741648,Lidl,food_retail_supermarkets,-0.1182482,51.5573797,Point
+node,3781060735,Al-Dimashqi,food_retail_supermarkets,-0.2294641,51.5061545,Point
+node,3782253783,Premier Food & Wine,food_retail_supermarkets,-0.2393284,51.5063508,Point
+node,3813667444,M&S Food,food_retail_supermarkets,-0.0899332,51.5256623,Point
+node,3827778657,Co-op Food,food_retail_supermarkets,0.10767,51.5203298,Point
+node,3838023409,Waitrose,food_retail_supermarkets,-0.1235071,51.5360857,Point
+node,3865853877,Chung Hwa Hong Supermarket,food_retail_supermarkets,-0.1030974,51.5908184,Point
+node,3880588727,Fodal Oriental Supermarket,food_retail_supermarkets,-0.0247915,51.492379,Point
+node,3883368417,Asda,food_retail_supermarkets,0.0772175,51.5372955,Point
+node,3889304773,The Co-operative Food,food_retail_supermarkets,-0.0437743,51.4587815,Point
+node,4042751190,Food Inn,food_retail_supermarkets,0.0102401,51.5168879,Point
+node,4046850724,Co-op Food,food_retail_supermarkets,-0.1097246,51.5532657,Point
+node,4086368559,Co-op Food,food_retail_supermarkets,-0.0104819,51.4421569,Point
+node,4118379689,Turkish Food Centre,food_retail_supermarkets,-0.0952901,51.4751538,Point
+node,4134951796,Lituanica,food_retail_supermarkets,0.0791513,51.5372192,Point
+node,4140733554,Co-op Food,food_retail_supermarkets,-0.1974364,51.5631652,Point
+node,4144460294,Aldi,food_retail_supermarkets,-0.3012279,51.410248,Point
+node,4159875453,Aldi,food_retail_supermarkets,-0.2065995,51.4207167,Point
+node,4160210092,Save More,food_retail_supermarkets,-0.1799277,51.5419504,Point
+node,4221818850,Mega Saver,food_retail_supermarkets,-0.0512902,51.4136447,Point
+node,4221856326,Penge Food Centre,food_retail_supermarkets,-0.0510461,51.4132546,Point
+node,4223525791,Kosher Kingdom,food_retail_supermarkets,-0.2071754,51.5780594,Point
+node,4264086047,The Savanna,food_retail_supermarkets,-0.2302028,51.4087864,Point
+node,4286153589,Londis,food_retail_supermarkets,-0.1453382,51.5550333,Point
+node,4303522368,Morrisons,food_retail_supermarkets,-0.3040427,51.5135148,Point
+node,4307584366,M&S Foodhall,food_retail_supermarkets,-0.2057969,51.4453634,Point
+node,4314954442,Corner Shop,food_retail_supermarkets,-0.0435749,51.4351015,Point
+node,4346355395,Brazilian Centre,food_retail_supermarkets,-0.1238649,51.4714087,Point
+node,4346373064,Iceland,food_retail_supermarkets,-0.1247946,51.4706032,Point
+node,4347080456,Way 2 Save,food_retail_supermarkets,-0.2403299,51.5784618,Point
+node,4365108690,Rice Wine Shop,food_retail_supermarkets,-0.1370793,51.5107731,Point
+node,4366145291,Lidl,food_retail_supermarkets,-0.1849547,51.4304194,Point
+node,4378529094,Aldi,food_retail_supermarkets,-0.4015165,51.5596941,Point
+node,4378607690,B&M Stores,food_retail_supermarkets,-0.4012394,51.5594869,Point
+node,4478054555,Co-op Food,food_retail_supermarkets,-0.0729975,51.5003383,Point
+node,4505132707,Iceland,food_retail_supermarkets,-0.0039575,51.4240895,Point
+node,4516116889,Premier Shop,food_retail_supermarkets,0.1176371,51.5547957,Point
+node,4532005547,Off License - Mini-Market,food_retail_supermarkets,0.0062367,51.5329423,Point
+node,4534008526,Aseda Trading,food_retail_supermarkets,0.0053491,51.5492384,Point
+node,4539458304,Highbury Natural,food_retail_supermarkets,-0.0982801,51.5541542,Point
+node,4539987998,Bubboo Oriental Grocery,food_retail_supermarkets,-0.2081849,51.4212493,Point
+node,4545980436,Co-op Food,food_retail_supermarkets,-0.0266174,51.5997655,Point
+node,4547336357,Sri Supermarket,food_retail_supermarkets,0.0396044,51.5481008,Point
+node,4566929649,Lidl,food_retail_supermarkets,-0.1943398,51.4556519,Point
+node,4607621637,Jiahe Supermarket,food_retail_supermarkets,-0.103058,51.5913373,Point
+node,4607846801,Sulaymaniyah Intl Food Centre,food_retail_supermarkets,-0.1065807,51.5935979,Point
+node,4611955984,Shilpa's News,food_retail_supermarkets,-0.1648743,51.3789313,Point
+node,4621453392,The Co-operative Food,food_retail_supermarkets,-0.436119,51.4875928,Point
+node,4639651360,Abis Cash & Carry,food_retail_supermarkets,-0.3555626,51.5627774,Point
+node,4654216352,Nisa Extra,food_retail_supermarkets,0.1063964,51.6082719,Point
+node,4737684218,Planet Organic,food_retail_supermarkets,-0.1458415,51.5893981,Point
+node,4741418424,Longdan,food_retail_supermarkets,-0.0767315,51.527743,Point
+node,4742984364,Rayners Food Centre,food_retail_supermarkets,-0.3709634,51.5771561,Point
+node,4743587524,Co-op Food,food_retail_supermarkets,0.2183452,51.6068097,Point
+node,4756123398,Rayners Lane Supermarket,food_retail_supermarkets,-0.3713252,51.57673,Point
+node,4777049743,Sainsbury's Local,food_retail_supermarkets,-0.250755,51.5953781,Point
+node,4795415648,M&S Foodhall,food_retail_supermarkets,0.0706774,51.491618,Point
+node,4878468498,陽城海鮮舫 Young Cheng Fresh Seafood Shop,food_retail_supermarkets,-0.1318603,51.5117382,Point
+node,4881184046,Sainsbury's,food_retail_supermarkets,-0.0976395,51.4945704,Point
+node,4899105377,Co-op Food,food_retail_supermarkets,-0.1137627,51.5218271,Point
+node,4928975298,Brixton Food & WIne,food_retail_supermarkets,-0.1131239,51.4543767,Point
+node,4947820486,Greens on the Hill,food_retail_supermarkets,-0.1415187,51.5914148,Point
+node,5007757613,Tesco,food_retail_supermarkets,-0.2491087,51.5064825,Point
+node,5052266454,Phambra Food Store,food_retail_supermarkets,-0.1265723,51.4503674,Point
+node,5061630777,Moon Cash & Carry,food_retail_supermarkets,-0.37156,51.5733956,Point
+node,5061630783,Sriram Cash & Carry,food_retail_supermarkets,-0.3709335,51.5767285,Point
+node,5071317280,Partridges,food_retail_supermarkets,-0.1835581,51.4983571,Point
+node,5094723052,St. Helier Food & Wine,food_retail_supermarkets,-0.1775395,51.3757313,Point
+node,5100071656,Hiep Phat Vietnamese Supermarket,food_retail_supermarkets,-0.095839,51.4888156,Point
+node,5101640776,Global Food Store,food_retail_supermarkets,-0.1921449,51.4022507,Point
+node,5122195005,North West International Supermarket,food_retail_supermarkets,-0.3330772,51.5818797,Point
+node,5124026525,Costcutter,food_retail_supermarkets,-0.1805339,51.3698695,Point
+node,5135771797,M&S Foodhall,food_retail_supermarkets,-0.3390786,51.5420387,Point
+node,5141294130,Lidl,food_retail_supermarkets,-0.1198445,51.3739312,Point
+node,5181353523,M&S Foodhall,food_retail_supermarkets,-0.226367,51.492729,Point
+node,5188912373,Co-op Food,food_retail_supermarkets,-0.0748887,51.5461174,Point
+node,5188912377,Co-op Food,food_retail_supermarkets,-0.2256884,51.5898247,Point
+node,5204303823,Martin’s,food_retail_supermarkets,-0.2693464,51.6264881,Point
+node,5283782511,Triple A Cash and Carry,food_retail_supermarkets,-0.294836,51.5958565,Point
+node,5319160299,Little Waitrose,food_retail_supermarkets,-0.1949205,51.6000852,Point
+node,5324642162,Jumbo,food_retail_supermarkets,-0.1243123,51.5078456,Point
+node,5329694988,Co-op Food,food_retail_supermarkets,-0.1484124,51.4486452,Point
+node,5352806574,Co-op Food,food_retail_supermarkets,-0.314376,51.4890261,Point
+node,5352808140,Lidl,food_retail_supermarkets,-0.0222858,51.584195,Point
+node,5377811705,Mixas,food_retail_supermarkets,0.1776323,51.580812,Point
+node,5418562421,AP Food Express,food_retail_supermarkets,-0.1178642,51.5009173,Point
+node,5438825599,Co-op Food,food_retail_supermarkets,-0.2318811,51.4095417,Point
+node,5486109122,Japan Centre,food_retail_supermarkets,-0.1315194,51.509714,Point
+node,5534218615,Lidl,food_retail_supermarkets,-0.106645,51.5938278,Point
+node,5545009802,Ecklee,food_retail_supermarkets,-0.2378198,51.3950096,Point
+node,5550231148,Co-op Food,food_retail_supermarkets,-0.0341076,51.4591018,Point
+node,5563823970,Oseyo,food_retail_supermarkets,-0.1103454,51.5023251,Point
+node,5574638795,Co-op Food,food_retail_supermarkets,-0.0404116,51.587911,Point
+node,5575759222,Co-op Food,food_retail_supermarkets,-0.2950376,51.3847483,Point
+node,5576016360,Little Waitrose,food_retail_supermarkets,-0.2909819,51.5163909,Point
+node,5601093318,Soho Express,food_retail_supermarkets,-0.1373997,51.5153686,Point
+node,5617880813,U.see.inn Continental Supermarket,food_retail_supermarkets,-0.1179354,51.5450488,Point
+node,5634050684,Vital Ingredient,food_retail_supermarkets,-0.1419871,51.5132986,Point
+node,5678299606,M&S Foodhall,food_retail_supermarkets,-0.0756727,51.5479875,Point
+node,5686403843,Lidl,food_retail_supermarkets,0.0349308,51.536038,Point
+node,5731014668,Wa Na Hong Oriental Supermarket,food_retail_supermarkets,-0.0045231,51.5462184,Point
+node,5749900022,M&S Simply Food,food_retail_supermarkets,-0.24918,51.6141088,Point
+node,5762034700,Food 4 Less,food_retail_supermarkets,-0.2665262,51.6009418,Point
+node,5777433430,A Day Fresh,food_retail_supermarkets,-0.2774743,51.5977717,Point
+node,5777433451,Gayatri,food_retail_supermarkets,-0.3336309,51.5809096,Point
+node,5777436357,Hak Food Centre,food_retail_supermarkets,-0.2783117,51.5981221,Point
+node,5809993972,Co-op Food,food_retail_supermarkets,-0.0381619,51.3508737,Point
+node,5839747185,The Fruit Garden,food_retail_supermarkets,-0.1593475,51.5227275,Point
+node,5842529138,Istanbul,food_retail_supermarkets,-0.0501125,51.4261098,Point
+node,5842529169,Endora House Food & Wine,food_retail_supermarkets,-0.0528822,51.4261599,Point
+node,5842529172,PFC,food_retail_supermarkets,-0.0518287,51.426015,Point
+node,5842529986,To Tu Polish Food Shop,food_retail_supermarkets,-0.0481939,51.4255895,Point
+node,5842530008,S K Food & Wine,food_retail_supermarkets,-0.0443731,51.4255549,Point
+node,5842530009,Istanbul Supermarket,food_retail_supermarkets,-0.0434787,51.4257273,Point
+node,5856741886,Hoxton Brothers,food_retail_supermarkets,-0.0803896,51.5338081,Point
+node,5892620652,The Co-operative Food,food_retail_supermarkets,-0.1059241,51.4087795,Point
+node,5893194785,Seoul Plaza,food_retail_supermarkets,-0.1963688,51.571832,Point
+node,5910469867,Co-op Food,food_retail_supermarkets,0.0010876,51.3696409,Point
+node,5916003255,ALDI,food_retail_supermarkets,0.0222533,51.4908886,Point
+node,5917851216,Iceland,food_retail_supermarkets,-0.2703528,51.6027325,Point
+node,5920551655,The Food Warehouse,food_retail_supermarkets,-0.0617439,51.58653,Point
+node,5941322050,The Co-operative Food,food_retail_supermarkets,-0.1735696,51.3567786,Point
+node,5951006160,Oriental Supermarket,food_retail_supermarkets,-0.0870768,51.5297685,Point
+node,5959453012,Co-op Food,food_retail_supermarkets,-0.0469275,51.3753241,Point
+node,5966233132,The Co-operative Food,food_retail_supermarkets,-0.040214,51.3859741,Point
+node,5998125898,Bangla Bazar Cash & Carry,food_retail_supermarkets,-0.0332748,51.5133652,Point
+node,5999891650,Co-op Food,food_retail_supermarkets,-0.0162257,51.3423401,Point
+node,5999893289,Tropical Essentials Supermarket,food_retail_supermarkets,-0.0137921,51.3407218,Point
+node,6032700640,Co-op Food,food_retail_supermarkets,-0.1322804,51.3996958,Point
+node,6065970593,Co-operative Food,food_retail_supermarkets,-0.18108,51.5859381,Point
+node,6119888179,Co-op Food,food_retail_supermarkets,0.0246253,51.5492122,Point
+node,6121422480,Wallington Food Centre,food_retail_supermarkets,-0.1505781,51.3611749,Point
+node,6143757027,Asda,food_retail_supermarkets,-0.0165929,51.4651052,Point
+node,6167219574,Aldi,food_retail_supermarkets,-0.1788224,51.4159213,Point
+node,6177241385,oseyo,food_retail_supermarkets,-0.1420206,51.5387036,Point
+node,6228055948,Co-op Food,food_retail_supermarkets,-0.3259981,51.4684268,Point
+node,6236246263,Co-op Food,food_retail_supermarkets,-0.2062613,51.5370776,Point
+node,6293868956,Green Lanes Surgery & Pharmacy,food_retail_supermarkets,-0.0940168,51.6330775,Point
+node,6344914483,The Battersea General Store,food_retail_supermarkets,-0.1461241,51.4821824,Point
+node,6345933555,Waitrose,food_retail_supermarkets,-0.0939689,51.6353261,Point
+node,6355765327,Waitrose,food_retail_supermarkets,-0.2333804,51.4091848,Point
+node,6364969833,Loco Food Centre,food_retail_supermarkets,-0.0794435,51.5853717,Point
+node,6383492424,Hao Wah Chinese Supermarket,food_retail_supermarkets,-0.0727224,51.4735144,Point
+node,6398254837,Sainsbury's,food_retail_supermarkets,-0.1172394,51.5887683,Point
+node,6400858469,Kim Lien Mini Market,food_retail_supermarkets,-0.0711597,51.4734823,Point
+node,6411592661,Market Basket,food_retail_supermarkets,-0.0983831,51.5874728,Point
+node,6427869152,Nadeem Halal Meat & Grocery,food_retail_supermarkets,-0.0218752,51.5716519,Point
+node,6427869181,Madina Cash & Carry,food_retail_supermarkets,-0.0233654,51.5711427,Point
+node,6427869183,KGN Wholesale & Retail,food_retail_supermarkets,-0.0237186,51.5709971,Point
+node,6429327324,M&S Foodhall,food_retail_supermarkets,-0.1161265,51.5030908,Point
+node,6457582588,Kumasi Market,food_retail_supermarkets,-0.0695651,51.4735025,Point
+node,6468424873,Gulf market,food_retail_supermarkets,-0.1707062,51.5205928,Point
+node,6481670414,Abad Halal Supermarket,food_retail_supermarkets,-0.1019734,51.3736408,Point
+node,6484540985,Sainsbury's,food_retail_supermarkets,-0.3249925,51.5093401,Point
+node,6484563330,Lidl,food_retail_supermarkets,-0.3247831,51.5101966,Point
+node,6493574952,Sindbad,food_retail_supermarkets,-0.1708282,51.523213,Point
+node,6506185325,Co-op Food,food_retail_supermarkets,-0.2792688,51.5594971,Point
+node,6530436180,Panzer's Delicatessen,food_retail_supermarkets,-0.1722834,51.533457,Point
+node,6553257206,Waitrose,food_retail_supermarkets,-0.2226177,51.5773482,Point
+node,6557110190,CEO African Caribbean Food,food_retail_supermarkets,-0.4155217,51.4400807,Point
+node,6561914324,Co-op Food,food_retail_supermarkets,-0.2230726,51.3925818,Point
+node,6576751662,Amazon Fresh,food_retail_supermarkets,-0.1942934,51.5007658,Point
+node,6614676128,La Mart,food_retail_supermarkets,-0.1961325,51.5000899,Point
+node,6634708662,Milad Supermarket,food_retail_supermarkets,-0.1893389,51.5347328,Point
+node,6658182097,Al-Shaheen Supermarket,food_retail_supermarkets,-0.1854953,51.5303171,Point
+node,6684013386,Planet Organic,food_retail_supermarkets,-0.2067383,51.5376794,Point
+node,6733456785,M&S Foodhall,food_retail_supermarkets,-0.1264305,51.4393675,Point
+node,6853206774,Co-op Food,food_retail_supermarkets,-0.1711844,51.5190651,Point
+node,7081045233,Co-op Food,food_retail_supermarkets,0.0117826,51.4970012,Point
+node,7098743790,Co-op Food,food_retail_supermarkets,-0.0382654,51.3916002,Point
+node,7098936632,M&S Simply Food,food_retail_supermarkets,-0.0177096,51.5028622,Point
+node,7099233724,Prezzemolo & Vitale,food_retail_supermarkets,-0.192678,51.5152222,Point
+node,7100813249,Tian Tian Oriental Supermarket,food_retail_supermarkets,-0.0194259,51.497837,Point
+node,7113202048,M&S Simply Food,food_retail_supermarkets,-0.1542276,51.5141984,Point
+node,7144594933,Osyeo,food_retail_supermarkets,-0.1977914,51.5090226,Point
+node,7154752434,Stroudley Walk Grocery,food_retail_supermarkets,-0.0177964,51.5277329,Point
+node,7161193877,Marks & Spencer,food_retail_supermarkets,-0.2203177,51.5086352,Point
+node,7195085686,Magaza Balkan food,food_retail_supermarkets,-0.2455666,51.5068945,Point
+node,7213715574,Ikkyu Conveni,food_retail_supermarkets,-0.209139,51.5164461,Point
+node,7223123635,R Garcia & Sons,food_retail_supermarkets,-0.2065215,51.5179567,Point
+node,7254778394,Costcutter,food_retail_supermarkets,-0.2062885,51.5234509,Point
+node,7285393185,Green Valley,food_retail_supermarkets,-0.2052195,51.4970638,Point
+node,7292418786,Whole Foods Market,food_retail_supermarkets,-0.1627763,51.4901287,Point
+node,7294365255,Forest Hill Supermarket,food_retail_supermarkets,-0.0526494,51.439003,Point
+node,7353477027,Oksa Quality Food,food_retail_supermarkets,-0.2111219,51.5124694,Point
+node,7401798496,Mieszko,food_retail_supermarkets,-0.1275065,51.436432,Point
+node,7419127852,Asda,food_retail_supermarkets,-0.331819,51.4591272,Point
+node,7476019327,Lidl,food_retail_supermarkets,0.024692,51.4895852,Point
+node,7494329143,Hanwell Local,food_retail_supermarkets,-0.3369571,51.5135396,Point
+node,7518738957,Harvest E1,food_retail_supermarkets,-0.0717791,51.5223618,Point
+node,7661179394,Morrisons,food_retail_supermarkets,0.0104157,51.5149975,Point
+node,7756557961,Co-op Food,food_retail_supermarkets,-0.021195,51.4324021,Point
+node,7768143623,Budgens,food_retail_supermarkets,-0.1643484,51.5897389,Point
+node,7768143634,Iceland,food_retail_supermarkets,-0.1644503,51.5901355,Point
+node,7780870532,Asda,food_retail_supermarkets,-0.3612375,51.4710255,Point
+node,7794844075,Sirwan Food Centre,food_retail_supermarkets,-0.1105593,51.6084579,Point
+node,7795006634,Co-op Food,food_retail_supermarkets,-0.2034133,51.4722579,Point
+node,7804014009,Ayta Food Centre,food_retail_supermarkets,-0.1175565,51.6065139,Point
+node,7833699272,Hillingdon Food Centre,food_retail_supermarkets,-0.4490171,51.5305889,Point
+node,7919827151,International Food Centre,food_retail_supermarkets,-0.1403884,51.6166635,Point
+node,7945898884,Aldi,food_retail_supermarkets,-0.1942994,51.4802146,Point
+node,7947493943,M&S Food,food_retail_supermarkets,-0.1313692,51.4261628,Point
+node,7947493944,Aldi,food_retail_supermarkets,-0.1313963,51.4262654,Point
+node,7952703024,Aldi,food_retail_supermarkets,0.1450518,51.5310218,Point
+node,7997878283,Mestizo Mexican Market,food_retail_supermarkets,-0.1773342,51.4837695,Point
+node,8006782382,Masala Bazaar,food_retail_supermarkets,0.1175303,51.5675077,Point
+node,8039470512,Co-op Food,food_retail_supermarkets,-0.0973362,51.4905137,Point
+node,8048972596,Co-op Food,food_retail_supermarkets,-0.1257514,51.5623987,Point
+node,8094461882,Lidl,food_retail_supermarkets,-0.1069023,51.4222272,Point
+node,8111715700,Cudi Food Centre,food_retail_supermarkets,-0.3212149,51.5107654,Point
+node,8118643631,M&S Simply Food,food_retail_supermarkets,-0.1979232,51.5090069,Point
+node,8176629229,Co-op Food,food_retail_supermarkets,0.0722854,51.5085552,Point
+node,8185964230,Store Park Central,food_retail_supermarkets,-0.1486815,51.4799372,Point
+node,8185964231,Market Place Store,food_retail_supermarkets,-0.1485932,51.4818466,Point
+node,8215522335,Co-op Food,food_retail_supermarkets,-0.0475799,51.4424887,Point
+node,8252199919,M & A Ghadeer Supermarket,food_retail_supermarkets,-0.3575442,51.4700219,Point
+node,8252199921,Instanbul Grand Bazaar Butcher,food_retail_supermarkets,-0.357746,51.46998,Point
+node,8252199923,Safa & Marna Supermarket,food_retail_supermarkets,-0.358027,51.4699216,Point
+node,8262526509,New Istanbul Supermarket,food_retail_supermarkets,-0.1061531,51.5775721,Point
+node,8267254209,,food_retail_supermarkets,-0.0934496,51.5905723,Point
+node,8292498877,Here Organic Warehouse,food_retail_supermarkets,-0.1699133,51.4880596,Point
+node,8294964532,Loon Fung Tottenham,food_retail_supermarkets,-0.0605488,51.6079735,Point
+node,8325026717,,food_retail_supermarkets,-0.2142044,51.3836163,Point
+node,8387554218,Costcutter,food_retail_supermarkets,-0.1667138,51.3486119,Point
+node,8415034641,Fio's Continental,food_retail_supermarkets,-0.1282551,51.6317474,Point
+node,8420901031,The Food Warehouse,food_retail_supermarkets,0.0338108,51.4893971,Point
+node,8426996702,Hyper Marché,food_retail_supermarkets,-0.3187886,51.5111067,Point
+node,8442416816,Tian Tian Market,food_retail_supermarkets,-0.0685472,51.5136558,Point
+node,8462302952,Tesco Extra,food_retail_supermarkets,0.066274,51.4892684,Point
+node,8478303117,Londis,food_retail_supermarkets,0.0010021,51.3692865,Point
+node,8519176238,Damas Food Centre,food_retail_supermarkets,-0.3221776,51.5103693,Point
+node,8577081916,Lidl,food_retail_supermarkets,-0.1647051,51.4314498,Point
+node,8579751772,Eataly,food_retail_supermarkets,-0.0801583,51.5186453,Point
+node,8590215418,Dayi,food_retail_supermarkets,-0.0865312,51.6049509,Point
+node,8613908641,Londis,food_retail_supermarkets,-0.2373857,51.509612,Point
+node,8623617101,Longdan,food_retail_supermarkets,-0.0133864,51.4579388,Point
+node,8683115809,Silverpoint Food Centre,food_retail_supermarkets,-0.0649487,51.6113674,Point
+node,8685217846,Korona,food_retail_supermarkets,-0.0180312,51.4473409,Point
+node,8739952651,,food_retail_supermarkets,0.1748582,51.4841581,Point
+node,8749595525,Co-op Food,food_retail_supermarkets,-0.2389164,51.5000485,Point
+node,8787180289,Co-op Food,food_retail_supermarkets,0.0027163,51.4875368,Point
+node,8819117409,The Boutique Grocer,food_retail_supermarkets,-0.1040028,51.5387125,Point
+node,8866647024,Kacha Bazar Extra,food_retail_supermarkets,0.0617714,51.5169382,Point
+node,8866647026,Food Bazar,food_retail_supermarkets,0.0619014,51.5173698,Point
+node,8879524885,Lidl,food_retail_supermarkets,-0.17607,51.4137249,Point
+node,8882649149,Khun Ya Thai Supermarket,food_retail_supermarkets,-0.0589384,51.498653,Point
+node,8910731540,Baghdad Food Centre,food_retail_supermarkets,-0.2550644,51.5064722,Point
+node,8983092414,Aldi,food_retail_supermarkets,-0.1188797,51.3723618,Point
+node,8994084682,Jiamart,food_retail_supermarkets,0.0308499,51.5016601,Point
+node,9005347089,Lidl,food_retail_supermarkets,-0.1554407,51.3780012,Point
+node,9140215274,Harringay Local Store,food_retail_supermarkets,-0.1001865,51.5839372,Point
+node,9173383505,Co-op Food,food_retail_supermarkets,-0.2500145,51.5948362,Point
+node,9217926517,Lidl,food_retail_supermarkets,0.15652,51.49694,Point
+node,9223751624,Lidl,food_retail_supermarkets,-0.0197393,51.3464213,Point
+node,9223751840,Lidl,food_retail_supermarkets,-0.1076062,51.5661126,Point
+node,9223766101,Lidl,food_retail_supermarkets,-0.2699911,51.5073863,Point
+node,9223793964,Lidl,food_retail_supermarkets,0.078896,51.5606,Point
+node,9223797322,Lidl,food_retail_supermarkets,-0.2275114,51.4932003,Point
+node,9238117983,The Savanna,food_retail_supermarkets,-0.0834589,51.5028483,Point
+node,9259593434,,food_retail_supermarkets,-0.2319667,51.4927022,Point
+node,9261298160,Ortadogu Supermarket,food_retail_supermarkets,-0.3554987,51.4702453,Point
+node,9275031843,Co-op Food,food_retail_supermarkets,0.0164026,51.4917522,Point
+node,9325741427,USSR Retail,food_retail_supermarkets,-0.3565885,51.4699273,Point
+node,9330504924,Fone And Vape,food_retail_supermarkets,-0.1918141,51.3608328,Point
+node,9330512024,Seoul Plaza,food_retail_supermarkets,-0.2553095,51.3982325,Point
+node,9331931815,Budgens,food_retail_supermarkets,-0.1186244,51.3641416,Point
+node,9352895797,Amazon Fresh,food_retail_supermarkets,-0.0701403,51.5135103,Point
+node,9376946885,Darbari Fancy Textiles,food_retail_supermarkets,-0.3785455,51.5112655,Point
+node,9394311262,Brazilian Delights,food_retail_supermarkets,-0.1296603,51.5490813,Point
+node,9400529805,Planet Organic,food_retail_supermarkets,-0.1748124,51.5555053,Point
+node,9405520532,M&S Foodhall,food_retail_supermarkets,-0.3811969,51.5941553,Point
+node,9419339379,1010 Supermarket,food_retail_supermarkets,-0.0745162,51.5657478,Point
+node,9429521896,River Supermarket,food_retail_supermarkets,-0.0609349,51.4982969,Point
+node,9458157054,sMart Oriental,food_retail_supermarkets,-0.1919726,51.3614729,Point
+node,9482188552,Jaz Food & Wine,food_retail_supermarkets,-0.2590682,51.5226392,Point
+node,9500905154,Riverside Supermarket,food_retail_supermarkets,-0.0315302,51.5517998,Point
+node,9519425869,M&S Food,food_retail_supermarkets,-0.107621,51.5647362,Point
+node,9533980490,Tesco Extra,food_retail_supermarkets,-0.1316223,51.4249057,Point
+node,9594279786,Budgens,food_retail_supermarkets,0.0499146,51.3901726,Point
+node,9594404731,Chase Supermarket,food_retail_supermarkets,-0.0911848,51.6533208,Point
+node,9615138160,East Europe Food,food_retail_supermarkets,-0.3370573,51.5140347,Point
+node,9645645049,Tian Tian Market,food_retail_supermarkets,0.0097155,51.5144522,Point
+node,9657815966,Aldi,food_retail_supermarkets,-0.2233351,51.3759968,Point
+node,9657979225,Aldi,food_retail_supermarkets,0.1047027,51.5653531,Point
+node,9658138128,Aldi,food_retail_supermarkets,-0.1756893,51.5241051,Point
+node,9661813418,Amazon Fresh,food_retail_supermarkets,-0.2230555,51.5110352,Point
+node,9679643248,Co-op Food,food_retail_supermarkets,-0.0792107,51.4947671,Point
+node,9685369558,The Savanna,food_retail_supermarkets,-0.0188683,51.5033945,Point
+node,9703481663,Europol,food_retail_supermarkets,-0.1939924,51.3657634,Point
+node,9739211798,Nest,food_retail_supermarkets,-0.0084965,51.5086392,Point
+node,9805131748,Lidl,food_retail_supermarkets,-0.1044227,51.5650332,Point
+node,9805131768,Planet Food,food_retail_supermarkets,-0.1034356,51.5651342,Point
+node,9898005636,Co-op Food,food_retail_supermarkets,-0.2753589,51.4925594,Point
+node,9902271881,Trustcos,food_retail_supermarkets,-0.3160988,51.525761,Point
+node,9904050422,Welcome,food_retail_supermarkets,-0.0240726,51.5392641,Point
+node,9935695261,Co-op Food,food_retail_supermarkets,-0.1438963,51.6158737,Point
+node,9979564463,Wickham Food Centre,food_retail_supermarkets,-0.0191358,51.3765325,Point
+node,9979753893,M&S Foodhall,food_retail_supermarkets,-0.0190978,51.3767608,Point
+node,9986609217,Istanbul Organic Supermarket,food_retail_supermarkets,-0.2312728,51.4926957,Point
+node,10084913338,Kujawiak,food_retail_supermarkets,-0.358984,51.4697336,Point
+node,10110393018,Taste Croatia,food_retail_supermarkets,-0.0902335,51.5052053,Point
+node,10171642091,Local Express,food_retail_supermarkets,0.0198598,51.5208436,Point
+node,10186232918,Major Foods Ltd,food_retail_supermarkets,0.1181933,51.5307465,Point
+node,10188281668,Costcutter,food_retail_supermarkets,0.1046831,51.5290435,Point
+node,10188281683,Welcome,food_retail_supermarkets,0.1042314,51.5287603,Point
+node,10207251658,Lewisham Food Centre,food_retail_supermarkets,-0.0121811,51.4588417,Point
+node,10209153520,M&S Foodhall,food_retail_supermarkets,-0.1444133,51.4808628,Point
+node,10210176349,Giddy Grocer,food_retail_supermarkets,-0.0821537,51.5012173,Point
+node,10253786115,Londis,food_retail_supermarkets,-0.3058087,51.5624911,Point
+node,10261263863,Szampion Polskie Delikatesy,food_retail_supermarkets,-0.0675875,51.600542,Point
+node,10261263868,Nazar Supermarket,food_retail_supermarkets,-0.0681522,51.5997972,Point
+node,10268804543,ALDI,food_retail_supermarkets,0.0288966,51.4637165,Point
+node,10271551890,Jarr Market,food_retail_supermarkets,-0.0744704,51.5589856,Point
+node,10281454554,M&S Foodhall,food_retail_supermarkets,-0.2619521,51.5944119,Point
+node,10281454556,Aldi,food_retail_supermarkets,-0.2624497,51.5947146,Point
+node,10298319073,M&S Food,food_retail_supermarkets,-0.0173163,51.5060815,Point
+node,10308926050,,food_retail_supermarkets,0.0308128,51.5267411,Point
+node,10606975880,The Co-op,food_retail_supermarkets,-0.1327226,51.5872765,Point
+node,10678662621,Cosmo Foods,food_retail_supermarkets,-0.1762712,51.6135651,Point
+node,10678907303,Sultan Food Centre,food_retail_supermarkets,-0.1754706,51.6119199,Point
+node,10692756229,Waitrose,food_retail_supermarkets,-0.301844,51.4613659,Point
+node,10733210785,Dag Supermarket,food_retail_supermarkets,-0.0198065,51.475472,Point
+node,10744026216,Mleczko delikatesy,food_retail_supermarkets,-0.2724517,51.5074141,Point
+node,10759826260,Star Fruit & Veg,food_retail_supermarkets,0.0706193,51.5585474,Point
+node,10759957052,Grains & Green,food_retail_supermarkets,-0.0551301,51.5435573,Point
+node,10760096382,Cranbrook Supermarket,food_retail_supermarkets,0.0676616,51.5625545,Point
+node,10778466394,Costcutter Express,food_retail_supermarkets,-0.0172024,51.4330788,Point
+node,10780233403,Tesco,food_retail_supermarkets,-0.1150326,51.4867902,Point
+node,10780326289,Archies,food_retail_supermarkets,0.0496901,51.5902984,Point
+node,10782406136,YOHOME,food_retail_supermarkets,-0.0176148,51.4980126,Point
+node,10783320758,Acasa Delicatessen Limited,food_retail_supermarkets,0.0832789,51.591158,Point
+node,10783444521,Baylis Food and Wine,food_retail_supermarkets,0.0840838,51.5928872,Point
+node,10802245163,Drayton Manor High School PTA car boot,food_retail_supermarkets,-0.3426977,51.52639,Point
+node,10816505610,FM Food Centre,food_retail_supermarkets,-0.0012419,51.4206955,Point
+node,10830901844,Sira Cash and Carry,food_retail_supermarkets,-0.3762335,51.5096018,Point
+node,10839212360,St. James Supermarket,food_retail_supermarkets,-0.0653912,51.4924173,Point
+node,10856364355,Costcutter,food_retail_supermarkets,-0.221796,51.3764443,Point
+node,10915626683,OK OK Chinese Supermarket,food_retail_supermarkets,-0.1944453,51.3600814,Point
+node,10935101746,Hadar Kosher Supermarket,food_retail_supermarkets,-0.2748325,51.6159647,Point
+node,10947703015,Dadinho Distributions,food_retail_supermarkets,-0.0769785,51.5848633,Point
+node,10959301444,Co-op Food,food_retail_supermarkets,-0.2101854,51.6091704,Point
+node,10961077190,YOHOME Oriental Lifestyle,food_retail_supermarkets,-0.0894535,51.570968,Point
+node,10973602394,Prince Food & Wine,food_retail_supermarkets,-0.1185035,51.4915169,Point
+node,11012495627,TFC,food_retail_supermarkets,0.0627744,51.4924134,Point
+node,11063411474,Mega Food Centre,food_retail_supermarkets,-0.187504,51.6058592,Point
+node,11063411479,Persia,food_retail_supermarkets,-0.1873169,51.6059851,Point
+node,11063411480,Mega Organix,food_retail_supermarkets,-0.1870732,51.6061492,Point
+node,11064397465,Best Food Mega Mart,food_retail_supermarkets,-0.0042821,51.4252306,Point
+node,11086500307,Best Foods Supermarket,food_retail_supermarkets,-0.3718936,51.5308532,Point
+node,11145710805,,food_retail_supermarkets,-0.0760319,51.3984664,Point
+node,11169984724,Family Sari Sari Store,food_retail_supermarkets,-0.4712596,51.5135862,Point
+node,11183455928,Aldi,food_retail_supermarkets,-0.177182,51.6129162,Point
+node,11186274182,Kosher Edge,food_retail_supermarkets,-0.2765413,51.6158844,Point
+node,11221269657,Northwood Hills Supermarket,food_retail_supermarkets,-0.409616,51.6014875,Point
+node,11225521118,Planet Plenty,food_retail_supermarkets,-0.2106699,51.4708145,Point
+node,11229120729,Mieszko Polish Supermarket,food_retail_supermarkets,-0.3872156,51.4730512,Point
+node,11231120233,Morrisons,food_retail_supermarkets,-0.30875,51.4826743,Point
+node,11251383428,Wawel Tradycyjne Polski Smaki,food_retail_supermarkets,-0.3063229,51.4991401,Point
+node,11300003806,Nazar Food Centre,food_retail_supermarkets,-0.1770101,51.6171948,Point
+node,11304759841,Lidl,food_retail_supermarkets,-0.2995099,51.5399531,Point
+node,11328061986,Polski Sklep n Cioci,food_retail_supermarkets,-0.27532,51.6153386,Point
+node,11341497088,Simply Food & Wine,food_retail_supermarkets,-0.1868731,51.5106941,Point
+node,11348048679,England Pharmacy,food_retail_supermarkets,-0.136228,51.510552,Point
+node,11372053039,Oseyo,food_retail_supermarkets,-0.3013676,51.4109205,Point
+node,11387345975,Save More Superstore,food_retail_supermarkets,-0.4192214,51.5049097,Point
+node,11405671409,,food_retail_supermarkets,-0.336175,51.5940762,Point
+node,11414577557,Northwest,food_retail_supermarkets,0.0525498,51.5362883,Point
+node,11516183189,Tian Tian Market,food_retail_supermarkets,-0.3059248,51.5136219,Point
+node,11517497762,Tian Tian Market,food_retail_supermarkets,-0.2808249,51.5602262,Point
+node,11559769486,Sainsbury's,food_retail_supermarkets,0.0262206,51.4887207,Point
+node,11645080431,Landis,food_retail_supermarkets,-0.3465467,51.5090231,Point
+node,11664984447,ALDI,food_retail_supermarkets,0.1852441,51.5688694,Point
+node,11795539295,Lidl,food_retail_supermarkets,-0.249449,51.5135381,Point
+node,11799262488,Seoul Plaza,food_retail_supermarkets,-0.3027531,51.4100721,Point
+node,11813402789,Duri Korean Grocery,food_retail_supermarkets,-0.2872136,51.5102499,Point
+node,11814777849,Harvest International N8,food_retail_supermarkets,-0.1198501,51.5819925,Point
+node,11867113859,Oseyo,food_retail_supermarkets,-0.1450342,51.4803409,Point
+node,11880037969,Co-op Food,food_retail_supermarkets,-0.2107674,51.552995,Point
+node,11942642074,Evmolpia,food_retail_supermarkets,-0.0996298,51.583208,Point
+node,11942698941,Harringay Food Centre,food_retail_supermarkets,-0.099084,51.5825092,Point
+node,11944559635,Co-op Food,food_retail_supermarkets,-0.095911,51.5702582,Point
+node,11944819962,Lo Sfizio,food_retail_supermarkets,-0.0974278,51.5871531,Point
+node,11944983990,Cudi Food Centre,food_retail_supermarkets,-0.0962494,51.5868368,Point
+node,11945274021,4th Gardens Groceries & Takeaway,food_retail_supermarkets,-0.07803,51.5849934,Point
+node,11945356080,West Green Supermarket,food_retail_supermarkets,-0.0761711,51.5843501,Point
+node,11945358215,C&G Cash and Carry,food_retail_supermarkets,-0.0755314,51.5843853,Point
+node,11947809998,Thornfield Supermarket,food_retail_supermarkets,-0.2073359,51.6044019,Point
+node,11947810020,Kosher Cuisine,food_retail_supermarkets,-0.2072685,51.6052002,Point
+node,11999048637,One Below,food_retail_supermarkets,-0.0690167,51.4704106,Point
+node,12062913820,TFC supermarket,food_retail_supermarkets,-0.0617736,51.6219292,Point
+node,12077358652,The Olive Tree,food_retail_supermarkets,-0.2921496,51.5288263,Point
+node,12077358653,Kopernik Polish Supermarket,food_retail_supermarkets,-0.2921576,51.5288947,Point
+node,12097186096,Dailyfresh Foods,food_retail_supermarkets,-0.1640424,51.4324108,Point
+node,12098911111,0086 Supermarket,food_retail_supermarkets,-0.1283656,51.4802196,Point
+node,12108645699,Fu Lai,food_retail_supermarkets,-0.2618862,51.5234556,Point
+node,12154141974,Yasar Halim,food_retail_supermarkets,-0.1260367,51.6328805,Point
+node,12155942066,M&S Simply Food,food_retail_supermarkets,0.0202227,51.4768107,Point
+node,12168431706,M&S Food,food_retail_supermarkets,-0.1381359,51.5151363,Point
+node,12175675098,Blue Mountain Peak,food_retail_supermarkets,-0.248888,51.5376989,Point
+node,12179890457,Mas Bazar Bethnal Green,food_retail_supermarkets,-0.0661906,51.5264172,Point
+node,12180367257,Mang Pinoy @ Kabul Plaza,food_retail_supermarkets,-0.2476959,51.5359388,Point
+node,12181719637,Greens International Food Centre,food_retail_supermarkets,-0.2759284,51.6147099,Point
+node,12214537263,Food Palace,food_retail_supermarkets,-0.1281015,51.6327887,Point
+node,12251669457,Co-op Food,food_retail_supermarkets,0.035152,51.4744819,Point
+node,12276934798,Beren Supermarket,food_retail_supermarkets,-0.126451,51.632245,Point
+node,12277307353,Mleczko,food_retail_supermarkets,-0.111614,51.5968249,Point
+node,12278605270,Lidl,food_retail_supermarkets,0.0104808,51.5144206,Point
+node,12286022928,Southgate Food Centre,food_retail_supermarkets,-0.1285426,51.6328397,Point
+node,12286356673,UUGO Oriental Mini Mart,food_retail_supermarkets,-0.1293844,51.6330351,Point
+node,12291675968,Aldi,food_retail_supermarkets,-0.1118857,51.5519828,Point
+node,12310130201,Oseyo,food_retail_supermarkets,-0.17496,51.5165509,Point
+node,12318483613,Bucharest Supermarket,food_retail_supermarkets,-0.1884525,51.604378,Point
+node,12329267207,Diamond Supermarket,food_retail_supermarkets,-0.1234229,51.6245037,Point
+node,12394773699,China Ark Market,food_retail_supermarkets,-0.0397314,51.4897691,Point
+node,12426031528,Amazon Fresh,food_retail_supermarkets,-0.1909564,51.548698,Point
+node,12453323401,B&B Super Shop,food_retail_supermarkets,-0.394103,51.4981117,Point
+node,12459227135,Hayes Food Centre,food_retail_supermarkets,-0.4153713,51.5088479,Point
+node,12459703109,Damascene Rose,food_retail_supermarkets,-0.195929,51.5001626,Point
+node,12463347854,Co-Op Food,food_retail_supermarkets,0.010238,51.4108879,Point
+node,12488612335,Amazon Fresh,food_retail_supermarkets,-0.1958982,51.509294,Point
+node,12532965660,Deptford Supermarket,food_retail_supermarkets,-0.0260319,51.4773532,Point
+node,12532965684,Ha-Noi,food_retail_supermarkets,-0.0257789,51.4773579,Point
+node,12532983506,Asda,food_retail_supermarkets,-0.0262071,51.4752446,Point
+node,12572476237,Lidl,food_retail_supermarkets,-0.0933302,51.472726,Point
+node,12572476247,Co-op Food,food_retail_supermarkets,-0.0934212,51.4734441,Point
+node,12572476253,The Pantry,food_retail_supermarkets,-0.0886219,51.473552,Point
+node,12578972337,Co-op Food,food_retail_supermarkets,0.037087,51.4819898,Point
+node,12609406974,pomona,food_retail_supermarkets,-0.1648648,51.550199,Point
+node,12633199522,Fridge Of Plenty,food_retail_supermarkets,-0.1234189,51.5778186,Point
+node,12641738170,Co-op Food,food_retail_supermarkets,-0.4213374,51.5319688,Point
+node,12661110352,Londis,food_retail_supermarkets,-0.0606063,51.4956668,Point
+node,12690790852,Bilo Food Centre,food_retail_supermarkets,-0.0793871,51.5980723,Point
+node,12710365805,Mestizo Mexican Market,food_retail_supermarkets,-0.1387995,51.527578,Point
+node,12713513240,Yo Home,food_retail_supermarkets,-0.2228864,51.4897074,Point
+node,12739829774,Tesco Express,food_retail_supermarkets,0.0275416,51.4612541,Point
+node,12800232133,Kidbrooke Food Market,food_retail_supermarkets,0.028046,51.4615577,Point
+node,12846794693,M&S Food,food_retail_supermarkets,-0.3019467,51.5147818,Point
+node,12861293805,Ealing Bazar Fresh Halal,food_retail_supermarkets,-0.3058117,51.5049551,Point
+node,12875263387,Earthed,food_retail_supermarkets,-0.076246,51.5280638,Point
+node,12894198683,Longdan,food_retail_supermarkets,-0.3060204,51.4121475,Point
+node,12922210400,JK Enterprises,food_retail_supermarkets,-0.2553056,51.3981474,Point
+node,12924815599,New Malden Food Centre,food_retail_supermarkets,-0.2554141,51.3996929,Point
+node,12924835102,Loon Fung,food_retail_supermarkets,-0.2554382,51.3999593,Point
+node,12926161341,M&S Food,food_retail_supermarkets,-0.0799827,51.4615449,Point
+node,12951958655,BKosher,food_retail_supermarkets,-0.2697669,51.626446,Point
+node,12960238467,Saffron,food_retail_supermarkets,-0.2381668,51.4935418,Point
+node,12961239335,Co-op Food,food_retail_supermarkets,-0.0217418,51.4744151,Point
+node,12977587226,Co-op Food,food_retail_supermarkets,-0.1169618,51.4666487,Point
+node,12977730137,Harley’s Food Hall,food_retail_supermarkets,-0.1612008,51.4644145,Point
+node,13058729968,Welcome,food_retail_supermarkets,0.1218165,51.4964595,Point
+node,13088980757,Brit Bazar,food_retail_supermarkets,-0.0542636,51.5137995,Point
+node,13158103488,,food_retail_supermarkets,-0.1199664,51.5469488,Point
+node,13158707309,Lidl,food_retail_supermarkets,0.0535664,51.5333193,Point
+node,13198653713,M&S Food,food_retail_supermarkets,-0.2563963,51.4019163,Point
+node,13204765224,Arnos Food & Wine,food_retail_supermarkets,-0.1220645,51.6128887,Point
+node,13258922252,Where 2 Save,food_retail_supermarkets,0.0665658,51.5752761,Point
+node,13265806501,Co-op Food - Hendon - West Hendon Broadway,food_retail_supermarkets,-0.2401096,51.5777684,Point
+node,13295475876,Faraj Supermarket,food_retail_supermarkets,-0.129199,51.6329906,Point
+node,13326045486,Snow White Food And Wine,food_retail_supermarkets,-0.2954708,51.3855246,Point
+node,13358922189,M&S Food,food_retail_supermarkets,-0.1365258,51.46251,Point
+node,13389492734,Lidl,food_retail_supermarkets,-0.4766063,51.5457784,Point
+node,13403419561,Loon Fung,food_retail_supermarkets,-0.2587904,51.5926957,Point
+node,13430470786,Union Park Grocers,food_retail_supermarkets,-0.2766898,51.557883,Point
+node,13444868228,Bulgarian Food & Delicatessen,food_retail_supermarkets,-0.2878578,51.3828211,Point
+node,13475654173,way4save Harrow,food_retail_supermarkets,-0.3620873,51.5850166,Point
+node,13508657978,Aldi,food_retail_supermarkets,-0.055857,51.4788305,Point
+node,13508667350,Aldi,food_retail_supermarkets,-0.4796487,51.5493641,Point
+node,13517886702,Harrow Superstore,food_retail_supermarkets,-0.3625529,51.584494,Point
+node,13550924175,唐人街兴隆门行 Xing Long Men Supermarket,food_retail_supermarkets,-0.1307022,51.5120165,Point
+node,13585962311,Sainsburys,food_retail_supermarkets,-0.1808207,51.4784726,Point
+node,13596052801,Marks & Spencer,food_retail_supermarkets,-0.2150339,51.4641259,Point
+node,13733445563,Co-op Food,food_retail_supermarkets,-0.1129503,51.5931927,Point
+node,13763605530,Costcutter,food_retail_supermarkets,0.1306222,51.5709733,Point
+node,13763605540,Freshco,food_retail_supermarkets,0.1318909,51.5711984,Point
+node,13808848002,M&S Food,food_retail_supermarkets,-0.1309687,51.5125421,Point
+node,13839072801,Ly Trang Vietnamese Supermarket,food_retail_supermarkets,-0.0941509,51.4842368,Point
+node,13852612002,M&S food,food_retail_supermarkets,-0.1669374,51.4278373,Point
+node,13892619446,Whole Foods Market,food_retail_supermarkets,-0.1356891,51.5106887,Point
+node,13895271975,Fostok Halab,food_retail_supermarkets,-0.2774335,51.5084843,Point
+way,4076656,Sainsbury's,food_retail_supermarkets,-0.033317367827797935,51.43019885,MultiPolygon
+way,4243023,Sainsbury's,food_retail_supermarkets,-0.22549466654171196,51.5468408,MultiPolygon
+way,4338882,Waitrose,food_retail_supermarkets,-0.17579966160865207,51.631417400000004,MultiPolygon
+way,4338883,M&S,food_retail_supermarkets,-0.17580075949873264,51.634767100000005,MultiPolygon
+way,4425413,Tesco,food_retail_supermarkets,-0.21492570295936736,51.57438005,MultiPolygon
+way,4770293,Sainsbury's,food_retail_supermarkets,-0.3031598530487789,51.415594150000004,MultiPolygon
+way,4945244,Sainsbury's,food_retail_supermarkets,-0.1292207619738595,51.41968315,MultiPolygon
+way,4976041,Tesco,food_retail_supermarkets,-0.1196610672152853,51.45981125,MultiPolygon
+way,4985325,Sainsbury's,food_retail_supermarkets,-0.09550978978255042,51.577216199999995,MultiPolygon
+way,4993543,Tesco,food_retail_supermarkets,-0.07683012529419966,51.650871800000004,MultiPolygon
+way,4993828,Lidl,food_retail_supermarkets,-0.1586880600371831,51.41168185,MultiPolygon
+way,4996178,Tesco,food_retail_supermarkets,-0.20160821720558617,51.4931135,MultiPolygon
+way,4997029,Waitrose,food_retail_supermarkets,-0.20188427199156248,51.42492625,MultiPolygon
+way,5053285,Tesco,food_retail_supermarkets,-0.4151079038884203,51.45928585,MultiPolygon
+way,5112997,Morrisons,food_retail_supermarkets,-0.06845112008786422,51.47297505,MultiPolygon
+way,5548352,Lidl,food_retail_supermarkets,-0.07125937890105694,51.472411199999996,MultiPolygon
+way,5791118,Morrisons,food_retail_supermarkets,-0.059417443740355846,51.647908799999996,MultiPolygon
+way,6063073,Sainsbury's,food_retail_supermarkets,-0.05772105809128359,51.6520322,MultiPolygon
+way,6197541,Tesco Lea Valley Extra,food_retail_supermarkets,-0.04836387076615994,51.6099835,MultiPolygon
+way,7848031,Tesco Extra,food_retail_supermarkets,-0.3374700911502124,51.4590725,MultiPolygon
+way,9404298,Asda,food_retail_supermarkets,-0.13133583620247025,51.634354200000004,MultiPolygon
+way,9935799,Tesco Extra,food_retail_supermarkets,-0.32998732984483925,51.4857813,MultiPolygon
+way,10804706,Asda,food_retail_supermarkets,-0.009009336458909953,51.5563628,MultiPolygon
+way,11846131,Waitrose,food_retail_supermarkets,0.019390091304822582,51.3989922,MultiPolygon
+way,11846383,Sainsbury's,food_retail_supermarkets,-0.015046915989723068,51.376797499999995,MultiPolygon
+way,11846925,Sainsbury's,food_retail_supermarkets,-0.021721355094952405,51.377051449999996,MultiPolygon
+way,12542796,Tesco Extra,food_retail_supermarkets,-0.04766537298827517,51.64805835,MultiPolygon
+way,14492080,Sainsbury's,food_retail_supermarkets,-0.058467702821730895,51.521013100000005,MultiPolygon
+way,14760316,Tesco,food_retail_supermarkets,-0.05015992864170568,51.3966057,MultiPolygon
+way,14882841,Waitrose,food_retail_supermarkets,-0.42301383021030187,51.57132135,MultiPolygon
+way,15137156,Waitrose,food_retail_supermarkets,0.02344119483067352,51.5954644,MultiPolygon
+way,22316756,Morrisons,food_retail_supermarkets,-0.36493426474245294,51.6079855,MultiPolygon
+way,22742509,Waitrose,food_retail_supermarkets,-0.3050074677142862,51.393836199999996,MultiPolygon
+way,22870156,Asda,food_retail_supermarkets,0.14248481913290217,51.530056900000005,MultiPolygon
+way,22870680,Tesco Extra,food_retail_supermarkets,-0.1549553898658443,51.60724745,MultiPolygon
+way,22924468,Sainsbury's,food_retail_supermarkets,-0.37509552121863937,51.43426435,MultiPolygon
+way,22936252,Lidl,food_retail_supermarkets,-0.40962211301183393,51.4482969,MultiPolygon
+way,23015834,Lidl,food_retail_supermarkets,-0.2903819843573013,51.41249295,MultiPolygon
+way,23023212,Asda,food_retail_supermarkets,-0.2899206906616585,51.4112356,MultiPolygon
+way,23029759,Morrisons,food_retail_supermarkets,0.07402700736128173,51.38823885,MultiPolygon
+way,23039045,Tesco Extra,food_retail_supermarkets,-0.23999103699238347,51.4024019,MultiPolygon
+way,23061412,Sainsbury's,food_retail_supermarkets,-0.02079409496406715,51.604261,MultiPolygon
+way,23061438,Morrisons,food_retail_supermarkets,-0.02168314949296576,51.607461650000005,MultiPolygon
+way,23081461,Sainsbury's,food_retail_supermarkets,-0.13578815880509526,51.462064549999994,MultiPolygon
+way,23115218,Asda,food_retail_supermarkets,-0.19534074514359798,51.367119450000004,MultiPolygon
+way,23404598,Tesco,food_retail_supermarkets,-0.4131632026318264,51.4437568,MultiPolygon
+way,23484584,Aldi,food_retail_supermarkets,-0.4120240693473792,51.44393825,MultiPolygon
+way,23507206,Tesco Extra,food_retail_supermarkets,-0.2554499252024721,51.5540797,MultiPolygon
+way,23777663,Lidl,food_retail_supermarkets,-0.30569977111018487,51.4838857,MultiPolygon
+way,23945692,Sainsbury's,food_retail_supermarkets,-0.05153160622301606,51.41267695,MultiPolygon
+way,24147904,Sainsbury's,food_retail_supermarkets,-0.1761097273034712,51.6178746,MultiPolygon
+way,24250924,Aldi,food_retail_supermarkets,-0.35679397248401207,51.56230155,MultiPolygon
+way,24458195,Asda,food_retail_supermarkets,-0.013099151077747787,51.49391545,MultiPolygon
+way,24491747,Waitrose,food_retail_supermarkets,-0.24331292271103433,51.378141,MultiPolygon
+way,24526305,Sainsbury's,food_retail_supermarkets,-0.22489776352475405,51.3718355,MultiPolygon
+way,24532872,Morrisons,food_retail_supermarkets,-0.1934019140865057,51.3607425,MultiPolygon
+way,24533080,Tesco Extra,food_retail_supermarkets,-0.20685890961538483,51.3754201,MultiPolygon
+way,24790185,Sainsbury's,food_retail_supermarkets,-0.21766425693554986,51.5262958,MultiPolygon
+way,24829451,Tesco,food_retail_supermarkets,-0.07594034324465398,51.4888184,MultiPolygon
+way,24862496,Lidl,food_retail_supermarkets,-0.19453130473421396,51.3680351,MultiPolygon
+way,25116657,Sainsbury's,food_retail_supermarkets,-0.11390668091320863,51.4547927,MultiPolygon
+way,25335396,Sainsbury's,food_retail_supermarkets,0.024022050250920926,51.5935138,MultiPolygon
+way,25533281,Waitrose,food_retail_supermarkets,-0.06731104786342208,51.506843950000004,MultiPolygon
+way,26129774,Sainsbury's,food_retail_supermarkets,-0.08288304983416515,51.41764285,MultiPolygon
+way,26295319,Morrisons,food_retail_supermarkets,-0.2727136036909322,51.5083755,MultiPolygon
+way,26503503,Sainsbury's,food_retail_supermarkets,0.06590440172512793,51.521344549999995,MultiPolygon
+way,26505373,Asda,food_retail_supermarkets,0.05764659057863529,51.5149953,MultiPolygon
+way,26505418,Asda,food_retail_supermarkets,-0.412118931878943,51.446721499999995,MultiPolygon
+way,26614151,Sainsbury's,food_retail_supermarkets,-0.18835351591112864,51.495466449999995,MultiPolygon
+way,26675031,Lidl,food_retail_supermarkets,-0.041331359302455684,51.6719535,MultiPolygon
+way,27712730,Tesco,food_retail_supermarkets,0.04017762991567608,51.59203415,MultiPolygon
+way,27718895,Asda,food_retail_supermarkets,-0.27023265631291377,51.52854375,MultiPolygon
+way,27920421,Waitrose,food_retail_supermarkets,-0.2560403287445781,51.4026802,MultiPolygon
+way,28315793,Lidl,food_retail_supermarkets,-0.1894438485275982,51.3840317,MultiPolygon
+way,28476791,Sainsbury's,food_retail_supermarkets,0.055357624955077,51.36594375,MultiPolygon
+way,28498211,Aldi,food_retail_supermarkets,0.1142958729689098,51.3987782,MultiPolygon
+way,28531906,Tesco Superstore Finchley,food_retail_supermarkets,-0.19198898387146066,51.6030674,MultiPolygon
+way,28808114,Tesco,food_retail_supermarkets,0.013874725204748606,51.57187055,MultiPolygon
+way,29402605,Sainsbury's,food_retail_supermarkets,-0.21558283993702076,51.46213825,MultiPolygon
+way,29583241,Sainsbury's,food_retail_supermarkets,0.08176060962713187,51.588496750000004,MultiPolygon
+way,29635140,Tesco,food_retail_supermarkets,-0.0526528666030528,51.546918149999996,MultiPolygon
+way,30159763,Waitrose,food_retail_supermarkets,-0.3521524504408059,51.56762345,MultiPolygon
+way,30451817,Whole Foods Market,food_retail_supermarkets,-0.10491985000000001,51.5341503,MultiPolygon
+way,30475080,Sainsbury's,food_retail_supermarkets,-0.10774717608084727,51.5342383,MultiPolygon
+way,30850331,Waitrose,food_retail_supermarkets,-0.1163208501449593,51.5561436,MultiPolygon
+way,30850333,Morrisons,food_retail_supermarkets,-0.11655856518388738,51.55712565,MultiPolygon
+way,30906738,Sainsbury's,food_retail_supermarkets,-0.08606984414925233,51.399047550000006,MultiPolygon
+way,31178769,The Food Warehouse,food_retail_supermarkets,-0.05741833631081551,51.4801917,MultiPolygon
+way,31563840,Asda,food_retail_supermarkets,-0.24578348280142187,51.439600150000004,MultiPolygon
+way,32826154,Co-op Food,food_retail_supermarkets,-0.11738423858649297,51.5412233,MultiPolygon
+way,32880537,H Mart,food_retail_supermarkets,-0.26778849603516813,51.40236695,MultiPolygon
+way,33281639,Waitrose,food_retail_supermarkets,-0.12415211929197209,51.52489225,MultiPolygon
+way,33968790,Waitrose,food_retail_supermarkets,-0.026303046121160203,51.4116384,MultiPolygon
+way,34064480,Harvest N1,food_retail_supermarkets,-0.09845814219999938,51.53883615,MultiPolygon
+way,35215707,Co-op Food,food_retail_supermarkets,0.10457583036572336,51.45108645,MultiPolygon
+way,35824042,Asda,food_retail_supermarkets,-0.16492262311462352,51.4654975,MultiPolygon
+way,35824055,Lidl,food_retail_supermarkets,-0.16716345470248276,51.464897750000006,MultiPolygon
+way,35968587,Tesco,food_retail_supermarkets,0.031603671670081684,51.40004835,MultiPolygon
+way,35997477,Sainsbury's,food_retail_supermarkets,0.01437100261437476,51.4066524,MultiPolygon
+way,36607015,Sainsbury's,food_retail_supermarkets,-0.019079539592012605,51.61652325,MultiPolygon
+way,36851410,Lidl,food_retail_supermarkets,-0.38963594268934604,51.534572299999994,MultiPolygon
+way,37229466,Tesco,food_retail_supermarkets,0.1227576688095273,51.4126297,MultiPolygon
+way,37691424,Morrisons,food_retail_supermarkets,-0.28459727644441934,51.59205595,MultiPolygon
+way,37744323,Morrisons,food_retail_supermarkets,0.10566176709669373,51.507970400000005,MultiPolygon
+way,37962005,Morrisons,food_retail_supermarkets,-0.07379562782294705,51.5666973,MultiPolygon
+way,38259279,Sainsbury's,food_retail_supermarkets,-0.40346870250031414,51.51525305,MultiPolygon
+way,38304017,Lidl,food_retail_supermarkets,-0.22052487465703757,51.562464950000006,MultiPolygon
+way,38867011,Waitrose,food_retail_supermarkets,0.09009434581939825,51.35508635,MultiPolygon
+way,42578568,Tesco,food_retail_supermarkets,0.20829644493360347,51.54389755,MultiPolygon
+way,42727964,Lidl,food_retail_supermarkets,-0.07334146192714802,51.573230800000005,MultiPolygon
+way,45072136,Tesco Extra,food_retail_supermarkets,-0.3849387553001674,51.52477055,MultiPolygon
+way,45695226,Tesco,food_retail_supermarkets,-0.3953963546675977,51.5969666,MultiPolygon
+way,46558568,Lidl,food_retail_supermarkets,-0.38409027819653174,51.55769695,MultiPolygon
+way,47847925,Sainsbury's,food_retail_supermarkets,-0.09845276660732372,51.62951645,MultiPolygon
+way,48162810,The Co-operative Food,food_retail_supermarkets,0.01237460335927646,51.4271014,MultiPolygon
+way,48368492,Aldi,food_retail_supermarkets,-0.03026975612952554,51.5691482,MultiPolygon
+way,55632529,Tesco,food_retail_supermarkets,-0.01209618742339151,51.574476950000005,MultiPolygon
+way,58477948,Sainsbury's,food_retail_supermarkets,0.06991782979191333,51.556560950000005,MultiPolygon
+way,67421042,Co-op,food_retail_supermarkets,-0.09805937367230776,51.53009315,MultiPolygon
+way,73813293,Lidl,food_retail_supermarkets,-0.05835110034889988,51.47980715,MultiPolygon
+way,75126299,Co-op Food,food_retail_supermarkets,0.032223822027538915,51.6070481,MultiPolygon
+way,76586535,Aldi,food_retail_supermarkets,-0.13397771136364006,51.565114300000005,MultiPolygon
+way,76586543,Co-op Food,food_retail_supermarkets,-0.13447216145865165,51.5649123,MultiPolygon
+way,77766913,Iceland,food_retail_supermarkets,-0.19410751876510052,51.5390417,MultiPolygon
+way,77766915,Sainsbury's,food_retail_supermarkets,-0.1933964245363751,51.53888175,MultiPolygon
+way,78342504,Khan's Bargain,food_retail_supermarkets,-0.0678553214370958,51.46969395,MultiPolygon
+way,88344408,M&S Simply Food,food_retail_supermarkets,0.02417771649999899,51.5941541,MultiPolygon
+way,94690339,Asda,food_retail_supermarkets,-0.13003731278387629,51.3769517,MultiPolygon
+way,95223674,Co-op Food,food_retail_supermarkets,-0.07537271973305976,51.458726,MultiPolygon
+way,95223717,M&S Foodhall,food_retail_supermarkets,-0.07556030756123239,51.45784025,MultiPolygon
+way,95689883,Lidl,food_retail_supermarkets,-0.1663775875453323,51.4058234,MultiPolygon
+way,95856853,Sainsbury's,food_retail_supermarkets,-0.15135308274079667,51.443951049999995,MultiPolygon
+way,95859531,Waitrose,food_retail_supermarkets,-0.15170191597038357,51.44564365,MultiPolygon
+way,95894491,Asda,food_retail_supermarkets,-0.16826354754688935,51.40744515,MultiPolygon
+way,95894493,Hoo Hing,food_retail_supermarkets,-0.16792330794491053,51.4079781,MultiPolygon
+way,98487989,Asda,food_retail_supermarkets,-0.05949945549826062,51.6224468,MultiPolygon
+way,98552712,Sainsbury's,food_retail_supermarkets,-0.31531262487018596,51.58149845,MultiPolygon
+way,98704288,Waitrose,food_retail_supermarkets,-0.16704514647240112,51.488628399999996,MultiPolygon
+way,99490467,Oncu Food Centre,food_retail_supermarkets,-0.0348581618553812,51.6781316,MultiPolygon
+way,100854895,FoodArt,food_retail_supermarkets,-0.04128119784169747,51.670185849999996,MultiPolygon
+way,100857199,Enfield Food Centre,food_retail_supermarkets,-0.04146662547710922,51.669789699999995,MultiPolygon
+way,102028995,Fresh Food Centre,food_retail_supermarkets,-0.047556065096547855,51.6578404,MultiPolygon
+way,102030560,Efe Food & Wine,food_retail_supermarkets,-0.047574393568147036,51.6572786,MultiPolygon
+way,105467176,M&S Simply Food,food_retail_supermarkets,-0.19311327705660525,51.53818765,MultiPolygon
+way,107809449,Buy Wise,food_retail_supermarkets,-0.13084846555730795,51.550291900000005,MultiPolygon
+way,110601061,Morrisons,food_retail_supermarkets,-0.14990559975343737,51.54288315,MultiPolygon
+way,111220526,Londis,food_retail_supermarkets,-0.39566674999999923,51.5680305,MultiPolygon
+way,114409100,Lidl,food_retail_supermarkets,-0.1637846405805054,51.41965515,MultiPolygon
+way,116606207,Waitrose,food_retail_supermarkets,0.036595049209441594,51.30899905,MultiPolygon
+way,117697673,Waitrose,food_retail_supermarkets,-0.2688276213282049,51.46479255,MultiPolygon
+way,118398976,Mercan Food Centre,food_retail_supermarkets,-0.06865958827615681,51.55848975,MultiPolygon
+way,119438298,Waitrose,food_retail_supermarkets,-0.10728065219001262,51.53383575,MultiPolygon
+way,119451230,Tesco Extra,food_retail_supermarkets,-0.4077420285387946,51.49917595,MultiPolygon
+way,119773872,Healthwise,food_retail_supermarkets,-0.10995296963379952,51.5335408,MultiPolygon
+way,122597476,Lidl,food_retail_supermarkets,0.1485477261245825,51.542017650000005,MultiPolygon
+way,123092671,Aldi,food_retail_supermarkets,-0.19610533231166904,51.54058905,MultiPolygon
+way,124030234,The Chelsea Grocer,food_retail_supermarkets,-0.1605701381230081,51.4906331,MultiPolygon
+way,124119522,Morrisons,food_retail_supermarkets,0.1484290261155461,51.55939535,MultiPolygon
+way,124120469,Aguona Express,food_retail_supermarkets,0.14733332596242826,51.5613083,MultiPolygon
+way,124434631,Sainsbury's,food_retail_supermarkets,-0.18192593156086798,51.54811015,MultiPolygon
+way,124976222,Waitrose,food_retail_supermarkets,-0.20008277371842093,51.58384435,MultiPolygon
+way,129098919,Sainsbury's,food_retail_supermarkets,-0.16806901306117322,51.427169500000005,MultiPolygon
+way,131633026,Tesco Extra,food_retail_supermarkets,0.19179613880455923,51.565652549999996,MultiPolygon
+way,132638741,Asda,food_retail_supermarkets,0.1853509744999985,51.58019185,MultiPolygon
+way,137459762,Lidl,food_retail_supermarkets,0.10746910037588053,51.464298400000004,MultiPolygon
+way,137721387,Tesco Extra,food_retail_supermarkets,-0.11689759021109272,51.33691315,MultiPolygon
+way,138836923,Sainsbury's,food_retail_supermarkets,-0.06296448948275338,51.342275799999996,MultiPolygon
+way,143214348,Sainsbury's,food_retail_supermarkets,-0.1945392564546124,51.570734200000004,MultiPolygon
+way,143369836,Sainsbury's,food_retail_supermarkets,-0.1407634668357317,51.5405157,MultiPolygon
+way,144473838,Tesco Extra,food_retail_supermarkets,0.09671752029701203,51.37392505,MultiPolygon
+way,144475046,Co-op Food,food_retail_supermarkets,0.10706726133672219,51.3825018,MultiPolygon
+way,144821327,Sainsbury's,food_retail_supermarkets,0.10063933906628206,51.37583015,MultiPolygon
+way,146132355,Bestway Cash & Carry,food_retail_supermarkets,-0.12807930994042327,51.37796765,MultiPolygon
+way,146574555,Waitrose,food_retail_supermarkets,-0.1994038416780782,51.480156300000004,MultiPolygon
+way,146668326,May Lane's Co-op,food_retail_supermarkets,-0.20331473841520664,51.64572405,MultiPolygon
+way,150233745,Sainsbury's,food_retail_supermarkets,0.17878771866028234,51.4491762,MultiPolygon
+way,150568026,Lidl,food_retail_supermarkets,-0.20230774764552117,51.48421625,MultiPolygon
+way,151904729,Lidl,food_retail_supermarkets,-0.05385830997981294,51.5407479,MultiPolygon
+way,152728631,Sainsbury's,food_retail_supermarkets,-0.3775354026381146,51.426413249999996,MultiPolygon
+way,157052411,Sainsbury's,food_retail_supermarkets,-0.30781876108356354,51.391427050000004,MultiPolygon
+way,158439966,Sainsbury's,food_retail_supermarkets,-0.05544570613247102,51.43995675,MultiPolygon
+way,158514108,Sainsbury's,food_retail_supermarkets,-0.28651310934008567,51.4665895,MultiPolygon
+way,159709417,Morrisons,food_retail_supermarkets,-0.20446777309524428,51.4195361,MultiPolygon
+way,160190860,Tesco Express,food_retail_supermarkets,-0.01653651141370845,51.590255400000004,MultiPolygon
+way,160272330,Tesco Extra,food_retail_supermarkets,0.2185486079967705,51.5936952,MultiPolygon
+way,160474946,Sainsbury's,food_retail_supermarkets,-0.2652547094772616,51.49341205,MultiPolygon
+way,160661242,Aldi,food_retail_supermarkets,-0.01091327400896809,51.4792134,MultiPolygon
+way,164483492,The Grocery,food_retail_supermarkets,-0.07760937125123837,51.528926150000004,MultiPolygon
+way,164483529,Longdan,food_retail_supermarkets,-0.07771355278993475,51.5296495,MultiPolygon
+way,164682937,Lidl,food_retail_supermarkets,-0.12363101609208489,51.414364000000006,MultiPolygon
+way,166129315,Waitrose,food_retail_supermarkets,-0.20900581843151464,51.60719345,MultiPolygon
+way,167004572,Nisa,food_retail_supermarkets,-0.13266729021582513,51.552253,MultiPolygon
+way,168695291,Lidl,food_retail_supermarkets,-0.10577879240485896,51.3806666,MultiPolygon
+way,169690756,Morrisons,food_retail_supermarkets,-0.09196170001446802,51.47286575,MultiPolygon
+way,171417014,Co-op Food,food_retail_supermarkets,-0.1595941819411159,51.612210450000006,MultiPolygon
+way,172292289,Tesco Extra,food_retail_supermarkets,0.07560040984996666,51.5176096,MultiPolygon
+way,172844248,Aldi,food_retail_supermarkets,-0.05916922382470348,51.40850235,MultiPolygon
+way,176347850,Tesco,food_retail_supermarkets,-0.012477518873554897,51.4664032,MultiPolygon
+way,178634675,Aldi,food_retail_supermarkets,-0.1639025670219995,51.6447487,MultiPolygon
+way,178815210,Asda,food_retail_supermarkets,-0.06904572130360248,51.5935784,MultiPolygon
+way,179062691,Co-op Food,food_retail_supermarkets,0.045896597682858954,51.47261205,MultiPolygon
+way,179063210,Sainsbury's,food_retail_supermarkets,0.05733152625273863,51.4500079,MultiPolygon
+way,179063396,Lidl,food_retail_supermarkets,0.05584824421122518,51.451126099999996,MultiPolygon
+way,179319964,Sainsbury's,food_retail_supermarkets,0.06638993187469745,51.4188506,MultiPolygon
+way,180779518,Wing Yip,food_retail_supermarkets,-0.11932120783359426,51.36225075,MultiPolygon
+way,180779603,Morrisons,food_retail_supermarkets,-0.12026178592466516,51.3648496,MultiPolygon
+way,182198831,M&S Simply Food,food_retail_supermarkets,-0.1481292697559121,51.452002199999995,MultiPolygon
+way,182321436,Tesco Extra,food_retail_supermarkets,0.19070490836106369,51.520026,MultiPolygon
+way,186872602,Sainsbury's,food_retail_supermarkets,-0.04238093066482615,51.47729445,MultiPolygon
+way,186878671,Spar,food_retail_supermarkets,-0.03788824434651765,51.46480305,MultiPolygon
+way,186972124,Tesco,food_retail_supermarkets,-0.33362834306083533,51.5862753,MultiPolygon
+way,188280753,Greens International Food Centre,food_retail_supermarkets,-0.17289921982873982,51.61219565,MultiPolygon
+way,189835651,Aldi,food_retail_supermarkets,-0.27213494019227497,51.404108050000005,MultiPolygon
+way,190126013,Aldi,food_retail_supermarkets,-0.05911134585273878,51.344906550000005,MultiPolygon
+way,191154250,Aldi,food_retail_supermarkets,-0.07649186643119399,51.39769625,MultiPolygon
+way,191447440,Morrisons,food_retail_supermarkets,-0.11103185794343585,51.59631565,MultiPolygon
+way,191473149,Sainsbury's,food_retail_supermarkets,-0.1050733334810591,51.59252335,MultiPolygon
+way,191631096,Latin Stop Mini Market,food_retail_supermarkets,-0.10311497293578137,51.59092175,MultiPolygon
+way,192890566,Quality Foods,food_retail_supermarkets,-0.3765140557145694,51.509011,MultiPolygon
+way,198354790,Mr Meat,food_retail_supermarkets,-0.10223263969202759,51.3733623,MultiPolygon
+way,199547793,Sainsbury's,food_retail_supermarkets,-0.02715609736821445,51.5826738,MultiPolygon
+way,199735121,,food_retail_supermarkets,-0.09612923631193741,51.37473355,MultiPolygon
+way,200387549,Gazi International Supermarket,food_retail_supermarkets,-0.033613666879691494,51.58183305,MultiPolygon
+way,200460169,Lidl,food_retail_supermarkets,-0.03205936580437193,51.582276449999995,MultiPolygon
+way,201338061,Terra House,food_retail_supermarkets,-0.1000583064821047,51.36965605,MultiPolygon
+way,201351895,HFC Hyper Food Centre,food_retail_supermarkets,-0.2196641,51.58662495,MultiPolygon
+way,202753222,Waitrose,food_retail_supermarkets,-0.1657461917362677,51.517556299999995,MultiPolygon
+way,204867661,Waitrose,food_retail_supermarkets,-0.07482875700611466,51.331908049999996,MultiPolygon
+way,204911893,Morrisons,food_retail_supermarkets,0.10305708083512617,51.424936349999996,MultiPolygon
+way,205143230,Naturelia,food_retail_supermarkets,-0.26099992529620464,51.49263365,MultiPolygon
+way,205145219,Waitrose,food_retail_supermarkets,-0.2631391409823669,51.49273755,MultiPolygon
+way,205669328,M&S Simply Food,food_retail_supermarkets,-0.19237117044830965,51.4914236,MultiPolygon
+way,205896842,Food Hall Wood Street,food_retail_supermarkets,-0.004548105775362656,51.5887504,MultiPolygon
+way,205902761,Planet Organic,food_retail_supermarkets,-0.25767040710019506,51.4922802,MultiPolygon
+way,208161619,Sainsbury's,food_retail_supermarkets,0.21826134963841107,51.563169,MultiPolygon
+way,208163230,Lidl,food_retail_supermarkets,0.21537146673548271,51.5634584,MultiPolygon
+way,208163231,,food_retail_supermarkets,0.21634522152880756,51.563232400000004,MultiPolygon
+way,208798281,Lidl,food_retail_supermarkets,0.18305614688261462,51.5737477,MultiPolygon
+way,209434689,The Source Bulk Foods,food_retail_supermarkets,-0.25504645182972374,51.4934586,MultiPolygon
+way,210472279,M&S Food,food_retail_supermarkets,-0.11545945193058958,51.463405,MultiPolygon
+way,211058071,Morrisons,food_retail_supermarkets,-0.34286194067038356,51.580401550000005,MultiPolygon
+way,211187819,Tesco,food_retail_supermarkets,-0.009747705387592932,51.526665949999995,MultiPolygon
+way,215416573,Tesco,food_retail_supermarkets,-0.022235185789607127,51.446171,MultiPolygon
+way,215417384,Aldi,food_retail_supermarkets,-0.017705198152857166,51.44865435,MultiPolygon
+way,215418534,Lidl,food_retail_supermarkets,-0.019012094460316903,51.444472250000004,MultiPolygon
+way,216445400,Hoo Hing,food_retail_supermarkets,-0.28617536555479794,51.5367347,MultiPolygon
+way,216676448,Tesco Express,food_retail_supermarkets,-0.03700275,51.58729485,MultiPolygon
+way,218440699,Iceland,food_retail_supermarkets,-0.1385733520371942,51.462042749999995,MultiPolygon
+way,219009064,Sainsbury's,food_retail_supermarkets,-0.11774098441689651,51.375813300000004,MultiPolygon
+way,219880855,Tesco Extra,food_retail_supermarkets,-0.04589737413339311,51.494494450000005,MultiPolygon
+way,220063780,Loon Fung,food_retail_supermarkets,-0.3020524563496687,51.5372365,MultiPolygon
+way,220269216,Iceland,food_retail_supermarkets,-0.3367303000000004,51.55608075,MultiPolygon
+way,220847611,Lidl,food_retail_supermarkets,0.021073974137879235,51.421117300000006,MultiPolygon
+way,221471622,Lidl,food_retail_supermarkets,0.06600935496894239,51.492653000000004,MultiPolygon
+way,221661337,Lidl,food_retail_supermarkets,-0.09672112164124212,51.38794695,MultiPolygon
+way,222694491,Asda,food_retail_supermarkets,-0.06996188195232356,51.48453,MultiPolygon
+way,222834046,Lidl,food_retail_supermarkets,-0.06524041992251209,51.6141591,MultiPolygon
+way,223048154,Sainsbury's,food_retail_supermarkets,0.010019755084057624,51.45609675,MultiPolygon
+way,223048890,Co-op Food,food_retail_supermarkets,-0.006469550000002542,51.45115255,MultiPolygon
+way,223048892,Morrisons Daily,food_retail_supermarkets,-0.0074588144230770675,51.44526635,MultiPolygon
+way,223455428,Sainsbury's,food_retail_supermarkets,-0.3109826984893681,51.617039649999995,MultiPolygon
+way,223456007,Waitrose,food_retail_supermarkets,-0.3396109706302109,51.60533555,MultiPolygon
+way,223456960,Lidl,food_retail_supermarkets,-0.30856445355524176,51.6183405,MultiPolygon
+way,223934678,Yasar Halim,food_retail_supermarkets,-0.09968200391731394,51.5809822,MultiPolygon
+way,224014957,Asda,food_retail_supermarkets,-0.3608801562051781,51.55780535,MultiPolygon
+way,224040371,Waitrose,food_retail_supermarkets,-0.14235076252870751,51.59177325,MultiPolygon
+way,224040385,Aldi,food_retail_supermarkets,-0.1425565461334126,51.5921064,MultiPolygon
+way,224411244,Sainsbury's,food_retail_supermarkets,-0.30335468408919364,51.538893599999994,MultiPolygon
+way,224554617,Morrisons,food_retail_supermarkets,-0.095903098564493,51.48754665,MultiPolygon
+way,224554854,Co-op Food,food_retail_supermarkets,-0.10278347125787826,51.478270249999994,MultiPolygon
+way,225492022,Londis,food_retail_supermarkets,-0.19895833253498507,51.450304599999996,MultiPolygon
+way,225726574,Haran Bros,food_retail_supermarkets,-0.10825310830154616,51.3834693,MultiPolygon
+way,225726594,Best Foods Supermarket,food_retail_supermarkets,-0.10858580400876805,51.3837321,MultiPolygon
+way,225987758,Tesco,food_retail_supermarkets,-0.0024794237503057686,51.60810755,MultiPolygon
+way,226550108,M&S Food,food_retail_supermarkets,-0.0553836610293732,51.547591249999996,MultiPolygon
+way,228900857,Kenninghall Food & Wine,food_retail_supermarkets,-0.06321509999999961,51.558658,MultiPolygon
+way,228952703,Asda,food_retail_supermarkets,-0.26118191706456506,51.594104849999994,MultiPolygon
+way,228952705,Sainsbury's,food_retail_supermarkets,-0.2757564330855029,51.61174155,MultiPolygon
+way,228953865,Lidl,food_retail_supermarkets,-0.27883726723096736,51.609654750000004,MultiPolygon
+way,228954712,Aldi,food_retail_supermarkets,-0.27990515,51.5852359,MultiPolygon
+way,229723874,Waitrose,food_retail_supermarkets,-0.09246550616144265,51.653466550000005,MultiPolygon
+way,230574792,V.B. & Sons,food_retail_supermarkets,-0.2967261,51.5446513,MultiPolygon
+way,230850318,Aldi,food_retail_supermarkets,-0.07521950682104814,51.54766965,MultiPolygon
+way,232282183,Grace Afro-Caribbean Supermarket,food_retail_supermarkets,-0.110724818772968,51.38604945,MultiPolygon
+way,232282185,Family Choice,food_retail_supermarkets,-0.10983878965298999,51.385069900000005,MultiPolygon
+way,232841343,Sainsbury's,food_retail_supermarkets,0.06371362889534911,51.49100025,MultiPolygon
+way,232841491,Co-op Food,food_retail_supermarkets,0.0808237878535859,51.4804982,MultiPolygon
+way,232841718,Tesco,food_retail_supermarkets,0.10987142449768153,51.4616238,MultiPolygon
+way,232841719,Morrisons,food_retail_supermarkets,0.11014440645109491,51.462592099999995,MultiPolygon
+way,236434062,Enfield Food Hall,food_retail_supermarkets,-0.0471606163537194,51.6461343,MultiPolygon
+way,236440781,Ponders End Food Centre,food_retail_supermarkets,-0.046676069934941236,51.64458965,MultiPolygon
+way,239099480,The Valley,food_retail_supermarkets,-0.19800417999876851,51.54219855,MultiPolygon
+way,241551338,Morrisons,food_retail_supermarkets,0.005071499654597425,51.54312695,MultiPolygon
+way,241870401,Asda,food_retail_supermarkets,-0.33568417500000014,51.59486445,MultiPolygon
+way,242807689,Tariq Supermarket,food_retail_supermarkets,-0.33486376487695757,51.59345495,MultiPolygon
+way,242879001,Spice of Asia,food_retail_supermarkets,-0.3345913697165205,51.59513815,MultiPolygon
+way,243988325,Mleczko,food_retail_supermarkets,-0.3156194616620743,51.5824802,MultiPolygon
+way,244762014,Mleczko,food_retail_supermarkets,-0.3156341595268848,51.582461949999995,MultiPolygon
+way,247866765,Polmar,food_retail_supermarkets,-0.2963168324280625,51.552897099999996,MultiPolygon
+way,252183570,Mieszko Food City,food_retail_supermarkets,-0.33680509999999975,51.5559214,MultiPolygon
+way,252251159,Waitrose,food_retail_supermarkets,-0.15684502220039404,51.4989926,MultiPolygon
+way,253758447,Tesco,food_retail_supermarkets,-0.4773083379447187,51.51576275,MultiPolygon
+way,256099094,Phoomi Supermarket,food_retail_supermarkets,-0.10836311001063464,51.3834977,MultiPolygon
+way,256656481,Tesco Extra,food_retail_supermarkets,0.1118500565818845,51.56650345,MultiPolygon
+way,256915443,Tesco,food_retail_supermarkets,-0.24662764670413406,51.5367519,MultiPolygon
+way,263692239,Lidl,food_retail_supermarkets,0.08143406736760339,51.5359404,MultiPolygon
+way,263692241,Tesco,food_retail_supermarkets,0.07077371137787457,51.53637155,MultiPolygon
+way,264032020,Tesco,food_retail_supermarkets,-0.11214749651073226,51.56892005,MultiPolygon
+way,266638590,Co-op Food,food_retail_supermarkets,0.06988235750283486,51.481401149999996,MultiPolygon
+way,267565297,Zaman Brothers Cash and Carry,food_retail_supermarkets,-0.07129702167078306,51.518046299999995,MultiPolygon
+way,270439730,Taj Stores,food_retail_supermarkets,-0.07168435879721775,51.519960600000005,MultiPolygon
+way,270743409,The Co-operative Food,food_retail_supermarkets,-0.202532175201674,51.524962900000006,MultiPolygon
+way,273181996,Tesco,food_retail_supermarkets,-0.0476618430665616,51.5430509,MultiPolygon
+way,279401663,Londis,food_retail_supermarkets,-0.35109178759985965,51.44290345,MultiPolygon
+way,281843603,Tesco,food_retail_supermarkets,-0.07143041524973692,51.58472655,MultiPolygon
+way,284847208,Lidl,food_retail_supermarkets,-0.3505519777690216,51.43543895,MultiPolygon
+way,285156063,Asda,food_retail_supermarkets,0.022235171402668674,51.4888016,MultiPolygon
+way,289309563,Tesco,food_retail_supermarkets,-0.3385826815331564,51.4257535,MultiPolygon
+way,289774141,Co-op Food,food_retail_supermarkets,-0.12333124365559665,51.4104251,MultiPolygon
+way,291647521,Tian Tian Market,food_retail_supermarkets,-0.12399669503289655,51.524215600000005,MultiPolygon
+way,292740529,Waitrose,food_retail_supermarkets,0.25309026526605993,51.55624545,MultiPolygon
+way,296989385,JUSTin GREEN,food_retail_supermarkets,-0.09779813269719273,51.35294795,MultiPolygon
+way,297649922,Aldi,food_retail_supermarkets,-0.06794317367109631,51.5960349,MultiPolygon
+way,298834101,M&S Simply Food,food_retail_supermarkets,-0.3291613169169795,51.4275782,MultiPolygon
+way,300037227,Lidl,food_retail_supermarkets,-0.12076231443902985,51.4735027,MultiPolygon
+way,300815350,Lidl,food_retail_supermarkets,-0.12389087889048299,51.45927225,MultiPolygon
+way,303466732,Yasar Halim,food_retail_supermarkets,-0.10335324391025932,51.62303355,MultiPolygon
+way,304086494,Despina's Food Store,food_retail_supermarkets,-0.1401991544319271,51.61660809999999,MultiPolygon
+way,309197983,Bracia Polski Delikatesy,food_retail_supermarkets,-0.06165517414239584,51.6225494,MultiPolygon
+way,309215643,Around the Clock 24 hour Off License,food_retail_supermarkets,-0.19986838570523896,51.543167249999996,MultiPolygon
+way,310822359,Aldi,food_retail_supermarkets,-0.15213650316281746,51.4435274,MultiPolygon
+way,312265219,Tesco,food_retail_supermarkets,-0.31884388276602493,51.5338476,MultiPolygon
+way,314705735,V.B. & Sons,food_retail_supermarkets,-0.3544288780039757,51.52917185,MultiPolygon
+way,315187889,Aldi,food_retail_supermarkets,0.248547824667312,51.556439350000005,MultiPolygon
+way,316688345,Aldi,food_retail_supermarkets,0.07046051990075825,51.52328085,MultiPolygon
+way,316861525,Tesco,food_retail_supermarkets,-0.09972989440639625,51.39914645,MultiPolygon
+way,317357796,Kopernik,food_retail_supermarkets,-0.3504427500000029,51.5312266,MultiPolygon
+way,317397799,Waitrose,food_retail_supermarkets,-0.3213936144630307,51.512981800000006,MultiPolygon
+way,322427541,Co-op Food,food_retail_supermarkets,-0.1034779839020297,51.43436215,MultiPolygon
+way,325114776,Waitrose,food_retail_supermarkets,-0.1372097231160187,51.321941249999995,MultiPolygon
+way,326607002,Affordable Foods,food_retail_supermarkets,-0.3729393552969515,51.510560749999996,MultiPolygon
+way,330953398,Co-operative Food,food_retail_supermarkets,-0.19006908945494067,51.4502384,MultiPolygon
+way,336668282,Co-op Food,food_retail_supermarkets,0.002036949080051541,51.6307562,MultiPolygon
+way,338641380,EGE Food Centre,food_retail_supermarkets,-0.0733678676269075,51.6119062,MultiPolygon
+way,340180687,Choi,food_retail_supermarkets,-0.1396897263975156,51.4922009,MultiPolygon
+way,343519562,Aldi,food_retail_supermarkets,-0.372002088311218,51.46766325,MultiPolygon
+way,350945032,M&S Foodhall,food_retail_supermarkets,-0.14294221633025359,51.6121519,MultiPolygon
+way,351534313,Noor,food_retail_supermarkets,-0.16742839368358764,51.5184177,MultiPolygon
+way,351620748,Lidl,food_retail_supermarkets,0.08475267291473322,51.60366035,MultiPolygon
+relation,5268519,Waitrose,food_retail_supermarkets,-0.15209431744324958,51.5193524,MultiPolygon
+way,353165195,Sainsbury's,food_retail_supermarkets,-0.18734345872782646,51.467446800000005,MultiPolygon
+way,356221838,Aldi,food_retail_supermarkets,-0.05661674999999969,51.65446905,MultiPolygon
+way,357278392,Sainsbury's,food_retail_supermarkets,-0.1816502247273139,51.4152207,MultiPolygon
+way,359396432,Waitrose,food_retail_supermarkets,-0.3736722549232786,51.4155921,MultiPolygon
+way,365884005,Nilsa Supermarket,food_retail_supermarkets,-0.06320163658669575,51.5133261,MultiPolygon
+way,366302187,Figs & Grain,food_retail_supermarkets,-0.062296433648796314,51.536137100000005,MultiPolygon
+way,366327427,Planet Organic,food_retail_supermarkets,-0.06165412817274473,51.5365008,MultiPolygon
+way,367842882,Londis,food_retail_supermarkets,0.14136840000000142,51.473145099999996,MultiPolygon
+way,372808116,Hoxton Fruit,food_retail_supermarkets,-0.05475546110624442,51.54924305,MultiPolygon
+way,372808118,Kings Meat & Groceries,food_retail_supermarkets,-0.054758967039200225,51.5493558,MultiPolygon
+way,372808120,,food_retail_supermarkets,-0.054675063510807975,51.5494377,MultiPolygon
+way,373710189,Amazon Fresh,food_retail_supermarkets,-0.15200052002412565,51.5438436,MultiPolygon
+way,374508244,Budgens,food_retail_supermarkets,-0.200507207435187,51.47481665,MultiPolygon
+way,377595859,M&S Simply Food,food_retail_supermarkets,-0.08317910911079379,51.51788965,MultiPolygon
+way,379841463,Aldi,food_retail_supermarkets,-0.13772220014075987,51.32095725,MultiPolygon
+way,379974581,Nourished Communities,food_retail_supermarkets,-0.04024540786938231,51.5875128,MultiPolygon
+way,384035748,Asda,food_retail_supermarkets,0.14263672933441204,51.4575727,MultiPolygon
+way,391835768,Harvest Haven,food_retail_supermarkets,-0.3309199672064128,51.4451608,MultiPolygon
+way,393884154,Hootch Supermarket,food_retail_supermarkets,-0.07484528928571398,51.550335200000006,MultiPolygon
+way,399928757,Co-Op,food_retail_supermarkets,0.12243622144018693,51.469199149999994,MultiPolygon
+way,401767548,Mediterranean,food_retail_supermarkets,-0.3350339786046512,51.44511755,MultiPolygon
+way,403276956,Co-op Food,food_retail_supermarkets,0.0457013154250414,51.426696,MultiPolygon
+way,404260493,Turkish Food Centre,food_retail_supermarkets,-0.10911679924717682,51.61260915,MultiPolygon
+way,415833369,Asda,food_retail_supermarkets,-0.27565807394486885,51.56457425,MultiPolygon
+way,419517563,M&S Simply Food,food_retail_supermarkets,-0.20375809840345038,51.5336502,MultiPolygon
+way,428095767,Co-op Food,food_retail_supermarkets,-0.06338007725578357,51.509510199999994,MultiPolygon
+way,428186389,The Community Larder,food_retail_supermarkets,-6.425389181935983e-05,51.6073018,MultiPolygon
+way,428472703,Lidl,food_retail_supermarkets,0.05424448714761584,51.51571215,MultiPolygon
+way,434694848,Peacock Food & Wine,food_retail_supermarkets,-0.033058120383973474,51.4421703,MultiPolygon
+relation,6438104,Sainsbury's,food_retail_supermarkets,-0.08499759097425763,51.46179325,MultiPolygon
+way,435374356,Lidl,food_retail_supermarkets,-0.04386516498383888,51.489706549999994,MultiPolygon
+way,438335677,Lidl,food_retail_supermarkets,-0.11637217502175037,51.396801749999995,MultiPolygon
+way,439037535,Best Price,food_retail_supermarkets,-0.2161864197977262,51.5285545,MultiPolygon
+way,444642774,Iceland,food_retail_supermarkets,-0.012910882712756809,51.574898149999996,MultiPolygon
+way,445154755,Lidl,food_retail_supermarkets,-0.3583707343162271,51.452200250000004,MultiPolygon
+way,449102844,Sainsbury's,food_retail_supermarkets,-0.14104968831863973,51.49292695,MultiPolygon
+way,451480067,Longdan,food_retail_supermarkets,-0.143421167761696,51.53853465,MultiPolygon
+way,451564161,Whole Foods Market,food_retail_supermarkets,-0.1443289672727014,51.53790665,MultiPolygon
+way,453684529,Happy Food Centre,food_retail_supermarkets,-0.011543925428571362,51.5768317,MultiPolygon
+way,455068144,Lidl,food_retail_supermarkets,0.15225474826530577,51.455911799999996,MultiPolygon
+way,457644937,Aldi,food_retail_supermarkets,-0.1420879226147317,51.537442600000006,MultiPolygon
+way,458658890,ALDI,food_retail_supermarkets,-0.03231043409872784,51.613023999999996,MultiPolygon
+way,460001109,Lidl,food_retail_supermarkets,-0.4043481683769685,51.49838355,MultiPolygon
+way,460736255,Sainsbury's,food_retail_supermarkets,0.05273754568960162,51.534067,MultiPolygon
+way,460833879,Yours Locally,food_retail_supermarkets,-0.07598230714285714,51.541156,MultiPolygon
+way,461976340,Sainsbury's,food_retail_supermarkets,-0.2090169337830053,51.4210296,MultiPolygon
+way,462933277,Morrisons,food_retail_supermarkets,-0.26042918012512595,51.5935151,MultiPolygon
+way,468834936,Supermart,food_retail_supermarkets,-0.0015366922588838524,51.6069938,MultiPolygon
+way,469166070,Lidl,food_retail_supermarkets,-0.13908020342458502,51.411244550000006,MultiPolygon
+way,470422456,Karaz Beirut,food_retail_supermarkets,-0.19869395496263254,51.541838999999996,MultiPolygon
+way,475176758,The Grocery Post,food_retail_supermarkets,-0.14444457058997112,51.5763261,MultiPolygon
+way,484919611,Sainsbury's,food_retail_supermarkets,-0.38074527087656085,51.59341295,MultiPolygon
+way,492847908,Sainsbury's,food_retail_supermarkets,-0.12813538087167609,51.48077695,MultiPolygon
+way,507646218,Spices of Malabar,food_retail_supermarkets,0.007117709141646148,51.559549000000004,MultiPolygon
+way,513323905,The Continental Food Exchange,food_retail_supermarkets,0.009443995434990986,51.563352300000005,MultiPolygon
+way,527096586,Sainsbury's,food_retail_supermarkets,-0.19681009195324312,51.368387850000005,MultiPolygon
+way,532325528,M&S Foodhall,food_retail_supermarkets,-0.08359083822911637,51.514956049999995,MultiPolygon
+way,534942120,Aldi,food_retail_supermarkets,0.17812504946236313,51.45079235,MultiPolygon
+way,536721733,Co-op Food,food_retail_supermarkets,0.01342618966162179,51.448490050000004,MultiPolygon
+way,540747486,Aldi,food_retail_supermarkets,0.10620156007912886,51.506087750000006,MultiPolygon
+way,544625583,Welcome Newhurst,food_retail_supermarkets,-0.08896430000000237,51.389157850000004,MultiPolygon
+way,546803107,World Foods k-superstore,food_retail_supermarkets,-0.05859285458487799,51.56300804999999,MultiPolygon
+way,555320957,Aldi,food_retail_supermarkets,-0.035145581849669365,51.43171705,MultiPolygon
+way,558631293,Savers,food_retail_supermarkets,0.19836887745614054,51.5512629,MultiPolygon
+way,559282496,M&S Food,food_retail_supermarkets,-0.12170923418162903,51.510949100000005,MultiPolygon
+way,561977197,Al-Nour Supermarket,food_retail_supermarkets,-0.358341864373949,51.452710100000004,MultiPolygon
+way,564117878,Co-op Food,food_retail_supermarkets,0.009309644463754067,51.5161176,MultiPolygon
+way,584963107,Lidl,food_retail_supermarkets,-0.012578424397152288,51.3753281,MultiPolygon
+way,587145648,Sainsbury's,food_retail_supermarkets,0.12051312716749753,51.4926483,MultiPolygon
+way,587565091,BMP Star Supermarket,food_retail_supermarkets,0.04552325711743717,51.436578100000006,MultiPolygon
+way,589008574,Aldi,food_retail_supermarkets,0.1632971787327217,51.5816373,MultiPolygon
+way,595925562,M&S Foodhall,food_retail_supermarkets,-0.2502125476172248,51.473407249999994,MultiPolygon
+way,597368959,Bharat Food Store,food_retail_supermarkets,0.033443226297826284,51.53893295,MultiPolygon
+way,610231419,MK Stores,food_retail_supermarkets,0.005880470491801588,51.552181700000006,MultiPolygon
+way,612289324,Sainsbury's,food_retail_supermarkets,-0.06426873513642578,51.4923244,MultiPolygon
+way,614532510,Simge Food Centre,food_retail_supermarkets,0.005430796900532497,51.55342335,MultiPolygon
+way,614702715,YDL Food Centre,food_retail_supermarkets,0.005425881951945044,51.5544248,MultiPolygon
+way,624196263,Amy's Kerala Supermarket,food_retail_supermarkets,-0.1096280330868874,51.384861349999994,MultiPolygon
+way,627732387,M&S Foodhall,food_retail_supermarkets,-0.3816919802547722,51.594853799999996,MultiPolygon
+way,638319751,Kujawiak,food_retail_supermarkets,-0.3246131704683062,51.5098522,MultiPolygon
+way,649660060,The Co-operative Food,food_retail_supermarkets,0.1465269930993055,51.4654608,MultiPolygon
+way,658909723,Lidl,food_retail_supermarkets,-0.4200988683044401,51.50864015,MultiPolygon
+way,668149594,Asda,food_retail_supermarkets,-0.4251725108374836,51.50110605,MultiPolygon
+way,678685332,Nisa Local,food_retail_supermarkets,-0.01776370000000001,51.615541,MultiPolygon
+way,679237767,Sainsbury's,food_retail_supermarkets,-0.19164881954316765,51.45435835,MultiPolygon
+way,680875676,EU Food Shop,food_retail_supermarkets,-0.016777399999999998,51.62038645,MultiPolygon
+way,680896801,Akdeniz Supermarket,food_retail_supermarkets,-0.017695380488506045,51.61834295,MultiPolygon
+way,681222173,Lidl,food_retail_supermarkets,-0.4096202070899133,51.518976800000004,MultiPolygon
+way,681581505,Highams Park Express,food_retail_supermarkets,0.00023582758377319437,51.6079013,MultiPolygon
+way,681581514,Meg’s Food And Wine,food_retail_supermarkets,0.0008793985774149672,51.60723645,MultiPolygon
+way,684595017,Ivy Organics,food_retail_supermarkets,-0.01762799999999984,51.615242499999994,MultiPolygon
+way,685395577,Food Plus,food_retail_supermarkets,-0.01709183109344893,51.61620595,MultiPolygon
+way,685395581,Star Express,food_retail_supermarkets,-0.01717040143844542,51.615678849999995,MultiPolygon
+way,685448957,Chingford Food Centre,food_retail_supermarkets,-0.017305080602958725,51.608332450000006,MultiPolygon
+way,685449169,Brothers Supermarket,food_retail_supermarkets,-0.01819735226554431,51.61031065,MultiPolygon
+way,685453149,Beydagi Food Centre,food_retail_supermarkets,-0.031154373744454306,51.568408000000005,MultiPolygon
+way,686284552,Asda,food_retail_supermarkets,0.15492484209188717,51.491443700000005,MultiPolygon
+way,696533247,Tesco Extra,food_retail_supermarkets,-0.2410055233273889,51.4009894,MultiPolygon
+way,708627684,Asda,food_retail_supermarkets,-0.3999842657656938,51.5585949,MultiPolygon
+way,729685363,Postoivoru,food_retail_supermarkets,0.0067749953457366405,51.546546199999995,MultiPolygon
+way,731909920,Co-op Food,food_retail_supermarkets,-0.3189944181481452,51.420726,MultiPolygon
+way,744293219,Lidl,food_retail_supermarkets,0.1134601941735015,51.5520754,MultiPolygon
+way,752987668,Huong Viet,food_retail_supermarkets,-0.4124158,51.44252135,MultiPolygon
+way,754374553,Al Noor,food_retail_supermarkets,-0.18793007418320676,51.5166295,MultiPolygon
+way,760829250,Sainsbury's,food_retail_supermarkets,-0.012617614880686493,51.46181905,MultiPolygon
+way,762100100,Sainsbury's,food_retail_supermarkets,-0.3960233254533061,51.557006400000006,MultiPolygon
+way,762732554,Brasilerio,food_retail_supermarkets,-0.35754722459115784,51.450432649999996,MultiPolygon
+way,765530620,Nisa Extra,food_retail_supermarkets,0.16209831173987427,51.4730294,MultiPolygon
+way,772782385,Jay's Budgens,food_retail_supermarkets,-0.038311370064077394,51.4536301,MultiPolygon
+way,795362838,Asda,food_retail_supermarkets,-0.21122959693324533,51.38543795,MultiPolygon
+way,810617540,Amazon Fresh,food_retail_supermarkets,-0.10046645335917112,51.506022200000004,MultiPolygon
+way,816719941,Whole Foods Market,food_retail_supermarkets,-0.19039968022476111,51.501694549999996,MultiPolygon
+way,820876019,Lidl,food_retail_supermarkets,-0.3392323081593975,51.606494999999995,MultiPolygon
+way,822357980,Lidl,food_retail_supermarkets,-0.25382716733251265,51.400312099999994,MultiPolygon
+way,824659759,Waitrose,food_retail_supermarkets,-0.42433132917390187,51.611226,MultiPolygon
+way,824948806,Waitrose,food_retail_supermarkets,-0.19788315229658682,51.49878415,MultiPolygon
+way,840385653,Waitrose,food_retail_supermarkets,-0.18382011540816334,51.49456085,MultiPolygon
+way,843913435,Co-op Food,food_retail_supermarkets,-0.10669735087743813,51.43998655,MultiPolygon
+way,844789970,Costcutter,food_retail_supermarkets,0.20020802539099045,51.5199985,MultiPolygon
+way,845842087,Aldi,food_retail_supermarkets,-0.1413794210892289,51.54658515,MultiPolygon
+way,846243396,Sainsbury's,food_retail_supermarkets,-0.11108352566718975,51.64583665,MultiPolygon
+way,846582231,Aldi,food_retail_supermarkets,0.15786682297930665,51.59757355,MultiPolygon
+way,851847846,Lidl,food_retail_supermarkets,0.22430933170458583,51.6057577,MultiPolygon
+way,851905048,Sainsbury's,food_retail_supermarkets,0.13459697345596905,51.5719052,MultiPolygon
+way,853545327,Chats Organic,food_retail_supermarkets,-0.043553226290323516,51.5517431,MultiPolygon
+way,858900235,Hoo Hing,food_retail_supermarkets,0.13672118828719076,51.5681287,MultiPolygon
+way,858925603,Lidl,food_retail_supermarkets,0.1218349717293424,51.56984095,MultiPolygon
+relation,11771259,Asda,food_retail_supermarkets,0.14318693537735866,51.5659701,MultiPolygon
+way,862792678,Hertford Supermarket,food_retail_supermarkets,-0.04748598230452636,51.658297000000005,MultiPolygon
+way,862792685,Enfield Pound+/EViM,food_retail_supermarkets,-0.04741280111717981,51.658764,MultiPolygon
+way,862829078,Afromart,food_retail_supermarkets,-0.047613098736841955,51.65688,MultiPolygon
+way,862940576,Metro Food Centre,food_retail_supermarkets,-0.0471632727980411,51.64704985,MultiPolygon
+way,862940581,New African Supermarket,food_retail_supermarkets,-0.046953159325398425,51.6474741,MultiPolygon
+way,864003576,Phoenicia Mediterranean Food Hall,food_retail_supermarkets,-0.1411462500000008,51.54761805,MultiPolygon
+way,864003580,Earth Natural Foods,food_retail_supermarkets,-0.1409684390153773,51.5479014,MultiPolygon
+way,870834758,Londis,food_retail_supermarkets,0.09113644889068227,51.53258955,MultiPolygon
+way,872976404,Davina Supermarket,food_retail_supermarkets,0.025860291641052788,51.54460385,MultiPolygon
+way,874060442,Greenland Supermarket,food_retail_supermarkets,0.024809671067445506,51.5465792,MultiPolygon
+way,874060451,Asona Ba,food_retail_supermarkets,0.024055498288012622,51.54656545,MultiPolygon
+way,874060467,Woodgrange Supermarket,food_retail_supermarkets,0.025254393231090827,51.546972749999995,MultiPolygon
+way,874077899,Pascheal Exotics,food_retail_supermarkets,0.02580715783898311,51.54508285,MultiPolygon
+way,878928697,Lidl,food_retail_supermarkets,0.06945650000000017,51.5207947,MultiPolygon
+way,896551642,Adonis Supermarket,food_retail_supermarkets,-0.0475061979863513,51.5481653,MultiPolygon
+way,907775901,Sainsbury's Local,food_retail_supermarkets,-0.23865811270198,51.376835299999996,MultiPolygon
+way,913200523,Costcutter,food_retail_supermarkets,-0.23383966506653542,51.51649295,MultiPolygon
+way,913852182,Spar,food_retail_supermarkets,-0.07737843932095437,51.3838655,MultiPolygon
+way,913852183,Budgens,food_retail_supermarkets,-0.07757121656738289,51.383853099999996,MultiPolygon
+way,917120486,Lidl,food_retail_supermarkets,-0.3106398168687995,51.4558875,MultiPolygon
+way,917519937,Eesa,food_retail_supermarkets,-0.017662649999999606,51.610513,MultiPolygon
+way,918943577,Co-op Food,food_retail_supermarkets,-0.481957063077495,51.6048686,MultiPolygon
+way,919214265,Avenue Food And Wine,food_retail_supermarkets,0.00018973670046768508,51.60886815,MultiPolygon
+way,919628104,Oltenia Traditional Romanian Shop,food_retail_supermarkets,-0.018568500000000314,51.61751255,MultiPolygon
+way,919628107,ChingFood,food_retail_supermarkets,-0.018034298038401966,51.617532,MultiPolygon
+way,919628112,Hugs & Mugs,food_retail_supermarkets,-0.018445584784026695,51.61723955,MultiPolygon
+way,919709451,Jerk Spice,food_retail_supermarkets,-0.01756655295140567,51.6188992,MultiPolygon
+way,923690202,Lidl,food_retail_supermarkets,0.05199382899910646,51.538676949999996,MultiPolygon
+way,926257246,Gülüzar Hatch Lane Food Centre,food_retail_supermarkets,0.004060349999998699,51.6185303,MultiPolygon
+way,929290852,Londis,food_retail_supermarkets,-0.39670631780099397,51.4695978,MultiPolygon
+way,931287124,Sham Land,food_retail_supermarkets,-0.23293717278126747,51.5065461,MultiPolygon
+way,939300798,Al-Madinah,food_retail_supermarkets,-0.23139520688622744,51.50613115,MultiPolygon
+way,939300799,Damas Gate,food_retail_supermarkets,-0.2315929892187496,51.5061552,MultiPolygon
+way,955495285,Lidl,food_retail_supermarkets,0.05605891295076183,51.368031,MultiPolygon
+way,957902160,Co-op Food,food_retail_supermarkets,-0.2434592050453036,51.50311825,MultiPolygon
+way,961890907,M&S Foodhall,food_retail_supermarkets,-0.19915079829394217,51.58337415,MultiPolygon
+way,964880675,Lidl,food_retail_supermarkets,0.14564905075582457,51.5635533,MultiPolygon
+way,967675372,Sainsbury's,food_retail_supermarkets,-0.2446572575655656,51.5825335,MultiPolygon
+way,967688398,Ruislip Food Centre,food_retail_supermarkets,-0.4250124871340959,51.5749166,MultiPolygon
+way,975869245,Tesco,food_retail_supermarkets,-0.22396122963640058,51.4976931,MultiPolygon
+way,990224303,Olympia Foods,food_retail_supermarkets,-0.2157549454058878,51.4973734,MultiPolygon
+way,993439439,Loon Fung Supermarket,food_retail_supermarkets,-0.13032785491329316,51.51189185,MultiPolygon
+way,995869087,泗和 SeeWoo,food_retail_supermarkets,-0.13043506615853767,51.51165985,MultiPolygon
+way,1002595180,Sainsbury's,food_retail_supermarkets,-0.22902358297267977,51.493178349999994,MultiPolygon
+way,1005608362,Da Food Island,food_retail_supermarkets,-0.24800897166285515,51.58457235,MultiPolygon
+way,1009723056,Desi Supermarket,food_retail_supermarkets,-0.3626988348380527,51.4579713,MultiPolygon
+way,1009885793,,food_retail_supermarkets,-0.17303687562579972,51.522267,MultiPolygon
+way,1009885802,Farah,food_retail_supermarkets,-0.17303687562579972,51.522267,MultiPolygon
+way,1011224078,Lidl,food_retail_supermarkets,-0.21572549045124073,51.46441115,MultiPolygon
+way,1011245207,Waitrose,food_retail_supermarkets,-0.2166386227538008,51.46412905,MultiPolygon
+way,1011408791,The Source Bulk Foods,food_retail_supermarkets,-0.2162287600228865,51.462083050000004,MultiPolygon
+way,1011500307,Soni Cash & Carry,food_retail_supermarkets,0.033717316927334276,51.53856425,MultiPolygon
+way,1011727900,Aladdins Mahal,food_retail_supermarkets,0.03577751501449154,51.537360750000005,MultiPolygon
+way,1013333203,Co-op Food,food_retail_supermarkets,0.10573923978215861,51.40396755,MultiPolygon
+way,1018848846,Hilal Food Center,food_retail_supermarkets,-0.2014231583760449,51.5450158,MultiPolygon
+way,1039087046,Quality Foods - Hounslow,food_retail_supermarkets,-0.3677368723404276,51.4672568,MultiPolygon
+way,1039272718,Lidl,food_retail_supermarkets,-0.37080267438076775,51.4677621,MultiPolygon
+way,1039675522,Sainsbury's,food_retail_supermarkets,-0.14512864994523522,51.590077050000005,MultiPolygon
+way,1056668954,Peweks,food_retail_supermarkets,-0.362833115684687,51.46039805,MultiPolygon
+way,1056931779,Atari-Ya Food,food_retail_supermarkets,-0.20002733511958468,51.58826205,MultiPolygon
+way,1057419771,Sainsbury's,food_retail_supermarkets,0.08723233140580405,51.58156365,MultiPolygon
+way,1057635166,Aldi,food_retail_supermarkets,0.08442794023548802,51.575016700000006,MultiPolygon
+way,1061127020,Haelan Organic Health Store,food_retail_supermarkets,-0.13352380136088565,51.586859399999994,MultiPolygon
+way,1104125420,Krishna's,food_retail_supermarkets,0.1007239204063467,51.378091600000005,MultiPolygon
+way,1106106138,Aldi,food_retail_supermarkets,-0.1378494952781688,51.6116085,MultiPolygon
+way,1106893173,Lidl,food_retail_supermarkets,-0.1505462209369815,51.3595665,MultiPolygon
+way,1122787510,SJV Cash & Carry,food_retail_supermarkets,0.05029494718586154,51.532128549999996,MultiPolygon
+way,1123865375,Co-op Food,food_retail_supermarkets,0.14518141755639674,51.482031250000006,MultiPolygon
+way,1127615198,Carsi Food Centre,food_retail_supermarkets,-0.11123087638446105,51.6058285,MultiPolygon
+relation,15395583,Waitrose,food_retail_supermarkets,-0.179957101682591,51.61141175,MultiPolygon
+way,1141587118,Lidl,food_retail_supermarkets,0.042855998650439174,51.4371014,MultiPolygon
+way,1177637259,Lidl,food_retail_supermarkets,0.11995287389043048,51.4190741,MultiPolygon
+way,1177896532,Natural Natural,food_retail_supermarkets,-0.2865336273683595,51.510078899999996,MultiPolygon
+way,1182212140,Lidl,food_retail_supermarkets,-0.137293608558559,51.5243406,MultiPolygon
+way,1189863628,Waitrose,food_retail_supermarkets,-0.19377296525960241,51.45417885,MultiPolygon
+way,1197510549,Lidl,food_retail_supermarkets,0.11229076119402995,51.3992145,MultiPolygon
+way,1207430665,Maryland Supermarket,food_retail_supermarkets,0.005259515943644565,51.54629825,MultiPolygon
+way,1208177496,Euromix,food_retail_supermarkets,0.005369415298857765,51.5481216,MultiPolygon
+way,1210499400,Costcutter,food_retail_supermarkets,0.030991702419356157,51.4317905,MultiPolygon
+way,1212065387,West Food Store,food_retail_supermarkets,-0.3898651844175001,51.47370445,MultiPolygon
+way,1212065391,First Food Fayre Apna Super Store,food_retail_supermarkets,-0.38949428306114925,51.4736005,MultiPolygon
+way,1212065393,Best Foods Hounslow,food_retail_supermarkets,-0.3891307414705535,51.47349785,MultiPolygon
+way,1212065396,Sadda Superstore,food_retail_supermarkets,-0.38873551840977566,51.47338675,MultiPolygon
+way,1216266980,,food_retail_supermarkets,-0.3809381680730708,51.4918064,MultiPolygon
+way,1224541690,M&S Food,food_retail_supermarkets,-0.18925403750340955,51.4425419,MultiPolygon
+way,1226741992,Lidl,food_retail_supermarkets,-0.10363669771547515,51.3738241,MultiPolygon
+way,1242240965,Lidl,food_retail_supermarkets,-0.02865183661971751,51.51432095,MultiPolygon
+way,1243136514,Lidl,food_retail_supermarkets,-0.0833348073279356,51.49195,MultiPolygon
+way,1243879903,Simple Fresh Fruit and Vegetables,food_retail_supermarkets,0.07722489526363716,51.55994565,MultiPolygon
+way,1244638194,Co-op Food,food_retail_supermarkets,-0.14134037995391652,51.552393699999996,MultiPolygon
+way,1296576032,Co-op Food,food_retail_supermarkets,0.2079466242560087,51.5773201,MultiPolygon
+way,1298072759,Tesco Express,food_retail_supermarkets,0.21868854723078812,51.57164645,MultiPolygon
+way,1316089509,Lidl,food_retail_supermarkets,0.024733633810256735,51.5483032,MultiPolygon
+way,1327595755,M&S Foodhall,food_retail_supermarkets,-0.16519670396983474,51.55389125,MultiPolygon
+way,1341558973,Food Centre,food_retail_supermarkets,-0.0980008781605831,51.59371675,MultiPolygon
+way,1351829023,Co-op Food,food_retail_supermarkets,0.027049730461764194,51.577612099999996,MultiPolygon
+way,1360397023,Marks & Spencer,food_retail_supermarkets,-0.005295661650725401,51.54256155,MultiPolygon
+way,1360397117,Waitrose,food_retail_supermarkets,-0.009493274720724799,51.5436489,MultiPolygon
+way,1423250001,Aldi,food_retail_supermarkets,0.011226941177417755,51.5692729,MultiPolygon
+relation,19646026,Morrisons,food_retail_supermarkets,0.1846686313641833,51.480134050000004,MultiPolygon
+relation,19844108,Tamilini Cash & Carry,food_retail_supermarkets,-0.3854289103779057,51.512314950000004,MultiPolygon
+way,1476555512,VB & Sons,food_retail_supermarkets,-0.36363209890199166,51.58898885,MultiPolygon
+way,1484160334,Aldi,food_retail_supermarkets,-0.08937851312027403,51.525797049999994,MultiPolygon
+way,1508538731,Tapuach,food_retail_supermarkets,-0.21963143067175606,51.58595445,MultiPolygon
+way,1509505662,M&S Foodhall,food_retail_supermarkets,-0.2579456604632018,51.492874650000005,MultiPolygon

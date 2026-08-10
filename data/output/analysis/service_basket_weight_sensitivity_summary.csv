@@ -1,0 +1,4 @@
+group,n_facilities,current_mean_index,equal_weight_mean_index,equal_vs_current_spearman,equal_top20_mismatch_overlap_pct,random_spearman_median,random_spearman_p05,random_spearman_p95,random_top20_overlap_median_pct,random_top20_overlap_p05_pct,random_top20_overlap_p95_pct
+Children and Adolescents,8,38.87,32.43,0.952,83.4,0.883,0.785,0.966,75.4,66.6,88
+Caregiving Adults,8,35.59,32.43,0.991,93.3,0.925,0.826,0.971,82.2,71.9,89.5
+Older adults,8,35.1,32.43,0.969,91.2,0.905,0.769,0.969,85.6,78.1,91.6

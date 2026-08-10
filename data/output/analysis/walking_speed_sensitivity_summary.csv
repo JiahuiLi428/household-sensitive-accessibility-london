@@ -1,0 +1,4 @@
+group,n_lsoas,baseline_speed_kmh,sensitivity_speed_kmh,baseline_mean,sensitivity_mean,absolute_change
+Children and Adolescents,4994,3.6,3.24,38.87,35,-3.87
+Caregiving Adults,4994,3.6,3.24,35.59,32.29,-3.3
+Older adults,4994,3.6,2.7,35.1,25.95,-9.15

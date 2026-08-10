@@ -1,0 +1,1541 @@
+osm_type,osm_id,name,category,lon,lat,source_geometry_type
+node,780856,Shepherd's Bush Market,transport_underground_metro_stations,-0.2263134,51.50607,Point
+node,2013971,Finchley Central,transport_underground_metro_stations,-0.192318,51.6008355,Point
+node,2013985,Totteridge & Whetstone,transport_underground_metro_stations,-0.179134,51.6303684,Point
+node,7993108,Hanger Lane,transport_underground_metro_stations,-0.2932869,51.5302977,Point
+node,11776731,Paddington,transport_underground_metro_stations,-0.1754622,51.5154494,Point
+node,12854648,Leytonstone,transport_underground_metro_stations,0.0085731,51.5685401,Point
+node,12854833,Stratford,transport_underground_metro_stations,-0.0036065,51.5414704,Point
+node,13330343,Woodford,transport_underground_metro_stations,0.0339455,51.6066349,Point
+node,13330350,South Woodford,transport_underground_metro_stations,0.0274819,51.5919244,Point
+node,13790683,Mile End,transport_underground_metro_stations,-0.0334206,51.5253233,Point
+node,15026054,Sloane Square,transport_underground_metro_stations,-0.1558767,51.4922264,Point
+node,18089211,Wimbledon,transport_underground_metro_stations,-0.2052107,51.4220252,Point
+node,18395696,Mansion House,transport_underground_metro_stations,-0.0952228,51.5118924,Point
+node,18395697,Monument,transport_underground_metro_stations,-0.0860638,51.5106943,Point
+node,19135534,North Harrow,transport_underground_metro_stations,-0.3631762,51.5851618,Point
+node,19137784,Northolt,transport_underground_metro_stations,-0.3704288,51.548611,Point
+node,19137826,White City,transport_underground_metro_stations,-0.2242227,51.5120348,Point
+node,20455533,Harrow & Wealdstone,transport_underground_metro_stations,-0.3348748,51.5922178,Point
+node,20698942,Park Royal,transport_underground_metro_stations,-0.2840597,51.5268062,Point
+node,20698948,North Ealing,transport_underground_metro_stations,-0.2887523,51.5174885,Point
+node,20698965,Acton Town,transport_underground_metro_stations,-0.2795634,51.5025332,Point
+node,20856570,Kingsbury,transport_underground_metro_stations,-0.2786881,51.5844899,Point
+node,20955702,West Harrow,transport_underground_metro_stations,-0.353041,51.5796443,Point
+node,20955753,Ealing Broadway,transport_underground_metro_stations,-0.3010518,51.5150298,Point
+node,20955782,Ealing Common,transport_underground_metro_stations,-0.2881914,51.5102341,Point
+node,21095010,Stepney Green,transport_underground_metro_stations,-0.0467219,51.5216851,Point
+node,21123677,Ruislip Gardens,transport_underground_metro_stations,-0.4104614,51.5606573,Point
+node,21141345,South Kenton,transport_underground_metro_stations,-0.3085107,51.5703076,Point
+node,21141346,North Wembley,transport_underground_metro_stations,-0.3038698,51.5624017,Point
+node,21269005,Boston Manor,transport_underground_metro_stations,-0.3248079,51.4957055,Point
+node,21269013,South Ealing,transport_underground_metro_stations,-0.3071259,51.5010526,Point
+node,21269366,Baker Street,transport_underground_metro_stations,-0.1568796,51.5238242,Point
+node,21442171,Tooting Bec,transport_underground_metro_stations,-0.1597188,51.4356228,Point
+node,21507731,Clapham North,transport_underground_metro_stations,-0.1296388,51.4653034,Point
+node,21507733,Oval,transport_underground_metro_stations,-0.1123953,51.4818339,Point
+node,21507827,Kennington,transport_underground_metro_stations,-0.1058829,51.4882861,Point
+node,21508069,Tottenham Court Road,transport_underground_metro_stations,-0.1303793,51.5160063,Point
+node,21596803,Hornchurch,transport_underground_metro_stations,0.2188012,51.5540389,Point
+node,25030425,Maida Vale,transport_underground_metro_stations,-0.1859863,51.5297951,Point
+node,25318238,Fulham Broadway,transport_underground_metro_stations,-0.1944093,51.4809254,Point
+node,25524263,St. James's Park,transport_underground_metro_stations,-0.1345942,51.4992816,Point
+node,25531617,West Acton,transport_underground_metro_stations,-0.2800132,51.5186534,Point
+node,25534427,Westminster,transport_underground_metro_stations,-0.1249302,51.5013562,Point
+node,25542662,Barkingside,transport_underground_metro_stations,0.088647,51.5858142,Point
+node,25578775,Newbury Park,transport_underground_metro_stations,0.0899485,51.5754803,Point
+node,25831017,Camden Town,transport_underground_metro_stations,-0.1423225,51.53946,Point
+node,26007544,Putney Bridge,transport_underground_metro_stations,-0.2088114,51.4683469,Point
+node,26267078,Seven Sisters,transport_underground_metro_stations,-0.0741898,51.5824307,Point
+node,26374016,Queensway,transport_underground_metro_stations,-0.1872283,51.5101973,Point
+node,26374027,Bayswater,transport_underground_metro_stations,-0.188251,51.5123038,Point
+node,26374056,Lancaster Gate,transport_underground_metro_stations,-0.1750689,51.5116952,Point
+node,26631299,Green Park,transport_underground_metro_stations,-0.1415305,51.505721,Point
+node,26634145,Kilburn Park,transport_underground_metro_stations,-0.1941674,51.5351104,Point
+node,26652919,Brixton,transport_underground_metro_stations,-0.114705,51.4626097,Point
+node,26746932,Holborn,transport_underground_metro_stations,-0.1193216,51.5176447,Point
+node,26854620,Queensbury,transport_underground_metro_stations,-0.2861855,51.5941727,Point
+node,27511953,Dagenham Heathway,transport_underground_metro_stations,0.146783,51.5417108,Point
+node,27555804,Warren Street,transport_underground_metro_stations,-0.1377493,51.5246057,Point
+node,27605421,Hainault,transport_underground_metro_stations,0.0934109,51.6033077,Point
+node,28108910,Covent Garden,transport_underground_metro_stations,-0.1244469,51.5130521,Point
+node,28108911,Chancery Lane,transport_underground_metro_stations,-0.1139742,51.518255,Point
+node,29034424,Bethnal Green,transport_underground_metro_stations,-0.0544557,51.5271395,Point
+node,29859288,Blackhorse Road,transport_underground_metro_stations,-0.0416453,51.5867174,Point
+node,31907614,Regent's Park,transport_underground_metro_stations,-0.1466069,51.5236375,Point
+node,32351072,Edgware Road,transport_underground_metro_stations,-0.1702657,51.5204413,Point
+node,34006946,Clapham South,transport_underground_metro_stations,-0.1475523,51.4528372,Point
+node,34007928,Balham,transport_underground_metro_stations,-0.1528977,51.4433857,Point
+node,34037748,Tooting Broadway,transport_underground_metro_stations,-0.1682905,51.4277387,Point
+node,34037750,Colliers Wood,transport_underground_metro_stations,-0.1778626,51.4182747,Point
+node,34037860,South Wimbledon,transport_underground_metro_stations,-0.1926457,51.4151759,Point
+node,34039081,Morden,transport_underground_metro_stations,-0.1946872,51.402391,Point
+node,34059992,Bermondsey,transport_underground_metro_stations,-0.0641945,51.4975933,Point
+node,34060600,North Greenwich,transport_underground_metro_stations,0.0047467,51.5008073,Point
+node,34103191,King's Cross St Pancras,transport_underground_metro_stations,-0.1243426,51.5307113,Point
+node,34577401,Turnham Green,transport_underground_metro_stations,-0.254427,51.4951505,Point
+node,34577402,Turnham Green,transport_underground_metro_stations,-0.2544167,51.4952391,Point
+node,34595045,Wanstead,transport_underground_metro_stations,0.0286698,51.5755808,Point
+node,34595046,Redbridge,transport_underground_metro_stations,0.0454097,51.5763203,Point
+node,34595047,Gants Hill,transport_underground_metro_stations,0.0647865,51.5764105,Point
+node,64767750,Tower Hill,transport_underground_metro_stations,-0.0766367,51.5098716,Point
+node,64772416,Cannon Street,transport_underground_metro_stations,-0.0903013,51.5114806,Point
+node,64775110,Mansion House,transport_underground_metro_stations,-0.0952117,51.5118216,Point
+node,70594714,Harlesden,transport_underground_metro_stations,-0.2574201,51.5361968,Point
+node,70739100,Embankment,transport_underground_metro_stations,-0.1229841,51.5066338,Point
+node,70769747,Hampstead,transport_underground_metro_stations,-0.1782918,51.5566155,Point
+node,70804547,Old Street,transport_underground_metro_stations,-0.0876094,51.5256284,Point
+node,70833764,Tottenham Court Road,transport_underground_metro_stations,-0.1298795,51.5153108,Point
+node,70833777,Leicester Square,transport_underground_metro_stations,-0.1283486,51.5119071,Point
+node,87553546,Tottenham Hale,transport_underground_metro_stations,-0.0615895,51.5878702,Point
+node,89137908,Kenton,transport_underground_metro_stations,-0.3166378,51.5815255,Point
+node,89436145,Queen's Park,transport_underground_metro_stations,-0.2048001,51.5341642,Point
+node,96093147,South Kensington,transport_underground_metro_stations,-0.1743191,51.4941486,Point
+node,117921884,Upton Park,transport_underground_metro_stations,0.0350852,51.535378,Point
+node,118208899,Barking,transport_underground_metro_stations,0.0810967,51.5396162,Point
+node,119274464,King's Cross St Pancras,transport_underground_metro_stations,-0.1239491,51.530609,Point
+node,129956964,Mornington Crescent,transport_underground_metro_stations,-0.1385393,51.5343579,Point
+node,129996254,Bromley-By-Bow,transport_underground_metro_stations,-0.0115318,51.5247889,Point
+node,178777637,Charing Cross,transport_underground_metro_stations,-0.1283355,51.5075319,Point
+node,178805960,Waterloo,transport_underground_metro_stations,-0.1125462,51.5025368,Point
+node,181505582,Barbican,transport_underground_metro_stations,-0.0987257,51.5202304,Point
+node,181609639,Sloane Square,transport_underground_metro_stations,-0.1555475,51.4921741,Point
+node,181662604,Stockwell,transport_underground_metro_stations,-0.1225014,51.472211,Point
+node,182244786,Earl's Court,transport_underground_metro_stations,-0.1941231,51.4916113,Point
+node,186194628,Arsenal,transport_underground_metro_stations,-0.1074866,51.5583839,Point
+node,208338600,City Road,transport_underground_metro_stations,-0.0977626,51.5296972,Point
+node,248200076,Oxford Circus,transport_underground_metro_stations,-0.1420167,51.5156556,Point
+node,251025912,Heathrow Terminal 5,transport_underground_metro_stations,-0.487744,51.4725978,Point
+node,252864424,East Putney,transport_underground_metro_stations,-0.2104164,51.4591403,Point
+node,254681783,Ealing Broadway,transport_underground_metro_stations,-0.301372,51.5152274,Point
+node,273210309,Pimlico,transport_underground_metro_stations,-0.1353308,51.4891579,Point
+node,273411715,Kensington (Olympia),transport_underground_metro_stations,-0.2097577,51.4973802,Point
+node,386204370,Southwark,transport_underground_metro_stations,-0.1058902,51.5041113,Point
+node,441947584,Victoria,transport_underground_metro_stations,-0.1431522,51.4963688,Point
+node,441947585,Victoria,transport_underground_metro_stations,-0.1440984,51.4963553,Point
+node,443640800,Upminster,transport_underground_metro_stations,0.2516815,51.5589708,Point
+node,464784549,Paddington,transport_underground_metro_stations,-0.1758811,51.5163808,Point
+node,469760990,Wembley Park,transport_underground_metro_stations,-0.2800532,51.5636297,Point
+node,492095642,Waterloo,transport_underground_metro_stations,-0.1125395,51.5033992,Point
+node,535903866,Stratford,transport_underground_metro_stations,-0.0033746,51.5408921,Point
+node,561297695,Finsbury Park,transport_underground_metro_stations,-0.1064144,51.5648345,Point
+node,562730483,,transport_underground_metro_stations,-0.1058839,51.5644805,Point
+node,601077609,Baker Street,transport_underground_metro_stations,-0.1569352,51.5229821,Point
+node,601141526,Baker Street,transport_underground_metro_stations,-0.1566498,51.522259,Point
+node,601141534,Baker Street,transport_underground_metro_stations,-0.1575496,51.5231217,Point
+node,606162976,Upney,transport_underground_metro_stations,0.1006226,51.5383834,Point
+node,606167840,Elm Park,transport_underground_metro_stations,0.1963645,51.549334,Point
+node,610580387,Stratford,transport_underground_metro_stations,-0.0037262,51.5415826,Point
+node,610591191,Stratford,transport_underground_metro_stations,-0.0032087,51.5410245,Point
+node,961587777,Mile End,transport_underground_metro_stations,-0.033369,51.5252369,Point
+node,1047973190,Tower Hill,transport_underground_metro_stations,-0.0766185,51.5097755,Point
+node,1047973192,Tower Hill,transport_underground_metro_stations,-0.0766274,51.5098382,Point
+node,1102565750,Euston Square,transport_underground_metro_stations,-0.1357746,51.5258153,Point
+node,1226108034,Harrow-on-the-Hill,transport_underground_metro_stations,-0.3352549,51.5789911,Point
+node,1233789283,East Finchley,transport_underground_metro_stations,-0.1654115,51.5873739,Point
+node,1233789330,Finchley Central,transport_underground_metro_stations,-0.1926765,51.600867,Point
+node,1240998998,High Barnet,transport_underground_metro_stations,-0.1940163,51.6504841,Point
+node,1255833484,Paddington,transport_underground_metro_stations,-0.1786485,51.5184283,Point
+node,1258241734,Farringdon,transport_underground_metro_stations,-0.1052085,51.5208236,Point
+node,1259856278,Chalk Farm,transport_underground_metro_stations,-0.1534021,51.5442547,Point
+node,1259893032,Great Portland Street,transport_underground_metro_stations,-0.1438686,51.5237975,Point
+node,1263027649,Westminster,transport_underground_metro_stations,-0.1251817,51.5011187,Point
+node,1263027660,Westminster,transport_underground_metro_stations,-0.1266894,51.5008717,Point
+node,1263067940,Euston,transport_underground_metro_stations,-0.1340079,51.5282784,Point
+node,1263113380,Euston,transport_underground_metro_stations,-0.1327972,51.5284457,Point
+node,1263113381,Euston,transport_underground_metro_stations,-0.1322216,51.5285438,Point
+node,1263113387,Euston,transport_underground_metro_stations,-0.131945,51.5284038,Point
+node,1263113388,Euston,transport_underground_metro_stations,-0.1324887,51.5287875,Point
+node,1263322336,Kennington,transport_underground_metro_stations,-0.106554,51.4876575,Point
+node,1263322349,Kennington,transport_underground_metro_stations,-0.1056501,51.4887057,Point
+node,1263339557,Swiss Cottage,transport_underground_metro_stations,-0.174687,51.5436447,Point
+node,1264468143,Baker Street,transport_underground_metro_stations,-0.1567431,51.5225853,Point
+node,1264482797,Paddington,transport_underground_metro_stations,-0.175365,51.5154795,Point
+node,1264646142,Paddington,transport_underground_metro_stations,-0.178584,51.518488,Point
+node,1264705751,Edgware Road,transport_underground_metro_stations,-0.1662143,51.5203846,Point
+node,1270856914,Farringdon,transport_underground_metro_stations,-0.1052548,51.5208186,Point
+node,1272139014,Marylebone,transport_underground_metro_stations,-0.1635969,51.5222403,Point
+node,1272869567,Charing Cross,transport_underground_metro_stations,-0.1260127,51.5088889,Point
+node,1274041984,Charing Cross,transport_underground_metro_stations,-0.1283193,51.5074191,Point
+node,1274099221,London Bridge,transport_underground_metro_stations,-0.0879751,51.5049296,Point
+node,1279651397,Wimbledon,transport_underground_metro_stations,-0.2060476,51.4217371,Point
+node,1279651398,Wimbledon,transport_underground_metro_stations,-0.2060243,51.4217166,Point
+node,1279651405,Wimbledon,transport_underground_metro_stations,-0.2061591,51.4217992,Point
+node,1279651412,Wimbledon,transport_underground_metro_stations,-0.2059309,51.4216545,Point
+node,1288249466,Moorgate,transport_underground_metro_stations,-0.0891531,51.5183795,Point
+node,1288249468,Moorgate,transport_underground_metro_stations,-0.0882115,51.5185899,Point
+node,1337866094,Camden Town,transport_underground_metro_stations,-0.1430587,51.5395587,Point
+node,1337866095,Camden Town,transport_underground_metro_stations,-0.1424036,51.5396902,Point
+node,1389887370,Archway,transport_underground_metro_stations,-0.1348189,51.5653116,Point
+node,1508497949,West Kensington,transport_underground_metro_stations,-0.2059366,51.4906873,Point
+node,1508498078,Barons Court,transport_underground_metro_stations,-0.2144762,51.4902649,Point
+node,1508498110,Barons Court,transport_underground_metro_stations,-0.2144949,51.4903359,Point
+node,1508498149,Barons Court,transport_underground_metro_stations,-0.214492,51.4904269,Point
+node,1508498210,Hammersmith,transport_underground_metro_stations,-0.2235194,51.4922228,Point
+node,1508498224,Hammersmith,transport_underground_metro_stations,-0.2232548,51.4921295,Point
+node,1508498227,Hammersmith,transport_underground_metro_stations,-0.2233459,51.4922874,Point
+node,1508498232,Hammersmith,transport_underground_metro_stations,-0.2230822,51.4922031,Point
+node,1508551982,Ravenscourt Park,transport_underground_metro_stations,-0.2364074,51.4940842,Point
+node,1508653562,Acton Town,transport_underground_metro_stations,-0.2796961,51.5024874,Point
+node,1508653592,Acton Town,transport_underground_metro_stations,-0.2803094,51.5028105,Point
+node,1508678638,Ealing Broadway,transport_underground_metro_stations,-0.3013717,51.5151999,Point
+node,1508678646,Ealing Common,transport_underground_metro_stations,-0.2882686,51.5102288,Point
+node,1508735351,South Ealing,transport_underground_metro_stations,-0.3071743,51.5011247,Point
+node,1508735387,South Ealing,transport_underground_metro_stations,-0.308474,51.5005598,Point
+node,1508864496,Boston Manor,transport_underground_metro_stations,-0.3248507,51.4957261,Point
+node,1508864504,Hatton Cross,transport_underground_metro_stations,-0.4236954,51.4664837,Point
+node,1508864507,Heathrow Terminals 2 & 3,transport_underground_metro_stations,-0.4527795,51.4713841,Point
+node,1508864541,Hounslow East,transport_underground_metro_stations,-0.3562936,51.4732597,Point
+node,1508864546,Hounslow West,transport_underground_metro_stations,-0.3856162,51.4735809,Point
+node,1508864558,Osterley,transport_underground_metro_stations,-0.3522781,51.4811284,Point
+node,1508864722,Heathrow Terminal 5,transport_underground_metro_stations,-0.4877355,51.4724184,Point
+node,1525365501,Ealing Broadway,transport_underground_metro_stations,-0.3008709,51.5149182,Point
+node,1525365505,East Acton,transport_underground_metro_stations,-0.248137,51.5173451,Point
+node,1525365517,Hanger Lane,transport_underground_metro_stations,-0.2933143,51.5301886,Point
+node,1525365534,West Acton,transport_underground_metro_stations,-0.2808512,51.5180135,Point
+node,1525365849,North Acton,transport_underground_metro_stations,-0.2599374,51.5236249,Point
+node,1528614957,Upminster Bridge,transport_underground_metro_stations,0.2354565,51.5585201,Point
+node,1535590691,West Ham,transport_underground_metro_stations,0.0042138,51.5274379,Point
+node,1558436528,Woodford,transport_underground_metro_stations,0.0339019,51.6066431,Point
+node,1577793547,King's Cross St Pancras,transport_underground_metro_stations,-0.1229228,51.5310661,Point
+node,1577814240,King's Cross St Pancras,transport_underground_metro_stations,-0.1216069,51.5309643,Point
+node,1577814287,King's Cross St Pancras,transport_underground_metro_stations,-0.124545,51.5295915,Point
+node,1581531089,Fairlop,transport_underground_metro_stations,0.0911452,51.5959458,Point
+node,1581531102,Hainault,transport_underground_metro_stations,0.0934581,51.6033034,Point
+node,1581574576,Barkingside,transport_underground_metro_stations,0.0886838,51.5858143,Point
+node,1581574577,Newbury Park,transport_underground_metro_stations,0.0899913,51.5754764,Point
+node,1582375181,Gants Hill,transport_underground_metro_stations,0.0648672,51.5766417,Point
+node,1582375186,Leytonstone,transport_underground_metro_stations,0.0083915,51.5685848,Point
+node,1582375190,Redbridge,transport_underground_metro_stations,0.045411,51.5763628,Point
+node,1582375201,Leyton,transport_underground_metro_stations,-0.0042132,51.5574277,Point
+node,1582448806,Leytonstone,transport_underground_metro_stations,0.0084455,51.5685732,Point
+node,1582448808,South Woodford,transport_underground_metro_stations,0.0274406,51.5919252,Point
+node,1586683103,Snaresbrook,transport_underground_metro_stations,0.0215864,51.5808033,Point
+node,1586683112,Snaresbrook,transport_underground_metro_stations,0.0206956,51.5795773,Point
+node,1586683114,Snaresbrook,transport_underground_metro_stations,0.0215088,51.5807279,Point
+node,1591132344,Putney Bridge,transport_underground_metro_stations,-0.208763,51.4683435,Point
+node,1591356373,Earl's Court,transport_underground_metro_stations,-0.1939266,51.4914892,Point
+node,1591399577,Bayswater,transport_underground_metro_stations,-0.1882443,51.5122731,Point
+node,1591399583,Paddington,transport_underground_metro_stations,-0.1754503,51.5154037,Point
+node,1593616849,Sloane Square,transport_underground_metro_stations,-0.1555588,51.4921443,Point
+node,1593616903,South Kensington,transport_underground_metro_stations,-0.1730526,51.4940331,Point
+node,1600337388,Southgate,transport_underground_metro_stations,-0.1286534,51.6316366,Point
+node,1602746928,Cockfosters,transport_underground_metro_stations,-0.1489526,51.6515957,Point
+node,1602748877,Oakwood,transport_underground_metro_stations,-0.1318876,51.6475736,Point
+node,1604319329,Stratford,transport_underground_metro_stations,-0.0034048,51.5408799,Point
+node,1605304973,Fairlop,transport_underground_metro_stations,0.0911132,51.5959492,Point
+node,1612769161,London Bridge,transport_underground_metro_stations,-0.088819,51.5062105,Point
+node,1637478193,Bond Street,transport_underground_metro_stations,-0.1491082,51.514454,Point
+node,1637478195,Lancaster Gate,transport_underground_metro_stations,-0.1751089,51.511798,Point
+node,1637478196,Oxford Circus,transport_underground_metro_stations,-0.1407785,51.5153611,Point
+node,1637478197,Oxford Circus,transport_underground_metro_stations,-0.1408111,51.5154617,Point
+node,1637478203,Notting Hill Gate,transport_underground_metro_stations,-0.1960119,51.5086966,Point
+node,1637478204,Notting Hill Gate,transport_underground_metro_stations,-0.1959754,51.5087093,Point
+node,1637478216,Notting Hill Gate,transport_underground_metro_stations,-0.1965091,51.5090217,Point
+node,1637478217,Notting Hill Gate,transport_underground_metro_stations,-0.1969446,51.5089337,Point
+node,1637578314,Chancery Lane,transport_underground_metro_stations,-0.1121528,51.5182701,Point
+node,1637578327,Holborn,transport_underground_metro_stations,-0.119335,51.5176949,Point
+node,1637578440,Bank,transport_underground_metro_stations,-0.0893749,51.5131048,Point
+node,1637578467,St. Paul's,transport_underground_metro_stations,-0.0991304,51.5155459,Point
+node,1637627149,Bethnal Green,transport_underground_metro_stations,-0.0544895,51.527328,Point
+node,1637627151,Mile End,transport_underground_metro_stations,-0.0335219,51.5254588,Point
+node,1640042562,Cockfosters,transport_underground_metro_stations,-0.1490968,51.6514258,Point
+node,1640042563,Cockfosters,transport_underground_metro_stations,-0.1490308,51.6515073,Point
+node,1640042564,Oakwood,transport_underground_metro_stations,-0.1318075,51.647643,Point
+node,1643713812,High Barnet,transport_underground_metro_stations,-0.1937772,51.6503131,Point
+node,1645567975,Heathrow Terminals 2 & 3,transport_underground_metro_stations,-0.4526576,51.4715003,Point
+node,1645907858,Heathrow Terminal 4,transport_underground_metro_stations,-0.4454717,51.4588093,Point
+node,1651498764,Barons Court,transport_underground_metro_stations,-0.2144055,51.4903477,Point
+node,1651504140,Arnos Grove,transport_underground_metro_stations,-0.1330981,51.6164256,Point
+node,1655439947,Bank,transport_underground_metro_stations,-0.0889454,51.5132557,Point
+node,1658038921,Victoria,transport_underground_metro_stations,-0.144097,51.4963251,Point
+node,1658039437,Edgware Road,transport_underground_metro_stations,-0.1666628,51.5201004,Point
+node,1658039458,Edgware Road,transport_underground_metro_stations,-0.1671631,51.5200588,Point
+node,1658039483,Edgware Road,transport_underground_metro_stations,-0.1668361,51.5203099,Point
+node,1666386021,Goodge Street,transport_underground_metro_stations,-0.1343582,51.520515,Point
+node,1666386055,Hyde Park Corner,transport_underground_metro_stations,-0.1543827,51.5027911,Point
+node,1670707904,Angel,transport_underground_metro_stations,-0.1060356,51.5324874,Point
+node,1670707917,Camden Town,transport_underground_metro_stations,-0.1426957,51.5394397,Point
+node,1670707933,East Finchley,transport_underground_metro_stations,-0.1648137,51.5871881,Point
+node,1670707949,Highgate,transport_underground_metro_stations,-0.1458316,51.5776825,Point
+node,1670707959,Piccadilly Circus,transport_underground_metro_stations,-0.1347361,51.5097354,Point
+node,1670707975,Tufnell Park,transport_underground_metro_stations,-0.138457,51.5568005,Point
+node,1674808352,Willesden Junction,transport_underground_metro_stations,-0.2438159,51.5324278,Point
+node,1674808357,Willesden Junction,transport_underground_metro_stations,-0.2456259,51.5324545,Point
+node,1678368302,Hendon Central,transport_underground_metro_stations,-0.2265541,51.5834006,Point
+node,1687814967,High Barnet,transport_underground_metro_stations,-0.1938826,51.650399,Point
+node,1690218908,Canning Town,transport_underground_metro_stations,0.0078485,51.5140999,Point
+node,1690301281,Canning Town,transport_underground_metro_stations,0.008579,51.5136926,Point
+node,1691713663,Elephant & Castle,transport_underground_metro_stations,-0.1013036,51.4958111,Point
+node,1691713664,Elephant & Castle,transport_underground_metro_stations,-0.1005484,51.4949204,Point
+node,1692039959,Finchley Road,transport_underground_metro_stations,-0.180773,51.5472622,Point
+node,1692039965,Finchley Road,transport_underground_metro_stations,-0.1807133,51.5473446,Point
+node,1692040043,Finchley Road,transport_underground_metro_stations,-0.1808508,51.5471468,Point
+node,1692040068,Finchley Road,transport_underground_metro_stations,-0.180791,51.5472377,Point
+node,1693138054,Kilburn,transport_underground_metro_stations,-0.2048094,51.546885,Point
+node,1693158540,Brent Cross,transport_underground_metro_stations,-0.2139731,51.5768177,Point
+node,1698590616,Willesden Green,transport_underground_metro_stations,-0.222145,51.5492903,Point
+node,1698590943,Dollis Hill,transport_underground_metro_stations,-0.2398693,51.5521001,Point
+node,1698590945,Dollis Hill,transport_underground_metro_stations,-0.2398576,51.5520522,Point
+node,1698591356,Neasden,transport_underground_metro_stations,-0.2503503,51.5542925,Point
+node,1698591428,Neasden,transport_underground_metro_stations,-0.2514685,51.5544596,Point
+node,1698593403,Wembley Park,transport_underground_metro_stations,-0.2809938,51.5638941,Point
+node,1699913205,Preston Road,transport_underground_metro_stations,-0.2966329,51.5725156,Point
+node,1699913772,Northwick Park,transport_underground_metro_stations,-0.3165052,51.5783845,Point
+node,1699913828,Northwick Park,transport_underground_metro_stations,-0.3184451,51.5785019,Point
+node,1699914146,Harrow-on-the-Hill,transport_underground_metro_stations,-0.3370658,51.5794614,Point
+node,1699914173,West Harrow,transport_underground_metro_stations,-0.3530692,51.5796027,Point
+node,1699943608,Northwick Park,transport_underground_metro_stations,-0.3184599,51.5784328,Point
+node,1699943749,Harrow-on-the-Hill,transport_underground_metro_stations,-0.337178,51.5793792,Point
+node,1699980341,North Wembley,transport_underground_metro_stations,-0.3038951,51.5623981,Point
+node,1699980383,South Kenton,transport_underground_metro_stations,-0.3085807,51.570252,Point
+node,1699980457,Kenton,transport_underground_metro_stations,-0.3166625,51.5815221,Point
+node,1702390655,Alperton,transport_underground_metro_stations,-0.2994483,51.5405797,Point
+node,1702390692,Alperton,transport_underground_metro_stations,-0.3008855,51.5410769,Point
+node,1704515263,Hammersmith,transport_underground_metro_stations,-0.2249929,51.4937016,Point
+node,1704515266,Hammersmith,transport_underground_metro_stations,-0.2249524,51.4937036,Point
+node,1704516214,Latimer Road,transport_underground_metro_stations,-0.2175169,51.5137126,Point
+node,1707790145,Royal Oak,transport_underground_metro_stations,-0.1866198,51.5189969,Point
+node,1719255491,Ladbroke Grove,transport_underground_metro_stations,-0.2112856,51.5172012,Point
+node,1719255581,Westbourne Park,transport_underground_metro_stations,-0.2023495,51.5209668,Point
+node,1719255592,North Acton,transport_underground_metro_stations,-0.2599555,51.5237233,Point
+node,1721206198,Rayners Lane,transport_underground_metro_stations,-0.3713177,51.5751719,Point
+node,1721796169,Acton Town,transport_underground_metro_stations,-0.2801097,51.5028013,Point
+node,1721877908,Bromley-By-Bow,transport_underground_metro_stations,-0.0132865,51.5245726,Point
+node,1721881886,Bow Road,transport_underground_metro_stations,-0.0248073,51.5268754,Point
+node,1725225733,Baker Street,transport_underground_metro_stations,-0.1566779,51.5222984,Point
+node,1725229727,Great Portland Street,transport_underground_metro_stations,-0.1438906,51.5238238,Point
+node,1725229733,King's Cross St Pancras,transport_underground_metro_stations,-0.1246817,51.5297729,Point
+node,1725278953,Barbican,transport_underground_metro_stations,-0.0987297,51.5202026,Point
+node,1725278986,Moorgate,transport_underground_metro_stations,-0.0908535,51.5187071,Point
+node,1725359916,Monument,transport_underground_metro_stations,-0.0860248,51.5107151,Point
+node,1725360051,Cannon Street,transport_underground_metro_stations,-0.0903017,51.5115065,Point
+node,1725369138,Westminster,transport_underground_metro_stations,-0.1243781,51.5016824,Point
+node,1726375839,Gunnersbury,transport_underground_metro_stations,-0.2753247,51.4916596,Point
+node,1726375848,Gunnersbury,transport_underground_metro_stations,-0.2758329,51.4909547,Point
+node,1726407037,Richmond,transport_underground_metro_stations,-0.3011185,51.4633013,Point
+node,1726407052,Richmond,transport_underground_metro_stations,-0.3011353,51.4633819,Point
+node,1735704089,Upney,transport_underground_metro_stations,0.0989215,51.5381494,Point
+node,1735719701,Dagenham Heathway,transport_underground_metro_stations,0.1447986,51.5414804,Point
+node,1735724093,Dagenham East,transport_underground_metro_stations,0.1639658,51.5438779,Point
+node,1735759944,Hornchurch,transport_underground_metro_stations,0.2172117,51.5536674,Point
+node,1735791409,West Ham,transport_underground_metro_stations,0.0060857,51.5286524,Point
+node,1735791410,West Ham,transport_underground_metro_stations,0.0060324,51.5287463,Point
+node,1735791558,Upton Park,transport_underground_metro_stations,0.0330656,51.5348841,Point
+node,1735791665,East Ham,transport_underground_metro_stations,0.0516878,51.5391246,Point
+node,1735791676,East Ham,transport_underground_metro_stations,0.0530995,51.5395664,Point
+node,1736548279,Greenford,transport_underground_metro_stations,-0.3456496,51.5422508,Point
+node,1736548304,Greenford,transport_underground_metro_stations,-0.3455722,51.5423733,Point
+node,1736548313,Greenford,transport_underground_metro_stations,-0.3447996,51.5421177,Point
+node,1736548336,West Ruislip,transport_underground_metro_stations,-0.4370109,51.5694318,Point
+node,1736549810,West Ruislip,transport_underground_metro_stations,-0.4370662,51.5693551,Point
+node,1736564833,Sudbury Hill,transport_underground_metro_stations,-0.3366116,51.5569406,Point
+node,1736585139,Rayners Lane,transport_underground_metro_stations,-0.3713068,51.5751965,Point
+node,1736585205,Park Royal,transport_underground_metro_stations,-0.2840925,51.5267988,Point
+node,1736645378,Uxbridge,transport_underground_metro_stations,-0.477822,51.5466499,Point
+node,1736645968,Ickenham,transport_underground_metro_stations,-0.4426797,51.5610336,Point
+node,1736645977,Ickenham,transport_underground_metro_stations,-0.4420561,51.5619724,Point
+node,1736646067,Ruislip Manor,transport_underground_metro_stations,-0.4108482,51.573632,Point
+node,1736646100,Eastcote,transport_underground_metro_stations,-0.3970624,51.5765999,Point
+node,1740277345,Green Park,transport_underground_metro_stations,-0.1418986,51.5071603,Point
+node,1741097877,Earl's Court,transport_underground_metro_stations,-0.1940354,51.4915594,Point
+node,1741097903,Gloucester Road,transport_underground_metro_stations,-0.1843428,51.4945352,Point
+node,1741117689,South Kensington,transport_underground_metro_stations,-0.1743256,51.4940653,Point
+node,1741129666,Knightsbridge,transport_underground_metro_stations,-0.1613634,51.5012857,Point
+node,1741760056,Bow Road,transport_underground_metro_stations,-0.0247947,51.5269047,Point
+node,1741760057,Mile End,transport_underground_metro_stations,-0.0334449,51.5253563,Point
+node,1741760058,Stepney Green,transport_underground_metro_stations,-0.0467282,51.5217146,Point
+node,1742702419,Green Park,transport_underground_metro_stations,-0.1410125,51.5076664,Point
+node,1742756469,Oxford Circus,transport_underground_metro_stations,-0.1417687,51.5156576,Point
+node,1742756486,Oxford Circus,transport_underground_metro_stations,-0.1422817,51.515625,Point
+node,1744497400,,transport_underground_metro_stations,-0.4229498,51.46675,Point
+node,1744498045,,transport_underground_metro_stations,-0.4231277,51.4669139,Point
+node,1746322997,Harrow & Wealdstone,transport_underground_metro_stations,-0.3344771,51.5918438,Point
+node,1746323030,Harrow & Wealdstone,transport_underground_metro_stations,-0.3343768,51.5918227,Point
+node,1746713191,Kingsbury,transport_underground_metro_stations,-0.2788457,51.5837934,Point
+node,1746713220,North Harrow,transport_underground_metro_stations,-0.3637593,51.5853743,Point
+node,1746713377,Pinner,transport_underground_metro_stations,-0.3810117,51.5928027,Point
+node,1746713617,Northwood Hills,transport_underground_metro_stations,-0.4078119,51.5998938,Point
+node,1746713624,Northwood Hills,transport_underground_metro_stations,-0.4092029,51.600477,Point
+node,1746713849,Northwood,transport_underground_metro_stations,-0.4234804,51.6104289,Point
+node,1746713875,Northwood,transport_underground_metro_stations,-0.4238375,51.611152,Point
+node,1746714139,Stanmore,transport_underground_metro_stations,-0.3025452,51.6190616,Point
+node,1746755372,Colindale,transport_underground_metro_stations,-0.2497551,51.5953678,Point
+node,1746755436,Burnt Oak,transport_underground_metro_stations,-0.2642566,51.6028649,Point
+node,1746771029,Brent Cross,transport_underground_metro_stations,-0.2146113,51.5770173,Point
+node,1747080886,Southgate,transport_underground_metro_stations,-0.1278107,51.6323336,Point
+node,1747081300,Morden,transport_underground_metro_stations,-0.1949383,51.4023892,Point
+node,1747081303,Morden,transport_underground_metro_stations,-0.1948208,51.4023874,Point
+node,1747081839,Arnos Grove,transport_underground_metro_stations,-0.1329256,51.6162454,Point
+node,1747081841,Arnos Grove,transport_underground_metro_stations,-0.1332114,51.6162567,Point
+node,1748630218,Heathrow Terminal 4,transport_underground_metro_stations,-0.4467499,51.4590716,Point
+node,1754713629,Victoria,transport_underground_metro_stations,-0.1427545,51.4971415,Point
+node,1754713662,Victoria,transport_underground_metro_stations,-0.1431893,51.4961348,Point
+node,1754724824,Pimlico,transport_underground_metro_stations,-0.1342389,51.4891703,Point
+node,1778602806,Charing Cross,transport_underground_metro_stations,-0.1249331,51.508528,Point
+node,1781530672,Westminster,transport_underground_metro_stations,-0.1246995,51.5009972,Point
+node,1781533447,Green Park,transport_underground_metro_stations,-0.1401175,51.5062958,Point
+node,1781533449,Green Park,transport_underground_metro_stations,-0.1414112,51.5061124,Point
+node,1781547362,Green Park,transport_underground_metro_stations,-0.142581,51.5066493,Point
+node,1781591240,Embankment,transport_underground_metro_stations,-0.1221357,51.5072381,Point
+node,1781669412,Warren Street,transport_underground_metro_stations,-0.1380159,51.5245174,Point
+node,1781669415,Warren Street,transport_underground_metro_stations,-0.1388072,51.5244929,Point
+node,1781694459,Marylebone,transport_underground_metro_stations,-0.1630943,51.5227363,Point
+node,1782125670,Warwick Avenue Exit A,transport_underground_metro_stations,-0.1835603,51.5233061,Point
+node,1782261113,Canada Water,transport_underground_metro_stations,-0.0502771,51.4978101,Point
+node,1784783916,Shepherd's Bush,transport_underground_metro_stations,-0.2186695,51.5042876,Point
+node,1785339687,Tottenham Court Road,transport_underground_metro_stations,-0.1309793,51.5163847,Point
+node,1794145729,Euston,transport_underground_metro_stations,-0.1342045,51.5285152,Point
+node,1794145802,Mornington Crescent,transport_underground_metro_stations,-0.1383723,51.5344326,Point
+node,1795376964,Leicester Square,transport_underground_metro_stations,-0.1276346,51.5116078,Point
+node,1795376972,Leicester Square,transport_underground_metro_stations,-0.1285118,51.5118987,Point
+node,1802592682,Wood Green,transport_underground_metro_stations,-0.1098334,51.597384,Point
+node,1802592716,Bounds Green,transport_underground_metro_stations,-0.1241971,51.6070162,Point
+node,1802706032,Waterloo,transport_underground_metro_stations,-0.1148666,51.5033423,Point
+node,1802760139,Waterloo,transport_underground_metro_stations,-0.1143104,51.5035706,Point
+node,1802760142,Lambeth North,transport_underground_metro_stations,-0.1109346,51.4984249,Point
+node,1802760151,Waterloo,transport_underground_metro_stations,-0.1145223,51.5035244,Point
+node,1802958634,Piccadilly Circus,transport_underground_metro_stations,-0.1344256,51.5100143,Point
+node,1807593699,Borough,transport_underground_metro_stations,-0.0934194,51.5010936,Point
+node,1812773646,West Ham,transport_underground_metro_stations,0.004469,51.5274168,Point
+node,1825191031,Goodge Street,transport_underground_metro_stations,-0.1342306,51.5205525,Point
+node,1825191032,Holloway Road,transport_underground_metro_stations,-0.1130079,51.5527471,Point
+node,1825191035,Hounslow East,transport_underground_metro_stations,-0.3563211,51.4732885,Point
+node,1825191038,Hounslow West,transport_underground_metro_stations,-0.3856543,51.4736696,Point
+node,1825191041,Manor House,transport_underground_metro_stations,-0.0965771,51.5703258,Point
+node,1825191042,Osterley,transport_underground_metro_stations,-0.3523314,51.4811458,Point
+node,1825191054,West Kensington,transport_underground_metro_stations,-0.2059484,51.4907142,Point
+node,1825191062,Hatton Cross,transport_underground_metro_stations,-0.4242157,51.4665999,Point
+node,1825191113,Hounslow Central,transport_underground_metro_stations,-0.3658388,51.4713735,Point
+node,1825191241,Barons Court,transport_underground_metro_stations,-0.2144911,51.4903646,Point
+node,1825273026,Bounds Green,transport_underground_metro_stations,-0.1247997,51.6074523,Point
+node,1825273032,Mill Hill East,transport_underground_metro_stations,-0.2101451,51.6082746,Point
+node,1825273052,West Finchley,transport_underground_metro_stations,-0.1883313,51.6094298,Point
+node,1825273060,Wood Green,transport_underground_metro_stations,-0.1097553,51.5974189,Point
+node,1825273066,Woodside Park,transport_underground_metro_stations,-0.185523,51.617938,Point
+node,1825289792,Burnt Oak,transport_underground_metro_stations,-0.2639522,51.6028449,Point
+node,1829205092,Shepherd's Bush Market,transport_underground_metro_stations,-0.2263506,51.5057884,Point
+node,1902426755,Tottenham Hale,transport_underground_metro_stations,-0.0605173,51.5882722,Point
+node,1960307168,Aldgate,transport_underground_metro_stations,-0.075594,51.5142891,Point
+node,1961695685,Knightsbridge,transport_underground_metro_stations,-0.161514,51.5013757,Point
+node,1996939224,Kennington,transport_underground_metro_stations,-0.1063789,51.487594,Point
+node,1996939243,Kennington,transport_underground_metro_stations,-0.1057708,51.4887485,Point
+node,2022140476,Kew Gardens,transport_underground_metro_stations,-0.2851386,51.476592,Point
+node,2022140536,Kew Gardens,transport_underground_metro_stations,-0.2848189,51.4775232,Point
+node,2155905798,King's Cross St Pancras,transport_underground_metro_stations,-0.1233187,51.5311558,Point
+node,2158280269,South Harrow,transport_underground_metro_stations,-0.3522211,51.5646517,Point
+node,2158280270,Sudbury Town,transport_underground_metro_stations,-0.3156202,51.550751,Point
+node,2238079348,White City,transport_underground_metro_stations,-0.224384,51.5119461,Point
+node,2238079363,White City,transport_underground_metro_stations,-0.2240487,51.5119444,Point
+node,2288456779,Sudbury Hill,transport_underground_metro_stations,-0.3362525,51.5568815,Point
+node,2302869848,North Greenwich,transport_underground_metro_stations,0.0048886,51.5006912,Point
+node,2314512860,Edgware Road,transport_underground_metro_stations,-0.1667636,51.5201935,Point
+node,2337594720,,transport_underground_metro_stations,-0.0556607,51.52722,Point
+node,2337594730,,transport_underground_metro_stations,-0.0551956,51.5272408,Point
+node,2337594745,,transport_underground_metro_stations,-0.0557049,51.5273609,Point
+node,2343477901,Kilburn Park,transport_underground_metro_stations,-0.1943338,51.5349541,Point
+node,2350021965,Leyton,transport_underground_metro_stations,-0.005462,51.5565882,Point
+node,2356332643,Elephant & Castle,transport_underground_metro_stations,-0.1011026,51.495876,Point
+node,2365989012,Brixton,transport_underground_metro_stations,-0.1147779,51.4625844,Point
+node,2365989047,Vauxhall,transport_underground_metro_stations,-0.1254704,51.4861505,Point
+node,2365989055,Pimlico,transport_underground_metro_stations,-0.1362038,51.4891267,Point
+node,2365989150,Walthamstow Central,transport_underground_metro_stations,-0.0199949,51.582941,Point
+node,2365989166,Blackhorse Road station,transport_underground_metro_stations,-0.0412711,51.5869017,Point
+node,2366424851,Chiswick Park,transport_underground_metro_stations,-0.2670181,51.4945369,Point
+node,2374470789,Highbury & Islington,transport_underground_metro_stations,-0.1039103,51.5475064,Point
+node,2375368045,Highbury & Islington,transport_underground_metro_stations,-0.1032773,51.5468257,Point
+node,2385907325,Camden Town,transport_underground_metro_stations,-0.1430547,51.5393867,Point
+node,2403974337,Seven Sisters,transport_underground_metro_stations,-0.0727884,51.5834588,Point
+node,2405959747,Holborn,transport_underground_metro_stations,-0.1204668,51.5174178,Point
+node,2405959800,Holborn,transport_underground_metro_stations,-0.1205074,51.5170029,Point
+node,2406017139,Piccadilly Circus,transport_underground_metro_stations,-0.1340143,51.5098704,Point
+node,2406017148,Leicester Square,transport_underground_metro_stations,-0.1275681,51.5115348,Point
+node,2406017151,Covent Garden,transport_underground_metro_stations,-0.1240887,51.5131374,Point
+node,2414323942,West Hampstead,transport_underground_metro_stations,-0.1904913,51.54672,Point
+node,2417777283,Archway,transport_underground_metro_stations,-0.1348591,51.5654028,Point
+node,2417777294,Tufnell Park,transport_underground_metro_stations,-0.1381318,51.5567447,Point
+node,2417777303,Archway,transport_underground_metro_stations,-0.1347906,51.5650137,Point
+node,2426825788,Whitechapel,transport_underground_metro_stations,-0.0600874,51.5197615,Point
+node,2426825790,Whitechapel,transport_underground_metro_stations,-0.0616936,51.5192046,Point
+node,2426825791,Whitechapel,transport_underground_metro_stations,-0.060378,51.5197498,Point
+node,2556494894,Dollis Hill,transport_underground_metro_stations,-0.2380162,51.5518915,Point
+node,2670344081,King's Cross St Pancras Underground Station,transport_underground_metro_stations,-0.1238157,51.5308697,Point
+node,2761481019,St. Paul's,transport_underground_metro_stations,-0.0991571,51.5154842,Point
+node,2794462390,Archway,transport_underground_metro_stations,-0.134967,51.5650326,Point
+node,2796226970,South Ealing,transport_underground_metro_stations,-0.308521,51.5006224,Point
+node,2877829645,Hillingdon,transport_underground_metro_stations,-0.4512517,51.5533381,Point
+node,2877829698,Hillingdon,transport_underground_metro_stations,-0.4495711,51.5539,Point
+node,2882581961,East Putney,transport_underground_metro_stations,-0.211615,51.4582294,Point
+node,2882581998,East Putney,transport_underground_metro_stations,-0.2110364,51.4591459,Point
+node,2883647819,Goldhawk Road,transport_underground_metro_stations,-0.2264122,51.5011676,Point
+node,2883647824,Goldhawk Road,transport_underground_metro_stations,-0.2266403,51.5019688,Point
+node,2889557192,Turnham Green,transport_underground_metro_stations,-0.2545927,51.4950264,Point
+node,2889557610,Turnham Green,transport_underground_metro_stations,-0.2545981,51.4951157,Point
+node,2889687737,Chiswick Park,transport_underground_metro_stations,-0.2691336,51.4947346,Point
+node,2896071505,North Acton,transport_underground_metro_stations,-0.2600785,51.5236305,Point
+node,2897639151,Southfields,transport_underground_metro_stations,-0.2064699,51.4451878,Point
+node,2897639184,Southfields,transport_underground_metro_stations,-0.2067627,51.4461979,Point
+node,2899317061,Latimer Road,transport_underground_metro_stations,-0.2185858,51.5128486,Point
+node,2900011666,Harrow-on-the-Hill,transport_underground_metro_stations,-0.3352778,51.5790852,Point
+node,2901134448,Northwick Park,transport_underground_metro_stations,-0.3165198,51.5783535,Point
+node,2901411246,Preston Road,transport_underground_metro_stations,-0.2948718,51.572033,Point
+node,2902815885,Ruislip Manor,transport_underground_metro_stations,-0.4126065,51.5732069,Point
+node,2904270524,Queen's Park,transport_underground_metro_stations,-0.2063519,51.5338431,Point
+node,2907810095,Wembley Park,transport_underground_metro_stations,-0.2793016,51.5634538,Point
+node,2907810120,Wembley Park,transport_underground_metro_stations,-0.2792189,51.5635453,Point
+node,2907810148,Wembley Park,transport_underground_metro_stations,-0.2793842,51.5636355,Point
+node,2907810196,Wembley Park,transport_underground_metro_stations,-0.2810213,51.5638718,Point
+node,2907810205,Wembley Park,transport_underground_metro_stations,-0.28069,51.5639141,Point
+node,2908947867,Kensal Green,transport_underground_metro_stations,-0.2248077,51.5305528,Point
+node,2908947897,Kensal Green,transport_underground_metro_stations,-0.2231415,51.5307143,Point
+node,2917442193,Stanmore,transport_underground_metro_stations,-0.3025829,51.6187828,Point
+node,2917442198,Stanmore,transport_underground_metro_stations,-0.3027144,51.6190237,Point
+node,2920572849,Harlesden,transport_underground_metro_stations,-0.2588874,51.5368262,Point
+node,2969920274,Stamford Brook,transport_underground_metro_stations,-0.2467893,51.4949565,Point
+node,2969920282,Stamford Brook,transport_underground_metro_stations,-0.2454748,51.4949981,Point
+node,2969920285,Stamford Brook Platform 2,transport_underground_metro_stations,-0.2467762,51.4950126,Point
+node,3052027780,Elm Park,transport_underground_metro_stations,0.1982409,51.5497656,Point
+node,3053097167,Dagenham East,transport_underground_metro_stations,0.1656236,51.5441924,Point
+node,3053097168,Dagenham East Platform 3,transport_underground_metro_stations,0.1638433,51.5439314,Point
+node,3054536367,Becontree,transport_underground_metro_stations,0.1254141,51.540217,Point
+node,3054536368,Becontree,transport_underground_metro_stations,0.1271646,51.540367,Point
+node,3061312271,Upminster Bridge,transport_underground_metro_stations,0.2337172,51.5578897,Point
+node,3076573906,Aldgate,transport_underground_metro_stations,-0.0758232,51.5142097,Point
+node,3076573907,Aldgate,transport_underground_metro_stations,-0.0757317,51.5142427,Point
+node,3076573908,Aldgate,transport_underground_metro_stations,-0.0757044,51.5142527,Point
+node,3076573909,Bank,transport_underground_metro_stations,-0.0890314,51.5134183,Point
+node,3076573910,Barbican,transport_underground_metro_stations,-0.0986342,51.5201797,Point
+node,3076573911,Barkingside,transport_underground_metro_stations,0.0886245,51.5858181,Point
+node,3076573912,Bond Street,transport_underground_metro_stations,-0.1496016,51.5146419,Point
+node,3076573913,Bond Street,transport_underground_metro_stations,-0.1494231,51.5139808,Point
+node,3076573915,Chancery Lane,transport_underground_metro_stations,-0.1117642,51.5181738,Point
+node,3076573918,Earl's Court,transport_underground_metro_stations,-0.1940134,51.4915462,Point
+node,3076573919,Earl's Court,transport_underground_metro_stations,-0.1940345,51.4915588,Point
+node,3076573920,Earl's Court,transport_underground_metro_stations,-0.1941918,51.4916262,Point
+node,3076573921,East Acton,transport_underground_metro_stations,-0.2481593,51.5173376,Point
+node,3076573922,East Acton,transport_underground_metro_stations,-0.2481132,51.5173528,Point
+node,3076573924,Fairlop,transport_underground_metro_stations,0.0911302,51.5959477,Point
+node,3076573925,Gants Hill,transport_underground_metro_stations,0.0648799,51.576525,Point
+node,3076573927,Hainault,transport_underground_metro_stations,0.0933827,51.6033138,Point
+node,3076573928,High Street Kensington,transport_underground_metro_stations,-0.192103,51.5000989,Point
+node,3076573929,High Street Kensington,transport_underground_metro_stations,-0.1920382,51.5001265,Point
+node,3076573930,High Street Kensington,transport_underground_metro_stations,-0.1919086,51.5001747,Point
+node,3076573931,High Street Kensington,transport_underground_metro_stations,-0.1918627,51.5001924,Point
+node,3076573932,Liverpool Street,transport_underground_metro_stations,-0.0825554,51.5171842,Point
+node,3076574233,Liverpool Street,transport_underground_metro_stations,-0.0825435,51.5172123,Point
+node,3076574235,Mansion House,transport_underground_metro_stations,-0.0952257,51.511929,Point
+node,3076574236,Mile End,transport_underground_metro_stations,-0.033435,51.5253378,Point
+node,3076574237,Monument,transport_underground_metro_stations,-0.0861271,51.5106328,Point
+node,3076574239,Temple,transport_underground_metro_stations,-0.1142768,51.510994,Point
+node,3076574240,Temple,transport_underground_metro_stations,-0.1142971,51.5110163,Point
+node,3091468316,Northolt,transport_underground_metro_stations,-0.3684812,51.5482314,Point
+node,3163857732,Euston Square,transport_underground_metro_stations,-0.1351367,51.5258278,Point
+node,3163857733,Euston Square,transport_underground_metro_stations,-0.1352346,51.525829,Point
+node,3230263192,Wimbledon Park,transport_underground_metro_stations,-0.1983755,51.4333125,Point
+node,3230263193,Wimbledon Park,transport_underground_metro_stations,-0.1991947,51.4340855,Point
+node,3234599312,Sudbury Hill,transport_underground_metro_stations,-0.3365975,51.5569701,Point
+node,3284103165,Farringdon,transport_underground_metro_stations,-0.104555,51.519964,Point
+node,3303235854,Barking,transport_underground_metro_stations,0.0795246,51.5403813,Point
+node,3303235856,Barking,transport_underground_metro_stations,0.079327,51.5401805,Point
+node,3319202673,Canons Park,transport_underground_metro_stations,-0.2946214,51.6076944,Point
+node,3319202674,Canons Park,transport_underground_metro_stations,-0.2950381,51.6087712,Point
+node,3370671078,Leicester Square,transport_underground_metro_stations,-0.1282641,51.5114642,Point
+node,3637436407,Liverpool Street,transport_underground_metro_stations,-0.0825205,51.5176777,Point
+node,3637449659,Cannon Street,transport_underground_metro_stations,-0.0903632,51.5113812,Point
+node,3638779316,Piccadilly Circus,transport_underground_metro_stations,-0.1345484,51.5098192,Point
+node,3638795618,Waterloo,transport_underground_metro_stations,-0.1139812,51.5030015,Point
+node,3660442172,Charing Cross,transport_underground_metro_stations,-0.1263945,51.5079664,Point
+node,3660623413,Elephant & Castle,transport_underground_metro_stations,-0.1005731,51.4948884,Point
+node,3663368461,Euston,transport_underground_metro_stations,-0.1338745,51.5282865,Point
+node,3693265703,Holborn,transport_underground_metro_stations,-0.1200657,51.5171149,Point
+node,3748134854,Wimbledon Park,transport_underground_metro_stations,-0.1990432,51.4340563,Point
+node,3749079080,Ravenscourt Park,transport_underground_metro_stations,-0.2357932,51.4941293,Point
+node,3763522921,Blackfriars,transport_underground_metro_stations,-0.1037671,51.5115854,Point
+node,3773122117,Lambeth North,transport_underground_metro_stations,-0.1120769,51.4986724,Point
+node,3773122118,Lambeth North,transport_underground_metro_stations,-0.1120142,51.4989328,Point
+node,3788735981,Aldgate,transport_underground_metro_stations,-0.0757186,51.5142477,Point
+node,3803245041,Seven Sisters,transport_underground_metro_stations,-0.0749325,51.5824738,Point
+node,3808897466,Southfields,transport_underground_metro_stations,-0.2066142,51.4457751,Point
+node,3817850257,Vauxhall,transport_underground_metro_stations,-0.1248604,51.4860091,Point
+node,3817850258,Vauxhall,transport_underground_metro_stations,-0.1243434,51.4859279,Point
+node,3927405906,Holland Park,transport_underground_metro_stations,-0.2055399,51.5072495,Point
+node,3956577242,South Ealing,transport_underground_metro_stations,-0.3076815,51.5008623,Point
+node,3959650479,Warwick Avenue Exit B,transport_underground_metro_stations,-0.1840161,51.5230694,Point
+node,4264061863,Stockwell,transport_underground_metro_stations,-0.1231678,51.471273,Point
+node,4264061864,Stockwell,transport_underground_metro_stations,-0.1232026,51.4719112,Point
+node,4264062083,Finsbury Park,transport_underground_metro_stations,-0.1066341,51.5650907,Point
+node,4264062084,Finsbury Park,transport_underground_metro_stations,-0.1065662,51.5643672,Point
+node,4264069015,Finsbury Park,transport_underground_metro_stations,-0.1064254,51.5640679,Point
+node,4272748889,Warren Street,transport_underground_metro_stations,-0.1390144,51.5245087,Point
+node,4272748890,King's Cross St Pancras,transport_underground_metro_stations,-0.121758,51.5311084,Point
+node,4277728779,Marble Arch,transport_underground_metro_stations,-0.1583892,51.5135178,Point
+node,4277728780,Marble Arch,transport_underground_metro_stations,-0.1581495,51.5133982,Point
+node,4277734060,Tottenham Court Road,transport_underground_metro_stations,-0.1327997,51.5161338,Point
+node,4451063672,Upton Park,transport_underground_metro_stations,0.0339842,51.5351062,Point
+node,4452525386,High Road (West),transport_underground_metro_stations,-0.1036168,51.59055,Point
+node,4454298891,Clapham South,transport_underground_metro_stations,-0.1473927,51.4530117,Point
+node,4503057074,Clapham Common,transport_underground_metro_stations,-0.1373589,51.4620748,Point
+node,4514968602,White City,transport_underground_metro_stations,-0.2242361,51.5119347,Point
+node,4578507399,Royal Oak,transport_underground_metro_stations,-0.1883771,51.5190675,Point
+node,4635572117,Paddington (Circle and Hammersmith & City lines),transport_underground_metro_stations,-0.1787546,51.5185075,Point
+node,4850392632,Liverpool Street,transport_underground_metro_stations,-0.0823181,51.5184395,Point
+node,4850392633,Liverpool Street,transport_underground_metro_stations,-0.0821607,51.5183579,Point
+node,4860750355,South Woodford,transport_underground_metro_stations,0.0274276,51.5917798,Point
+node,4866262553,West Ruislip,transport_underground_metro_stations,-0.4370447,51.5695047,Point
+node,4874009396,Upminster,transport_underground_metro_stations,0.2517952,51.559009,Point
+node,4984999298,Aldgate East,transport_underground_metro_stations,-0.070839,51.5156185,Point
+node,5107248193,Parsons Green,transport_underground_metro_stations,-0.201549,51.4750837,Point
+node,5142610270,Fulham Broadway,transport_underground_metro_stations,-0.1943493,51.4808834,Point
+node,5142610271,Fulham Broadway,transport_underground_metro_stations,-0.1943669,51.4808755,Point
+node,5178320458,Embankment,transport_underground_metro_stations,-0.1218816,51.5075217,Point
+node,5178413114,Plaistow,transport_underground_metro_stations,0.0166833,51.5311544,Point
+node,5178413115,Bow Road,transport_underground_metro_stations,-0.024789,51.5268535,Point
+node,5178413116,Stepney Green,transport_underground_metro_stations,-0.0467147,51.5217026,Point
+node,5181765898,Gloucester Road,transport_underground_metro_stations,-0.184315,51.4947089,Point
+node,5181765899,Gloucester Road,transport_underground_metro_stations,-0.1830479,51.4945368,Point
+node,5181765900,South Kensington,transport_underground_metro_stations,-0.1720171,51.4941231,Point
+node,5182384967,Oakwood,transport_underground_metro_stations,-0.1312548,51.6473302,Point
+node,5182384968,West Kensington,transport_underground_metro_stations,-0.2059442,51.4907023,Point
+node,5182384969,West Brompton,transport_underground_metro_stations,-0.1951854,51.4869765,Point
+node,5182384970,Boston Manor,transport_underground_metro_stations,-0.3254399,51.4953386,Point
+node,5182384971,Heathrow Terminals 2 & 3,transport_underground_metro_stations,-0.452483,51.4713416,Point
+node,5182384972,Heathrow Terminal 5,transport_underground_metro_stations,-0.4877331,51.472515,Point
+node,5182384973,Knightsbridge,transport_underground_metro_stations,-0.160937,51.5015961,Point
+node,5182384974,Hounslow West,transport_underground_metro_stations,-0.3858181,51.4735822,Point
+node,5182424563,Mornington Crescent,transport_underground_metro_stations,-0.1380918,51.5340608,Point
+node,5182424564,Hounslow East,transport_underground_metro_stations,-0.3558944,51.4734727,Point
+node,5182424565,Hounslow Central,transport_underground_metro_stations,-0.3662332,51.471307,Point
+node,5182424566,Southgate,transport_underground_metro_stations,-0.1277858,51.6323183,Point
+node,5182424567,Cockfosters,transport_underground_metro_stations,-0.1485149,51.651366,Point
+node,5182424568,Burnt Oak,transport_underground_metro_stations,-0.2640125,51.6028082,Point
+node,5182424569,Putney Bridge,transport_underground_metro_stations,-0.2087947,51.4682995,Point
+node,5182424574,Kilburn,transport_underground_metro_stations,-0.2048232,51.5468633,Point
+node,5182424575,Kilburn,transport_underground_metro_stations,-0.2047482,51.5470289,Point
+node,5182424576,Kilburn,transport_underground_metro_stations,-0.2047456,51.5470572,Point
+node,5182424577,Northfields,transport_underground_metro_stations,-0.312979,51.4996647,Point
+node,5182424578,Northfields,transport_underground_metro_stations,-0.3138988,51.4993685,Point
+node,5182424579,Northfields,transport_underground_metro_stations,-0.3139091,51.499448,Point
+node,5182424580,Northfields,transport_underground_metro_stations,-0.3123627,51.4998023,Point
+node,5182424581,Northfields,transport_underground_metro_stations,-0.3124141,51.4998926,Point
+node,5182456569,London Bridge,transport_underground_metro_stations,-0.0886993,51.5054118,Point
+node,5182456571,West Hampstead,transport_underground_metro_stations,-0.1904852,51.5466774,Point
+node,5182456572,West Hampstead,transport_underground_metro_stations,-0.1905229,51.5468718,Point
+node,5182456573,West Hampstead,transport_underground_metro_stations,-0.1905184,51.546841,Point
+node,5182456574,Hyde Park Corner,transport_underground_metro_stations,-0.1543249,51.5027264,Point
+node,5182456575,Golders Green,transport_underground_metro_stations,-0.1940244,51.5722012,Point
+node,5182456576,Golders Green,transport_underground_metro_stations,-0.1939993,51.5722926,Point
+node,5182456577,Golders Green,transport_underground_metro_stations,-0.1938723,51.5723861,Point
+node,5183300152,Bank,transport_underground_metro_stations,-0.0883523,51.5115862,Point
+node,5183300153,Bank,transport_underground_metro_stations,-0.0876995,51.5120856,Point
+node,5183350488,Lancaster Gate,transport_underground_metro_stations,-0.1753808,51.5118427,Point
+node,5183350489,Newbury Park,transport_underground_metro_stations,0.0899693,51.5754985,Point
+node,5183350492,Ealing Common,transport_underground_metro_stations,-0.2881658,51.5097107,Point
+node,5183394292,Baker Street,transport_underground_metro_stations,-0.1573755,51.5233342,Point
+node,5183466819,Kingsbury,transport_underground_metro_stations,-0.2787137,51.5843174,Point
+node,5183466820,Queensbury,transport_underground_metro_stations,-0.2859936,51.5941245,Point
+node,5183466921,Queensbury,transport_underground_metro_stations,-0.286181,51.5941903,Point
+node,5183466922,Dollis Hill,transport_underground_metro_stations,-0.2380273,51.5519301,Point
+node,5183466923,Canary Wharf,transport_underground_metro_stations,-0.0160961,51.5033128,Point
+node,5183466924,Canary Wharf,transport_underground_metro_stations,-0.0184547,51.5033545,Point
+node,5183760369,Northwick Park,transport_underground_metro_stations,-0.3176997,51.578491,Point
+node,5183760370,Preston Road,transport_underground_metro_stations,-0.2958081,51.5722732,Point
+node,5183760371,Preston Road,transport_underground_metro_stations,-0.2948645,51.5721055,Point
+node,5183760372,Preston Road,transport_underground_metro_stations,-0.2966849,51.5724483,Point
+node,5183760375,Finchley Road,transport_underground_metro_stations,-0.1806964,51.5472307,Point
+node,5183760376,West Harrow,transport_underground_metro_stations,-0.3531364,51.5795991,Point
+node,5183760378,Eastcote,transport_underground_metro_stations,-0.3965092,51.5766614,Point
+node,5183760379,Ickenham,transport_underground_metro_stations,-0.4423513,51.5615698,Point
+node,5183760380,North Harrow,transport_underground_metro_stations,-0.362422,51.5848907,Point
+node,5183760381,Pinner,transport_underground_metro_stations,-0.380635,51.5926589,Point
+node,5183760382,Northwood Hills,transport_underground_metro_stations,-0.4084575,51.6001534,Point
+node,5183760383,Northwood,transport_underground_metro_stations,-0.4237072,51.6107965,Point
+node,5183760386,Uxbridge,transport_underground_metro_stations,-0.477767,51.5465623,Point
+node,5183791821,Leytonstone,transport_underground_metro_stations,0.0086166,51.5688027,Point
+node,5183810356,Harrow-on-the-Hill,transport_underground_metro_stations,-0.3366561,51.5792702,Point
+node,5183843299,Acton Town,transport_underground_metro_stations,-0.2799643,51.5027051,Point
+node,5183897517,Gloucester Road,transport_underground_metro_stations,-0.1831711,51.4943389,Point
+node,5183897518,Gloucester Road,transport_underground_metro_stations,-0.1843266,51.4946876,Point
+node,5183897519,South Kensington,transport_underground_metro_stations,-0.1729072,51.4940799,Point
+node,5183953380,Sudbury Town,transport_underground_metro_stations,-0.3161217,51.5509539,Point
+node,5183953381,Sudbury Town,transport_underground_metro_stations,-0.315006,51.5504849,Point
+node,5186080600,King's Cross St Pancras,transport_underground_metro_stations,-0.1243368,51.5305509,Point
+node,5186080601,Colindale,transport_underground_metro_stations,-0.2503217,51.5956013,Point
+node,5206720487,Uxbridge,transport_underground_metro_stations,-0.477664,51.5464894,Point
+node,5206774617,Edgware Road,transport_underground_metro_stations,-0.1702993,51.5204575,Point
+node,5206785234,Marylebone,transport_underground_metro_stations,-0.1635046,51.5222363,Point
+node,5207123395,Embankment,transport_underground_metro_stations,-0.1222409,51.5072143,Point
+node,5207123396,Embankment,transport_underground_metro_stations,-0.1223154,51.5072768,Point
+node,5207123397,Embankment,transport_underground_metro_stations,-0.1223732,51.5072934,Point
+node,5207201516,Notting Hill Gate,transport_underground_metro_stations,-0.1961978,51.5089252,Point
+node,5225563247,East Finchley,transport_underground_metro_stations,-0.1644371,51.5871256,Point
+node,5252083982,Walthamstow Central,transport_underground_metro_stations,-0.0199245,51.582818,Point
+node,5252083983,West Ham,transport_underground_metro_stations,0.0045685,51.5280966,Point
+node,5257403774,Stratford,transport_underground_metro_stations,-0.0035472,51.541289,Point
+node,5310155597,Arsenal,transport_underground_metro_stations,-0.107564,51.5584662,Point
+node,5320106629,Willesden Green,transport_underground_metro_stations,-0.2221283,51.549391,Point
+node,5320107243,St. John's Wood,transport_underground_metro_stations,-0.1740349,51.535435,Point
+node,5350830014,Southwark,transport_underground_metro_stations,-0.1049663,51.503925,Point
+node,5355174724,Edgware,transport_underground_metro_stations,-0.2738721,51.6130907,Point
+node,5355174725,Edgware,transport_underground_metro_stations,-0.2750551,51.6136255,Point
+node,5355174726,Edgware,transport_underground_metro_stations,-0.2742546,51.6134349,Point
+node,5355174727,Edgware,transport_underground_metro_stations,-0.2743508,51.6133606,Point
+node,5355174728,Edgware,transport_underground_metro_stations,-0.275368,51.6138208,Point
+node,5355174729,Edgware,transport_underground_metro_stations,-0.2752682,51.6138879,Point
+node,5355174730,Edgware,transport_underground_metro_stations,-0.2749555,51.6136623,Point
+node,5359381248,Southwark,transport_underground_metro_stations,-0.1058778,51.5043931,Point
+node,5359381471,Bermondsey,transport_underground_metro_stations,-0.0642636,51.4978308,Point
+node,5359714470,Kentish Town,transport_underground_metro_stations,-0.1407436,51.5503331,Point
+node,5359714471,Kentish Town,transport_underground_metro_stations,-0.1388654,51.5501727,Point
+node,5455868949,Elephant & Castle,transport_underground_metro_stations,-0.1005974,51.4949545,Point
+node,5457046596,Warwick Avenue,transport_underground_metro_stations,-0.1832366,51.5230715,Point
+node,5457046601,Warwick Avenue,transport_underground_metro_stations,-0.1834674,51.5229412,Point
+node,5457046602,Warwick Avenue,transport_underground_metro_stations,-0.1833083,51.5229834,Point
+node,5461892572,Aldgate East,transport_underground_metro_stations,-0.070814,51.5156136,Point
+node,5461894066,Aldgate East,transport_underground_metro_stations,-0.0708317,51.5156316,Point
+node,5462050723,West Brompton,transport_underground_metro_stations,-0.1944306,51.4866101,Point
+node,5462050734,West Brompton,transport_underground_metro_stations,-0.195556,51.4872483,Point
+node,5462448192,Perivale,transport_underground_metro_stations,-0.3228789,51.536613,Point
+node,5462448199,Perivale,transport_underground_metro_stations,-0.3229631,51.5365303,Point
+node,5462552522,Tottenham Court Road,transport_underground_metro_stations,-0.1305125,51.5159715,Point
+node,5462554852,Ealing Broadway,transport_underground_metro_stations,-0.3007147,51.5150869,Point
+node,5464024682,Parsons Green,transport_underground_metro_stations,-0.2014253,51.4751636,Point
+node,5464024687,Parsons Green,transport_underground_metro_stations,-0.2012992,51.4751942,Point
+node,5466527618,Canada Water,transport_underground_metro_stations,-0.0484821,51.4981041,Point
+node,5472303632,Bounds Green,transport_underground_metro_stations,-0.1240831,51.6070326,Point
+node,5472303633,Bounds Green,transport_underground_metro_stations,-0.1249047,51.607376,Point
+node,5472303674,Bounds Green,transport_underground_metro_stations,-0.1250483,51.6073026,Point
+node,5473272644,Bank,transport_underground_metro_stations,-0.0917442,51.5128052,Point
+node,5473272645,Bank,transport_underground_metro_stations,-0.0916482,51.5126917,Point
+node,5473343554,Belsize Park,transport_underground_metro_stations,-0.164574,51.5503687,Point
+node,5473343561,Belsize Park,transport_underground_metro_stations,-0.1647045,51.5502453,Point
+node,5473386216,Arsenal,transport_underground_metro_stations,-0.1073446,51.5584094,Point
+node,5474926328,Hammersmith (Circle and Hammersmith & City lines),transport_underground_metro_stations,-0.2250607,51.494109,Point
+node,5475560741,Hyde Park Corner,transport_underground_metro_stations,-0.1541878,51.502678,Point
+node,5475675298,St. Paul's,transport_underground_metro_stations,-0.0975883,51.5149144,Point
+node,5481955743,Edgware Road,transport_underground_metro_stations,-0.170304,51.5204793,Point
+node,5482469747,Hampstead,transport_underground_metro_stations,-0.178534,51.5565357,Point
+node,5482891928,Hampstead,transport_underground_metro_stations,-0.1784251,51.5565973,Point
+node,5482891929,Belsize Park,transport_underground_metro_stations,-0.1646146,51.5503088,Point
+node,5482915471,Holloway Road,transport_underground_metro_stations,-0.1131562,51.5528661,Point
+node,5482915472,Holloway Road,transport_underground_metro_stations,-0.1130095,51.5528674,Point
+node,5482938105,Holland Park,transport_underground_metro_stations,-0.2052475,51.5071921,Point
+node,5487991957,St. John's Wood,transport_underground_metro_stations,-0.1744718,51.5354393,Point
+node,5489114065,Swiss Cottage,transport_underground_metro_stations,-0.1750793,51.5436047,Point
+node,5489114067,Swiss Cottage,transport_underground_metro_stations,-0.174982,51.543722,Point
+node,5491840998,,transport_underground_metro_stations,-0.4231775,51.4668696,Point
+node,5491841000,,transport_underground_metro_stations,-0.4228783,51.4667785,Point
+node,5491841002,,transport_underground_metro_stations,-0.4230554,51.4669429,Point
+node,5493361584,,transport_underground_metro_stations,-0.0553067,51.5277449,Point
+node,5493437042,Hounslow Central,transport_underground_metro_stations,-0.3657805,51.471277,Point
+node,5495828135,Park Royal,transport_underground_metro_stations,-0.2839348,51.5264341,Point
+node,5504569142,Pinner,transport_underground_metro_stations,-0.3809883,51.5928247,Point
+node,5504917479,Wood Lane,transport_underground_metro_stations,-0.2237557,51.5101068,Point
+node,5504917483,Wood Lane,transport_underground_metro_stations,-0.2240127,51.5099533,Point
+node,5504917485,Wood Lane,transport_underground_metro_stations,-0.2240679,51.5098671,Point
+node,5507409132,Turnpike Lane,transport_underground_metro_stations,-0.1028166,51.5899558,Point
+node,5507409142,Turnpike Lane,transport_underground_metro_stations,-0.1024585,51.5901231,Point
+node,5507411660,Turnpike Lane,transport_underground_metro_stations,-0.1027442,51.5901482,Point
+node,5533781090,Ruislip,transport_underground_metro_stations,-0.421354,51.5714175,Point
+node,5533781091,Ruislip,transport_underground_metro_stations,-0.4213228,51.5713934,Point
+node,5540103657,Plaistow,transport_underground_metro_stations,0.016962,51.5311966,Point
+node,5540103658,Plaistow,transport_underground_metro_stations,0.0169431,51.5312341,Point
+node,5571724044,Morden,transport_underground_metro_stations,-0.1947552,51.4027615,Point
+node,5585799426,Canning Town,transport_underground_metro_stations,0.0082987,51.5139887,Point
+node,5585821560,Ealing Broadway,transport_underground_metro_stations,-0.3004067,51.5149803,Point
+node,5585825335,Russell Square,transport_underground_metro_stations,-0.1242529,51.5230529,Point
+node,5585825336,Russell Square,transport_underground_metro_stations,-0.1242071,51.5230956,Point
+node,5585825337,Russell Square,transport_underground_metro_stations,-0.1242948,51.5230976,Point
+node,5585825354,Caledonian Road,transport_underground_metro_stations,-0.118305,51.5484586,Point
+node,5585825355,Caledonian Road,transport_underground_metro_stations,-0.1183585,51.548482,Point
+node,5585853828,Totteridge & Whetstone,transport_underground_metro_stations,-0.1791837,51.6307163,Point
+node,5585853829,Totteridge & Whetstone,transport_underground_metro_stations,-0.1791639,51.6310661,Point
+node,5585857405,Chalk Farm,transport_underground_metro_stations,-0.1534811,51.5441141,Point
+node,5585858389,South Ruislip,transport_underground_metro_stations,-0.3983645,51.5567088,Point
+node,5585858390,South Ruislip,transport_underground_metro_stations,-0.4003081,51.5572481,Point
+node,5585858822,Stonebridge Park,transport_underground_metro_stations,-0.2757082,51.5439389,Point
+node,5585858823,Stonebridge Park,transport_underground_metro_stations,-0.2768422,51.5443193,Point
+node,5600788769,Ruislip Gardens,transport_underground_metro_stations,-0.4113931,51.5609512,Point
+node,5614077964,Oxford Circus,transport_underground_metro_stations,-0.1419563,51.5154418,Point
+node,5699330264,Brixton,transport_underground_metro_stations,-0.1146311,51.4626748,Point
+node,5699330265,Redbridge,transport_underground_metro_stations,0.0454682,51.5762531,Point
+node,5699429786,Wanstead,transport_underground_metro_stations,0.0286655,51.5756764,Point
+node,5699429787,Queensway,transport_underground_metro_stations,-0.1872612,51.5102982,Point
+node,5699482891,Heathrow Terminal 4,transport_underground_metro_stations,-0.4454086,51.4587806,Point
+node,5700001161,North Greenwich,transport_underground_metro_stations,0.0043201,51.500574,Point
+node,5700149213,Canada Water,transport_underground_metro_stations,-0.0498405,51.4979299,Point
+node,5702714876,Moorgate,transport_underground_metro_stations,-0.0890625,51.5182516,Point
+node,6091112768,Kensington (Olympia),transport_underground_metro_stations,-0.2094954,51.497437,Point
+node,6095751323,South Ruislip,transport_underground_metro_stations,-0.3990635,51.5569909,Point
+node,6150502124,North Acton,transport_underground_metro_stations,-0.2597818,51.5235769,Point
+node,6195731433,Hammersmith (District and Piccadilly lines),transport_underground_metro_stations,-0.223247,51.4921603,Point
+node,6260922569,Tower Hill,transport_underground_metro_stations,-0.0766986,51.5098481,Point
+node,6294508104,Ladbroke Grove,transport_underground_metro_stations,-0.2109222,51.5173215,Point
+node,6306753647,West Finchley,transport_underground_metro_stations,-0.1886211,51.6087655,Point
+node,6306753648,West Finchley,transport_underground_metro_stations,-0.188301,51.6095872,Point
+node,6306753662,Woodside Park,transport_underground_metro_stations,-0.1857122,51.6173592,Point
+node,6306753663,Woodside Park,transport_underground_metro_stations,-0.1854211,51.6182525,Point
+node,6306871525,Colindale,transport_underground_metro_stations,-0.2499296,51.5954091,Point
+node,6306871529,Golders Green,transport_underground_metro_stations,-0.194027,51.5723003,Point
+node,6307053732,Ruislip,transport_underground_metro_stations,-0.4213375,51.5714026,Point
+node,6307053733,Rayners Lane,transport_underground_metro_stations,-0.3714658,51.5752109,Point
+node,6307053743,Eastcote,transport_underground_metro_stations,-0.3970519,51.5765759,Point
+node,6307174159,Neasden,transport_underground_metro_stations,-0.250749,51.5543358,Point
+node,6312643867,Hatton Cross,transport_underground_metro_stations,-0.4239942,51.4665357,Point
+node,6312645092,Osterley,transport_underground_metro_stations,-0.3518348,51.4815507,Point
+node,6312813705,Stamford Brook,transport_underground_metro_stations,-0.2458881,51.4949692,Point
+node,6312813706,Turnham Green,transport_underground_metro_stations,-0.2546948,51.4951314,Point
+node,6312813707,Chiswick Park,transport_underground_metro_stations,-0.2678739,51.4945622,Point
+node,6340616347,Earl's Court,transport_underground_metro_stations,-0.193903,51.4916123,Point
+node,6340707455,Becontree,transport_underground_metro_stations,0.1265241,51.5403111,Point
+node,6342098119,Ruislip Manor,transport_underground_metro_stations,-0.4117997,51.5733973,Point
+node,6343726718,Northolt,transport_underground_metro_stations,-0.3695247,51.5484582,Point
+node,6346221304,Perivale,transport_underground_metro_stations,-0.3225887,51.5364952,Point
+node,6353333968,Woodford,transport_underground_metro_stations,0.0340219,51.6068074,Point
+node,6357988569,Hanger Lane,transport_underground_metro_stations,-0.2936453,51.5303098,Point
+node,6358768337,Upminster Bridge,transport_underground_metro_stations,0.2347689,51.5582655,Point
+node,6358789875,Hornchurch,transport_underground_metro_stations,0.2181092,51.5538747,Point
+node,6358823742,Dagenham East,transport_underground_metro_stations,0.1649496,51.544018,Point
+node,6358827604,Dagenham Heathway,transport_underground_metro_stations,0.1456377,51.5415534,Point
+node,6361189478,Stanmore,transport_underground_metro_stations,-0.3026271,51.6188526,Point
+node,6361199503,Canons Park,transport_underground_metro_stations,-0.2947453,51.6080065,Point
+node,6365838769,Elm Park,transport_underground_metro_stations,0.1974303,51.549579,Point
+node,6367227349,Leyton,transport_underground_metro_stations,-0.0051322,51.5568183,Point
+node,6367262958,East Putney,transport_underground_metro_stations,-0.2112429,51.4586138,Point
+node,6368951709,Temple,transport_underground_metro_stations,-0.1143345,51.5109659,Point
+node,6391246144,Walthamstow Central,transport_underground_metro_stations,-0.0199941,51.582893,Point
+node,6399598539,Alperton,transport_underground_metro_stations,-0.3000963,51.5408036,Point
+node,6400752013,Covent Garden,transport_underground_metro_stations,-0.1242695,51.5130942,Point
+node,6401499742,St. John's Wood,transport_underground_metro_stations,-0.1742097,51.5353523,Point
+node,6402129352,East Ham,transport_underground_metro_stations,0.0526042,51.5394005,Point
+node,6402176065,Bromley-by-Bow,transport_underground_metro_stations,-0.0123189,51.5246287,Point
+node,6402222390,Canary Wharf,transport_underground_metro_stations,-0.0186272,51.5035036,Point
+node,6403994178,Kensal Green,transport_underground_metro_stations,-0.2244449,51.5306063,Point
+node,6404013964,Harlesden,transport_underground_metro_stations,-0.257833,51.5363567,Point
+node,6404031521,West Hampstead,transport_underground_metro_stations,-0.1899646,51.5468194,Point
+node,6407565244,Bermondsey,transport_underground_metro_stations,-0.0643453,51.4977004,Point
+node,6407577779,Green Park,transport_underground_metro_stations,-0.1429437,51.5066244,Point
+node,6410085030,Uxbridge,transport_underground_metro_stations,-0.4775114,51.546655,Point
+node,6410109228,Hillingdon,transport_underground_metro_stations,-0.4504637,51.5536028,Point
+node,6410165090,Goldhawk Road,transport_underground_metro_stations,-0.2265662,51.5017564,Point
+node,6410181628,Shepherd's Bush,transport_underground_metro_stations,-0.2183251,51.5043576,Point
+node,6410209280,Latimer Road,transport_underground_metro_stations,-0.2177873,51.5134749,Point
+node,6411663490,Kilburn Park,transport_underground_metro_stations,-0.1943721,51.5350704,Point
+node,6411718929,Royal Oak,transport_underground_metro_stations,-0.1874439,51.5190222,Point
+node,6411776703,Bayswater,transport_underground_metro_stations,-0.1883854,51.5122764,Point
+node,6411792033,High Street Kensington,transport_underground_metro_stations,-0.1921096,51.5002995,Point
+node,6411992668,Gloucester Road,transport_underground_metro_stations,-0.1837696,51.4945266,Point
+node,6414013291,Marble Arch,transport_underground_metro_stations,-0.1582531,51.513435,Point
+node,6414039764,Great Portland Street,transport_underground_metro_stations,-0.1437048,51.5238146,Point
+node,6414086721,Warren Street,transport_underground_metro_stations,-0.1385303,51.5247178,Point
+node,6414100096,Goodge Street,transport_underground_metro_stations,-0.1343573,51.5205978,Point
+node,6414163635,Highbury & Islington,transport_underground_metro_stations,-0.1036544,51.5463679,Point
+node,6430985129,Kenton,transport_underground_metro_stations,-0.316622,51.5815321,Point
+node,6430985132,South Kenton,transport_underground_metro_stations,-0.3083952,51.5702551,Point
+node,6436632903,Willesden Green,transport_underground_metro_stations,-0.222223,51.5493524,Point
+node,6436648511,Kilburn,transport_underground_metro_stations,-0.2053385,51.5469889,Point
+node,6436743186,West Acton,transport_underground_metro_stations,-0.280413,51.5183524,Point
+node,6438780655,Richmond,transport_underground_metro_stations,-0.3004127,51.4632072,Point
+node,6438904139,Gunnersbury,transport_underground_metro_stations,-0.2755244,51.4913757,Point
+node,6438945825,Stonebridge Park,transport_underground_metro_stations,-0.2762285,51.5441099,Point
+node,6438961931,Willesden Junction,transport_underground_metro_stations,-0.2435041,51.5321956,Point
+node,6439741490,Dollis Hill,transport_underground_metro_stations,-0.2390026,51.5519333,Point
+node,6440680616,Westbourne Park,transport_underground_metro_stations,-0.2014098,51.5209265,Point
+node,6443259367,South Wimbledon,transport_underground_metro_stations,-0.1923542,51.4153226,Point
+node,6443260107,Tooting Bec,transport_underground_metro_stations,-0.159069,51.4359799,Point
+node,6443260135,Clapham South,transport_underground_metro_stations,-0.1474632,51.4530268,Point
+node,6448645467,Kew Gardens,transport_underground_metro_stations,-0.284962,51.4771341,Point
+node,6452489646,Barking,transport_underground_metro_stations,0.0793235,51.5402677,Point
+node,6459032762,Shepherd's Bush,transport_underground_metro_stations,-0.2168851,51.5046061,Point
+node,6460061009,North Wembley,transport_underground_metro_stations,-0.3038645,51.5624292,Point
+node,6460794385,Ladbroke Grove,transport_underground_metro_stations,-0.2111019,51.5172639,Point
+node,6464495252,Oval,transport_underground_metro_stations,-0.1125416,51.4817981,Point
+node,6464495261,Oval,transport_underground_metro_stations,-0.1123223,51.481841,Point
+node,6464495263,Stockwell,transport_underground_metro_stations,-0.1226354,51.4721148,Point
+node,6466252813,Upney,transport_underground_metro_stations,0.099626,51.538266,Point
+node,6468357440,Queen's Park,transport_underground_metro_stations,-0.2054958,51.533873,Point
+node,6468432388,Tottenham Hale,transport_underground_metro_stations,-0.0599442,51.588123,Point
+node,6472438171,Holland Park,transport_underground_metro_stations,-0.2054639,51.507192,Point
+node,6472516924,Euston Square,transport_underground_metro_stations,-0.1355703,51.5256866,Point
+node,6486933492,Wanstead,transport_underground_metro_stations,0.0286373,51.575646,Point
+node,6486933493,Queensway,transport_underground_metro_stations,-0.1872329,51.5104729,Point
+node,6758461485,Wembley Central,transport_underground_metro_stations,-0.2968861,51.5522862,Point
+node,6758461486,Wembley Central,transport_underground_metro_stations,-0.296814,51.5522737,Point
+node,6758474985,Regent's Park,transport_underground_metro_stations,-0.1466357,51.5236277,Point
+node,6758474986,Maida Vale,transport_underground_metro_stations,-0.1857447,51.5298672,Point
+node,6761071700,Wood Green,transport_underground_metro_stations,-0.1097795,51.597416,Point
+node,6761076726,Manor House,transport_underground_metro_stations,-0.0963971,51.5703208,Point
+node,6765486625,Mill Hill East,transport_underground_metro_stations,-0.2101489,51.6082557,Point
+node,6797794417,Tufnell Park,transport_underground_metro_stations,-0.138371,51.5569079,Point
+node,6797794418,Borough,transport_underground_metro_stations,-0.0932926,51.5011444,Point
+node,6932246807,Bethnal Green,transport_underground_metro_stations,-0.054752,51.5272449,Point
+node,7175566127,Wembley Central,transport_underground_metro_stations,-0.2966751,51.5523278,Point
+node,7223822385,Stockwell,transport_underground_metro_stations,-0.1232966,51.4714602,Point
+node,7633092779,Nine Elms,transport_underground_metro_stations,-0.1304351,51.4802358,Point
+node,7792555884,Clapham North,transport_underground_metro_stations,-0.1292202,51.4659435,Point
+node,7792581385,Clapham North,transport_underground_metro_stations,-0.1296428,51.4653766,Point
+node,7792592417,Balham,transport_underground_metro_stations,-0.1525898,51.4438246,Point
+node,7792592418,Balham,transport_underground_metro_stations,-0.15275,51.443447,Point
+node,7792603765,Old Street,transport_underground_metro_stations,-0.0875194,51.5253214,Point
+node,7792603806,Tooting Bec,transport_underground_metro_stations,-0.1598208,51.4355269,Point
+node,7792628213,Angel,transport_underground_metro_stations,-0.1046489,51.5316035,Point
+node,7792659585,Highgate,transport_underground_metro_stations,-0.1464578,51.5779247,Point
+node,7849627395,Finchley Central,transport_underground_metro_stations,-0.1925518,51.600967,Point
+node,7849627396,Finchley Central,transport_underground_metro_stations,-0.1925736,51.600946,Point
+node,7849756618,Upminster,transport_underground_metro_stations,0.2517981,51.5590405,Point
+node,7849929286,Blackhorse Road,transport_underground_metro_stations,-0.0429679,51.5868186,Point
+node,8251774893,Paddington,transport_underground_metro_stations,-0.1754608,51.5163981,Point
+node,8251783240,Maida Vale,transport_underground_metro_stations,-0.1858544,51.529847,Point
+node,8270601047,Marylebone,transport_underground_metro_stations,-0.1635799,51.5222736,Point
+node,8618989638,Hendon Central,transport_underground_metro_stations,-0.2256283,51.5827415,Point
+node,8711705048,Tooting Broadway,transport_underground_metro_stations,-0.1686018,51.427371,Point
+node,8711705049,Tooting Broadway,transport_underground_metro_stations,-0.168116,51.4280174,Point
+node,8886489708,Oxford Circus,transport_underground_metro_stations,-0.1419904,51.5156668,Point
+node,8892447714,Regent's Park,transport_underground_metro_stations,-0.1465949,51.5236665,Point
+node,8894920322,Waterloo,transport_underground_metro_stations,-0.1119968,51.5035934,Point
+node,8895043623,London Bridge,transport_underground_metro_stations,-0.0878249,51.5050963,Point
+node,8910489546,Piccadilly Circus,transport_underground_metro_stations,-0.1344313,51.5100502,Point
+node,8910489547,Baker Street,transport_underground_metro_stations,-0.1575518,51.5231568,Point
+node,9097860107,Nine Elms,transport_underground_metro_stations,-0.1296937,51.4801837,Point
+node,9097860108,Battersea Power Station,transport_underground_metro_stations,-0.1429709,51.4796154,Point
+node,9113091953,Nine Elms,transport_underground_metro_stations,-0.1285787,51.4800567,Point
+node,9113091954,Battersea Power Station,transport_underground_metro_stations,-0.1423914,51.4799625,Point
+node,9113091955,Battersea Power Station,transport_underground_metro_stations,-0.1438791,51.4790947,Point
+node,9300541899,Euston Square,transport_underground_metro_stations,-0.1354506,51.5253314,Point
+node,9338919894,Down Street,transport_underground_metro_stations,-0.1475571,51.5043924,Point
+node,9338929237,Swiss Cottage,transport_underground_metro_stations,-0.1753436,51.5436058,Point
+node,9338930519,Marlborough Road,transport_underground_metro_stations,-0.1759862,51.5368465,Point
+node,9432179604,York Road,transport_underground_metro_stations,-0.1225262,51.538426,Point
+node,9476700849,Park Royal and Tywford Abbey,transport_underground_metro_stations,-0.2892087,51.5313119,Point
+node,9484741999,St. Mary's (Whitechapel Road),transport_underground_metro_stations,-0.0652014,51.5177908,Point
+node,10259337550,Bond Street,transport_underground_metro_stations,-0.149889,51.5155716,Point
+node,10282972897,Lord's,transport_underground_metro_stations,-0.1686697,51.529757,Point
+node,10573700574,Hendon Central,transport_underground_metro_stations,-0.2269068,51.583607,Point
+node,10573700575,Brent Cross,transport_underground_metro_stations,-0.2132718,51.5765698,Point
+node,10573700576,Clapham Common,transport_underground_metro_stations,-0.1374485,51.4620215,Point
+node,10573700577,Clapham Common,transport_underground_metro_stations,-0.1370773,51.462173,Point
+node,10573700578,Colliers Wood,transport_underground_metro_stations,-0.1779011,51.4181291,Point
+node,10573700579,Colliers Wood,transport_underground_metro_stations,-0.177671,51.4185691,Point
+node,10573700580,South Wimbledon,transport_underground_metro_stations,-0.1929729,51.414988,Point
+node,11772541599,St. James's Park,transport_underground_metro_stations,-0.1341728,51.4994295,Point
+node,11772541600,St. James's Park,transport_underground_metro_stations,-0.1350491,51.4991032,Point
+node,11772541601,Blackfriars,transport_underground_metro_stations,-0.1035625,51.5116548,Point
+node,11772541602,Blackfriars,transport_underground_metro_stations,-0.1040017,51.5115051,Point
+node,11772546340,Shepherd's Bush Market,transport_underground_metro_stations,-0.2261794,51.5068751,Point
+node,11772546341,Westbourne Park,transport_underground_metro_stations,-0.2007514,51.5209016,Point
+node,11772623206,Ravenscourt Park,transport_underground_metro_stations,-0.2348879,51.4941581,Point
+node,12193929800,Paddington Underground Station,transport_underground_metro_stations,-0.1753888,51.5163708,Point
+node,12209432555,Baker Street,transport_underground_metro_stations,-0.1580311,51.5235506,Point
+node,12288848442,Moorgate,transport_underground_metro_stations,-0.0878924,51.518512,Point
+node,12288848451,Old Street,transport_underground_metro_stations,-0.0876272,51.52532,Point
+node,12292769347,Angel,transport_underground_metro_stations,-0.1047485,51.5313868,Point
+node,12487546237,Ruislip Gardens,transport_underground_metro_stations,-0.4095818,51.5604246,Point
+node,12782513095,Hammersmith,transport_underground_metro_stations,-0.2247943,51.4937167,Point
+node,13017109595,Finsbury Park,transport_underground_metro_stations,-0.107033,51.564044,Point
+node,13017111801,Finsbury Park,transport_underground_metro_stations,-0.1068522,51.5651039,Point
+node,13409130224,Chalk Farm,transport_underground_metro_stations,-0.1535469,51.544154,Point
+node,13410791417,Borough,transport_underground_metro_stations,-0.0934106,51.5010885,Point
+node,13411781738,London Bridge,transport_underground_metro_stations,-0.0883075,51.5059043,Point
+node,13440675005,Embankment,transport_underground_metro_stations,-0.1230389,51.5065891,Point
+node,13440675022,Waterloo,transport_underground_metro_stations,-0.1148905,51.5033364,Point
+node,13667975250,Highgate,transport_underground_metro_stations,-0.1465746,51.5778165,Point
+node,13667975265,Kentish Town,transport_underground_metro_stations,-0.1406006,51.5503317,Point
+node,13667975279,Tufnell Park,transport_underground_metro_stations,-0.1385346,51.5569437,Point
+node,13668714887,Brompton Road,transport_underground_metro_stations,-0.1687591,51.4968503,Point
+node,13673286174,Caledonian Road,transport_underground_metro_stations,-0.1182915,51.5484392,Point
+way,3655117,District Line (Wimbledon Branch),transport_underground_metro_stations,-0.21247639999999998,51.45612709473684,LineString
+way,4042882,District Line (Wimbledon Branch),transport_underground_metro_stations,-0.20841846,51.451085,LineString
+way,4043420,District Line (Wimbledon Branch),transport_underground_metro_stations,-0.20577348888888888,51.44160753333333,LineString
+way,4043422,District Line (Wimbledon Branch),transport_underground_metro_stations,-0.2094287,51.45242315,LineString
+way,4043423,District Line (Wimbledon Branch),transport_underground_metro_stations,-0.20659865,51.44471015,LineString
+way,4078028,District Line (Wimbledon Branch),transport_underground_metro_stations,-0.20448335,51.4389047,LineString
+way,4078033,District Line (Wimbledon Branch),transport_underground_metro_stations,-0.19805270833333333,51.43164265833334,LineString
+way,4078199,District Line and Overground (North London Line),transport_underground_metro_stations,-0.2854228695652174,51.475116782608694,LineString
+way,4766701,District Line,transport_underground_metro_stations,-0.29980255,51.46348353333334,LineString
+way,4996863,District Line (Wimbledon Branch),transport_underground_metro_stations,-0.20520336,51.422385080000005,LineString
+way,8821109,District Line and Overground (North London Line),transport_underground_metro_stations,-0.2744608,51.49211672,LineString
+way,9020736,District Line (Wimbledon Branch),transport_underground_metro_stations,-0.20251655000000002,51.423977,LineString
+way,9020738,District Line (Wimbledon Branch),transport_underground_metro_stations,-0.20426085714285716,51.42287042857142,LineString
+way,9343865,DC Electric Lines,transport_underground_metro_stations,-0.2645747086956522,51.53939123043478,LineString
+way,10277780,DC Electric Lines,transport_underground_metro_stations,-0.27435054999999997,51.543434899999994,LineString
+way,10443327,DC Electric Lines,transport_underground_metro_stations,-0.25236215,51.53419865,LineString
+way,10709321,DC Electric Lines,transport_underground_metro_stations,-0.28922505,51.54730575,LineString
+way,10709336,DC Electric Lines,transport_underground_metro_stations,-0.28194391785714285,51.54596774642857,LineString
+way,10709890,Bakerloo Line,transport_underground_metro_stations,-0.2271388,51.530404399999995,LineString
+way,16221770,District Line (Wimbledon Branch),transport_underground_metro_stations,-0.20767405,51.44987715,LineString
+way,16221786,District Line (Wimbledon Branch),transport_underground_metro_stations,-0.2069472769230769,51.44713097692308,LineString
+way,16222193,District Line (Wimbledon Branch),transport_underground_metro_stations,-0.20096267142857144,51.435675214285716,LineString
+way,19052137,District Line and Overground (North London Line),transport_underground_metro_stations,-0.2909154896551724,51.46545427931034,LineString
+way,19052138,District Line and Overground (North London Line),transport_underground_metro_stations,-0.28537051153846155,51.47545226153846,LineString
+way,28457517,Northbound,transport_underground_metro_stations,-0.185631025,51.617865325,LineString
+way,28457519,Southbound,transport_underground_metro_stations,-0.18548288,51.61784554,LineString
+way,37659261,District Line (Wimbledon Branch),transport_underground_metro_stations,-0.2048135857142857,51.4224878,LineString
+way,37659262,District Line (Wimbledon Branch),transport_underground_metro_stations,-0.20409395,51.4229783,LineString
+way,37659263,District Line (Wimbledon Branch),transport_underground_metro_stations,-0.2030215,51.4235927,LineString
+way,42429624,Westbound Platform 2,transport_underground_metro_stations,-0.10520713294258813,51.52066685,MultiPolygon
+way,47519266,,transport_underground_metro_stations,0.21820250640973674,51.55383635,MultiPolygon
+way,47519267,,transport_underground_metro_stations,0.21766952499093453,51.553837349999995,MultiPolygon
+way,47519546,2,transport_underground_metro_stations,0.12634877447266807,51.540350149999995,MultiPolygon
+way,47520040,,transport_underground_metro_stations,0.015663966585547393,51.53099315,MultiPolygon
+way,47520041,,transport_underground_metro_stations,0.016614605572852967,51.53109025,MultiPolygon
+way,47520045,,transport_underground_metro_stations,0.016026067588667252,51.5310524,MultiPolygon
+way,47637201,Westbound,transport_underground_metro_stations,0.19732714457389833,51.549526900000004,MultiPolygon
+way,47637202,Eastbound,transport_underground_metro_stations,0.19739904358154775,51.5495797,MultiPolygon
+way,47637519,,transport_underground_metro_stations,0.23458310105411395,51.5582029,MultiPolygon
+way,47637521,,transport_underground_metro_stations,0.23432785135477954,51.5581705,MultiPolygon
+way,47645104,,transport_underground_metro_stations,0.2516554228090167,51.55908015,MultiPolygon
+way,47645123,,transport_underground_metro_stations,0.2515430695694251,51.5589775,MultiPolygon
+way,47985037,Platform 2,transport_underground_metro_stations,0.08031203858495856,51.53995295,MultiPolygon
+way,47985038,Platform 3,transport_underground_metro_stations,0.07895570487804382,51.54062025,MultiPolygon
+way,48016764,Platform 6,transport_underground_metro_stations,-0.00323759700598925,51.541956,MultiPolygon
+way,48017671,Platform 13,transport_underground_metro_stations,-0.0029517151345279215,51.5402017,MultiPolygon
+way,48017672,Platform 14,transport_underground_metro_stations,-0.0028745608965620112,51.54039335,MultiPolygon
+way,48017710,Platform 15,transport_underground_metro_stations,-0.0027938639777101036,51.5404125,MultiPolygon
+way,56031970,District Line and Overground (North London Line),transport_underground_metro_stations,-0.281752675,51.481647875,LineString
+way,56031971,District Line and Overground (North London Line),transport_underground_metro_stations,-0.28301695,51.4803447,LineString
+way,61513714,District Line and Overground (North London Line),transport_underground_metro_stations,-0.277764175,51.485696075,LineString
+way,61513715,District Line and Overground (North London Line),transport_underground_metro_stations,-0.27727104999999996,51.48645175,LineString
+way,61599765,1,transport_underground_metro_stations,-0.28502655090017814,51.47724995,MultiPolygon
+way,61599766,2,transport_underground_metro_stations,-0.28491013849461194,51.477055750000005,MultiPolygon
+way,67254155,,transport_underground_metro_stations,-0.23902053315852684,51.5519927,MultiPolygon
+way,77240036,Watford DC line,transport_underground_metro_stations,-0.21930412,51.531427347999994,LineString
+way,77240047,Watford DC line,transport_underground_metro_stations,-0.22713865,51.5304713,LineString
+way,77240053,DC Electric Lines,transport_underground_metro_stations,-0.24324795,51.532262625,LineString
+way,77240058,DC Electric Lines,transport_underground_metro_stations,-0.23026064999999998,51.530286225,LineString
+way,77240066,Bakerloo Line,transport_underground_metro_stations,-0.2181693851851852,51.53160381851852,LineString
+way,85666170,Platform 7,transport_underground_metro_stations,-0.30005061099999963,51.51512095,MultiPolygon
+way,89702388,Platform 9,transport_underground_metro_stations,-0.30108668834745755,51.51526895000001,MultiPolygon
+way,90359383,,transport_underground_metro_stations,-0.0765404307207055,51.509915449999994,MultiPolygon
+way,90359403,,transport_underground_metro_stations,-0.07660279552754265,51.50982615,MultiPolygon
+way,90861508,,transport_underground_metro_stations,-0.3077113527945632,51.50079065,MultiPolygon
+way,90861513,,transport_underground_metro_stations,-0.3131334934818308,51.499564500000005,MultiPolygon
+way,90861521,,transport_underground_metro_stations,-0.3131411102215138,51.4996923,MultiPolygon
+way,90861559,,transport_underground_metro_stations,-0.30772436180852225,51.500911650000006,MultiPolygon
+way,106467356,High Barnet,transport_underground_metro_stations,-0.1941441387390921,51.65048515,MultiPolygon
+way,106467478,High Barnet,transport_underground_metro_stations,-0.1938494613162961,51.65043875,MultiPolygon
+way,106581308,,transport_underground_metro_stations,-0.33614814834387086,51.57917075,MultiPolygon
+way,106581310,,transport_underground_metro_stations,-0.3362018600794259,51.579140949999996,MultiPolygon
+way,106581321,,transport_underground_metro_stations,-0.33615681702702,51.57930945,MultiPolygon
+way,106581324,,transport_underground_metro_stations,-0.33610548907864973,51.579258949999996,MultiPolygon
+way,107326116,3,transport_underground_metro_stations,-0.16481781720939043,51.5872546,MultiPolygon
+way,107326127,1,transport_underground_metro_stations,-0.16503939909993454,51.5871875,MultiPolygon
+way,109746139,Platform 2,transport_underground_metro_stations,-0.0827197888888889,51.5172524,LineString
+way,109746148,Platform 1,transport_underground_metro_stations,-0.08268665,51.517189800000004,LineString
+way,109746156,Eastbound Platform 4,transport_underground_metro_stations,-0.08229689999999999,51.51840718,LineString
+way,109746160,Westbound Platform 5,transport_underground_metro_stations,-0.08220458,51.51837121999999,LineString
+way,109789257,,transport_underground_metro_stations,-0.17848844898894684,51.518433200000004,MultiPolygon
+way,111971167,Northbound,transport_underground_metro_stations,-0.12836475,51.507437499999995,LineString
+way,111971169,Southbound,transport_underground_metro_stations,-0.12815612,51.507500660000005,LineString
+way,112606697,District Line (Wimbledon Branch),transport_underground_metro_stations,-0.2000352846153846,51.42674762307692,LineString
+way,122593171,2,transport_underground_metro_stations,0.14520620868035183,51.54157255,MultiPolygon
+way,122593172,2,transport_underground_metro_stations,0.14566651437299855,51.5415662,MultiPolygon
+way,129464482,,transport_underground_metro_stations,-0.1752775,51.515456424999996,LineString
+way,129464516,,transport_underground_metro_stations,-0.17541572,51.51550354,LineString
+way,128872622,,transport_underground_metro_stations,-0.19408107623681284,51.5722673,MultiPolygon
+way,128872623,,transport_underground_metro_stations,-0.193949173770493,51.5723391,MultiPolygon
+way,128872624,,transport_underground_metro_stations,-0.1942994334954588,51.5722336,MultiPolygon
+way,130389625,Eastbound Platform 1,transport_underground_metro_stations,-0.22371103759842306,51.5101978,MultiPolygon
+way,130389628,Westbound Platform 2,transport_underground_metro_stations,-0.22366424799578044,51.51009455,MultiPolygon
+way,135860569,District Line and Overground (North London Line),transport_underground_metro_stations,-0.276891325,51.4878188,LineString
+way,135860572,District Line and Overground (North London Line),transport_underground_metro_stations,-0.2766684,51.48918663333333,LineString
+way,140087782,,transport_underground_metro_stations,-0.14157044000000002,51.54484907999999,LineString
+way,140087786,,transport_underground_metro_stations,-0.14162114285714286,51.544967657142855,LineString
+way,137530084,2,transport_underground_metro_stations,-0.21405695634992453,51.490297749999996,MultiPolygon
+way,137530086,4,transport_underground_metro_stations,-0.21401206529730973,51.49039035,MultiPolygon
+way,137572025,Platform 5,transport_underground_metro_stations,-0.487732076417004,51.472447849999995,MultiPolygon
+way,137572026,Platform 6,transport_underground_metro_stations,-0.4877363000918349,51.4725575,MultiPolygon
+way,139184061,,transport_underground_metro_stations,-0.21739779164700082,51.504454,MultiPolygon
+way,139184067,Eastbound,transport_underground_metro_stations,-0.22430644517594417,51.51186405,MultiPolygon
+way,139184071,Westbound,transport_underground_metro_stations,-0.22413050074734112,51.511830950000004,MultiPolygon
+way,139624940,Eastbound Platform 1,transport_underground_metro_stations,-0.2251391763225385,51.494137800000004,MultiPolygon
+way,144727811,Platform 3,transport_underground_metro_stations,-0.0033248096865539437,51.5417057,MultiPolygon
+way,145795012,District Line (Wimbledon Branch),transport_underground_metro_stations,-0.20643414999999998,51.444862,LineString
+way,145795013,District Line (Wimbledon Branch),transport_underground_metro_stations,-0.20761775,51.449884049999994,LineString
+way,145795017,District Line (Wimbledon Branch),transport_underground_metro_stations,-0.2044224,51.43891675,LineString
+way,145795020,District Line (Wimbledon Branch),transport_underground_metro_stations,-0.2082172125,51.45089165,LineString
+way,145795021,District Line (Wimbledon Branch),transport_underground_metro_stations,-0.20008574999999998,51.430570347727276,LineString
+way,145795022,District Line (Wimbledon Branch),transport_underground_metro_stations,-0.210256725,51.453359125,LineString
+way,145795027,District Line (Wimbledon Branch),transport_underground_metro_stations,-0.20581738181818182,51.442040127272726,LineString
+way,145795029,District Line (Wimbledon Branch),transport_underground_metro_stations,-0.20682137692307692,51.44703134615384,LineString
+way,150893514,Eastbound Central Line,transport_underground_metro_stations,-0.11321463999999999,51.51829392,LineString
+way,150893515,Westbound Central Line,transport_underground_metro_stations,-0.11334576,51.51826654,LineString
+way,149742945,,transport_underground_metro_stations,0.1634550328606582,51.5438336,MultiPolygon
+way,152107573,,transport_underground_metro_stations,-0.103539975,51.5116938,LineString
+way,152107574,,transport_underground_metro_stations,-0.1034951,51.511627525,LineString
+way,152107575,Westbound Platform 1,transport_underground_metro_stations,-0.09923852669968605,51.5155405,MultiPolygon
+way,152107576,Eastbound Platform 2,transport_underground_metro_stations,-0.09891741711964408,51.5155155,MultiPolygon
+way,155035729,DC Electric Lines,transport_underground_metro_stations,-0.2446275,51.53242626666667,LineString
+way,155035730,DC Electric Lines,transport_underground_metro_stations,-0.2489225,51.533098966666664,LineString
+way,154293373,Eastbound platform 2,transport_underground_metro_stations,-0.17319004972431978,51.49414045,MultiPolygon
+way,156386749,DC Electric Lines,transport_underground_metro_stations,-0.25454085000000004,51.535033,LineString
+way,156386757,DC Electric Lines,transport_underground_metro_stations,-0.2560749,51.53562635,LineString
+way,156386759,DC Electric Lines,transport_underground_metro_stations,-0.27437635000000005,51.5434116,LineString
+way,156386765,DC Electric Lines,transport_underground_metro_stations,-0.2560481,51.53565235000001,LineString
+way,156386767,DC Electric Lines,transport_underground_metro_stations,-0.25230410000000003,51.534143125,LineString
+way,156386774,DC Electric Lines,transport_underground_metro_stations,-0.26414547419354834,51.539185751612905,LineString
+way,156386784,DC Electric Lines,transport_underground_metro_stations,-0.23548233461538462,51.53061446923077,LineString
+way,156386797,DC Electric Lines,transport_underground_metro_stations,-0.25451334999999997,51.5350559,LineString
+way,157530364,DC Electric Lines,transport_underground_metro_stations,-0.2891205,51.547248350000004,LineString
+way,157530367,DC Electric Lines,transport_underground_metro_stations,-0.282602465625,51.546111671875,LineString
+way,157741187,Metropolitan Line,transport_underground_metro_stations,-0.35028375,51.580828499999996,LineString
+way,157741232,Metropolitan Line,transport_underground_metro_stations,-0.35085123333333335,51.580956300000004,LineString
+way,158003539,,transport_underground_metro_stations,-0.3000965058436963,51.540749250000005,MultiPolygon
+way,158003540,,transport_underground_metro_stations,-0.30006634977242835,51.5408366,MultiPolygon
+way,158515648,,transport_underground_metro_stations,-0.20888783333333336,51.4681562,LineString
+way,158515650,,transport_underground_metro_stations,-0.20866599489614823,51.46843115,MultiPolygon
+way,160584419,District Line and Overground (North London Line),transport_underground_metro_stations,-0.27598754375,51.490818125,LineString
+way,160588881,District Line and Overground (North London Line),transport_underground_metro_stations,-0.2767441333333333,51.48921256666667,LineString
+way,160588885,District Line and Overground (North London Line),transport_underground_metro_stations,-0.2773136,51.48647145,LineString
+way,160588890,District Line and Overground (North London Line),transport_underground_metro_stations,-0.28822844999999997,51.4676491,LineString
+way,160588894,District Line and Overground (North London Line),transport_underground_metro_stations,-0.28305844999999996,51.480366700000005,LineString
+way,160588897,District Line and Overground (North London Line),transport_underground_metro_stations,-0.29631667500000003,51.4638645,LineString
+way,160588902,District Line,transport_underground_metro_stations,-0.297442775,51.463652875,LineString
+way,160588905,District Line and Overground (North London Line),transport_underground_metro_stations,-0.27851015,51.48485015,LineString
+way,160588908,District Line and Overground (North London Line),transport_underground_metro_stations,-0.29786565,51.4635748,LineString
+way,160588913,District Line and Overground (North London Line),transport_underground_metro_stations,-0.28179862499999997,51.4816652,LineString
+way,160588914,District Line,transport_underground_metro_stations,-0.29873915,51.463502175,LineString
+way,160588924,District Line and Overground (North London Line),transport_underground_metro_stations,-0.2769531,51.487835775,LineString
+way,160588926,District Line and Overground (North London Line),transport_underground_metro_stations,-0.2908479677419355,51.465469029032256,LineString
+way,160588936,District Line and Overground (North London Line),transport_underground_metro_stations,-0.29722303333333333,51.463682733333336,LineString
+way,160588943,Overground (North London Line),transport_underground_metro_stations,-0.3012033,51.46326489999999,LineString
+way,160588946,Overground (North London Line),transport_underground_metro_stations,-0.2999112,51.463277875,LineString
+way,160590775,District Line,transport_underground_metro_stations,-0.2987147,51.46348939999999,LineString
+way,160590777,District Line,transport_underground_metro_stations,-0.297551125,51.46365395,LineString
+way,160116238,,transport_underground_metro_stations,-0.012361084758212976,51.52462645,MultiPolygon
+way,161444051,,transport_underground_metro_stations,-0.24437515085724087,51.5324602,MultiPolygon
+way,161444055,,transport_underground_metro_stations,-0.24445807015869603,51.532432650000004,MultiPolygon
+way,161444056,,transport_underground_metro_stations,-0.2449553604948918,51.532381900000004,MultiPolygon
+way,162366620,Eastbound Platform 2,transport_underground_metro_stations,-0.14089283333333333,51.5154255,LineString
+way,162514000,Eastbound,transport_underground_metro_stations,-0.12552447777777778,51.50094037777777,LineString
+way,162514001,Westbound,transport_underground_metro_stations,-0.12560071818181817,51.50093129090909,LineString
+way,162814360,DC Electric Lines,transport_underground_metro_stations,-0.30525907910447764,51.56491901044776,LineString
+way,162851628,DC Electric Lines,transport_underground_metro_stations,-0.33486124,51.592064719999996,LineString
+way,162940280,Bakerloo Turnback Siding,transport_underground_metro_stations,-0.3355165,51.59234485,LineString
+way,162940281,Bakerloo Turnback Siding,transport_underground_metro_stations,-0.33669545,51.592939325,LineString
+way,162940282,Bakerloo Turnback Siding,transport_underground_metro_stations,-0.33555665,51.5923977,LineString
+way,161693160,,transport_underground_metro_stations,-0.36963605125177684,51.54844685,MultiPolygon
+way,161693175,Westbound Platform 1,transport_underground_metro_stations,-0.3226434719512108,51.5364867,MultiPolygon
+way,162366616,,transport_underground_metro_stations,-0.14203285226574913,51.5158747,MultiPolygon
+way,162375711,,transport_underground_metro_stations,-0.4776516990065447,51.5465295,MultiPolygon
+way,162375712,,transport_underground_metro_stations,-0.477684732629748,51.5466274,MultiPolygon
+way,162375713,,transport_underground_metro_stations,-0.4777152700803174,51.546655349999995,MultiPolygon
+way,162514002,Westbound,transport_underground_metro_stations,-0.12464646767754695,51.501396150000005,MultiPolygon
+way,162514003,Eastbound,transport_underground_metro_stations,-0.12477072401201411,51.5014533,MultiPolygon
+way,162756355,,transport_underground_metro_stations,-0.33433018886935223,51.59171815,MultiPolygon
+way,162865605,,transport_underground_metro_stations,-0.38086799296460794,51.59269495,MultiPolygon
+way,162865625,,transport_underground_metro_stations,-0.3808357812902053,51.592813449999994,MultiPolygon
+way,162867833,,transport_underground_metro_stations,-0.2747031822865867,51.61360245,MultiPolygon
+way,162867834,,transport_underground_metro_stations,-0.274563683053621,51.61334775,MultiPolygon
+way,162870592,,transport_underground_metro_stations,-0.24967365393461774,51.595264799999995,MultiPolygon
+way,162883496,,transport_underground_metro_stations,-0.38547219893879214,51.473635650000006,MultiPolygon
+way,162883501,,transport_underground_metro_stations,-0.38553697307959456,51.473658,MultiPolygon
+way,163091190,Platform 1,transport_underground_metro_stations,-0.44525050568922614,51.4589517,MultiPolygon
+way,163794009,Northbound Platform 3,transport_underground_metro_stations,-0.1430878045222738,51.4966766,MultiPolygon
+way,163794011,Westbound Platform 1,transport_underground_metro_stations,-0.1437859675000392,51.496309999999994,MultiPolygon
+way,163794012,Eastbound Platform 2,transport_underground_metro_stations,-0.1435916940625,51.496402149999994,MultiPolygon
+way,163794013,Southbound Platform 4,transport_underground_metro_stations,-0.14294512860230502,51.49655845,MultiPolygon
+way,164313014,Westbound platform 1,transport_underground_metro_stations,-0.17300739131663978,51.49407515,MultiPolygon
+way,164313017,,transport_underground_metro_stations,-0.1728534628168833,51.4941889,MultiPolygon
+way,164313018,,transport_underground_metro_stations,-0.1942226082104132,51.49153355,MultiPolygon
+way,164313019,,transport_underground_metro_stations,-0.18388207403356527,51.49455765,MultiPolygon
+way,164313020,,transport_underground_metro_stations,-0.19385028365269635,51.49173075,MultiPolygon
+way,164313021,,transport_underground_metro_stations,-0.1836578371320931,51.49460035,MultiPolygon
+way,164313022,,transport_underground_metro_stations,-0.18365229205176953,51.4946287,MultiPolygon
+way,164313023,,transport_underground_metro_stations,-0.19376805798306918,51.49165875,MultiPolygon
+way,164313024,,transport_underground_metro_stations,-0.19373685543224928,51.4916398,MultiPolygon
+way,165293693,DC Electric Lines,transport_underground_metro_stations,-0.33163425,51.590534399999996,LineString
+way,165293695,DC Electric Lines,transport_underground_metro_stations,-0.33484772,51.592021839999994,LineString
+way,166421663,Southbound,transport_underground_metro_stations,-0.12293925714285714,51.506646585714286,LineString
+way,166421664,Northbound,transport_underground_metro_stations,-0.12291925714285715,51.50650661428572,LineString
+way,166702175,Southbound,transport_underground_metro_stations,-0.140543,51.506295,LineString
+way,166702181,Northbound,transport_underground_metro_stations,-0.14057176,51.50609974,LineString
+way,166703799,Southbound,transport_underground_metro_stations,-0.14188272857142856,51.506134857142854,LineString
+way,166703800,Northbound,transport_underground_metro_stations,-0.14212041428571429,51.506065057142855,LineString
+way,166708825,Westbound,transport_underground_metro_stations,-0.1258569,51.507983075,LineString
+way,166708826,Eastbound,transport_underground_metro_stations,-0.12611305,51.508147175,LineString
+way,166709046,Northbound,transport_underground_metro_stations,-0.12226898,51.50727964,LineString
+way,166709047,Southbound,transport_underground_metro_stations,-0.1221362,51.5075939,LineString
+way,165333329,,transport_underground_metro_stations,-0.3007905531031375,51.463382100000004,MultiPolygon
+way,166257122,,transport_underground_metro_stations,0.09137958318821435,51.596497049999996,MultiPolygon
+way,166257137,,transport_underground_metro_stations,0.0912270412425131,51.59651425,MultiPolygon
+way,168226385,Eastbound platform 2,transport_underground_metro_stations,-0.017259924287992223,51.5033825,MultiPolygon
+way,168226386,Westbound platform 1,transport_underground_metro_stations,-0.017319634999984315,51.5032904,MultiPolygon
+way,169699265,,transport_underground_metro_stations,-0.1792252562245647,51.63075095,MultiPolygon
+way,169699267,,transport_underground_metro_stations,-0.17906701286446658,51.63084515,MultiPolygon
+way,170095004,Eastbound platform 1,transport_underground_metro_stations,-0.06122392583446633,51.5194928,MultiPolygon
+way,170130368,2,transport_underground_metro_stations,0.00605119833790857,51.5287161,MultiPolygon
+way,170433210,Platform 3a,transport_underground_metro_stations,-0.00315459324224628,51.5417299,MultiPolygon
+way,179811167,Southbound,transport_underground_metro_stations,-0.073480925,51.58278305,LineString
+way,179811168,Northbound,transport_underground_metro_stations,-0.07375115,51.58300808333333,LineString
+way,179811176,Victoria Depot,transport_underground_metro_stations,-0.07361851666666668,51.5828835,LineString
+way,177832590,,transport_underground_metro_stations,-0.09854706936084848,51.5202639,MultiPolygon
+way,185333521,District Line and Overground (North London Line),transport_underground_metro_stations,-0.28827395,51.46766085,LineString
+way,185333524,District Line,transport_underground_metro_stations,-0.3012093,51.46329396666667,LineString
+way,185333535,District Line (Wimbledon Branch),transport_underground_metro_stations,-0.20208963333333332,51.42430703333334,LineString
+way,185333537,District Line (Wimbledon Branch),transport_underground_metro_stations,-0.2047468166666667,51.422441383333336,LineString
+way,193292125,,transport_underground_metro_stations,-0.07925225,51.509635349999996,LineString
+way,193296149,Eastbound,transport_underground_metro_stations,-0.14144383333333332,51.50746328333333,LineString
+way,193296150,Westbound,transport_underground_metro_stations,-0.14137651666666665,51.50741098333333,LineString
+way,197526851,Westbound Platform 1,transport_underground_metro_stations,-0.004643632366083993,51.55704215,MultiPolygon
+way,202185095,1,transport_underground_metro_stations,-0.1927566560477431,51.6009507,MultiPolygon
+way,202185244,3,transport_underground_metro_stations,-0.19247629739776986,51.60099485,MultiPolygon
+way,202989798,1,transport_underground_metro_stations,0.0934938042845819,51.6032441,MultiPolygon
+way,202989800,3,transport_underground_metro_stations,0.09322328023178098,51.6030365,MultiPolygon
+way,205619916,Eastbound,transport_underground_metro_stations,-0.1245473,51.529771875,LineString
+way,205619917,Westbound,transport_underground_metro_stations,-0.1243379875,51.529713975,LineString
+way,205619919,Northbound,transport_underground_metro_stations,-0.12404099090909092,51.53058748181818,LineString
+way,205619920,Southbound,transport_underground_metro_stations,-0.12404277272727272,51.530698790909085,LineString
+way,205619924,Westbound,transport_underground_metro_stations,-0.12298564000000001,51.53113634,LineString
+way,205619921,Eastbound,transport_underground_metro_stations,-0.1230573989250506,51.53180375,MultiPolygon
+way,209004259,Leytonstone Eastbound Platform 3,transport_underground_metro_stations,0.008578783183358047,51.56885145,MultiPolygon
+way,209004261,Leytonstone Westbound Platform 2,transport_underground_metro_stations,0.008636583537365128,51.5687306,MultiPolygon
+way,219706754,,transport_underground_metro_stations,-0.33659761038281044,51.55701545,MultiPolygon
+way,219762760,,transport_underground_metro_stations,-0.344890466032701,51.5420881,MultiPolygon
+way,220141893,,transport_underground_metro_stations,-0.33668247901287174,51.5569108,MultiPolygon
+way,220141894,,transport_underground_metro_stations,-0.34480406320367385,51.5421543,MultiPolygon
+way,224160429,DC Electric Lines,transport_underground_metro_stations,-0.29426693333333337,51.54984506666667,LineString
+way,224160432,DC Electric Lines,transport_underground_metro_stations,-0.2966165,51.55208869999999,LineString
+way,224160435,DC Electric Lines,transport_underground_metro_stations,-0.2943014,51.54982912222223,LineString
+way,224160437,DC Electric Lines,transport_underground_metro_stations,-0.2966666333333334,51.552081466666664,LineString
+way,225675085,,transport_underground_metro_stations,-0.13827884999999998,51.53416836666667,LineString
+way,225675086,,transport_underground_metro_stations,-0.1381551,51.53419208333333,LineString
+way,228014508,,transport_underground_metro_stations,-0.24633255433219206,51.49492955,MultiPolygon
+way,228014509,,transport_underground_metro_stations,-0.23588059449547127,51.4940538,MultiPolygon
+way,228014510,,transport_underground_metro_stations,-0.24636799340003912,51.495088100000004,MultiPolygon
+way,228014512,,transport_underground_metro_stations,-0.2356639604676597,51.4941609,MultiPolygon
+way,228015206,Eastbound Platform 3,transport_underground_metro_stations,-0.25422225454514646,51.495172600000004,MultiPolygon
+way,228874938,Platform 5,transport_underground_metro_stations,-0.10343140570601239,51.5472375,MultiPolygon
+way,228878635,Platform 3,transport_underground_metro_stations,-0.10377511265274511,51.54718235,MultiPolygon
+way,229991357,Leytonstone Westbound Platform 1,transport_underground_metro_stations,0.008682381141601074,51.5687166,MultiPolygon
+way,232224377,Holborn Piccadilly Line Southbound disused,transport_underground_metro_stations,-0.12035395255102113,51.51705425,MultiPolygon
+way,232224379,Northbound,transport_underground_metro_stations,-0.12047546152343745,51.51703645,MultiPolygon
+way,232224385,Westbound Platform 3,transport_underground_metro_stations,-0.12036201753739889,51.51733415,MultiPolygon
+way,232224386,Eastbound Platform 2,transport_underground_metro_stations,-0.11933755011955594,51.5177262,MultiPolygon
+way,232224387,Westbound Platform 1,transport_underground_metro_stations,-0.11918838702694289,51.5176248,MultiPolygon
+way,234770574,Platform 1,transport_underground_metro_stations,-0.27977689999528,51.5023856,MultiPolygon
+way,234770582,Platform 2,transport_underground_metro_stations,-0.2797333411833377,51.50240145,MultiPolygon
+way,235219827,,transport_underground_metro_stations,-0.2249382264258838,51.4941975,MultiPolygon
+way,235219829,,transport_underground_metro_stations,-0.22498497189120714,51.4941252,MultiPolygon
+way,257344243,,transport_underground_metro_stations,0.08869863333333333,51.585595266666665,LineString
+way,257344244,,transport_underground_metro_stations,0.0885627,51.5856552,LineString
+way,273032216,,transport_underground_metro_stations,-0.2054804209976697,51.54696535,MultiPolygon
+way,280274310,Platform 1,transport_underground_metro_stations,-0.20943973947049577,51.497196349999996,MultiPolygon
+way,281224889,,transport_underground_metro_stations,-0.21131859033362052,51.45877725,MultiPolygon
+way,281224892,,transport_underground_metro_stations,-0.21114761640268026,51.458738499999995,MultiPolygon
+way,283995466,,transport_underground_metro_stations,-0.4506417630003753,51.5534938,MultiPolygon
+way,283995467,,transport_underground_metro_stations,-0.4507391157392247,51.55356285,MultiPolygon
+way,284642889,,transport_underground_metro_stations,-0.22657230864544237,51.501340799999994,MultiPolygon
+way,284642890,,transport_underground_metro_stations,-0.2264021498014554,51.50137615,MultiPolygon
+way,285274380,Westbound Platform 2,transport_underground_metro_stations,-0.2543147727798396,51.4950898,MultiPolygon
+way,285274383,,transport_underground_metro_stations,-0.25419472403661014,51.495202649999996,MultiPolygon
+way,285295131,,transport_underground_metro_stations,-0.26842042336903477,51.4945387,MultiPolygon
+way,285295132,,transport_underground_metro_stations,-0.26810464839245934,51.4946925,MultiPolygon
+way,285963409,,transport_underground_metro_stations,-0.2600719217190429,51.52359105,MultiPolygon
+way,286124805,,transport_underground_metro_stations,-0.20665675135949374,51.445693000000006,MultiPolygon
+way,286124809,,transport_underground_metro_stations,-0.20658389183531645,51.445697300000006,MultiPolygon
+way,286288115,,transport_underground_metro_stations,-0.21784530272767993,51.51351355,MultiPolygon
+way,286288117,,transport_underground_metro_stations,-0.21771614735152012,51.5134467,MultiPolygon
+way,286438746,,transport_underground_metro_stations,-0.3175362767948776,51.57843475,MultiPolygon
+way,286438747,,transport_underground_metro_stations,-0.31726196065837575,51.5784339,MultiPolygon
+way,286465207,,transport_underground_metro_stations,-0.295346387063224,51.57211485,MultiPolygon
+way,286465208,,transport_underground_metro_stations,-0.2953880865298151,51.572169099999996,MultiPolygon
+way,286603829,Westbound Platform 1,transport_underground_metro_stations,-0.4213784882153307,51.57133465,MultiPolygon
+way,286603832,Westbound,transport_underground_metro_stations,-0.41172062456975156,51.57336325,MultiPolygon
+way,286603834,Eastbound Platform 2,transport_underground_metro_stations,-0.42138107833839733,51.5714555,MultiPolygon
+way,286603836,Eastbound,transport_underground_metro_stations,-0.411817068646958,51.57344075,MultiPolygon
+way,286755212,,transport_underground_metro_stations,-0.20533247718934572,51.534087150000005,MultiPolygon
+way,286755213,,transport_underground_metro_stations,-0.20578028714379787,51.533916149999996,MultiPolygon
+way,287131782,,transport_underground_metro_stations,-0.2801494282161062,51.563483149999996,MultiPolygon
+way,287131784,,transport_underground_metro_stations,-0.2801969049889349,51.563620400000005,MultiPolygon
+way,287131785,,transport_underground_metro_stations,-0.2800552605758001,51.5636499,MultiPolygon
+way,287131786,,transport_underground_metro_stations,-0.28009736145353753,51.56376055,MultiPolygon
+way,287131787,,transport_underground_metro_stations,-0.2799467323295791,51.56376315,MultiPolygon
+way,287131788,,transport_underground_metro_stations,-0.2799664023818331,51.5638635,MultiPolygon
+way,287271803,,transport_underground_metro_stations,-0.22404529401573575,51.530678449999996,MultiPolygon
+way,287271804,,transport_underground_metro_stations,-0.22401120799453234,51.53058465,MultiPolygon
+way,287956828,,transport_underground_metro_stations,-0.21754381449312693,51.50447755,MultiPolygon
+way,288196381,,transport_underground_metro_stations,-0.3024135633649188,51.61869505,MultiPolygon
+way,288196382,,transport_underground_metro_stations,-0.30236030300851857,51.618721199999996,MultiPolygon
+way,288196383,,transport_underground_metro_stations,-0.30266837954175146,51.6188059,MultiPolygon
+way,288499240,,transport_underground_metro_stations,-0.25814837044344974,51.5365568,MultiPolygon
+way,288499241,,transport_underground_metro_stations,-0.2582334740817024,51.5364828,MultiPolygon
+way,290371519,,transport_underground_metro_stations,-0.012389046911964772,51.52472745,MultiPolygon
+way,290573477,,transport_underground_metro_stations,-0.1877011935130719,51.519025049999996,MultiPolygon
+way,290573478,,transport_underground_metro_stations,-0.1874646638370273,51.5190328,MultiPolygon
+way,293398892,,transport_underground_metro_stations,-0.24595047458682603,51.49492720000001,MultiPolygon
+way,303304491,Westbound platform 1,transport_underground_metro_stations,-0.24801114000000002,51.51719252,LineString
+way,303304492,Eastbound platform 2,transport_underground_metro_stations,-0.24785336666666669,51.517169700000004,LineString
+way,299297161,Westbound Platform 1,transport_underground_metro_stations,0.03396653065948012,51.606470200000004,MultiPolygon
+way,299297162,"Eastbound Platform 3 - Epping, Hainault",transport_underground_metro_stations,0.033922295239471045,51.6067914,MultiPolygon
+way,301207338,,transport_underground_metro_stations,0.16499300815835577,51.54397185,MultiPolygon
+way,301207339,,transport_underground_metro_stations,0.16429285234357452,51.54394725,MultiPolygon
+way,301406184,1,transport_underground_metro_stations,0.12598773638757466,51.54021835,MultiPolygon
+way,301813815,1,transport_underground_metro_stations,0.09964328041751946,51.538233950000006,MultiPolygon
+way,301813816,2,transport_underground_metro_stations,0.09938148939584669,51.53825165,MultiPolygon
+way,303191484,Eastbound Platform 2,transport_underground_metro_stations,-0.004881900039001439,51.55705005,MultiPolygon
+way,303304458,5,transport_underground_metro_stations,-0.19361356588416834,51.491925699999996,MultiPolygon
+way,303304459,6,transport_underground_metro_stations,-0.19378089852632724,51.491764,MultiPolygon
+way,303304485,Eastbound platform 2,transport_underground_metro_stations,-0.054624190634608744,51.52730355,MultiPolygon
+way,303304486,,transport_underground_metro_stations,0.0647299362300029,51.57646175,MultiPolygon
+way,303304487,Westbound platform 1,transport_underground_metro_stations,-0.054239404893328694,51.5271586,MultiPolygon
+way,303304490,Gants Hill - Central Line - Eastbound - Platform 2,transport_underground_metro_stations,0.0653438857716169,51.576575250000005,MultiPolygon
+way,303304495,Eastbound,transport_underground_metro_stations,-0.08616797025517209,51.5107741,MultiPolygon
+way,304586093,,transport_underground_metro_stations,-0.36963572745561246,51.5484869,MultiPolygon
+way,307006609,Westbound Plaform 1,transport_underground_metro_stations,-0.14087405,51.51536686666666,LineString
+way,310882260,Westbound Platform 1,transport_underground_metro_stations,-0.13501630423218364,51.525834599999996,MultiPolygon
+way,310882261,Eastbound Platform 2,transport_underground_metro_stations,-0.13506421078533065,51.525930849999995,MultiPolygon
+way,316994297,District Line (Wimbledon Branch),transport_underground_metro_stations,-0.20948214999999998,51.45255875,LineString
+way,316994298,District Line (Wimbledon Branch),transport_underground_metro_stations,-0.21030465,51.453347325,LineString
+way,316994299,District Line (Wimbledon Branch),transport_underground_metro_stations,-0.2093823,51.452429550000005,LineString
+way,316994300,District Line (Wimbledon Branch),transport_underground_metro_stations,-0.20952969999999999,51.45254895,LineString
+way,317122628,,transport_underground_metro_stations,-0.3661062415541723,51.471324249999995,MultiPolygon
+way,323526121,Platform 6,transport_underground_metro_stations,0.08011122220164654,51.539818249999996,MultiPolygon
+way,323839980,,transport_underground_metro_stations,0.05266070825334046,51.539370700000006,MultiPolygon
+way,323839981,,transport_underground_metro_stations,0.05260071417103873,51.5394563,MultiPolygon
+way,327402109,District Line and Overground (North London Line),transport_underground_metro_stations,-0.27502906666666666,51.49175483333334,LineString
+way,327402110,District Line and Overground (North London Line),transport_underground_metro_stations,-0.27594809285714283,51.49066701428571,LineString
+way,327402111,District Line and Overground (North London Line),transport_underground_metro_stations,-0.2745671,51.492131900000004,LineString
+way,327402112,District Line and Overground (North London Line),transport_underground_metro_stations,-0.27513736666666666,51.49180093333333,LineString
+way,365314361,DC Electric Lines,transport_underground_metro_stations,-0.24947435384615385,51.533203646153844,LineString
+way,365314362,DC Electric Lines,transport_underground_metro_stations,-0.24324040000000002,51.5322825,LineString
+way,365314363,DC Electric Lines,transport_underground_metro_stations,-0.2360472380952381,51.5306677047619,LineString
+way,365314364,DC Electric Lines,transport_underground_metro_stations,-0.24463634285714284,51.53231758571428,LineString
+way,365314365,DC Electric Lines,transport_underground_metro_stations,-0.24447763,51.532499310000006,LineString
+way,385363551,District Line,transport_underground_metro_stations,-0.2980583,51.4635758,LineString
+way,389572592,1,transport_underground_metro_stations,-0.20532477112108527,51.507201800000004,MultiPolygon
+way,393356751,,transport_underground_metro_stations,-0.3253744302521017,51.4952787,MultiPolygon
+way,393356752,,transport_underground_metro_stations,-0.3255366859946178,51.4953518,MultiPolygon
+way,409816770,Westbound Platform 1,transport_underground_metro_stations,-0.1345662536300611,51.49924005,MultiPolygon
+way,409816771,Eastbound Platform 2,transport_underground_metro_stations,-0.13458050986016343,51.499333199999995,MultiPolygon
+way,431141328,District Line and Overground (North London Line),transport_underground_metro_stations,-0.29631050000000003,51.46384975,LineString
+way,431141329,District Line,transport_underground_metro_stations,-0.29651615,51.463843499999996,LineString
+way,431141330,District Line,transport_underground_metro_stations,-0.2992184,51.4634541,LineString
+way,431141331,District Line,transport_underground_metro_stations,-0.29869862,51.46352950000001,LineString
+way,431141332,Overground (North London Line),transport_underground_metro_stations,-0.29788349999999997,51.4635629,LineString
+way,431141333,Overground (North London Line),transport_underground_metro_stations,-0.2986975,51.46347743333333,LineString
+way,431141334,Overground (North London Line),transport_underground_metro_stations,-0.29878194,51.46341056,LineString
+way,431154539,Overground (North London Line),transport_underground_metro_stations,-0.30019015,51.463346599999994,LineString
+way,431155796,District Line,transport_underground_metro_stations,-0.30019615,51.46337565,LineString
+way,431155797,District Line,transport_underground_metro_stations,-0.3012261,51.4633746,LineString
+way,431141326,,transport_underground_metro_stations,-0.30024683492573523,51.463310899999996,MultiPolygon
+way,431141327,,transport_underground_metro_stations,-0.30026486392994806,51.463398100000006,MultiPolygon
+way,436223282,Jubilee Line,transport_underground_metro_stations,-0.11200558000000001,51.503529660000005,LineString
+way,437217009,Westbound - 1,transport_underground_metro_stations,-0.04936495643103446,51.49790725,MultiPolygon
+way,437217013,,transport_underground_metro_stations,-0.04960705470459763,51.4979592,MultiPolygon
+way,447177780,Eastbound platform 2,transport_underground_metro_stations,-0.19512892905058554,51.48695095,MultiPolygon
+way,447177782,Westbound platform 1,transport_underground_metro_stations,-0.19479587225119965,51.486880049999996,MultiPolygon
+way,453592539,Clapham Common,transport_underground_metro_stations,-0.1372643643717884,51.46210365,MultiPolygon
+way,471878421,Platform 1,transport_underground_metro_stations,-0.30356238055216,51.56202505,MultiPolygon
+way,471878422,Platform 2,transport_underground_metro_stations,-0.303706464796632,51.5620055,MultiPolygon
+way,505403200,District Line and Overground (North London Line),transport_underground_metro_stations,-0.277807175,51.485710975,LineString
+way,505403201,District Line and Overground (North London Line),transport_underground_metro_stations,-0.2783538,51.484952250000006,LineString
+way,505403216,District Line and Overground (North London Line),transport_underground_metro_stations,-0.27838615,51.484976200000006,LineString
+way,505403222,District Line and Overground (North London Line),transport_underground_metro_stations,-0.2784776,51.484827100000004,LineString
+way,524942131,,transport_underground_metro_stations,-0.20171728271128664,51.4750652,MultiPolygon
+way,524942134,,transport_underground_metro_stations,-0.20144841803239244,51.475073300000005,MultiPolygon
+way,532057220,Platform 4,transport_underground_metro_stations,-0.2794988776946137,51.502408,MultiPolygon
+way,532541384,Platform 3,transport_underground_metro_stations,-0.2795579655339328,51.502403,MultiPolygon
+way,545651204,,transport_underground_metro_stations,-0.251068532817324,51.5542979,MultiPolygon
+way,545651206,,transport_underground_metro_stations,-0.2506623007665031,51.554423400000005,MultiPolygon
+way,545664370,,transport_underground_metro_stations,-0.27644651096691264,51.54413555,MultiPolygon
+way,545664371,,transport_underground_metro_stations,-0.2764348872026287,51.5442407,MultiPolygon
+way,545703950,,transport_underground_metro_stations,-0.2799750699732091,51.51859545,MultiPolygon
+way,545703951,,transport_underground_metro_stations,-0.28011991078776743,51.5186263,MultiPolygon
+way,545717978,1;2,transport_underground_metro_stations,-0.39938621460642554,51.556993,MultiPolygon
+way,551675604,2,transport_underground_metro_stations,0.09323086830210497,51.60285785,MultiPolygon
+way,555495405,Eastbound Platform 1,transport_underground_metro_stations,-0.06424472994606742,51.4976111,MultiPolygon
+relation,7930948,,transport_underground_metro_stations,-0.10619835559977589,51.50422835,MultiPolygon
+way,556758130,Eastbound Platform 2,transport_underground_metro_stations,-0.06433434418961972,51.49778755,MultiPolygon
+way,566551297,Southbound Platform 2,transport_underground_metro_stations,-0.10049882131067472,51.494926750000005,MultiPolygon
+way,566551376,Northbound Platform 1,transport_underground_metro_stations,-0.1006422205716187,51.4950471,MultiPolygon
+way,566551427,Northbound Platform 3,transport_underground_metro_stations,-0.1012382943967006,51.49580765,MultiPolygon
+way,566551428,Northbound Platform 4,transport_underground_metro_stations,-0.10124401009203166,51.49593505,MultiPolygon
+way,566555647,Eastbound - 6,transport_underground_metro_stations,0.008289745250635246,51.5137347,MultiPolygon
+way,566555652,Westbound - 5,transport_underground_metro_stations,0.008403979508508217,51.513797600000004,MultiPolygon
+way,566739882,1,transport_underground_metro_stations,0.006048291339961997,51.5286786,MultiPolygon
+way,566978161,,transport_underground_metro_stations,-0.2496933471444335,51.5952326,MultiPolygon
+way,567016187,Westbound Platform 1,transport_underground_metro_stations,-0.4365679987561548,51.569227749999996,MultiPolygon
+way,567016189,Eastbound Platform 2,transport_underground_metro_stations,-0.4365279722427944,51.5692375,MultiPolygon
+way,567076031,,transport_underground_metro_stations,-0.22217447904353277,51.549227450000004,MultiPolygon
+way,567076034,,transport_underground_metro_stations,-0.22173795189753487,51.5493958,MultiPolygon
+way,567076036,,transport_underground_metro_stations,-0.22219978304516194,51.54932855,MultiPolygon
+way,567076037,,transport_underground_metro_stations,-0.2222173812874792,51.54937045,MultiPolygon
+way,567081588,,transport_underground_metro_stations,0.004870638507909243,51.50072635,MultiPolygon
+way,567081625,,transport_underground_metro_stations,0.004814191314282243,51.50075565,MultiPolygon
+relation,8107680,,transport_underground_metro_stations,0.004654849987185809,51.50083525,MultiPolygon
+way,567293141,Tottenham Court Road - Northern Line - Southbound - Platform 4,transport_underground_metro_stations,-0.13009128075127552,51.515670150000005,MultiPolygon
+way,567293142,Tottenham Court Road - Central Line - Eastbound - Platform 2,transport_underground_metro_stations,-0.13174341075342783,51.5162988,MultiPolygon
+way,567293143,Tottenham Court Road - Northern Line - Northbound - Platform 3,transport_underground_metro_stations,-0.13018044424177483,51.5156172,MultiPolygon
+way,567293144,Tottenham Court Road - Central Line - Westbound - Platform 1,transport_underground_metro_stations,-0.13207420034241393,51.51622275,MultiPolygon
+way,567423201,Eastbound Platform 2,transport_underground_metro_stations,-0.07119632485504607,51.51554365,MultiPolygon
+way,567423221,Westbound Platform 1,transport_underground_metro_stations,-0.07116767453254502,51.515457600000005,MultiPolygon
+way,567480560,,transport_underground_metro_stations,-0.20523731557935662,51.54701195,MultiPolygon
+way,567513823,Eastbound Platform 2,transport_underground_metro_stations,-0.32242751101096623,51.5364664,MultiPolygon
+way,567529464,Platform 8,transport_underground_metro_stations,-0.30082735765582647,51.51516455,MultiPolygon
+way,568126849,Eastbound - 2,transport_underground_metro_stations,-0.04933298670405929,51.498008150000004,MultiPolygon
+relation,8095058,"Farringdon - Circle, Metropolitan, Hammersmith & City Line - Eastbound - Platform 1",transport_underground_metro_stations,-0.10509463710747882,51.52080225,MultiPolygon
+relation,8104231,Bank (Northern line),transport_underground_metro_stations,-0.08779955033222722,51.51204475,MultiPolygon
+relation,8104232,Circle and District Westbound,transport_underground_metro_stations,-0.08558027039310759,51.51060615,MultiPolygon
+relation,8104234,Bank (Central line),transport_underground_metro_stations,-0.08864433969898047,51.51340985,MultiPolygon
+relation,8104235,Bank (Waterloo & City line),transport_underground_metro_stations,-0.09148543196353554,51.51283805,MultiPolygon
+relation,8104470,,transport_underground_metro_stations,-0.10755374040383275,51.55838705,MultiPolygon
+way,569053687,Eastbound Platform 2,transport_underground_metro_stations,-0.1432188394975447,51.52389225,MultiPolygon
+way,569053743,Westbound Platform 1,transport_underground_metro_stations,-0.14317021513157346,51.52380585,MultiPolygon
+way,569242326,4,transport_underground_metro_stations,-0.2230997089518632,51.49216975,MultiPolygon
+way,569242328,2,transport_underground_metro_stations,-0.22327692260136256,51.4921007,MultiPolygon
+way,569322056,Westbound Platform 1,transport_underground_metro_stations,-0.19580523853223336,51.508422550000006,MultiPolygon
+way,569322057,Eastbound Platform 2,transport_underground_metro_stations,-0.1959432600814734,51.50836565,MultiPolygon
+way,569322058,Eastbound Platform 3,transport_underground_metro_stations,-0.19717326446273026,51.5088964,MultiPolygon
+way,569322059,Westbound Platform 4,transport_underground_metro_stations,-0.1967728104858792,51.5089636,MultiPolygon
+relation,8114911,Leicester Square Platforms 3-4,transport_underground_metro_stations,-0.1284203935580352,51.5118369,MultiPolygon
+way,569863963,,transport_underground_metro_stations,-0.09888215454535923,51.520170750000005,MultiPolygon
+way,569863965,,transport_underground_metro_stations,-0.09889018231130983,51.52005725,MultiPolygon
+way,569870279,Southbound - Platform 2,transport_underground_metro_stations,-0.18328536305339757,51.5230233,MultiPolygon
+relation,8115035,,transport_underground_metro_stations,-0.12426850405115891,51.51308245,MultiPolygon
+way,570155763,,transport_underground_metro_stations,-0.4529308867945886,51.4714984,MultiPolygon
+way,570155766,,transport_underground_metro_stations,-0.4529832852580032,51.471598549999996,MultiPolygon
+way,570167671,Northbound Platform 1,transport_underground_metro_stations,-0.17019276663073096,51.520443099999994,MultiPolygon
+way,570167673,Southbound Platform 2,transport_underground_metro_stations,-0.170403846183805,51.52045845,MultiPolygon
+way,570182403,Westbound - Platform 2,transport_underground_metro_stations,-0.12486932353971913,51.60737585,MultiPolygon
+way,570182404,Eastbound - Platform 1,transport_underground_metro_stations,-0.12473284460658057,51.607171949999994,MultiPolygon
+relation,8119312,Holloway Road,transport_underground_metro_stations,-0.11303068862685428,51.552913399999994,MultiPolygon
+way,570877961,St John's Wood - Jubilee Line - Southbound - Platform 2,transport_underground_metro_stations,-0.174041066628348,51.53523455,MultiPolygon
+way,570877970,St John's Wood - Jubilee Line - Northbound - Platform 1,transport_underground_metro_stations,-0.17436340789853053,51.5352517,MultiPolygon
+relation,8126703,,transport_underground_metro_stations,-0.19432361870087667,51.53506125,MultiPolygon
+way,571039999,Swiss Cottage,transport_underground_metro_stations,-0.17474115971736415,51.5433369,MultiPolygon
+way,571040001,Swiss Cottage,transport_underground_metro_stations,-0.17453213223702668,51.543425400000004,MultiPolygon
+way,571269225,,transport_underground_metro_stations,-0.2541716209396608,51.49506315,MultiPolygon
+way,571644646,,transport_underground_metro_stations,-0.3659043895160908,51.471302,MultiPolygon
+way,571651463,1,transport_underground_metro_stations,-0.21407434092960165,51.490272700000006,MultiPolygon
+way,571651465,3,transport_underground_metro_stations,-0.21410388324478113,51.49036825,MultiPolygon
+way,571964465,Westbound Platform 1,transport_underground_metro_stations,-0.2839990162198451,51.5264391,MultiPolygon
+way,571964466,Eastbound Platform 2,transport_underground_metro_stations,-0.28386749160733954,51.5264554,MultiPolygon
+way,573326376,,transport_underground_metro_stations,-0.3449831896222466,51.542130900000004,MultiPolygon
+way,577957847,Eastbound Platform 1,transport_underground_metro_stations,-0.42379993165984076,51.4665257,MultiPolygon
+way,577957849,Eastbound Platform 2,transport_underground_metro_stations,-0.424231028193268,51.466542149999995,MultiPolygon
+way,670540760,,transport_underground_metro_stations,-0.372051405339646,51.5752611,MultiPolygon
+way,670540761,,transport_underground_metro_stations,-0.37153747657941333,51.575285949999994,MultiPolygon
+way,673457837,,transport_underground_metro_stations,-0.18833848,51.60927742,LineString
+way,673457838,,transport_underground_metro_stations,-0.1884566,51.609306366666665,LineString
+way,673493898,,transport_underground_metro_stations,-0.35360828571428576,51.57939607142857,LineString
+way,673493899,,transport_underground_metro_stations,-0.3537046222222222,51.579467477777776,LineString
+way,674093795,,transport_underground_metro_stations,-0.20560040000000002,51.4907733,LineString
+way,674093796,,transport_underground_metro_stations,-0.20565355000000002,51.4908202,LineString
+way,673463798,,transport_underground_metro_stations,-0.13120197861932054,51.6473383,MultiPolygon
+way,673463800,,transport_underground_metro_stations,-0.14865220504587545,51.65132295,MultiPolygon
+way,673463801,,transport_underground_metro_stations,-0.14874554636503956,51.65145075,MultiPolygon
+way,673493877,,transport_underground_metro_stations,-0.4776436229444899,51.546572499999996,MultiPolygon
+way,674075668,,transport_underground_metro_stations,-0.3558233589210279,51.4734534,MultiPolygon
+way,674075670,,transport_underground_metro_stations,-0.35201702377826566,51.4814806,MultiPolygon
+way,674075671,,transport_underground_metro_stations,-0.35190673502757186,51.481421850000004,MultiPolygon
+way,682420323,District Line (Wimbledon Branch),transport_underground_metro_stations,-0.21242093,51.45619278,LineString
+way,682318049,,transport_underground_metro_stations,0.25152930412703556,51.559121250000004,MultiPolygon
+way,688752719,DC Electric Lines,transport_underground_metro_stations,-0.3052890333333333,51.56513212051282,LineString
+way,689156473,,transport_underground_metro_stations,-0.11241214999999999,51.48178715,LineString
+way,689156474,,transport_underground_metro_stations,-0.11270775,51.48165525,LineString
+way,687369888,South Wimbledon Station,transport_underground_metro_stations,-0.19220520836810134,51.4153575,MultiPolygon
+way,688181559,,transport_underground_metro_stations,-0.13316915251098654,51.61625814999999,MultiPolygon
+way,688181560,,transport_underground_metro_stations,-0.1330393139833228,51.6163248,MultiPolygon
+way,688181561,,transport_underground_metro_stations,-0.13313088682870605,51.6163275,MultiPolygon
+way,688181562,,transport_underground_metro_stations,-0.13299311285011828,51.616319950000005,MultiPolygon
+way,688182665,,transport_underground_metro_stations,-0.13123401562952625,51.6473111,MultiPolygon
+way,688185179,,transport_underground_metro_stations,-0.1486904537402079,51.65147255,MultiPolygon
+way,688185180,,transport_underground_metro_stations,-0.1484712920840207,51.6513027,MultiPolygon
+way,688198249,,transport_underground_metro_stations,-0.27474199078814443,51.6135758,MultiPolygon
+way,690243836,,transport_underground_metro_stations,-0.3559101556253943,51.473523,MultiPolygon
+way,701627338,DC Electric Lines,transport_underground_metro_stations,-0.2431817,51.53230036,LineString
+way,701627339,DC Electric Lines,transport_underground_metro_stations,-0.243174075,51.532213625,LineString
+way,808157024,,transport_underground_metro_stations,-0.12418900092863094,51.52303105,MultiPolygon
+way,808157025,,transport_underground_metro_stations,-0.12432577982505552,51.523031,MultiPolygon
+way,841323375,2,transport_underground_metro_stations,-0.1923564381034586,51.60080790000001,MultiPolygon
+way,847787646,,transport_underground_metro_stations,-0.19465212,51.48081512,LineString
+way,847787647,,transport_underground_metro_stations,-0.1944485,51.480737775,LineString
+way,932670044,,transport_underground_metro_stations,-0.22633440872093014,51.506372,MultiPolygon
+way,932670049,,transport_underground_metro_stations,-0.22624239134241242,51.5060582,MultiPolygon
+way,959832663,Platform 6,transport_underground_metro_stations,-0.12004033333333335,51.516358033333326,LineString
+way,961058218,,transport_underground_metro_stations,-0.15317275,51.5028995,LineString
+way,961058219,Down Street Westbound,transport_underground_metro_stations,-0.1474189,51.5043793,LineString
+way,961058220,Down Street Eastbound (disused),transport_underground_metro_stations,-0.1474182,51.5044331,LineString
+way,961076520,British Museum,transport_underground_metro_stations,-0.1231868,51.517260750000005,LineString
+way,961076521,British Museum,transport_underground_metro_stations,-0.12319459999999999,51.517302349999994,LineString
+way,961082299,Bromton Road Westbound (disused),transport_underground_metro_stations,-0.16822025000000002,51.49704655,LineString
+way,961082300,Bromton Road Eastbound (disused),transport_underground_metro_stations,-0.16829413333333335,51.49711096666667,LineString
+way,961586468,Jubilee Line,transport_underground_metro_stations,-0.11194508,51.50359154,LineString
+way,976254468,Westbound platform 2,transport_underground_metro_stations,-0.06082565208229944,51.51949055,MultiPolygon
+way,1010534703,,transport_underground_metro_stations,-0.07643292966427538,51.50983535,MultiPolygon
+way,1025008712,,transport_underground_metro_stations,0.003670458739174278,51.53211245,MultiPolygon
+way,1029309193,Metropolitan Line,transport_underground_metro_stations,-0.35105785,51.5809671,LineString
+way,1029309194,Metropolitan Line,transport_underground_metro_stations,-0.3501346,51.58082996666667,LineString
+way,1071065091,,transport_underground_metro_stations,-0.025003816666666664,51.526859083333335,LineString
+way,1071065092,,transport_underground_metro_stations,-0.025121150000000002,51.52697595,LineString
+way,1118455401,DC Electric Lines,transport_underground_metro_stations,-0.274901,51.543639799999994,LineString
+way,1118455402,DC Electric Lines,transport_underground_metro_stations,-0.27492415000000003,51.54361625,LineString
+way,1118457150,DC Electric Lines,transport_underground_metro_stations,-0.25678063333333334,51.53590513333334,LineString
+way,1118457151,DC Electric Lines,transport_underground_metro_stations,-0.2567546666666667,51.5359303,LineString
+way,1118457152,DC Electric Lines,transport_underground_metro_stations,-0.25729599999999997,51.536112200000005,LineString
+way,1118457153,DC Electric Lines,transport_underground_metro_stations,-0.2572704,51.53613675,LineString
+way,1118468720,DC Electric Lines,transport_underground_metro_stations,-0.2915720133333333,51.54772996,LineString
+way,1118468721,DC Electric Lines,transport_underground_metro_stations,-0.29285185,51.54838275,LineString
+way,1118468722,DC Electric Lines,transport_underground_metro_stations,-0.29164573571428576,51.54778939285715,LineString
+way,1118468723,DC Electric Lines,transport_underground_metro_stations,-0.2928096,51.54840205,LineString
+way,1119578773,DC Electric Lines,transport_underground_metro_stations,-0.3210302242424242,51.58425333030303,LineString
+way,1119578780,DC Electric Lines,transport_underground_metro_stations,-0.32163722,51.584582712,LineString
+way,1119578781,DC Electric Lines,transport_underground_metro_stations,-0.31287319999999996,51.57761215,LineString
+way,1119578782,DC Electric Lines,transport_underground_metro_stations,-0.31296385000000004,51.577630400000004,LineString
+way,1136038385,DC Electric Lines,transport_underground_metro_stations,-0.24626075,51.53258775,LineString
+way,1136038386,DC Electric Lines,transport_underground_metro_stations,-0.24633404285714283,51.53254821428572,LineString
+way,1136038387,DC Electric Lines,transport_underground_metro_stations,-0.2404799,51.53195136666667,LineString
+way,1136038388,DC Electric Lines,transport_underground_metro_stations,-0.24041215384615383,51.5319081076923,LineString
+way,1160700255,Westbound Platform 2,transport_underground_metro_stations,0.034114016822790166,51.60684245,MultiPolygon
+way,1160774810,1,transport_underground_metro_stations,-0.1615251904139285,51.501323150000005,MultiPolygon
+way,1160775481,2,transport_underground_metro_stations,-0.16131824705488132,51.5013591,MultiPolygon
+way,1160778447,1,transport_underground_metro_stations,-0.1546259556584081,51.5027235,MultiPolygon
+way,1160778448,2,transport_underground_metro_stations,-0.15447346185786592,51.50266795,MultiPolygon
+way,1160780909,2,transport_underground_metro_stations,-0.127672609675799,51.51156805,MultiPolygon
+way,1160780910,1,transport_underground_metro_stations,-0.12761789091078482,51.511544549999996,MultiPolygon
+way,1273105364,2,transport_underground_metro_stations,-0.1650265668421108,51.5872346,MultiPolygon
+way,1273105365,4,transport_underground_metro_stations,-0.1647959845704607,51.5872904,MultiPolygon
+way,1319294689,,transport_underground_metro_stations,-0.181081389883067,51.54724735,MultiPolygon
+way,1319294690,,transport_underground_metro_stations,-0.18099446335642427,51.5473806,MultiPolygon
+way,1319294691,,transport_underground_metro_stations,-0.18974355675468824,51.5468518,MultiPolygon
+way,1319948368,,transport_underground_metro_stations,-0.25058605347733864,51.5542771,MultiPolygon
+way,1319948369,,transport_underground_metro_stations,-0.25056183260002185,51.554309700000005,MultiPolygon
+way,1319948850,,transport_underground_metro_stations,-0.23899240472973265,51.5520257,MultiPolygon
+way,1319951499,,transport_underground_metro_stations,-0.19000374065091152,51.546789399999994,MultiPolygon
+way,1319953146,,transport_underground_metro_stations,-0.1810150205497995,51.5473546,MultiPolygon
+way,1319954078,,transport_underground_metro_stations,-0.18106400448089927,51.5472779,MultiPolygon
+way,1321885011,,transport_underground_metro_stations,-0.14191239739702616,51.515973450000004,MultiPolygon
+way,1324828979,,transport_underground_metro_stations,-0.1785042482817532,51.51840865,MultiPolygon
+way,1324831337,Northbound - Platform 1,transport_underground_metro_stations,-0.18341262091527455,51.52299185,MultiPolygon
+way,1328222000,Southbound Platform 8,transport_underground_metro_stations,-0.08759296666666666,51.519107149999996,LineString
+way,1328222011,Northbound Platform 7,transport_underground_metro_stations,-0.08779426666666668,51.519279266666665,LineString
+way,1331108734,Northbound platform 1,transport_underground_metro_stations,-0.12340282857142858,51.47171622857143,LineString
+way,1331108754,Sorthbound platform 4,transport_underground_metro_stations,-0.1227004875,51.4717245125,LineString
+way,1331108758,Northbound platform 2,transport_underground_metro_stations,-0.12308505714285714,51.471729357142856,LineString
+way,1370661055,Southbound platform 4,transport_underground_metro_stations,-0.1063732375,51.5646329,LineString
+way,1370661061,Southbound platform 3,transport_underground_metro_stations,-0.1065206125,51.564639275,LineString
+way,1385527359,Southbound platform 2,transport_underground_metro_stations,-0.147420325,51.452977325,LineString
+way,1385527360,Northbound platform 1,transport_underground_metro_stations,-0.14747906666666666,51.45297563333333,LineString
+way,1385533017,,transport_underground_metro_stations,-0.12942380439031098,51.4656586,MultiPolygon
+way,1385533019,,transport_underground_metro_stations,-0.1294452469410971,51.4656653,MultiPolygon
+way,1385981775,Clapham Common,transport_underground_metro_stations,-0.13725812223529457,51.462088800000004,MultiPolygon
+way,1391549119,,transport_underground_metro_stations,-0.19400217665467895,51.65056665,MultiPolygon
+way,1396002426,,transport_underground_metro_stations,-0.23574391635947844,51.494078,MultiPolygon
+way,1396002427,,transport_underground_metro_stations,-0.23592968691193605,51.4942142,MultiPolygon
+way,1412428758,Southbound platform 2,transport_underground_metro_stations,-0.061022233333333335,51.58792653333333,LineString
+way,1412428760,Northbound platform 1,transport_underground_metro_stations,-0.0610973,51.58820596666666,LineString
+way,1448467767,Bakerloo Northbound,transport_underground_metro_stations,-0.1421373406188994,51.51585525,MultiPolygon
+way,1448467770,,transport_underground_metro_stations,-0.1422850172274469,51.515773949999996,MultiPolygon
+way,1463771054,3,transport_underground_metro_stations,-0.2231348182605215,51.492135,MultiPolygon
+relation,8107492,,transport_underground_metro_stations,-0.2232911102060805,51.49208415,MultiPolygon
+way,1463780452,1,transport_underground_metro_stations,-0.22330685039278422,51.49206585,MultiPolygon
+way,1465716687,,transport_underground_metro_stations,-0.13386855,51.509922175,LineString
+way,1465716688,,transport_underground_metro_stations,-0.13457026,51.509786600000005,LineString
+way,1465716689,,transport_underground_metro_stations,-0.13413976,51.51006858000001,LineString
+way,1465716690,,transport_underground_metro_stations,-0.13459118,51.509985140000005,LineString
+way,1466567190,,transport_underground_metro_stations,-0.10470045,51.5313975,LineString
+way,1466567191,,transport_underground_metro_stations,-0.104614,51.53157095,LineString
+way,1470420383,1,transport_underground_metro_stations,-0.10594104956445996,51.504131599999994,MultiPolygon
+way,1470421483,2,transport_underground_metro_stations,-0.1058954504446992,51.5043595,MultiPolygon
+way,1471849970,2,transport_underground_metro_stations,-0.20566108287004853,51.507177549999994,MultiPolygon
+way,1474120545,Eastbound platform 1,transport_underground_metro_stations,-0.12825256666666665,51.631997000000005,LineString
+way,1474120547,Westbound platform 2,transport_underground_metro_stations,-0.12820976666666664,51.631972399999995,LineString

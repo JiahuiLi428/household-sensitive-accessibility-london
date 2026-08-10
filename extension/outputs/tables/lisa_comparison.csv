@@ -1,0 +1,28 @@
+group,comparison,lisa_reclassification,N,share_lsoas_pct
+children_and_adolescents,original_to_grid_mean,never high-high,4090,81.93
+children_and_adolescents,original_to_grid_mean,new high-high,183,3.67
+children_and_adolescents,original_to_grid_mean,stable high-high,597,11.96
+children_and_adolescents,original_to_grid_mean,no longer high-high,122,2.44
+caregiving_adults,original_to_grid_mean,never high-high,4209,84.31
+caregiving_adults,original_to_grid_mean,stable high-high,564,11.3
+caregiving_adults,original_to_grid_mean,no longer high-high,106,2.12
+caregiving_adults,original_to_grid_mean,new high-high,113,2.26
+older_adults,original_to_grid_mean,never high-high,4038,80.89
+older_adults,original_to_grid_mean,stable high-high,790,15.83
+older_adults,original_to_grid_mean,new high-high,93,1.86
+older_adults,original_to_grid_mean,no longer high-high,71,1.42
+children_and_adolescents,grid_mean_lisa_cluster,Low-low surplus cluster,1020,20.43
+children_and_adolescents,grid_mean_lisa_cluster,Not significant,3147,63.04
+children_and_adolescents,grid_mean_lisa_cluster,High-high mismatch cluster,780,15.62
+children_and_adolescents,grid_mean_lisa_cluster,Low-high spatial outlier,24,0.48
+children_and_adolescents,grid_mean_lisa_cluster,High-low spatial outlier,21,0.42
+caregiving_adults,grid_mean_lisa_cluster,Low-low surplus cluster,907,18.17
+caregiving_adults,grid_mean_lisa_cluster,Not significant,3367,67.45
+caregiving_adults,grid_mean_lisa_cluster,High-high mismatch cluster,677,13.56
+caregiving_adults,grid_mean_lisa_cluster,Low-high spatial outlier,17,0.34
+caregiving_adults,grid_mean_lisa_cluster,High-low spatial outlier,24,0.48
+older_adults,grid_mean_lisa_cluster,High-low spatial outlier,10,0.2
+older_adults,grid_mean_lisa_cluster,Not significant,3137,62.84
+older_adults,grid_mean_lisa_cluster,Low-low surplus cluster,934,18.71
+older_adults,grid_mean_lisa_cluster,High-high mismatch cluster,883,17.69
+older_adults,grid_mean_lisa_cluster,Low-high spatial outlier,28,0.56

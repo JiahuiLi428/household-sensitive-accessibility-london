@@ -1,0 +1,4 @@
+step_free_coverage,n_stations,mean_platform_count,mean_step_free_platform_count
+Full recorded route coverage,465,3.04,3.04
+No recorded platform route info,28,2.64,0
+Partial recorded route coverage,16,5.75,3.56

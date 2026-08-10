@@ -1,0 +1,7 @@
+population_dimension,facility_category,n_observations,statistic_W,p_value
+Children share,education_schools,2298,749747.5,1.475e-08
+Children share,green_space_parks,2168,707838.5,5.969e-17
+Children share,healthcare_gps,1651,380842.5,6.636e-08
+Older-adult share,healthcare_gps,1469,300611.5,6.303e-11
+Older-adult share,green_space_parks,2087,725007.5,2.785e-43
+Older-adult share,education_schools,2199,798793,1.091e-40

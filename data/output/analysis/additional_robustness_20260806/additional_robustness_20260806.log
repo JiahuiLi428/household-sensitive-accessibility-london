@@ -1,0 +1,98 @@
+Additional robustness analysis started: 2026-08-06 17:45:55.797197
+Warning message:
+In annotate("label", x = 1.55, y = 72, label = "PT gain at 15 min: +0.5 to +0.7\nThreshold gain to 30 min: +23.4 to +25.1",  :
+  Ignoring unknown parameters: `label.size`
+null device 
+          1 
+Warning message:
+In data.frame(..., check.names = FALSE) :
+  row names were found from a short variable and have been discarded
+null device 
+          1 
+Using cached grid FDR result: children_and_adolescents
+Using cached grid FDR result: caregiving_adults
+Using cached grid FDR result: older_adults
+null device 
+          1 
+PT15 decomposition:
+Key: <group>
+                      group WALK + PT 15 WALK + PT 30  WALK 15
+                     <char>        <num>        <num>    <num>
+1:        Caregiving adults     36.23436     59.63995 35.59150
+2: Children and adolescents     39.40638     64.33720 38.86613
+3:             Older adults     35.84296     60.98238 35.09788
+   mode_gain_same_15 threshold_gain_same_mode total_endpoint_difference
+               <num>                    <num>                     <num>
+1:         0.6428648                 23.40559                  24.04845
+2:         0.5402483                 24.93082                  25.47107
+3:         0.7450808                 25.13942                  25.88450
+   mode_share_pct
+            <num>
+1:       2.673207
+2:       2.121027
+3:       2.878482
+IMD missingness audit:
+                        variable                          label matched_n
+                          <char>                         <fctr>     <int>
+1:                  children_pct         Children aged 0-15 (%)      4813
+2:              older_adults_pct            Adults aged 65+ (%)      4813
+3: caregiver_household_intensity Dependent-child households (%)      4813
+4:               care_need_score          Caregiving need score      4813
+5:               care_walk_index             Caregiving WALK 15      4813
+6:            care_transit_index               Caregiving PT 30      4813
+7:           children_walk_index               Children WALK 15      4813
+8:              older_walk_index            Older-adult WALK 15      4813
+   missing_n matched_mean missing_mean mean_difference_missing_minus_matched
+       <int>        <num>        <num>                                 <num>
+1:       181     19.14380    17.642144                             -1.501656
+2:       181     12.40973     4.523886                             -7.885847
+3:       181     32.11557    28.096216                             -4.019352
+4:       181     38.78833    34.815677                             -3.972650
+5:       181     35.35533    41.871455                              6.516126
+6:       181     59.43250    65.156354                              5.723858
+7:       181     38.65730    44.419153                              5.761850
+8:       181     34.83979    41.960589                              7.120794
+   standardized_mean_difference
+                          <num>
+1:                   -0.3279765
+2:                   -1.4951199
+3:                   -0.4465431
+4:                   -0.3220814
+5:                    0.4298444
+6:                    0.3937056
+7:                    0.3375108
+8:                    0.4115856
+                                                                              wilcoxon_p
+                                                                                   <num>
+1: 0.00214549540216050268343073170740353816654533147811889648437500000000000000000000000
+2: 0.00000000000000000000000000000000000000000000000000000000000000000000000000001081149
+3: 0.00000007749238510137725439910066915771835738269146531820297241210937500000000000000
+4: 0.00014634727316899936999661235859093721956014633178710937500000000000000000000000000
+5: 0.00000000156444462108040596303067115702134515231591649353504180908203125000000000000
+6: 0.00000000133985864731915142039619937008865235839039087295532226562500000000000000000
+7: 0.00000556425642437317194075041548728677298640832304954528808593750000000000000000000
+8: 0.00000002114785127064648590118622895062117095221765339374542236328125000000000000000
+Grid FDR summary:
+                      group n_lsoas analytical_high_high fdr_high_high
+                     <char>   <int>                <int>         <int>
+1: children_and_adolescents    4992                  780           741
+2:        caregiving_adults    4992                  677           597
+3:             older_adults    4992                  883           761
+   analytical_high_high_retained_fdr retention_pct
+                               <int>         <num>
+1:                               738      94.61538
+2:                               597      88.18316
+3:                               761      86.18347
+   analytical_fdr_high_high_jaccard
+                              <num>
+1:                        0.9425287
+2:                        0.8818316
+3:                        0.8618347
+FDR compound summary:
+   compound_count_fdr n_lsoas
+                <num>   <int>
+1:                  0    3624
+2:                  1     723
+3:                  2     559
+4:                  3      86
+Additional robustness analysis completed: 2026-08-06 17:46:13.178696

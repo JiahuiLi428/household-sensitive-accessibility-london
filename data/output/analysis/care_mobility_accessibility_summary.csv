@@ -1,0 +1,4 @@
+group,n_lsoas,care_walk_index,care_transit_index,care_transit_gain,care_need_score,care_mismatch_index,caregiver_household_intensity,mean_imd_decile
+All LSOAs,4994,35.59,59.64,24.05,38.64,3.05,31.97,5.13
+Low care-demand household intensity,2497,40.39,64.02,23.63,29.62,-10.78,24.81,5.34
+High care-demand household intensity,2497,30.79,55.26,24.47,47.67,16.88,39.13,4.92

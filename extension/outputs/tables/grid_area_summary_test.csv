@@ -1,0 +1,10 @@
+metric,value
+run_mode,test
+selected_lsoa_count,3
+bbox_grid_count,28842
+retained_grid_count,270
+unmatched_grid_count,0
+expected_grid_area_sqm,10000
+min_grid_area_sqm,10000.00
+median_grid_area_sqm,10000.00
+max_grid_area_sqm,10000.00

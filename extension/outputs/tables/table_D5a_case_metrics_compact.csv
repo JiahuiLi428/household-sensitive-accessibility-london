@@ -1,0 +1,4 @@
+case_name,care_need,centroid_access,grid_mean_access,lowest_decile_access,within_lsoa_variation,mismatch_z
+Case 1 Barking Riverside / Thames View,82.36,15.73,28.48,17.3,6.2,4.25
+Case 2 compound mismatch,33.5,0,17.94,0,14.51,1.1
+Case 3 positive counter-case,56.82,56.6,54.47,42.53,6.45,0.2

@@ -1,0 +1,4 @@
+case_name,lisa_class,compound_type,main_service_deficit,policy_implication
+Case 1 Barking Riverside / Thames View,High-high mismatch cluster,children_caregiver,healthcare_hospitals,Prioritise multi-service neighbourhood repair and public-transport-linked care trips.
+Case 2 compound mismatch,High-high mismatch cluster,all_three,healthcare_gps,Prioritise multi-service neighbourhood repair and public-transport-linked care trips.
+Case 3 positive counter-case,Not significant,none,healthcare_hospitals,Protect comparatively strong access while targeting remaining internal low-access pockets.

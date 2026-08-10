@@ -1,0 +1,3 @@
+facility_category,scenario,n_observations,n_imd_deciles,statistic_H,df,p_value,eta_sq_h
+healthcare_gps,walk_15min,2917,10,32.5735,9,0.0001584,0.0081
+food_retail_supermarkets,walk_15min,3133,10,86.8629,9,6.922e-15,0.0249

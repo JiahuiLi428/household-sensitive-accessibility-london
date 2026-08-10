@@ -1,0 +1,1290 @@
+osm_type,osm_id,name,category,lon,lat,source_geometry_type
+node,31472697,Shilun's Pharmacy,healthcare_pharmacies,-0.3189623,51.5517548,Point
+node,31472798,C.K. Pharmacy,healthcare_pharmacies,-0.3159253,51.5554815,Point
+node,31476173,Curapharm Chemist,healthcare_pharmacies,-0.3357604,51.5575874,Point
+node,31552276,Vantage Dispensing,healthcare_pharmacies,-0.3216197,51.5666342,Point
+node,32544806,Bright Health Pharmacy,healthcare_pharmacies,-0.3391271,51.5509115,Point
+node,32546482,Kings Pharmacy,healthcare_pharmacies,-0.3544798,51.5189016,Point
+node,36214438,Kings Pharmacy,healthcare_pharmacies,-0.3731775,51.5618016,Point
+node,36222576,Parade Pharmacy,healthcare_pharmacies,-0.3458887,51.5421903,Point
+node,36312229,Medipharmacy,healthcare_pharmacies,-0.1609632,51.3656066,Point
+node,36509164,Church Pharmacy,healthcare_pharmacies,-0.3350774,51.5088908,Point
+node,37155030,SG Barai Pharmacy,healthcare_pharmacies,-0.1808644,51.3698642,Point
+node,37160049,Kamsons Pharmacy,healthcare_pharmacies,-0.1714801,51.3717385,Point
+node,37552362,Frith's Chemist,healthcare_pharmacies,-0.2166091,51.3580823,Point
+node,40985266,V E Lettsom Pharmacy,healthcare_pharmacies,-0.0823783,51.470918,Point
+node,42220098,,healthcare_pharmacies,-0.3328055,51.5346557,Point
+node,130157250,AP Chemist,healthcare_pharmacies,-0.1777997,51.4183326,Point
+node,196086906,Stafford Pharmacy,healthcare_pharmacies,-0.1391261,51.3596275,Point
+node,248042438,Day Lewis Pharmacy,healthcare_pharmacies,-0.1340619,51.3534016,Point
+node,248915405,Kamsons Pharmacy,healthcare_pharmacies,-0.1361307,51.465528,Point
+node,248933566,Pearl Pharmacy,healthcare_pharmacies,-0.1310695,51.4642728,Point
+node,250355930,Touchwood Pharmacy,healthcare_pharmacies,-0.1298321,51.4305542,Point
+node,251707420,Rowlands Pharmacy,healthcare_pharmacies,0.0020946,51.3924102,Point
+node,251734567,Pyramid Pharmacy,healthcare_pharmacies,-0.3270092,51.5035878,Point
+node,252523582,Judd's Pharmacy,healthcare_pharmacies,-0.0836755,51.5295582,Point
+node,255006104,Boots,healthcare_pharmacies,-0.1240166,51.5787615,Point
+node,255012041,Petter Pharmacy,healthcare_pharmacies,-0.1240567,51.5800874,Point
+node,255396266,Superdrug,healthcare_pharmacies,-0.0981903,51.5145339,Point
+node,255396287,DMB Chemist,healthcare_pharmacies,-0.0568886,51.5141644,Point
+node,255603270,Nashi Pharmacy,healthcare_pharmacies,-0.1907156,51.5154107,Point
+node,255603311,,healthcare_pharmacies,-0.1874337,51.5163792,Point
+node,258016398,H E Matthews Pharmacy,healthcare_pharmacies,-0.1624822,51.3549247,Point
+node,261287286,Harfleur Pharmacy,healthcare_pharmacies,-0.1225219,51.4720118,Point
+node,262447419,Safedale Pharmacy,healthcare_pharmacies,-0.0833827,51.5610097,Point
+node,262637190,Safedale,healthcare_pharmacies,-0.0785831,51.5623014,Point
+node,262637211,Benjamin Chemist,healthcare_pharmacies,-0.0734295,51.5621185,Point
+node,263015294,,healthcare_pharmacies,-0.3501578,51.5514752,Point
+node,266392844,Cubitt Town Pharmacy,healthcare_pharmacies,-0.0074982,51.4887603,Point
+node,266748269,Boots,healthcare_pharmacies,-0.2250257,51.368573,Point
+node,268503198,Boots,healthcare_pharmacies,-0.17544,51.630385,Point
+node,268517393,Mulgrave Road Pharmacy,healthcare_pharmacies,-0.2150702,51.3547652,Point
+node,273933961,Zafash,healthcare_pharmacies,-0.1899825,51.4894164,Point
+node,278080082,Boots,healthcare_pharmacies,-0.1746128,51.3846004,Point
+node,279051554,Anna Pharmacy,healthcare_pharmacies,-0.1737786,51.384412,Point
+node,279104454,Clarks Healthcare,healthcare_pharmacies,-0.0770832,51.5352208,Point
+node,281578832,Britannia Pharmacy,healthcare_pharmacies,-0.049473,51.5283611,Point
+node,282377767,,healthcare_pharmacies,-0.059066,51.4645227,Point
+node,283162530,Osbon Pharmacy,healthcare_pharmacies,0.0123796,51.5189029,Point
+node,283218344,Harfleur Pharmacy,healthcare_pharmacies,-0.0824823,51.4966866,Point
+node,283609440,Rumsey Pharmacy,healthcare_pharmacies,-0.0854665,51.4509697,Point
+node,285593928,Boots,healthcare_pharmacies,-0.1442671,51.4957712,Point
+node,288562229,Alisha Pharmacy,healthcare_pharmacies,-0.2656072,51.5017624,Point
+node,291674458,Day Lewis Pharmacy,healthcare_pharmacies,-0.1558068,51.440189,Point
+node,292011669,Day Lewis Pharmacy,healthcare_pharmacies,-0.1202675,51.454244,Point
+node,293741408,Boots,healthcare_pharmacies,-0.1706793,51.5336261,Point
+node,297990776,The Hampton Pharmacy,healthcare_pharmacies,-0.3779045,51.426347,Point
+node,299610015,Apex Pharmacy,healthcare_pharmacies,-0.0951737,51.5407273,Point
+node,299610461,Savemain Pharmacy,healthcare_pharmacies,-0.0965676,51.5399919,Point
+node,299610629,Essex Chemist & Opticians,healthcare_pharmacies,-0.1008878,51.5372774,Point
+node,300413499,Harleys Pharmacy,healthcare_pharmacies,-0.175179,51.4934414,Point
+node,302172072,Dillons Pharmacy,healthcare_pharmacies,-0.2709354,51.5067461,Point
+node,302397664,Dajani Pharmacy,healthcare_pharmacies,-0.1778092,51.4924901,Point
+node,305383277,,healthcare_pharmacies,-0.3061388,51.5498767,Point
+node,305386889,Jade Pharmacy,healthcare_pharmacies,-0.2972306,51.5453923,Point
+node,305394867,Niks Pharmacy,healthcare_pharmacies,-0.2979123,51.5415741,Point
+node,305410610,S&S Chemists,healthcare_pharmacies,-0.2608302,51.5410908,Point
+node,305442665,,healthcare_pharmacies,-0.3056942,51.5625741,Point
+node,306035966,Benzpharm,healthcare_pharmacies,-0.0963483,51.5368353,Point
+node,308053700,Macks Pharmacy,healthcare_pharmacies,-0.0408319,51.3989391,Point
+node,308064709,Lotus Pharmacy,healthcare_pharmacies,-0.0424149,51.398893,Point
+node,311481380,Boots,healthcare_pharmacies,-0.1798385,51.5251912,Point
+node,311877309,Holborn Pharmacy,healthcare_pharmacies,-0.1219873,51.5199062,Point
+node,313735526,Simmonds Pharmacy,healthcare_pharmacies,-0.141429,51.4876539,Point
+node,322979603,Superdrug,healthcare_pharmacies,-0.0936964,51.4853896,Point
+node,331362136,Boots,healthcare_pharmacies,-0.1080197,51.5936265,Point
+node,331534998,Clan Pharmacy,healthcare_pharmacies,-0.1027719,51.5401675,Point
+node,333722505,Shiv,healthcare_pharmacies,-0.1430477,51.5169739,Point
+node,336287864,Hornsey Road Pharmacy,healthcare_pharmacies,-0.1110296,51.5560697,Point
+node,343537957,All Cures Pharmacy,healthcare_pharmacies,-0.0920732,51.5859818,Point
+node,348414875,Boots,healthcare_pharmacies,-0.1063756,51.5330239,Point
+node,353125820,Well Pharmacy,healthcare_pharmacies,-0.0034098,51.5872798,Point
+node,355199573,Egerton Pharmacy,healthcare_pharmacies,-0.1082823,51.5493186,Point
+node,356954551,Newmans Pharmacy,healthcare_pharmacies,0.0286565,51.5253626,Point
+node,368025527,Portman Pharmacy,healthcare_pharmacies,-0.1349913,51.4896823,Point
+node,375843929,Hogg & Son Pharmacy,healthcare_pharmacies,-0.1666594,51.5146201,Point
+node,376498064,Kensington Pharmacy,healthcare_pharmacies,-0.1925994,51.4966466,Point
+node,379822529,Halls Pharmacy,healthcare_pharmacies,-0.1321907,51.4748591,Point
+node,381715328,Beckenham Pharmacy,healthcare_pharmacies,-0.0253265,51.4085035,Point
+node,385484292,Bellevue Pharmacy,healthcare_pharmacies,-0.166194,51.4454858,Point
+node,389031890,Superdrug,healthcare_pharmacies,-0.0281123,51.4069507,Point
+node,390556694,St Peter's Pharmacy,healthcare_pharmacies,-0.0984536,51.5347163,Point
+node,390924458,JP Pharmacy,healthcare_pharmacies,-0.1419012,51.5377008,Point
+node,392184133,Shaftesbury Pharmacy,healthcare_pharmacies,-0.3545383,51.5722081,Point
+node,392374585,Faro Pharmacy,healthcare_pharmacies,-0.2161762,51.5077276,Point
+node,410936571,,healthcare_pharmacies,-0.2156068,51.556758,Point
+node,410952430,Akhtar Pharmacy,healthcare_pharmacies,-0.2139059,51.5557675,Point
+node,410952435,Akhtar Health Store,healthcare_pharmacies,-0.2138765,51.5557312,Point
+node,411115262,Lever Medical Centre,healthcare_pharmacies,-0.2117196,51.5537903,Point
+node,411115339,Green Light Pharmacy,healthcare_pharmacies,-0.2102876,51.5526155,Point
+node,411306150,Andrews Pharmacy,healthcare_pharmacies,-0.2929249,51.62151,Point
+node,420300534,Boots,healthcare_pharmacies,0.016494,51.4059218,Point
+node,420729591,Scotts Pharmacy,healthcare_pharmacies,0.0172019,51.4005316,Point
+node,420783181,Boots,healthcare_pharmacies,0.0158682,51.402458,Point
+node,427655183,Albion Chemist,healthcare_pharmacies,-0.0528176,51.499497,Point
+node,429640138,Jetsol Pharmacy,healthcare_pharmacies,0.0114466,51.5197007,Point
+node,434557531,Biotech Pharmacy,healthcare_pharmacies,-0.138538,51.5413401,Point
+node,448750297,Superdrug,healthcare_pharmacies,0.2170246,51.5627955,Point
+node,448750321,Boots,healthcare_pharmacies,0.2192053,51.5624545,Point
+node,456065307,Boots,healthcare_pharmacies,-0.0279826,51.4072131,Point
+node,458750183,,healthcare_pharmacies,-0.059493,51.563988,Point
+node,459786456,Crescent Pharmacy Express,healthcare_pharmacies,-0.1107082,51.5987564,Point
+node,459786529,Numark Pharmacy Express,healthcare_pharmacies,-0.1103381,51.5980425,Point
+node,482835014,Walworth Pharmacy,healthcare_pharmacies,-0.0965796,51.4893079,Point
+node,482835021,Ridgway Pharmacy,healthcare_pharmacies,-0.095623,51.4883364,Point
+node,494316791,Churchill's Pharmacy,healthcare_pharmacies,-0.2564398,51.4927962,Point
+node,498694199,I.T. Lloyds Chemist,healthcare_pharmacies,-0.1721303,51.4860991,Point
+node,499319984,Watsons,healthcare_pharmacies,-0.1321017,51.5146648,Point
+node,508533745,,healthcare_pharmacies,-0.4238361,51.5009595,Point
+node,508564860,The Village Pharmacy,healthcare_pharmacies,-0.4361629,51.4876486,Point
+node,519175246,Prince Pharmacy,healthcare_pharmacies,-0.1658093,51.5172034,Point
+node,522092372,Adarshi Pharmacy,healthcare_pharmacies,-0.1040809,51.4358215,Point
+node,522097701,Deejay Chemist,healthcare_pharmacies,-0.1065133,51.440867,Point
+node,529096634,Pharmocare,healthcare_pharmacies,-0.0688347,51.5960375,Point
+node,529116474,Pharmocare,healthcare_pharmacies,-0.070065,51.5921911,Point
+node,534648599,Superdrug,healthcare_pharmacies,-0.1877341,51.5144072,Point
+node,537958816,,healthcare_pharmacies,-0.1742552,51.650166,Point
+node,539940765,Brunel Pharmacy,healthcare_pharmacies,-0.4739992,51.5332346,Point
+node,544506127,Boots,healthcare_pharmacies,-0.1205142,51.5172243,Point
+node,547540220,Tyerest Limited,healthcare_pharmacies,-0.2989325,51.5867181,Point
+node,548866034,Paster Pharmacy,healthcare_pharmacies,-0.2946133,51.5709459,Point
+node,552439324,Bramley Pharmacy,healthcare_pharmacies,-0.313744,51.4984358,Point
+node,552914583,Gate Pharmacy,healthcare_pharmacies,-0.2265854,51.5004981,Point
+node,558807170,C&M Whitman Vantage Dispensing Chemist,healthcare_pharmacies,-0.1349239,51.646769,Point
+node,567598081,Caxton Pharmacy,healthcare_pharmacies,0.0157475,51.4060916,Point
+node,567598082,Touchwood Pharmacy,healthcare_pharmacies,0.0169559,51.4147288,Point
+node,568544257,Boots,healthcare_pharmacies,-0.1247134,51.5083417,Point
+node,571107490,Boots,healthcare_pharmacies,-0.1084165,51.5179712,Point
+node,587754532,Boots,healthcare_pharmacies,-0.111892,51.5013276,Point
+node,587761015,Cam Pharmacy,healthcare_pharmacies,-0.1120584,51.4971959,Point
+node,587762018,Lambeth Pharmacy,healthcare_pharmacies,-0.1119058,51.4960122,Point
+node,598993107,A. Moore & Co.,healthcare_pharmacies,-0.1578301,51.4987028,Point
+node,603138296,Boots,healthcare_pharmacies,-0.1203585,51.5107361,Point
+node,610453825,Boots,healthcare_pharmacies,-0.2185442,51.5036303,Point
+node,622062081,Boots,healthcare_pharmacies,-0.089658,51.511254,Point
+node,622540665,The Pharmacy At Mayfair,healthcare_pharmacies,-0.1462232,51.5064321,Point
+node,630425252,Pestle & Mortar Pharmacy,healthcare_pharmacies,-0.2354576,51.5065822,Point
+node,631447412,York Pharmacy,healthcare_pharmacies,-0.1282957,51.5486669,Point
+node,634139667,,healthcare_pharmacies,0.2679101,51.5686159,Point
+node,647045756,Boots,healthcare_pharmacies,-0.1269642,51.5326329,Point
+node,650047419,New Cross Pharmacy,healthcare_pharmacies,-0.0318955,51.4770789,Point
+node,658958392,ABC Pharmacy,healthcare_pharmacies,-0.0749772,51.5536682,Point
+node,663887419,Day Lewis Pharmacy,healthcare_pharmacies,-0.0765894,51.3983737,Point
+node,669946806,Stratwicks,healthcare_pharmacies,-0.3537379,51.5645793,Point
+node,671545188,Crofton Pharmacy,healthcare_pharmacies,0.079487,51.3792057,Point
+node,677228903,Boots,healthcare_pharmacies,-0.3549808,51.5633055,Point
+node,678216491,Pyramid Pharmacy,healthcare_pharmacies,-0.2859617,51.4773211,Point
+node,679967795,Boots,healthcare_pharmacies,-0.1304051,51.6333095,Point
+node,684416613,,healthcare_pharmacies,-0.0212825,51.4668311,Point
+node,693728451,Chislehurst Pharmacy,healthcare_pharmacies,0.055768,51.4076227,Point
+node,704398430,Holmes Pharmacy,healthcare_pharmacies,-0.1205948,51.3071717,Point
+node,706611746,Ashburton Pharmacy,healthcare_pharmacies,-0.2296102,51.4549994,Point
+node,731088258,Baywood Chemist,healthcare_pharmacies,-0.2008807,51.514099,Point
+node,763574317,,healthcare_pharmacies,0.0947021,51.4563241,Point
+node,769140148,Akshar Pharmacies,healthcare_pharmacies,-0.2065875,51.5608771,Point
+node,789483038,Vitellow Pharmacy,healthcare_pharmacies,-0.1140656,51.4805771,Point
+node,823148725,Hayward Pharmacy,healthcare_pharmacies,-0.1475048,51.5776648,Point
+node,831257493,Pharmacyrepublic,healthcare_pharmacies,-0.1623904,51.5537419,Point
+node,842298292,Amadi Pharmacy,healthcare_pharmacies,-0.0761401,51.497949,Point
+node,885336956,Boots,healthcare_pharmacies,-0.0837128,51.6511209,Point
+node,885370810,Healthfare,healthcare_pharmacies,-0.0783565,51.6522191,Point
+node,886750304,Mayor's,healthcare_pharmacies,0.032609,51.6071114,Point
+node,892728794,Rowlands Pharmacy,healthcare_pharmacies,-0.09532,51.5704773,Point
+node,914971675,Clockwork Pharmacy,healthcare_pharmacies,-0.2517444,51.5598726,Point
+node,924044491,Rosendale Pharmacy,healthcare_pharmacies,-0.0947656,51.4372066,Point
+node,1024136513,Beena Pharmacy,healthcare_pharmacies,-0.1245846,51.5779721,Point
+node,1044921869,Boots,healthcare_pharmacies,-0.2994517,51.3640066,Point
+node,1098161985,Superdrug,healthcare_pharmacies,-0.3033209,51.5125075,Point
+node,1099279160,Boots,healthcare_pharmacies,-0.1268577,51.3795251,Point
+node,1112173655,Day Lewis Pharmacy,healthcare_pharmacies,-0.1562871,51.4653649,Point
+node,1112220336,Queen's,healthcare_pharmacies,-0.1503938,51.4668334,Point
+node,1112453783,Boots,healthcare_pharmacies,-0.1769988,51.4135732,Point
+node,1115048720,Rohpharm Pharmacy,healthcare_pharmacies,0.0679779,51.5619413,Point
+node,1116225090,Seymour Pharmacy,healthcare_pharmacies,-0.1636383,51.5191279,Point
+node,1117582983,iCare Pharmacy,healthcare_pharmacies,-0.2906786,51.516892,Point
+node,1121437330,South Ealing Pharmacy,healthcare_pharmacies,-0.3057517,51.4972883,Point
+node,1128904397,Sutton Pharmacy,healthcare_pharmacies,-0.1810289,51.3658048,Point
+node,1129190016,Boots,healthcare_pharmacies,-0.1933212,51.3633272,Point
+node,1132744427,Boots,healthcare_pharmacies,-0.1493001,51.3583419,Point
+node,1139264812,Skot,healthcare_pharmacies,-0.0659393,51.6227794,Point
+node,1151269545,Lamis,healthcare_pharmacies,-0.0808119,51.6369876,Point
+node,1232463232,Q Pharmacy,healthcare_pharmacies,-0.2865081,51.4773737,Point
+node,1246316670,Griffiths Pharmacy,healthcare_pharmacies,-0.2380906,51.3948753,Point
+node,1266644278,Superdrug,healthcare_pharmacies,-0.0968941,51.5765681,Point
+node,1312678756,GOR Pharmacy,healthcare_pharmacies,-0.3815594,51.5916748,Point
+node,1314262932,Parkview Pharmacy,healthcare_pharmacies,-0.1289402,51.649055,Point
+node,1319513720,Boots,healthcare_pharmacies,-0.3989237,51.5781947,Point
+node,1320961212,ProCare Pharmacy,healthcare_pharmacies,-0.317918,51.6008932,Point
+node,1321888877,Osbon Pharmacy,healthcare_pharmacies,6.45e-05,51.5416494,Point
+node,1321939435,Boots,healthcare_pharmacies,-0.0009642,51.5416185,Point
+node,1334044904,Boots,healthcare_pharmacies,-0.1406068,51.4972658,Point
+node,1337494633,Plashet Pharmacy,healthcare_pharmacies,0.0421737,51.5384599,Point
+node,1342133409,Day Lewis Pharmacy,healthcare_pharmacies,-0.0723723,51.572437,Point
+node,1360505693,Bliss Pharmacy,healthcare_pharmacies,-0.1819767,51.4937648,Point
+node,1368217299,Jhoots Pharmacy,healthcare_pharmacies,-0.1841298,51.4807472,Point
+node,1400944871,Bees Pharmacy,healthcare_pharmacies,-0.0391319,51.5558145,Point
+node,1417628228,Tesco Pharmacy,healthcare_pharmacies,-0.0103611,51.5267217,Point
+node,1419213121,Savers,healthcare_pharmacies,-0.3063915,51.5128026,Point
+node,1434108781,Health Village,healthcare_pharmacies,-0.2257144,51.5723567,Point
+node,1439013284,Sinclairs Pharmacy,healthcare_pharmacies,-0.0397472,51.5177433,Point
+node,1439203779,Medico Pharmacy,healthcare_pharmacies,-0.3951797,51.4757093,Point
+node,1482514789,Fairoak Pharmacy,healthcare_pharmacies,-0.1469508,51.4197251,Point
+node,1488367026,,healthcare_pharmacies,0.1471541,51.5626942,Point
+node,1489149910,John Bell & Croyden,healthcare_pharmacies,-0.1490397,51.5164535,Point
+node,1489521447,First Care Pharmacy,healthcare_pharmacies,0.090046,51.4988495,Point
+node,1490044829,Boots,healthcare_pharmacies,-0.3363829,51.5807358,Point
+node,1494347956,S&A Pharmacy,healthcare_pharmacies,-0.3538649,51.5641802,Point
+node,1494854474,Superdrug,healthcare_pharmacies,-0.3331603,51.5817571,Point
+node,1558002615,Britannia Pharmacy,healthcare_pharmacies,-0.0097939,51.5089138,Point
+node,1571201518,W10 Coffee,healthcare_pharmacies,-0.2067282,51.5262527,Point
+node,1573783200,,healthcare_pharmacies,-0.0269898,51.5943169,Point
+node,1577450772,Vicarage Pharmacy,healthcare_pharmacies,0.0099023,51.5416928,Point
+node,1579098060,,healthcare_pharmacies,0.026359,51.5431024,Point
+node,1591503154,H Lloyd Chemist,healthcare_pharmacies,-0.2068679,51.4964602,Point
+node,1596164100,,healthcare_pharmacies,-0.2787048,51.597623,Point
+node,1598304278,Prima Pharmacy,healthcare_pharmacies,-0.2148313,51.6471238,Point
+node,1604667586,,healthcare_pharmacies,-0.0249231,51.4570488,Point
+node,1634404181,Boots,healthcare_pharmacies,-0.201589,51.6553018,Point
+node,1639069646,Kamsons Pharmacy,healthcare_pharmacies,-0.1682955,51.3729739,Point
+node,1639176122,Medipharmacy,healthcare_pharmacies,-0.0943446,51.3482127,Point
+node,1647820421,Mangal Pharmacy,healthcare_pharmacies,0.0059396,51.5006617,Point
+node,1656042388,,healthcare_pharmacies,-0.138497,51.5342277,Point
+node,1661079911,Beeches Pharmacy,healthcare_pharmacies,-0.1700938,51.3569313,Point
+node,1667381017,Boots,healthcare_pharmacies,-0.1942103,51.480676,Point
+node,1673180360,Kanset Pharmacy,healthcare_pharmacies,-0.320392,51.4363818,Point
+node,1675538109,Coopers,healthcare_pharmacies,-0.1920728,51.3602013,Point
+node,1675557755,Kamsons,healthcare_pharmacies,-0.1940774,51.3601516,Point
+node,1681995517,Superdrug,healthcare_pharmacies,-0.1890222,51.3834775,Point
+node,1681995528,MPS Pharmacy,healthcare_pharmacies,-0.1899771,51.3837093,Point
+node,1686126287,Rose Hill Pharmacy,healthcare_pharmacies,-0.1888454,51.3833979,Point
+node,1686464487,Queens Road Pharmacy,healthcare_pharmacies,-0.047161,51.4742473,Point
+node,1704660047,Boots,healthcare_pharmacies,-0.2201265,51.4846711,Point
+node,1706048234,Boots,healthcare_pharmacies,-0.0596648,51.5268686,Point
+node,1708649069,Britannia Pharmacy,healthcare_pharmacies,-0.0123427,51.4940774,Point
+node,1708663866,Allen's Pharmacy,healthcare_pharmacies,-0.0107737,51.4983172,Point
+node,1719496527,Dunn's Pharmacy,healthcare_pharmacies,-0.4111544,51.4794516,Point
+node,1735723896,Pepys Pharmacy,healthcare_pharmacies,-0.0350075,51.4895778,Point
+node,1777152386,Crescent Pharmacy,healthcare_pharmacies,0.2125002,51.5950583,Point
+node,1782744955,Day Lewis Pharmacy,healthcare_pharmacies,-0.1914705,51.4728406,Point
+node,1843926112,Kembers & Lawrence,healthcare_pharmacies,-0.0934079,51.474712,Point
+node,1852974639,Hermans Pharmacy,healthcare_pharmacies,-0.2557265,51.4010331,Point
+node,1870777170,Vantage Pharmacy Whinchat Chemist,healthcare_pharmacies,0.0828112,51.4940084,Point
+node,1888837667,Osbon Pharmacy,healthcare_pharmacies,-0.0963069,51.3743715,Point
+node,1933542608,Rowlands Pharmacy,healthcare_pharmacies,0.087981,51.3606821,Point
+node,1936861949,The Cadge Pharmacy,healthcare_pharmacies,-0.0782644,51.5891796,Point
+node,1944485009,Superdrug,healthcare_pharmacies,-0.1630371,51.4064144,Point
+node,1944488299,Boots,healthcare_pharmacies,-0.1632785,51.4063509,Point
+node,1949488540,Daniel's Pharmacy,healthcare_pharmacies,0.0260385,51.5930169,Point
+node,1956319555,Boots,healthcare_pharmacies,-0.1370964,51.4623608,Point
+node,1958598643,Northcote Pharmacy,healthcare_pharmacies,-0.1653077,51.4558863,Point
+node,1960543213,Sparkes Pharmacy,healthcare_pharmacies,-0.0335513,51.4388364,Point
+node,1960543222,Woolstone Pharmacy,healthcare_pharmacies,-0.0333577,51.4389029,Point
+node,1964534584,Boots,healthcare_pharmacies,0.0245484,51.5939202,Point
+node,1973954902,Earlsfield Pharmacy,healthcare_pharmacies,-0.1865739,51.4387844,Point
+node,1975218562,Allens Pharmacy,healthcare_pharmacies,0.0233386,51.5949798,Point
+node,1979172157,Boots,healthcare_pharmacies,-0.1931012,51.500803,Point
+node,1985566353,Ocean Pharmacy,healthcare_pharmacies,0.0226436,51.5934951,Point
+node,1991714330,Dumlers Pharmacy,healthcare_pharmacies,-0.1870536,51.4395196,Point
+node,1993188860,,healthcare_pharmacies,-0.2792582,51.5847566,Point
+node,2003960128,Portmans Pharmacy,healthcare_pharmacies,-0.0920161,51.5218848,Point
+node,2006369042,Apex Pharmacy,healthcare_pharmacies,-0.0901344,51.5256432,Point
+node,2033228940,Lords Pharmacy,healthcare_pharmacies,-0.2001354,51.4148931,Point
+node,2048713448,Burns Chemist,healthcare_pharmacies,0.0063667,51.5568957,Point
+node,2048918709,Tesco Pharmacy,healthcare_pharmacies,0.0137496,51.571413,Point
+node,2055183449,Borno,healthcare_pharmacies,-0.0562641,51.531063,Point
+node,2067510143,Morrisons Pharmacy,healthcare_pharmacies,-0.068538,51.4731654,Point
+node,2075405379,Clarks Healthcare,healthcare_pharmacies,-0.0611599,51.5373047,Point
+node,2104693482,Hayward Pharmacy,healthcare_pharmacies,-0.070442,51.6416604,Point
+node,2124563988,Bentley's Chemist,healthcare_pharmacies,-0.0376337,51.4545358,Point
+node,2129514740,Fencepiece Pharmacy,healthcare_pharmacies,0.0839955,51.6019962,Point
+node,2133541035,Eden Pharmacy Ltd,healthcare_pharmacies,0.1104457,51.5633536,Point
+node,2143339464,Churchfield Pharmacy,healthcare_pharmacies,0.0204091,51.5988724,Point
+node,2207345844,R Walji Chemist,healthcare_pharmacies,-0.2504934,51.4632714,Point
+node,2261220861,Waterman Pharmacy,healthcare_pharmacies,-0.030652,51.5887474,Point
+node,2290169590,Boots,healthcare_pharmacies,-0.04656,51.494974,Point
+node,2290169594,Superdrug,healthcare_pharmacies,-0.0471675,51.4957253,Point
+node,2298045171,Chigwell Pharmacy,healthcare_pharmacies,0.083817,51.605389,Point
+node,2299513523,Well Pharmacy,healthcare_pharmacies,0.035427,51.6076129,Point
+node,2316437971,Boots,healthcare_pharmacies,-0.3391076,51.5422647,Point
+node,2320400194,,healthcare_pharmacies,-0.1051959,51.4228815,Point
+node,2320400216,Klub Pharmacy,healthcare_pharmacies,-0.1057216,51.4222744,Point
+node,2326121689,Britannia Pharmacy,healthcare_pharmacies,0.0833183,51.5754636,Point
+node,2333408412,Green Light Pharmacy & Travel Clinic,healthcare_pharmacies,-0.099434,51.5819538,Point
+node,2333408465,Stearns Pharmacy,healthcare_pharmacies,-0.1000283,51.5832036,Point
+node,2356266578,Pharmaram,healthcare_pharmacies,0.0973238,51.563609,Point
+node,2356284256,Munro,healthcare_pharmacies,0.0666989,51.5769483,Point
+node,2356975545,Riddlesdown Pharmacy,healthcare_pharmacies,-0.0989183,51.3333002,Point
+node,2375118835,Rose Pharmacy,healthcare_pharmacies,-0.0208154,51.4808338,Point
+node,2376007893,Kings Pharmacy,healthcare_pharmacies,-0.3010454,51.6065385,Point
+node,2385567050,Hamletts Pharmacy,healthcare_pharmacies,0.0549821,51.6062497,Point
+node,2389890388,Superdrug,healthcare_pharmacies,-0.0858098,51.514388,Point
+node,2403927483,Langthorne Pharmacy,healthcare_pharmacies,0.0022077,51.5553975,Point
+node,2406756167,Andres Pharmacy,healthcare_pharmacies,-0.2948683,51.5723187,Point
+node,2406756195,Rushtons Pharmacy,healthcare_pharmacies,-0.2948318,51.5726804,Point
+node,2414012812,Dolphins Pharmacy,healthcare_pharmacies,-0.1337252,51.4988765,Point
+node,2420135821,Touchwood Pharmacy,healthcare_pharmacies,-0.0557483,51.4267231,Point
+node,2420135830,Perfucare Pharmacy,healthcare_pharmacies,-0.0600372,51.4311999,Point
+node,2431351160,Rocky's,healthcare_pharmacies,-0.0852169,51.616696,Point
+node,2431631708,Forward Pharmacy,healthcare_pharmacies,-0.030186,51.5259288,Point
+node,2445340512,VMS Pharmacy,healthcare_pharmacies,-0.0537086,51.6337319,Point
+node,2451320976,Konnexions,healthcare_pharmacies,-0.0512169,51.636044,Point
+node,2451336671,Virens Chemist,healthcare_pharmacies,-0.0480497,51.6388272,Point
+node,2453738951,Wise Pharmacy,healthcare_pharmacies,-0.0653038,51.6113959,Point
+node,2462839834,Dickinsons Chemist,healthcare_pharmacies,0.0593814,51.4577195,Point
+node,2483622494,Well Pharmacy,healthcare_pharmacies,0.051969,51.4500669,Point
+node,2488897247,Boots,healthcare_pharmacies,-0.0629392,51.5876489,Point
+node,2493702491,Doorstep Pharmacy - Travel Health Clinic,healthcare_pharmacies,-0.3399816,51.5695687,Point
+node,2493885344,Keencare Pharmacy & Travel Clinic,healthcare_pharmacies,-0.3353992,51.5801851,Point
+node,2503401930,Nuchem Pharmacy,healthcare_pharmacies,-0.1141599,51.5700504,Point
+node,2510308561,Hillrise Pharmacy,healthcare_pharmacies,-0.1241691,51.4484659,Point
+node,2519299710,Shivas Pharmacy,healthcare_pharmacies,-0.1078693,51.3835595,Point
+node,2521560430,Lewis Grove,healthcare_pharmacies,-0.0091964,51.4622366,Point
+node,2530762349,Rose Pharmacy,healthcare_pharmacies,-0.10341,51.5451195,Point
+node,2536635239,Boots,healthcare_pharmacies,-0.1236492,51.5096681,Point
+node,2581381823,,healthcare_pharmacies,-0.3612221,51.5582918,Point
+node,2610004555,Superdrug,healthcare_pharmacies,-0.3544037,51.5637485,Point
+node,2626128081,Kings Pharmacy,healthcare_pharmacies,-0.1445106,51.5289325,Point
+node,2627120346,Superdrug,healthcare_pharmacies,-0.1934286,51.3643886,Point
+node,2645677293,Barrons Pharmacy,healthcare_pharmacies,-0.1711091,51.4249114,Point
+node,2645846875,Day Lewis Pharmacy,healthcare_pharmacies,-0.1560615,51.4302493,Point
+node,2666971560,Boots,healthcare_pharmacies,-0.2382284,51.4645132,Point
+node,2694538579,Terry's Pharmacy,healthcare_pharmacies,-0.3197715,51.5140219,Point
+node,2715385282,Crofton Park Pharmacy,healthcare_pharmacies,-0.0380662,51.4532996,Point
+node,2727229944,Millennium Pharmacy,healthcare_pharmacies,-0.112336,51.4782891,Point
+node,2778355794,Chel Pharmacy,healthcare_pharmacies,-0.1436503,51.5217697,Point
+node,2780614557,Clockwork Pharmacy,healthcare_pharmacies,-0.0549677,51.5490577,Point
+node,2835821903,HealthChem,healthcare_pharmacies,-0.168649,51.476664,Point
+node,2838260409,The Health Pharmacy,healthcare_pharmacies,-0.3079259,51.5709706,Point
+node,2865555324,Sonigra Pharmacy,healthcare_pharmacies,-0.05375,51.540006,Point
+node,2905520678,Camden Pharmacy,healthcare_pharmacies,-0.1517504,51.5466906,Point
+node,2941264667,Day Lewis Pharmacy,healthcare_pharmacies,-0.0661121,51.4741089,Point
+node,2942586702,Boots,healthcare_pharmacies,-0.0173893,51.504789,Point
+node,2994546901,Gateway Chemist,healthcare_pharmacies,-0.1947808,51.6002606,Point
+node,3005231408,,healthcare_pharmacies,-0.2884691,51.4134995,Point
+node,3043305153,Plough Green Pharmacy,healthcare_pharmacies,-0.2521905,51.3852771,Point
+node,3115604814,Goys the Chemist,healthcare_pharmacies,-0.166396,51.459916,Point
+node,3179049015,Superdrug,healthcare_pharmacies,-0.3396586,51.5418682,Point
+node,3194380038,Green Light Pharmacy,healthcare_pharmacies,-0.0149529,51.5238436,Point
+node,3202931473,Clockwork Pharmacy,healthcare_pharmacies,-0.1235824,51.6070903,Point
+node,3202935072,Warwick Pharmacy,healthcare_pharmacies,-0.124599,51.6071744,Point
+node,3209284527,Boots,healthcare_pharmacies,-0.0575978,51.6535353,Point
+node,3235416003,the pharmacy,healthcare_pharmacies,-0.1058549,51.5079933,Point
+node,3237045517,Wandsworth Pharmacy,healthcare_pharmacies,-0.1918413,51.4535593,Point
+node,3257205545,NHS Pharmacy,healthcare_pharmacies,-0.4579026,51.5046308,Point
+node,3259057403,Boots,healthcare_pharmacies,-0.4741394,51.5091209,Point
+node,3286895561,Star Pharmacy,healthcare_pharmacies,-0.1336515,51.4969822,Point
+node,3315606197,Day Lewis Pharmacy,healthcare_pharmacies,-0.1536752,51.474212,Point
+node,3321388574,Silverfields Pharmacy,healthcare_pharmacies,-0.0345249,51.5516345,Point
+node,3338322645,East Hill Pharmacy,healthcare_pharmacies,-0.1843974,51.4576184,Point
+node,3338472782,Boots,healthcare_pharmacies,-0.3050222,51.4097835,Point
+node,3339599844,Chana Chemist,healthcare_pharmacies,-0.3737813,51.5111573,Point
+node,3357569168,Evergreen Pharmacy,healthcare_pharmacies,-0.1329262,51.5295127,Point
+node,3357923649,Alnoor Pharmacy,healthcare_pharmacies,-0.1665962,51.4983135,Point
+node,3357928612,Hayatt Pharmacy,healthcare_pharmacies,-0.1662436,51.4980855,Point
+node,3373963772,Krystal Pharmacy,healthcare_pharmacies,-0.1659303,51.4721478,Point
+node,3375577908,Barkers (Chemist),healthcare_pharmacies,-0.1705855,51.4684079,Point
+node,3411916393,Mintons Chemist,healthcare_pharmacies,-0.103986,51.590759,Point
+node,3493329518,Audley Pharmacy,healthcare_pharmacies,-0.1517202,51.5097739,Point
+node,3500738343,Jennings Chemist,healthcare_pharmacies,-0.1664224,51.4720255,Point
+node,3531929129,Dajani Pharmacy,healthcare_pharmacies,-0.1503217,51.5189109,Point
+node,3547729293,Superdrug,healthcare_pharmacies,-0.2480227,51.5362266,Point
+node,3560506693,Sumer Pharmacy,healthcare_pharmacies,-0.1939694,51.5227285,Point
+node,3568654022,Boots,healthcare_pharmacies,-0.1155565,51.3386906,Point
+node,3574808277,Bow Pharmacy,healthcare_pharmacies,-0.0175848,51.5273541,Point
+node,3624932562,Bayswater Pharmacy,healthcare_pharmacies,-0.1881945,51.5169711,Point
+node,3624951696,Kings Pharmacy,healthcare_pharmacies,-0.1636989,51.5157809,Point
+node,3627822189,Dr Evans Pharmacy,healthcare_pharmacies,-0.2051494,51.5148904,Point
+node,3632716124,Chauhan S Chemist,healthcare_pharmacies,-0.0977166,51.5228033,Point
+node,3641295559,Remedy's Pharmacy,healthcare_pharmacies,-0.1786373,51.5257621,Point
+node,3649720945,Dillons Chemist,healthcare_pharmacies,-0.2068848,51.5237458,Point
+node,3654393368,Day Lewis Pharmacy,healthcare_pharmacies,-0.1060545,51.4761036,Point
+node,3667291089,Hainault Station Pharmacy,healthcare_pharmacies,0.0950095,51.6042072,Point
+node,3701908381,Holmes Chemist,healthcare_pharmacies,-0.1805027,51.5318578,Point
+node,3701919585,Earls Court Chemist,healthcare_pharmacies,-0.1929808,51.4920204,Point
+node,3730599390,King's,healthcare_pharmacies,-0.1514937,51.5172813,Point
+node,3740760063,Berg's Pharmacy,healthcare_pharmacies,0.010648,51.5163713,Point
+node,3761489775,Mahesh Pharmacy,healthcare_pharmacies,-0.0868828,51.5501064,Point
+node,3761577307,Allen Pharmacy,healthcare_pharmacies,-0.0832863,51.5569508,Point
+node,3770582961,Lime Grove Pharmacy,healthcare_pharmacies,-0.2278924,51.5023023,Point
+node,3813864111,Maddock Pharmacy,healthcare_pharmacies,-0.1027573,51.482506,Point
+node,3816175747,Silversands Pharmacy,healthcare_pharmacies,0.112994,51.3858432,Point
+node,3837637802,Salus Pharmacy,healthcare_pharmacies,-0.0050986,51.5485641,Point
+node,3881014203,Gokul Chemist,healthcare_pharmacies,0.0153549,51.4432522,Point
+node,3891083150,Sheel,healthcare_pharmacies,-0.0138087,51.4572094,Point
+node,3950944486,Day Lewis Pharmacy,healthcare_pharmacies,-0.3300477,51.4452255,Point
+node,3998308785,Payden's Pharmacy,healthcare_pharmacies,0.0828025,51.4503313,Point
+node,4085693316,Tower Pharmacy,healthcare_pharmacies,-0.0582737,51.5054103,Point
+node,4091993537,Chana Chemist,healthcare_pharmacies,-0.2357537,51.5427381,Point
+node,4100744003,Maylands Pharmacy,healthcare_pharmacies,0.1907601,51.5529219,Point
+node,4109328190,Boots,healthcare_pharmacies,-0.1926222,51.4917719,Point
+node,4209003544,Boots,healthcare_pharmacies,-0.198441,51.5726724,Point
+node,4210776237,Boots,healthcare_pharmacies,-0.1822912,51.4853159,Point
+node,4247345623,Ali's,healthcare_pharmacies,-0.0563973,51.5111975,Point
+node,4255448795,MedipharmacyGroup,healthcare_pharmacies,-0.1104806,51.4842406,Point
+node,4258606483,Pearcare Pharmacy,healthcare_pharmacies,-0.2832245,51.3898257,Point
+node,4265660920,Flora Fountain Pharmacy,healthcare_pharmacies,-0.4770149,51.5448615,Point
+node,4313691213,Wanstead Pharmacy,healthcare_pharmacies,0.0262001,51.5782595,Point
+node,4317768028,Osbon Pharmacy,healthcare_pharmacies,0.1257116,51.4359829,Point
+node,4329814912,,healthcare_pharmacies,-0.1977544,51.4730091,Point
+node,4346355400,Pulse Pharmacy,healthcare_pharmacies,-0.1245711,51.4707451,Point
+node,4355676006,Day Lewis Pharmacy,healthcare_pharmacies,-0.0630145,51.5186184,Point
+node,4357834269,Orbis Pharmacy,healthcare_pharmacies,-0.1359645,51.4626804,Point
+node,4362067199,,healthcare_pharmacies,-0.0981722,51.5535217,Point
+node,4381516862,Regent Pharmacy,healthcare_pharmacies,-0.222596,51.6092141,Point
+node,4452156090,Britannia Pharmacy,healthcare_pharmacies,0.0984887,51.5388784,Point
+node,4452546221,Greenwoods,healthcare_pharmacies,-0.1095414,51.5964313,Point
+node,4459176648,Andrews Pharmacy,healthcare_pharmacies,-0.1578106,51.4934518,Point
+node,4465343614,Pharmacia Naturale,healthcare_pharmacies,-0.1269766,51.5823173,Point
+node,4480970512,Robards Pharmacy,healthcare_pharmacies,-0.1631492,51.4608362,Point
+node,4492036690,Boots,healthcare_pharmacies,-0.0719334,51.573502,Point
+node,4527219249,Boots,healthcare_pharmacies,-0.4433149,51.4708993,Point
+node,4532005548,Wagpharm Chemist,healthcare_pharmacies,0.0063425,51.5329644,Point
+node,4538753906,North London Health Centre,healthcare_pharmacies,-0.09208,51.5380457,Point
+node,4546974482,Boots,healthcare_pharmacies,0.0528425,51.5356909,Point
+node,4558839859,Boots,healthcare_pharmacies,-0.0143036,51.5120145,Point
+node,4558839860,Boots,healthcare_pharmacies,-0.0176838,51.5029335,Point
+node,4566929650,Boots,healthcare_pharmacies,-0.1944123,51.4558402,Point
+node,4596888421,Amal Pharmacy,healthcare_pharmacies,0.0134073,51.4948815,Point
+node,4605030137,Cartwrights Pharmacy,healthcare_pharmacies,0.0059764,51.5471073,Point
+node,4606523432,Yemi Pharmacy,healthcare_pharmacies,0.0047076,51.5453789,Point
+node,4625394638,Pharmacy,healthcare_pharmacies,-0.101076,51.4031427,Point
+node,4625394646,,healthcare_pharmacies,-0.0999975,51.4038739,Point
+node,4632987913,Tesco Pharmacy,healthcare_pharmacies,-0.0762959,51.4887605,Point
+node,4646110662,Boss Pharmacy,healthcare_pharmacies,-0.1289834,51.4619267,Point
+node,4654216376,Boots,healthcare_pharmacies,0.1055558,51.608296,Point
+node,4658226954,Fairdale Pharmacy,healthcare_pharmacies,-0.0623615,51.5265858,Point
+node,4681022538,Boots,healthcare_pharmacies,0.0715563,51.5587083,Point
+node,4681022571,Maplestead Pharmacy,healthcare_pharmacies,0.110781,51.5348912,Point
+node,4681022572,Boots,healthcare_pharmacies,0.074461,51.5593428,Point
+node,4681538885,Boots,healthcare_pharmacies,-0.0239598,51.5828354,Point
+node,4681575451,Boots,healthcare_pharmacies,-0.3837841,51.5947507,Point
+node,4682088113,Boots,healthcare_pharmacies,-0.0564964,51.6261763,Point
+node,4682088115,Boots,healthcare_pharmacies,-0.1086421,51.6181598,Point
+node,4699403079,Dexpharm,healthcare_pharmacies,-0.1491213,51.4415629,Point
+node,4701327847,Boots,healthcare_pharmacies,-0.17602,51.5160796,Point
+node,4706545173,Jade Pharmacy,healthcare_pharmacies,-0.3716614,51.5726628,Point
+node,4730679169,Manor Park Pharmacy,healthcare_pharmacies,0.0469295,51.550649,Point
+node,4812296524,The Nelson Pharmacy,healthcare_pharmacies,-0.2085783,51.410726,Point
+node,4829130733,Silverfields Pharmacy,healthcare_pharmacies,-0.0410826,51.5488229,Point
+node,4983687342,Boots,healthcare_pharmacies,-0.1425056,51.5385065,Point
+node,4983687343,Boots,healthcare_pharmacies,-0.1653626,51.5505436,Point
+node,4983687344,Boots,healthcare_pharmacies,-0.1770848,51.5450648,Point
+node,4985586788,CW Medicines,healthcare_pharmacies,-0.1818557,51.4845109,Point
+node,4985897478,Boots,healthcare_pharmacies,-0.2220161,51.5085581,Point
+node,4985905262,Boots,healthcare_pharmacies,-0.2771768,51.5854016,Point
+node,4986844130,Boots,healthcare_pharmacies,-0.4192427,51.5062366,Point
+node,4986844132,Boots,healthcare_pharmacies,-0.4487403,51.5510518,Point
+node,4986844135,Boots,healthcare_pharmacies,-0.3810078,51.5608495,Point
+node,4986844136,Boots,healthcare_pharmacies,-0.4248284,51.6113462,Point
+node,4988400399,Boots,healthcare_pharmacies,-0.1459578,51.4944636,Point
+node,4993655679,Boots,healthcare_pharmacies,-0.2753663,51.6129287,Point
+node,4993655683,Boots,healthcare_pharmacies,-0.1765215,51.6161696,Point
+node,4994015348,Boots,healthcare_pharmacies,-0.3234737,51.5104252,Point
+node,4994302832,Boots,healthcare_pharmacies,0.1838429,51.5783783,Point
+node,4994302833,Boots,healthcare_pharmacies,0.1804376,51.5759427,Point
+node,4994302835,Boots,healthcare_pharmacies,0.2187516,51.6063761,Point
+node,4994302836,Boots,healthcare_pharmacies,0.234989,51.6050293,Point
+node,4994302837,Boots,healthcare_pharmacies,0.1634478,51.5999468,Point
+node,4994302839,Boots,healthcare_pharmacies,0.2197453,51.5545743,Point
+node,4994512277,Boots,healthcare_pharmacies,0.1490651,51.5407669,Point
+node,5017011703,Baban Pharmacy,healthcare_pharmacies,-0.129404,51.5292178,Point
+node,5028628186,Cootes Pharmacy,healthcare_pharmacies,-0.1891148,51.6042563,Point
+node,5114260213,Superdrug,healthcare_pharmacies,-0.0110278,51.4611942,Point
+node,5142787884,Elmcourt Pharmacy,healthcare_pharmacies,-0.1060699,51.4382708,Point
+node,5142968780,Superdrug,healthcare_pharmacies,-0.1037747,51.4350343,Point
+node,5155386137,Med-Chem Pharmacy,healthcare_pharmacies,-0.0986322,51.5776718,Point
+node,5163891959,Superdrug,healthcare_pharmacies,-0.3071907,51.3918752,Point
+node,5204316624,Cullimore Pharmacy,healthcare_pharmacies,-0.2684525,51.6263518,Point
+node,5255819505,Greens Pharmacy,healthcare_pharmacies,-0.1500397,51.4897398,Point
+node,5348987112,The Kingston Pharmacy,healthcare_pharmacies,-0.3040302,51.4014558,Point
+node,5377811700,Mim Pharmacy,healthcare_pharmacies,0.1774702,51.5814306,Point
+node,5383017333,Boots,healthcare_pharmacies,0.1828584,51.5771728,Point
+node,5486667446,McParland Pharmacy,healthcare_pharmacies,-0.2452306,51.5971564,Point
+node,5522292032,Baum Pharmacy,healthcare_pharmacies,-0.0025739,51.4589631,Point
+node,5532725389,Touchwood Pharmacy,healthcare_pharmacies,-0.3942814,51.5352734,Point
+node,5545623819,Widdicombe Pharmacy,healthcare_pharmacies,-0.0060689,51.4507417,Point
+node,5549072482,Lewisham Pharmacy,healthcare_pharmacies,0.0054329,51.4585913,Point
+node,5643562567,C. W. Andrew,healthcare_pharmacies,-0.1433545,51.5125199,Point
+node,5695229680,First Pharmacy,healthcare_pharmacies,-0.1497714,51.3583905,Point
+node,5695245431,Kamsons Pharmacy,healthcare_pharmacies,-0.1509948,51.3571109,Point
+node,5711221335,Chemcare,healthcare_pharmacies,0.0272047,51.4612375,Point
+node,5743739165,Cranston Pharmacy,healthcare_pharmacies,-0.1172526,51.399242,Point
+node,5743765715,Parade Pharmacy,healthcare_pharmacies,-0.1207678,51.3879985,Point
+node,5747483041,,healthcare_pharmacies,-0.0640657,51.3426263,Point
+node,5751547521,,healthcare_pharmacies,0.0361607,51.5228046,Point
+node,5752071469,Medipharm,healthcare_pharmacies,-0.0764724,51.333653,Point
+node,5752325168,Tesco Instore Pharmacy,healthcare_pharmacies,-0.11769,51.3366898,Point
+node,5753948292,Superdrug,healthcare_pharmacies,-0.1017675,51.374802,Point
+node,5753974672,Superdrug,healthcare_pharmacies,-0.1001941,51.3761598,Point
+node,5753974673,Boots,healthcare_pharmacies,-0.1007268,51.3770304,Point
+node,5759039074,Hobbs Pharmacy,healthcare_pharmacies,-0.1144999,51.340348,Point
+node,5759471092,Boots,healthcare_pharmacies,-0.1027976,51.376216,Point
+node,5762034692,Boots,healthcare_pharmacies,-0.2473062,51.614506,Point
+node,5775076672,Day Lewis Pharmacy,healthcare_pharmacies,-0.0626187,51.343299,Point
+node,5775169322,Fieldway Pharmacy,healthcare_pharmacies,-0.0206182,51.3557615,Point
+node,5775172200,Goldmantle Pharmacy,healthcare_pharmacies,-0.0385301,51.350878,Point
+node,5776769984,Tesco Pharmacy,healthcare_pharmacies,0.1222399,51.412622,Point
+node,5779352279,Safedale Pharmacy,healthcare_pharmacies,0.0059015,51.5520264,Point
+node,5784878101,Addiscombe Pharmacy,healthcare_pharmacies,-0.0692493,51.3822693,Point
+node,5793318141,Nelsons Homeopathic Pharmacy,healthcare_pharmacies,-0.1505401,51.512734,Point
+node,5796960068,Day Lewis Pharmacy,healthcare_pharmacies,-0.0835589,51.3473677,Point
+node,5808978084,RX Live,healthcare_pharmacies,-0.138807,51.358904,Point
+node,5812592686,Acheason Chemist,healthcare_pharmacies,0.0050598,51.5534092,Point
+node,5836325721,Tesco Pharmacy,healthcare_pharmacies,-0.2553312,51.5542437,Point
+node,5842529128,Superdrug,healthcare_pharmacies,-0.0508703,51.4262091,Point
+node,5842529179,Touchwood Pharmacy,healthcare_pharmacies,-0.0504079,51.4258709,Point
+node,5844458525,Old Coulsdon Pharmacy,healthcare_pharmacies,-0.1172335,51.3005699,Point
+node,5851378228,Allcorn Chemist,healthcare_pharmacies,-0.0927878,51.3817085,Point
+node,5851381106,Croychem Pharmacy,healthcare_pharmacies,-0.0876855,51.3804629,Point
+node,5890145794,Superdrug,healthcare_pharmacies,-0.0986042,51.3986363,Point
+node,5906641113,Valley Pharmacy,healthcare_pharmacies,-0.1499381,51.3188407,Point
+node,5915994938,Boots,healthcare_pharmacies,0.0247042,51.4888881,Point
+node,5935894079,Cheltenham Chemist,healthcare_pharmacies,-0.0409949,51.4582177,Point
+node,5937792476,Ashburton Pharmacy,healthcare_pharmacies,-0.2264064,51.4573534,Point
+node,5940261539,Foxley Lane Pharmacy,healthcare_pharmacies,-0.1241901,51.3412031,Point
+node,5956800862,Shirley Pharmacy,healthcare_pharmacies,-0.0595869,51.3763444,Point
+node,5958170396,Andrew McCoig Pharmacy,healthcare_pharmacies,-0.049968,51.37468,Point
+node,5959453011,Mona Pharmacy,healthcare_pharmacies,-0.0472385,51.3749229,Point
+node,5959929172,Greenchem Pharmacy,healthcare_pharmacies,-0.0301877,51.3697635,Point
+node,5966036006,Greenchem Dispensing Chemist,healthcare_pharmacies,-0.0519048,51.388373,Point
+node,5980616504,Prince Pharmacy,healthcare_pharmacies,-0.1572201,51.5024359,Point
+node,5999891647,Boots,healthcare_pharmacies,-0.0163139,51.3427146,Point
+node,5999891681,Aumex Pharmacy,healthcare_pharmacies,-0.0141647,51.3411196,Point
+node,6019790566,Fairlee Pharmacy,healthcare_pharmacies,-0.150434,51.4673181,Point
+node,6022819589,Asda,healthcare_pharmacies,-0.1305888,51.3767284,Point
+node,6032700650,Akasi Pharmacy,healthcare_pharmacies,-0.1326623,51.3998518,Point
+node,6032756512,Eagle Pharmacy,healthcare_pharmacies,-0.1364585,51.404139,Point
+node,6033019369,Fairlight Pharmacy,healthcare_pharmacies,-0.1405435,51.4107414,Point
+node,6047233649,C+H Chemist,healthcare_pharmacies,-0.0983969,51.5607135,Point
+node,6093309705,Salmina Pharmacy,healthcare_pharmacies,-0.1768824,51.3742993,Point
+node,6103830971,Eico Pharmacy,healthcare_pharmacies,-0.1452121,51.5548628,Point
+node,6119525979,Mansons Pharmacy,healthcare_pharmacies,0.0251783,51.5473362,Point
+node,6122424515,Kirkby Pharmacy,healthcare_pharmacies,-0.2004343,51.3439519,Point
+node,6129146651,Bees Chemist,healthcare_pharmacies,-0.0351597,51.5452642,Point
+node,6180238208,Boots,healthcare_pharmacies,-0.1426807,51.5203566,Point
+node,6219012586,Wigmore Medical,healthcare_pharmacies,-0.1473129,51.5165129,Point
+node,6232917591,sandy Pharmacy,healthcare_pharmacies,-0.1528095,51.5494459,Point
+node,6237208543,Boots,healthcare_pharmacies,-0.1939639,51.4026611,Point
+node,6251402595,Superdrug,healthcare_pharmacies,-0.1524252,51.4442417,Point
+node,6292147180,Madesil Pharmacy,healthcare_pharmacies,-0.1515691,51.5194506,Point
+node,6293406866,Ainsworth Homeopathic Pharmacy,healthcare_pharmacies,-0.1501714,51.5187299,Point
+node,6295568741,Walkers Pharmacy,healthcare_pharmacies,-0.1051936,51.6219967,Point
+node,6311490963,Region Choice Ltd,healthcare_pharmacies,-0.054536,51.5231371,Point
+node,6349362025,Zen pharmacy & clinic,healthcare_pharmacies,-0.1552951,51.5167595,Point
+node,6349590092,Osbon Pharmacy,healthcare_pharmacies,0.1148393,51.3939562,Point
+node,6361960671,Meacher Higgins and Thomas,healthcare_pharmacies,-0.160401,51.5195326,Point
+node,6371509902,Al Razi Pharmacy,healthcare_pharmacies,-0.1630777,51.5153461,Point
+node,6382045247,Osbon Pharmacy,healthcare_pharmacies,0.0975937,51.3738196,Point
+node,6382482166,Safeer Pharmacy,healthcare_pharmacies,-0.1669151,51.5179593,Point
+node,6391980791,Superdrug,healthcare_pharmacies,0.0999301,51.3763191,Point
+node,6394527617,Pyramid Pharmacy,healthcare_pharmacies,-0.1919709,51.4044168,Point
+node,6394527621,Hartland Chemist,healthcare_pharmacies,-0.1900273,51.3972549,Point
+node,6394527624,Day Lewis Pharmacy,healthcare_pharmacies,-0.1900219,51.3897487,Point
+node,6394527641,Rowlands Pharmacy,healthcare_pharmacies,-0.1862642,51.3977603,Point
+node,6418535966,Watts Pharmacy,healthcare_pharmacies,-0.1363243,51.4178519,Point
+node,6425259191,Anji's Pharmacy,healthcare_pharmacies,-0.0247472,51.5706518,Point
+node,6429327327,Boots,healthcare_pharmacies,-0.1162399,51.5029721,Point
+node,6430462030,MS Chemist,healthcare_pharmacies,-0.0204983,51.5720814,Point
+node,6431117742,Berkeley Court Pharmacy,healthcare_pharmacies,-0.158435,51.5228778,Point
+node,6433099554,Eldred Drive Pharmacy,healthcare_pharmacies,0.1164072,51.3743147,Point
+node,6459139899,Lord's Pharmacy,healthcare_pharmacies,-0.1678395,51.5297284,Point
+node,6479797943,Market Chemist,healthcare_pharmacies,-0.1710189,51.5227706,Point
+node,6483531059,Nettles Pharmacy,healthcare_pharmacies,-0.1608493,51.4352724,Point
+node,6484753150,Woods Chemist,healthcare_pharmacies,-0.1692902,51.5239567,Point
+node,6486059325,Asda,healthcare_pharmacies,-0.1948955,51.3671305,Point
+node,6486059337,Gaiger Chemists,healthcare_pharmacies,-0.194991,51.3688174,Point
+node,6496763525,Dales Pharmacy,healthcare_pharmacies,-0.1734042,51.5225258,Point
+node,6505643080,Boots,healthcare_pharmacies,-0.2296163,51.4096409,Point
+node,6530534909,Haria pharmacy,healthcare_pharmacies,-0.248641,51.4146812,Point
+node,6533037495,Sia Pharmacy,healthcare_pharmacies,-0.1089667,51.5890222,Point
+node,6535715134,Courtenay Chemists,healthcare_pharmacies,-0.1694292,51.5322927,Point
+node,6536308694,St Johns Wood Pharmacy,healthcare_pharmacies,-0.1710607,51.5339632,Point
+node,6561914334,Hilton Pharmacy,healthcare_pharmacies,-0.2227488,51.391895,Point
+node,6572593323,Pharmacy,healthcare_pharmacies,-0.1904726,51.6037616,Point
+node,6579578693,Old Maids Pharmacy,healthcare_pharmacies,-0.0639714,51.526659,Point
+node,6579578697,Florida Pharmacy,healthcare_pharmacies,-0.0645239,51.5266006,Point
+node,6582148013,Day Lewis Pharmacy,healthcare_pharmacies,-0.0871185,51.4098428,Point
+node,6601991364,Yiewsley Pharmacy,healthcare_pharmacies,-0.4725557,51.5119428,Point
+node,6631981211,Hodgetts Chemist,healthcare_pharmacies,-0.1845436,51.5376581,Point
+node,6645341516,Browns Chemist,healthcare_pharmacies,-0.1963215,51.5276335,Point
+node,6658157981,Vineyard Pharmacy,healthcare_pharmacies,-0.1858901,51.5301235,Point
+node,6677790908,Busby,healthcare_pharmacies,-0.2699369,51.4818278,Point
+node,6778729853,Prince Chemist,healthcare_pharmacies,-0.2019414,51.5245225,Point
+node,6780555598,Medicare Pharmacy,healthcare_pharmacies,-0.2053451,51.5262828,Point
+node,6797555090,Trident Pharmacy,healthcare_pharmacies,-0.2294932,51.4105566,Point
+node,6830736902,Benson Pharmacy,healthcare_pharmacies,-0.191767,51.5210005,Point
+node,6841519364,Curie Chemist,healthcare_pharmacies,-0.1766472,51.5242728,Point
+node,6859085199,Barkers,healthcare_pharmacies,-0.2323316,51.4095587,Point
+node,6872564426,Devonshire Pharmacy,healthcare_pharmacies,-0.1690845,51.5190935,Point
+node,6884120305,Apek Pharmacy,healthcare_pharmacies,-0.1727247,51.5170862,Point
+node,6929741497,Britannia Pharmacy,healthcare_pharmacies,0.1077921,51.5204575,Point
+node,6947977907,Blakeberry Pharmacy,healthcare_pharmacies,0.0561292,51.5270604,Point
+node,6951713163,Blakeberry Pharmacy,healthcare_pharmacies,0.0556707,51.5315756,Point
+node,6953676897,Carters Pharmacy,healthcare_pharmacies,-0.1773329,51.6133424,Point
+node,6985895369,M. Simmonds Pharmacy,healthcare_pharmacies,-0.1502498,51.5615973,Point
+node,6997108286,Moore's Pharmacy,healthcare_pharmacies,-0.1793575,51.5133858,Point
+node,7096440484,Peace Pharmacy,healthcare_pharmacies,-0.2922572,51.5624076,Point
+node,7126677037,Notting Hill Pharmacy,healthcare_pharmacies,-0.1970534,51.5094383,Point
+node,7155832037,Barkantine Pharmacy,healthcare_pharmacies,-0.0256863,51.4984115,Point
+node,7177934790,Boots,healthcare_pharmacies,-0.1244975,51.5131445,Point
+node,7188701062,Olins Pharmacy,healthcare_pharmacies,0.1020376,51.4444408,Point
+node,7204156265,Blenheim Pharmacy,healthcare_pharmacies,-0.2052022,51.5164094,Point
+node,7223623273,Haydons Pharmacy,healthcare_pharmacies,-0.1875347,51.4208176,Point
+node,7226764022,Chana Chemist,healthcare_pharmacies,-0.2095984,51.5170893,Point
+node,7242961371,Golborne Pharmacy,healthcare_pharmacies,-0.2094665,51.5213547,Point
+node,7245322202,Dr Care Pharmacy,healthcare_pharmacies,-0.2081082,51.5219714,Point
+node,7284743682,Sheel Pharmacy,healthcare_pharmacies,-0.0586944,51.4649003,Point
+node,7292221993,Shelly's Pharmacy,healthcare_pharmacies,-0.2259601,51.5199412,Point
+node,7298864472,Spivack Chemist,healthcare_pharmacies,-0.2106169,51.5180403,Point
+node,7393575124,Boots,healthcare_pharmacies,-0.0148598,51.3764741,Point
+node,7393575125,West Chem Pharmacy,healthcare_pharmacies,-0.0143491,51.3765738,Point
+node,7393575126,Coney Hall Pharmacy,healthcare_pharmacies,0.0014091,51.3693128,Point
+node,7485708347,Britannia Pharmacy,healthcare_pharmacies,0.0295393,51.5253103,Point
+node,7485708357,Daystar Pharmacy,healthcare_pharmacies,0.0246169,51.529532,Point
+node,7488408177,Shrewsbury Pharmacy & Clinic,healthcare_pharmacies,0.0438776,51.5388009,Point
+node,7494360858,Touchwood Pharmacy,healthcare_pharmacies,-0.3345043,51.5101518,Point
+node,7494953797,Asda Beckton Pharmacy,healthcare_pharmacies,0.0578292,51.5144938,Point
+node,7494972016,Asda,healthcare_pharmacies,0.1426161,51.5303544,Point
+node,7495012999,Asda,healthcare_pharmacies,-0.0596416,51.6226994,Point
+node,7495185380,Asda,healthcare_pharmacies,-0.0091306,51.5558599,Point
+node,7495200771,Asda,healthcare_pharmacies,-0.2698034,51.5283069,Point
+node,7495201011,Asda,healthcare_pharmacies,-0.0695872,51.4845565,Point
+node,7495204936,Asda,healthcare_pharmacies,-0.2603781,51.594072,Point
+node,7495207056,Asda,healthcare_pharmacies,0.0223567,51.4889507,Point
+node,7495221957,Asda,healthcare_pharmacies,-0.2455653,51.439328,Point
+node,7495359096,Asda,healthcare_pharmacies,-0.1315856,51.6342601,Point
+node,7495426963,Asda,healthcare_pharmacies,-0.2752644,51.5646262,Point
+node,7551853177,Rains Pharmacy,healthcare_pharmacies,-0.0012139,51.4528162,Point
+node,7595527715,Superdrug,healthcare_pharmacies,0.0523366,51.5356543,Point
+node,7599780587,Shan Pharmacy,healthcare_pharmacies,-0.2981653,51.3901347,Point
+node,7600728965,Boots,healthcare_pharmacies,-0.2555027,51.4003373,Point
+node,7619804085,Prince Pharmacy,healthcare_pharmacies,-0.1883221,51.502272,Point
+node,7688768324,,healthcare_pharmacies,-0.1951054,51.5001479,Point
+node,7698684413,The Pestle & Mortar,healthcare_pharmacies,-0.1968004,51.4995595,Point
+node,7702639716,Mattock Lane Pharmacy,healthcare_pharmacies,-0.3166769,51.5095404,Point
+node,7768143628,Oakdale Pharmacy,healthcare_pharmacies,-0.1644127,51.5900505,Point
+node,7768143633,Cootes Pharmacy,healthcare_pharmacies,-0.165539,51.5918585,Point
+node,7768143637,C W Andrews,healthcare_pharmacies,-0.1640265,51.5878343,Point
+node,7769775613,Vantage Pharmacy,healthcare_pharmacies,-0.1092684,51.6113154,Point
+node,7783803506,Royal Docks Pharmacy and Travel Clinic,healthcare_pharmacies,0.0298718,51.5012636,Point
+node,7788090437,Asda,healthcare_pharmacies,-0.3608054,51.4711055,Point
+node,7807407951,Ealing Pharmacy,healthcare_pharmacies,-0.3134049,51.5260349,Point
+node,7844463604,Medicine Chest,healthcare_pharmacies,-0.1780621,51.4826978,Point
+node,7872780135,The Olde Pharmacy,healthcare_pharmacies,-0.1820799,51.465826,Point
+node,7887985299,Numark Pharmacy,healthcare_pharmacies,-0.016703,51.6688804,Point
+node,7890922702,Victoria Pharmacy,healthcare_pharmacies,-0.1272582,51.494034,Point
+node,7899622725,Park Langley Pharmacy,healthcare_pharmacies,-0.0185129,51.399854,Point
+node,7997878283,Mestizo Mexican Market,healthcare_pharmacies,-0.1773342,51.4837695,Point
+node,8018029415,Boots,healthcare_pharmacies,-0.1646754,51.4988913,Point
+node,8028586293,Zen Pharmacy & Clinic,healthcare_pharmacies,-0.1654295,51.4977591,Point
+node,8043580173,Life Pharmacy,healthcare_pharmacies,-0.1675836,51.4973442,Point
+node,8104216008,Grosvenor Pharmacy,healthcare_pharmacies,-0.3286098,51.5094679,Point
+node,8105380980,Harbs Pharmacy,healthcare_pharmacies,-0.3054204,51.4974269,Point
+node,8119364625,Lords Pharmacy,healthcare_pharmacies,-0.2096196,51.4108701,Point
+node,8197041141,Newmans Pharmacy,healthcare_pharmacies,0.0222317,51.5220614,Point
+node,8260789365,Abbot Pharmacy,healthcare_pharmacies,-0.1478185,51.600083,Point
+node,8293437158,Clarks Pharmacy,healthcare_pharmacies,-0.3376479,51.475017,Point
+node,8301098176,Nash Chemist,healthcare_pharmacies,-0.0283164,51.5121111,Point
+node,8313260101,Jasins Pharmacy,healthcare_pharmacies,-0.3380081,51.4738039,Point
+node,8319106334,Boots,healthcare_pharmacies,-0.1652056,51.489056,Point
+node,8321524422,Chelsea Green Pharmacy,healthcare_pharmacies,-0.166143,51.4907875,Point
+node,8335332852,Boots,healthcare_pharmacies,-0.1603785,51.4914364,Point
+node,8376960645,Phillips Pharmacy,healthcare_pharmacies,-0.4723042,51.5126432,Point
+node,8436843660,Worlds End Pharmacy,healthcare_pharmacies,-0.1806749,51.4817463,Point
+node,8459955785,Smart Pharm Pharmacy,healthcare_pharmacies,-0.2328327,51.5319042,Point
+node,8462320758,Royal Arsenal Pharmacy,healthcare_pharmacies,0.0734459,51.4925243,Point
+node,8476126920,Day Lewis Pharmacy,healthcare_pharmacies,0.0108653,51.3774609,Point
+node,8495101135,Andreas Pharmacy,healthcare_pharmacies,-0.2948514,51.5724949,Point
+node,8499555898,Day Lewis Pharmacy,healthcare_pharmacies,0.0256409,51.5107245,Point
+node,8503833040,Chapharm Chemists,healthcare_pharmacies,0.0318461,51.514314,Point
+node,8506034775,Marcus Jones Pharmacy,healthcare_pharmacies,-0.2490533,51.5150265,Point
+node,8512508086,Westway Pharmacy,healthcare_pharmacies,-0.2482008,51.5141199,Point
+node,8560153817,Morrisons Pharmacy,healthcare_pharmacies,-0.0214099,51.6075349,Point
+node,8581398054,Hamlins Pharmacy,healthcare_pharmacies,-0.2345627,51.5112658,Point
+node,8590215417,Beautychem Pharmacy,healthcare_pharmacies,-0.0865804,51.6048838,Point
+node,8603376287,Jays Pharmacy,healthcare_pharmacies,-0.2390341,51.5065968,Point
+node,8603717566,Aukland Rogers Pharmacy,healthcare_pharmacies,-0.1723519,51.4294407,Point
+node,8620475294,Pestle & Mortar Pharmacy,healthcare_pharmacies,-0.2306738,51.5102552,Point
+node,8623841550,Savers,healthcare_pharmacies,-0.0209956,51.4460032,Point
+node,8643150882,Green Light Pharmacy,healthcare_pharmacies,-0.227707,51.5058653,Point
+node,8648981722,Superdrug,healthcare_pharmacies,-0.0195446,51.4462397,Point
+node,8650304188,Lincoln Pharmacy,healthcare_pharmacies,-0.0248071,51.5182342,Point
+node,8663744291,Superdrug,healthcare_pharmacies,-0.2208136,51.5046525,Point
+node,8664356190,Well Pharmacy,healthcare_pharmacies,-0.4484177,51.4692899,Point
+node,8679454479,Pharmalite Pharmacy,healthcare_pharmacies,-0.1449639,51.4441066,Point
+node,8680495454,Fitness Fuel & Pharmacy on Wheels,healthcare_pharmacies,-0.2287421,51.5021406,Point
+node,8691402400,Boots,healthcare_pharmacies,0.111968,51.3923478,Point
+node,8700057876,Babylon Health Pharmacy,healthcare_pharmacies,-0.2304417,51.506041,Point
+node,8702886381,Northfields Pharmacy,healthcare_pharmacies,-0.3191748,51.5046723,Point
+node,8731297121,,healthcare_pharmacies,0.0645105,51.4347165,Point
+node,8743322293,Roadnight Pharmacy,healthcare_pharmacies,0.102696,51.4319055,Point
+node,8770319424,Healthways Pharmacy,healthcare_pharmacies,-0.3709314,51.5766206,Point
+node,8781392055,Jays Pharmacy,healthcare_pharmacies,-0.2375319,51.5063139,Point
+node,8850108941,Crossbell Pharmacy,healthcare_pharmacies,-0.2541013,51.5064983,Point
+node,8863440380,Windwood Chemists,healthcare_pharmacies,-0.2434414,51.5032218,Point
+node,8988341183,Woolwich Late Night Pharmacy,healthcare_pharmacies,0.0685877,51.4902434,Point
+node,8998924838,Shan Pharmacy,healthcare_pharmacies,0.0350149,51.5476061,Point
+node,9016269155,Caregrange Pharmacy,healthcare_pharmacies,-0.2236086,51.5030257,Point
+node,9016341672,Mango Pharmacy,healthcare_pharmacies,-0.4821132,51.5268111,Point
+node,9021743871,Healthside Pharmacy,healthcare_pharmacies,-0.2222685,51.4997812,Point
+node,9029465522,Clinichem Pharmacy,healthcare_pharmacies,-0.138829,51.4927253,Point
+node,9046182862,Tesco Pharmacy,healthcare_pharmacies,0.0967754,51.3736933,Point
+node,9092458557,Chemist,healthcare_pharmacies,0.0657907,51.4194648,Point
+node,9115014883,Sai Chemist,healthcare_pharmacies,-0.0687503,51.5129818,Point
+node,9127866366,N S Warwick Ltd,healthcare_pharmacies,0.055631,51.4924179,Point
+node,9131351984,Horn Lane Pharmacy,healthcare_pharmacies,-0.2691248,51.5141126,Point
+node,9141043257,Forrest Pharmacy,healthcare_pharmacies,-0.2173098,51.4975526,Point
+node,9192045177,WellCare Pharmacy,healthcare_pharmacies,-0.3401638,51.6047538,Point
+node,9228568942,Sheel Pharmacy,healthcare_pharmacies,-0.099807,51.4796439,Point
+node,9237138300,H. Lloyd Chemist,healthcare_pharmacies,-0.2083028,51.4958616,Point
+node,9241690101,Day Lewis Pharmacy,healthcare_pharmacies,0.0635658,51.5011081,Point
+node,9333021742,Wellcare Pharmacy,healthcare_pharmacies,-0.2705772,51.506982,Point
+node,9353834616,Whitaker's Pharmacy,healthcare_pharmacies,-0.0878128,51.6586105,Point
+node,9364012288,,healthcare_pharmacies,0.0327712,51.5377181,Point
+node,9367193739,D L Lewis,healthcare_pharmacies,-0.3020796,51.5156577,Point
+node,9375364020,Mayor's Pharmacy,healthcare_pharmacies,-0.025769,51.5273224,Point
+node,9384041553,Rohpharm Pharmacy,healthcare_pharmacies,0.0189605,51.5311903,Point
+node,9422196545,Kamsons Pharmacy,healthcare_pharmacies,-0.1818379,51.4074072,Point
+node,9481524721,Pharmocare,healthcare_pharmacies,-0.0719971,51.6049714,Point
+node,9481524791,Grace Pharmacy,healthcare_pharmacies,-0.0602498,51.602542,Point
+node,9615138183,Remedy Pharmacy,healthcare_pharmacies,-0.3372352,51.5149981,Point
+node,9620431870,Tesco,healthcare_pharmacies,0.1903303,51.520001,Point
+node,9683179639,Superdrug,healthcare_pharmacies,-0.1762453,51.5445327,Point
+node,9787466846,Zahra Pharmacy,healthcare_pharmacies,-0.2674311,51.5068243,Point
+node,9810978120,Westlake Pharmacy,healthcare_pharmacies,-0.1981679,51.5791303,Point
+node,9813277134,Richards Pharmacy,healthcare_pharmacies,-0.3065825,51.5000088,Point
+node,9882002930,Kidbrooke Pharmacy,healthcare_pharmacies,0.0284636,51.4673643,Point
+node,9935642205,Haria Chemist,healthcare_pharmacies,-0.1428855,51.6161656,Point
+node,9943491092,Paxall Pharmacy,healthcare_pharmacies,-0.1379233,51.4883374,Point
+node,9966279359,Alpha Chemist,healthcare_pharmacies,-0.3893612,51.5374715,Point
+node,9977284347,Hobbs Pharmacy,healthcare_pharmacies,-0.06956,51.4970309,Point
+node,9979753890,Lakewood Pharmacy,healthcare_pharmacies,-0.0196718,51.3769291,Point
+node,10039492917,Duncan's Pharmacy,healthcare_pharmacies,-0.0124564,51.4780063,Point
+node,10039590854,Towerbridge Wellness Pharmacy,healthcare_pharmacies,-0.0750821,51.5038531,Point
+node,10056572731,Columbia Pharmacy,healthcare_pharmacies,-0.0702982,51.5287058,Point
+node,10068538756,Caledonian Pharmacy,healthcare_pharmacies,-0.1177714,51.550573,Point
+node,10078324932,Beckton Pharmacy,healthcare_pharmacies,0.0575622,51.5145351,Point
+node,10095832958,Alpha Chemist,healthcare_pharmacies,0.0674625,51.4904476,Point
+node,10095832985,Superdrug,healthcare_pharmacies,0.0677568,51.4911164,Point
+node,10095833008,St James Pharmacy,healthcare_pharmacies,0.0666754,51.491456,Point
+node,10095833012,Pyramid Pharmacy,healthcare_pharmacies,0.0662376,51.4915965,Point
+node,10095833234,Boots,healthcare_pharmacies,0.0642636,51.4924936,Point
+node,10105926116,Geepharm Chemist,healthcare_pharmacies,-0.0149121,51.4732162,Point
+node,10106319740,Boots,healthcare_pharmacies,-0.0169069,51.4537866,Point
+node,10124962790,Boots,healthcare_pharmacies,-0.3031299,51.5121312,Point
+node,10126844258,Dowsett Pharmacy,healthcare_pharmacies,-0.0660006,51.594682,Point
+node,10142422637,Amy Pharmacy,healthcare_pharmacies,-0.1260227,51.5813067,Point
+node,10155567230,Tesco Pharmacy,healthcare_pharmacies,-0.0479153,51.6097787,Point
+node,10159546022,,healthcare_pharmacies,-0.1803675,51.5858051,Point
+node,10159908743,Wilkinson Chemist,healthcare_pharmacies,-0.2016403,51.6565363,Point
+node,10225851743,Cambelle Pharmacy,healthcare_pharmacies,-0.0746871,51.4939495,Point
+node,10226747718,Walker's Pharmacy,healthcare_pharmacies,-0.2812216,51.5024538,Point
+node,10253349484,Pyramid Pharmacy,healthcare_pharmacies,0.0076643,51.4861556,Point
+node,10253349495,P.E. Logan Pharmacy,healthcare_pharmacies,0.0069123,51.4858603,Point
+node,10253435784,Pyramid Pharmacy,healthcare_pharmacies,0.0214441,51.4766792,Point
+node,10253435802,Blackheath Standard Pharmacy,healthcare_pharmacies,0.0190191,51.4776525,Point
+node,10263469430,Pharmocare,healthcare_pharmacies,-0.0682205,51.6044274,Point
+node,10280308647,Paydens Pharmacy,healthcare_pharmacies,0.0087199,51.4667137,Point
+node,10302568748,Mayors Dispensing Chemist,healthcare_pharmacies,0.0865098,51.5342283,Point
+node,10302761041,Day Lewis Pharmacy,healthcare_pharmacies,0.0941855,51.5357867,Point
+node,10315224691,Akro Pharmacy,healthcare_pharmacies,0.0371245,51.542792,Point
+node,10557816962,Paydens Pharmacy,healthcare_pharmacies,0.075592,51.38961,Point
+node,10559413193,Links Pharmacy,healthcare_pharmacies,-0.1775663,51.5916125,Point
+node,10568476650,Britannia Pharmacy,healthcare_pharmacies,0.1137464,51.541295,Point
+node,10583948363,Britannia Pharmacy,healthcare_pharmacies,0.0988868,51.5607836,Point
+node,10586306215,,healthcare_pharmacies,0.0757568,51.5565494,Point
+node,10604479798,Britannia Pharmacy,healthcare_pharmacies,0.0953094,51.5720581,Point
+node,10654921199,Victoria Pharmacy,healthcare_pharmacies,-0.2075885,51.5778765,Point
+node,10687842941,Brent Pharmacy,healthcare_pharmacies,-0.307189,51.4835275,Point
+node,10695526022,Britannia Pharmacy,healthcare_pharmacies,0.0944077,51.5455401,Point
+node,10698400518,Woodlands Pharmacy,healthcare_pharmacies,0.0794789,51.5524735,Point
+node,10699857410,Rushey Green Pharmacy,healthcare_pharmacies,-0.0181556,51.4495081,Point
+node,10728755191,Boots,healthcare_pharmacies,0.0713853,51.5588407,Point
+node,10771841534,P & S Chemists,healthcare_pharmacies,0.0721818,51.555106,Point
+node,10780333605,Day Lewis Pharmacy,healthcare_pharmacies,0.0497922,51.5901362,Point
+node,10780355371,Tesco Pharmacy,healthcare_pharmacies,-0.1151048,51.4867387,Point
+node,10782708030,Medipharmacy,healthcare_pharmacies,0.0604994,51.555195,Point
+node,10783342604,Fairlop Pharmacy,healthcare_pharmacies,0.082476,51.5910129,Point
+node,10783444535,Pyramid Pharmacy,healthcare_pharmacies,0.0831992,51.5920296,Point
+node,10816505612,Duncan's Chemist,healthcare_pharmacies,-0.0013686,51.4208004,Point
+node,10831413774,Sherry's Chemist,healthcare_pharmacies,-0.3767417,51.5096748,Point
+node,10840128308,,healthcare_pharmacies,-0.1062393,51.4760656,Point
+node,10899713246,Boots,healthcare_pharmacies,0.0812112,51.5894748,Point
+node,10924062199,Heron Pharmacy,healthcare_pharmacies,-0.251545,51.5871981,Point
+node,10947703013,Good Health Pharmacy,healthcare_pharmacies,-0.0779331,51.5851849,Point
+node,10947703021,Reena Pharmacy,healthcare_pharmacies,-0.0746624,51.5842066,Point
+node,10965079437,Herbert and Herbert,healthcare_pharmacies,-0.377957,51.4651581,Point
+node,10965193066,Dougans Chemist,healthcare_pharmacies,-0.0163262,51.3526853,Point
+node,10974526279,Boots Opticians,healthcare_pharmacies,0.0538882,51.4508586,Point
+node,11063987062,Woodlands Pharmacy,healthcare_pharmacies,-0.0053208,51.4500944,Point
+node,11064397456,Day Lewis Pharmacy,healthcare_pharmacies,-0.0038034,51.424672,Point
+node,11064397496,Brownes Pharmacy,healthcare_pharmacies,-0.0033166,51.4239486,Point
+node,11104463905,Boots,healthcare_pharmacies,-0.2816224,51.380365,Point
+node,11117671528,Ross Pharmacy,healthcare_pharmacies,-0.4095045,51.6020222,Point
+node,11138720280,,healthcare_pharmacies,0.080192,51.4862311,Point
+node,11141765670,J & B Webber Pharmacy,healthcare_pharmacies,-0.3410506,51.5836896,Point
+node,11162895313,St George,healthcare_pharmacies,-0.1015349,51.4954261,Point
+node,11200000902,Superdrug,healthcare_pharmacies,-0.4191354,51.5069136,Point
+node,11203710320,W.H. Burdess Chemist,healthcare_pharmacies,0.1648659,51.5825588,Point
+node,11203730499,Elm Park Pharmacy,healthcare_pharmacies,0.1991698,51.5508617,Point
+node,11215235131,Leyton Orient Pharmacy,healthcare_pharmacies,-0.0133028,51.559789,Point
+node,11269168670,Palmers Pharmacy,healthcare_pharmacies,-0.1083559,51.6183205,Point
+node,11341824826,Station Road Pharmecy,healthcare_pharmacies,0.1817135,51.449897,Point
+node,11371596408,Rowlands Pharmacy,healthcare_pharmacies,0.0347682,51.5231861,Point
+node,11383287267,Westbury Chemist,healthcare_pharmacies,-0.1284436,51.4352278,Point
+node,11398958827,Pharmacy,healthcare_pharmacies,0.0728815,51.3885211,Point
+node,11414591424,Munro Pharmacy,healthcare_pharmacies,0.0534953,51.5338816,Point
+node,11421064770,Pitchkins & Currans,healthcare_pharmacies,-0.1977173,51.525022,Point
+node,11446559117,,healthcare_pharmacies,-0.3398371,51.6033977,Point
+node,11481576251,Day Lewis Pharmacy,healthcare_pharmacies,-0.0864528,51.4278506,Point
+node,11491832087,West London Pharmacy,healthcare_pharmacies,-0.2543369,51.4928627,Point
+node,11543695100,,healthcare_pharmacies,0.1255841,51.573097,Point
+node,11686417426,Wallace Pring,healthcare_pharmacies,0.035599,51.3920995,Point
+node,11800351624,Hounslow Pharmacy,healthcare_pharmacies,-0.3729614,51.469052,Point
+node,11898738769,AR Chemist,healthcare_pharmacies,-0.0808146,51.4907114,Point
+node,11920186376,Queens Pharmacy,healthcare_pharmacies,-0.3786407,51.5112607,Point
+node,11947727540,Superdrug,healthcare_pharmacies,-0.189546,51.604379,Point
+node,11974146524,Day and Night Pharmacy,healthcare_pharmacies,-0.3634326,51.5303285,Point
+node,11980905677,Day Lewis Pharmacy,healthcare_pharmacies,-0.0697739,51.5173849,Point
+node,11992643583,Ace Pharmacy,healthcare_pharmacies,-0.3032019,51.3747804,Point
+node,12070591158,Roxannes Pharmacy,healthcare_pharmacies,-0.3554142,51.5282293,Point
+node,12082918741,Day Lewis Pharmacy,healthcare_pharmacies,-0.1208171,51.4438534,Point
+node,12085209737,Jallas,healthcare_pharmacies,-0.2659222,51.5187545,Point
+node,12144256517,Richard & Curtis,healthcare_pharmacies,-0.2250003,51.5427638,Point
+node,12149384802,Saigrace,healthcare_pharmacies,-0.1166069,51.5835249,Point
+node,12155114652,Greenfield Pharmacy,healthcare_pharmacies,-0.2182911,51.5333633,Point
+node,12155114660,Dollmead Pharmacy,healthcare_pharmacies,-0.2181615,51.5331818,Point
+node,12155901269,KL Pharmacy,healthcare_pharmacies,-0.3640684,51.5021211,Point
+node,12180560714,Catto Ltd Pharmacy,healthcare_pharmacies,-0.2461347,51.5360782,Point
+node,12184904735,Fulham Pharmacy,healthcare_pharmacies,-0.2032068,51.4769294,Point
+node,12188531368,Chana Chemist,healthcare_pharmacies,-0.2455334,51.5359959,Point
+node,12208965162,Daysol Pharmacy,healthcare_pharmacies,0.1818011,51.4639191,Point
+node,12211429077,Carter Chemist,healthcare_pharmacies,-0.4153471,51.6083613,Point
+node,12230165927,Krisons,healthcare_pharmacies,-0.026461,51.4747776,Point
+node,12251669447,Masters Pharmacy,healthcare_pharmacies,0.0341627,51.4746342,Point
+node,12336682130,,healthcare_pharmacies,-0.0532608,51.5468784,Point
+node,12501155612,,healthcare_pharmacies,-0.3516725,51.5283653,Point
+node,12508335925,Hobbs Pharmacy,healthcare_pharmacies,-0.4005599,51.4732896,Point
+node,12534721535,Alderman's Pharmacy,healthcare_pharmacies,-0.1114566,51.6186636,Point
+node,12569551424,RoPharm Chemist,healthcare_pharmacies,-0.0673431,51.4684621,Point
+node,12572448585,Day Lewis Pharmacy,healthcare_pharmacies,-0.0910732,51.4740896,Point
+node,12572476245,Fourways Pharmacy,healthcare_pharmacies,-0.0933634,51.4732893,Point
+node,12572476248,Butterfly Pharmacy,healthcare_pharmacies,-0.0929532,51.473131,Point
+node,12578972332,Village Pharmacy,healthcare_pharmacies,0.0364789,51.4818246,Point
+node,12578972336,Grove Pharmacy,healthcare_pharmacies,0.0368255,51.4819028,Point
+node,12588086156,Revital,healthcare_pharmacies,-0.1655991,51.5506263,Point
+node,12631745539,Winchester Pharmacy,healthcare_pharmacies,-0.4476439,51.565563,Point
+node,12635826773,Docklands Pharmacy,healthcare_pharmacies,-0.0211206,51.4910991,Point
+node,12641738160,Vantage Pharmacy,healthcare_pharmacies,-0.4204524,51.5321395,Point
+node,12741792953,Tesco Pharmacy,healthcare_pharmacies,0.1920908,51.565809,Point
+node,12759497696,Community Pharmacy,healthcare_pharmacies,0.0539249,51.5479035,Point
+node,12881174944,Day Lewis Pharmacy,healthcare_pharmacies,0.1923418,51.5403603,Point
+node,12924869439,Lockyer Pharmacy,healthcare_pharmacies,-0.0316377,51.483581,Point
+node,12945071708,,healthcare_pharmacies,-0.2767396,51.6133503,Point
+node,12964015223,Muhammad's Pharmacy,healthcare_pharmacies,0.0530508,51.5527379,Point
+node,12977646608,,healthcare_pharmacies,-0.1030563,51.6670274,Point
+node,13058414037,Jethros,healthcare_pharmacies,-0.2005365,51.5738551,Point
+node,13060103136,Hawks Pharmacy,healthcare_pharmacies,-0.2933132,51.4081358,Point
+node,13134693477,Zen,healthcare_pharmacies,-0.1234183,51.5210976,Point
+node,13157729755,Fountain Pharmacy,healthcare_pharmacies,-0.2553013,51.3980965,Point
+node,13179807039,Newman Pharmacy,healthcare_pharmacies,-0.2998841,51.3907504,Point
+node,13188757111,,healthcare_pharmacies,-0.0904928,51.5434113,Point
+node,13260552152,Kerrs,healthcare_pharmacies,-0.1250005,51.5173794,Point
+node,13291284842,Britannia Pharmacy,healthcare_pharmacies,-0.0054167,51.5128653,Point
+node,13328435344,Pyramid Pharmacy,healthcare_pharmacies,-0.3258999,51.5100087,Point
+node,13358942311,,healthcare_pharmacies,-0.1229161,51.5202652,Point
+node,13377710149,Well Pharmacy,healthcare_pharmacies,-0.1325707,51.5281125,Point
+node,13391570628,Malthouse Pharmacy,healthcare_pharmacies,-0.4810549,51.6039602,Point
+node,13422145253,Hugh Lloyd Pharmacy,healthcare_pharmacies,-0.1821716,51.5856307,Point
+node,13580264563,Superdrug,healthcare_pharmacies,-0.0811889,51.6513739,Point
+node,13589118439,Brownies,healthcare_pharmacies,0.1215241,51.490406,Point
+node,13593770239,Macey Chemist,healthcare_pharmacies,-0.1551484,51.5540085,Point
+node,13596858005,Acorn Pharmacy,healthcare_pharmacies,-0.2541822,51.6209667,Point
+node,13609660840,Central Pharmacy,healthcare_pharmacies,-0.1912775,51.5488311,Point
+node,13615084989,Day Lewis Pharmacy,healthcare_pharmacies,-0.0751712,51.4744283,Point
+node,13619154777,Revelstoke Pharmacy,healthcare_pharmacies,-0.1972295,51.4404227,Point
+node,13652446991,Lings Pharmacy,healthcare_pharmacies,-0.078551,51.4893698,Point
+node,13684700237,Paydens,healthcare_pharmacies,-0.033402,51.405821,Point
+node,13688677384,,healthcare_pharmacies,-0.1977392,51.5721403,Point
+node,13707688102,Fulham Palace Pharmacy,healthcare_pharmacies,-0.2155816,51.4760651,Point
+node,13753029129,West Ealing Pharmacy,healthcare_pharmacies,-0.3194312,51.5138968,Point
+node,13755235802,Rowlands Pharmacy,healthcare_pharmacies,-0.2202913,51.487301,Point
+node,13764387166,Wellbeing Pharmacy,healthcare_pharmacies,0.1292421,51.5707015,Point
+node,13765893181,Britannia Pharmacy,healthcare_pharmacies,0.1382261,51.572155,Point
+node,13766742044,Super-Care Pharmacy,healthcare_pharmacies,0.1403607,51.5719636,Point
+node,13787668388,Bell Pharmacy,healthcare_pharmacies,-0.0316961,51.5323799,Point
+node,13798400869,Osterley Park Pharmacy,healthcare_pharmacies,-0.3476161,51.4828981,Point
+way,33622797,Gray's Inn Pharmacy,healthcare_pharmacies,-0.11462820712588388,51.52288765,MultiPolygon
+way,35824051,Boots,healthcare_pharmacies,-0.16625614883566583,51.46487205,MultiPolygon
+way,60147033,Boots,healthcare_pharmacies,-0.3705535999999991,51.41693865,MultiPolygon
+way,62223004,Vale Pharmacy,healthcare_pharmacies,-0.07558513223745683,51.460617,MultiPolygon
+way,67555356,House of Mistry,healthcare_pharmacies,-0.16597919503433803,51.55445605,MultiPolygon
+way,67555363,Hampstead Heath Pharmacy,healthcare_pharmacies,-0.16627732930585792,51.5549611,MultiPolygon
+way,68807968,Superdrug,healthcare_pharmacies,-0.1238797663132157,51.5091786,MultiPolygon
+way,70609470,,healthcare_pharmacies,-0.1349207887777798,51.564311599999996,MultiPolygon
+way,73045890,Bellenden Road Pharmacy,healthcare_pharmacies,-0.07231167176870737,51.4676829,MultiPolygon
+way,73416683,Boots,healthcare_pharmacies,-0.07012432191360535,51.47233345,MultiPolygon
+way,76586550,Well Pharmacy,healthcare_pharmacies,-0.13444090942812814,51.565079,MultiPolygon
+way,76844524,Bliss,healthcare_pharmacies,-0.20043356555364794,51.5412003,MultiPolygon
+way,77766912,Superdrug,healthcare_pharmacies,-0.19363547518195512,51.5385719,MultiPolygon
+way,90650945,City Pharmacy,healthcare_pharmacies,-0.089590710589211,51.5048447,MultiPolygon
+way,95223741,Sogim pharmacy,healthcare_pharmacies,-0.07579649715369863,51.457337100000004,MultiPolygon
+way,97822308,Queen's Park Pharmacy,healthcare_pharmacies,-0.20474114935758825,51.53515965,MultiPolygon
+way,104739960,Kilburn Park pharmacy,healthcare_pharmacies,-0.19374573723849045,51.535014950000004,MultiPolygon
+way,105467210,Boots,healthcare_pharmacies,-0.19311138147044116,51.5379961,MultiPolygon
+way,113469629,Superdrug,healthcare_pharmacies,-0.20227958859274875,51.4853208,MultiPolygon
+way,115953695,Barons Pharmacy,healthcare_pharmacies,-0.21352798275374862,51.49003115,MultiPolygon
+way,116933217,Green Light Pharmacy,healthcare_pharmacies,-0.13840575643473924,51.526646299999996,MultiPolygon
+way,119397909,,healthcare_pharmacies,0.15139151350687913,51.53515015,MultiPolygon
+way,119775706,Endo Chemist,healthcare_pharmacies,-0.10878527146876255,51.53338695,MultiPolygon
+way,119901358,Superdrug,healthcare_pharmacies,-0.10746010424270047,51.533488399999996,MultiPolygon
+way,120192812,,healthcare_pharmacies,0.15777747982573767,51.5399932,MultiPolygon
+way,122293675,Kry-Ba Ltd,healthcare_pharmacies,0.14616237595495296,51.53210825,MultiPolygon
+way,122593823,Waller Pharmacy,healthcare_pharmacies,0.1476299481632652,51.5422,MultiPolygon
+way,122597478,Talati Pharmacy,healthcare_pharmacies,0.1481294001321783,51.54266115,MultiPolygon
+way,122865212,Day Lewis Pharmacy,healthcare_pharmacies,0.16594118667390373,51.542647099999996,MultiPolygon
+way,123372140,Spirack Chemist,healthcare_pharmacies,-0.2303949005918201,51.546836150000004,MultiPolygon
+way,123372209,Spivack Chemist,healthcare_pharmacies,-0.22862003350585197,51.54704445,MultiPolygon
+way,124115243,Andrew Bass Pharmacy,healthcare_pharmacies,0.14671145127745427,51.560893050000004,MultiPolygon
+way,125744276,Herne Hill Pharmacy,healthcare_pharmacies,-0.0963277911194695,51.456726599999996,MultiPolygon
+way,126218999,Keats Pharmacy,healthcare_pharmacies,-0.17201189196626715,51.5546856,MultiPolygon
+way,126610377,Fourway Pharmacy,healthcare_pharmacies,-0.10049353656744525,51.452766249999996,MultiPolygon
+way,126610392,Brockwell Park Pharmacy,healthcare_pharmacies,-0.1005350325215986,51.4530721,MultiPolygon
+way,132072531,Boots,healthcare_pharmacies,-0.005232018714861859,51.543535,MultiPolygon
+way,141056398,Sadler's Pharmacy,healthcare_pharmacies,-0.07384800628516844,51.448939550000006,MultiPolygon
+way,147314554,North End Pharmacy,healthcare_pharmacies,-0.20634885324797955,51.48949235,MultiPolygon
+way,147734607,Rowlands Pharmacy,healthcare_pharmacies,-0.1097427807600613,51.52539445,MultiPolygon
+way,148008529,N.V.S. Pharmacy,healthcare_pharmacies,-0.15564967708132593,51.51857885,MultiPolygon
+way,148032573,Sherlock Holmes Pharmacy,healthcare_pharmacies,-0.15622454013886128,51.51985895,MultiPolygon
+way,148066399,Boots,healthcare_pharmacies,-0.22698142768262775,51.492532,MultiPolygon
+way,148146004,Boots,healthcare_pharmacies,-0.15656678199373686,51.5205429,MultiPolygon
+way,148305739,Boots,healthcare_pharmacies,-0.1574270410944119,51.522879950000004,MultiPolygon
+way,148871631,Peter's Pharmacy,healthcare_pharmacies,-0.15302384436381933,51.52058995,MultiPolygon
+way,150571900,Boots,healthcare_pharmacies,-0.20047849600866968,51.48243685,MultiPolygon
+way,150574008,Chana Chemist,healthcare_pharmacies,-0.19943239253670617,51.480603,MultiPolygon
+way,151170981,Oza Chemist,healthcare_pharmacies,-0.19664639438087173,51.48011015,MultiPolygon
+way,155511335,Queen Pharmacy,healthcare_pharmacies,-0.16841421031118042,51.51907985,MultiPolygon
+way,155906191,Boots,healthcare_pharmacies,-0.07645890507784484,51.51347755,MultiPolygon
+way,157748194,Chinese Medicine Centre,healthcare_pharmacies,-0.12351152980866777,51.517139549999996,MultiPolygon
+way,159061686,Boots,healthcare_pharmacies,-0.3062556104659899,51.39261835,MultiPolygon
+way,159402323,Walden Chymist,healthcare_pharmacies,-0.15128190557008064,51.4937515,MultiPolygon
+way,159407052,Keencare Pharmacy,healthcare_pharmacies,-0.14725516014150375,51.496318,MultiPolygon
+way,159741203,Hillcrest Pharmacy,healthcare_pharmacies,-0.20720383283810773,51.50688205,MultiPolygon
+way,160093284,Boots,healthcare_pharmacies,-0.09317936403886767,51.514242249999995,MultiPolygon
+way,161759343,Lipkin Chemist,healthcare_pharmacies,-0.1810324800000022,51.630505299999996,MultiPolygon
+way,161857847,Foster & Sons,healthcare_pharmacies,-0.06285880521361184,51.4539696,MultiPolygon
+way,161977171,Day Lewis Pharmacy,healthcare_pharmacies,-0.06213647892660164,51.4533935,MultiPolygon
+way,165277670,Boots,healthcare_pharmacies,-0.2788547447237869,51.478054549999996,MultiPolygon
+way,165524695,Forest Chemist,healthcare_pharmacies,-0.017511779235380054,51.5903356,MultiPolygon
+way,168335239,Mansons,healthcare_pharmacies,-0.19756109945736444,51.4569251,MultiPolygon
+way,170665847,W.C & K. King Chemist,healthcare_pharmacies,-0.1105000285713405,51.529143250000004,MultiPolygon
+way,181059809,Hamlet Pharmacy,healthcare_pharmacies,-0.0724556574904478,51.416351649999996,MultiPolygon
+way,189209068,Sefgrove Chemist,healthcare_pharmacies,-0.08279160911105973,51.41983635,MultiPolygon
+way,190715097,Boots,healthcare_pharmacies,-0.05006314816138946,51.5135819,MultiPolygon
+way,192919250,Chana Chemist,healthcare_pharmacies,-0.3770623389515224,51.50950225,MultiPolygon
+way,198354755,Barkers Pharmacy,healthcare_pharmacies,-0.10497161525850876,51.3737874,MultiPolygon
+way,198354786,Kents Pharmacy,healthcare_pharmacies,-0.10360482597919773,51.37358915,MultiPolygon
+way,199398437,Ritz Pharmacy,healthcare_pharmacies,-0.17878630340816815,51.55657195,MultiPolygon
+way,199550678,Boots,healthcare_pharmacies,-0.17763775150067737,51.556281150000004,MultiPolygon
+way,200498169,Well Pharmacy,healthcare_pharmacies,-0.03312580163828853,51.58190795,MultiPolygon
+way,203291558,Brittania Pharmacy,healthcare_pharmacies,-0.021408530472638534,51.579567850000004,MultiPolygon
+way,205145202,Boots,healthcare_pharmacies,-0.262160073285864,51.4926961,MultiPolygon
+way,205406222,Croydon Pharmacy,healthcare_pharmacies,-0.09922185725225784,51.36584275,MultiPolygon
+way,205562562,Sabel Pharmacy,healthcare_pharmacies,-0.26727751262219646,51.492887749999994,MultiPolygon
+way,205702894,Campbells Chemist,healthcare_pharmacies,-0.26069962123188406,51.492625849999996,MultiPolygon
+way,205998275,Day Lewis Pharmacy,healthcare_pharmacies,-0.0037505567135313563,51.58812805,MultiPolygon
+way,207762816,Kingshield Pharmacy,healthcare_pharmacies,-0.11406232595779078,51.4641967,MultiPolygon
+way,207896964,,healthcare_pharmacies,-0.10450169999999936,51.4752903,MultiPolygon
+way,208496321,Andrew McCoig Pharmacy,healthcare_pharmacies,-0.0991534481823961,51.3508606,MultiPolygon
+way,209445867,The Bedford Park Pharmacy,healthcare_pharmacies,-0.2550253283700198,51.4955757,MultiPolygon
+way,213915807,Swan Pharmacy,healthcare_pharmacies,-0.09802671482018142,51.363933849999995,MultiPolygon
+way,220148638,Grove Pharmacy,healthcare_pharmacies,-0.012847351666543529,51.57921755,MultiPolygon
+way,222397556,A-Z Pharmacy,healthcare_pharmacies,-0.10309221507732155,51.37878465,MultiPolygon
+way,224040374,Boots,healthcare_pharmacies,-0.14217406604187627,51.5914304,MultiPolygon
+way,224040375,Dukes Pharmacy,healthcare_pharmacies,-0.14191073643276395,51.59151965,MultiPolygon
+way,225442614,Medicine Box Pharmacy,healthcare_pharmacies,-0.1393113696042355,51.535046550000004,MultiPolygon
+way,232187252,Warren Pharmacy,healthcare_pharmacies,0.1476458299520784,51.4413356,MultiPolygon
+way,232970670,,healthcare_pharmacies,0.15053685530303013,51.4422298,MultiPolygon
+way,240005869,,healthcare_pharmacies,-0.062335239678030306,51.55830075,MultiPolygon
+way,241808474,The Harrow Pharmacy,healthcare_pharmacies,-0.3323766621417198,51.58685355,MultiPolygon
+way,242878985,Boots,healthcare_pharmacies,-0.3347900717198582,51.5949851,MultiPolygon
+way,243852630,Chana Chemist,healthcare_pharmacies,-0.3149040128733257,51.583555950000004,MultiPolygon
+way,243983808,Churchills Chemist,healthcare_pharmacies,-0.3144642113488358,51.583171449999995,MultiPolygon
+way,247889197,Boots,healthcare_pharmacies,-0.2954966791937045,51.55318145,MultiPolygon
+way,248378670,Rasons Pharmacy,healthcare_pharmacies,-0.2861520368085143,51.55304825,MultiPolygon
+way,251032629,Clarke Pharmacy,healthcare_pharmacies,-0.17888100473042098,51.45971685,MultiPolygon
+way,256099081,Day Lewis Pharmacy,healthcare_pharmacies,-0.1110818466480511,51.3880018,MultiPolygon
+way,256099089,Mayday Community Pharmacy,healthcare_pharmacies,-0.11115624393764442,51.3881182,MultiPolygon
+way,256782946,,healthcare_pharmacies,-0.28859323222222577,51.413448200000005,MultiPolygon
+way,258988453,Carters Pharmacy,healthcare_pharmacies,-0.29678163747568265,51.552666200000004,MultiPolygon
+way,272006371,The Organic Pharmacy,healthcare_pharmacies,-0.14047550442529366,51.514084,MultiPolygon
+way,272100749,Dispensing Chemist,healthcare_pharmacies,-0.10908422671497761,51.5675389,MultiPolygon
+way,274050571,Wellcare Pharmacy,healthcare_pharmacies,-0.12222323715513328,51.55988185,MultiPolygon
+way,278113360,Essentials,healthcare_pharmacies,-0.12289418501611758,51.51535815,MultiPolygon
+way,281195784,,healthcare_pharmacies,-0.11416016641193324,51.5703679,MultiPolygon
+way,285592719,Superdrug,healthcare_pharmacies,-0.3290277475154344,51.446480449999996,MultiPolygon
+way,285821079,Lloyds Pharmacy,healthcare_pharmacies,-0.06871059252607015,51.4748508,MultiPolygon
+way,287931042,Grafton Pharmacy,healthcare_pharmacies,-0.13794795000000254,51.524305350000006,MultiPolygon
+way,288579364,Crossroads Chemist,healthcare_pharmacies,-0.3614644205044957,51.43957845,MultiPolygon
+way,289376382,Edmunds,healthcare_pharmacies,-0.07572363774654912,51.5478175,MultiPolygon
+way,290009310,,healthcare_pharmacies,-0.033872131598098654,51.46042825,MultiPolygon
+way,290405997,Boots,healthcare_pharmacies,-0.13468915415343946,51.51033645,MultiPolygon
+way,291643499,Boots,healthcare_pharmacies,-0.12441065459398643,51.524426000000005,MultiPolygon
+way,291698494,Wellcare Pharmacy,healthcare_pharmacies,-0.14103134103517434,51.55002795,MultiPolygon
+way,292236614,John Walker Chemist,healthcare_pharmacies,-0.12451460408163681,51.52691385,MultiPolygon
+way,292657406,Superdrug,healthcare_pharmacies,-0.11522449531148515,51.46320475,MultiPolygon
+way,294646433,Boots,healthcare_pharmacies,-0.1335208116145525,51.520214300000006,MultiPolygon
+way,294873222,Boots,healthcare_pharmacies,-0.13757523191425053,51.5237438,MultiPolygon
+way,298834096,Kirby's Pharmacy & Dentist,healthcare_pharmacies,-0.3313009000116838,51.42741375,MultiPolygon
+way,298834118,Medico Pharmacy,healthcare_pharmacies,-0.3346136423899839,51.42476605,MultiPolygon
+way,298834147,Kirby's Pharmacy & Dentist,healthcare_pharmacies,-0.33121756251678347,51.42741565,MultiPolygon
+way,309215645,Day Lewis Pharmacy,healthcare_pharmacies,-0.1999561089699849,51.543239,MultiPolygon
+way,310822363,Boots,healthcare_pharmacies,-0.15184507367186265,51.443894400000005,MultiPolygon
+way,313498138,Boots,healthcare_pharmacies,0.07969213319244917,51.537753800000004,MultiPolygon
+way,313986790,Thomas Pharmacy,healthcare_pharmacies,0.08113063870143758,51.537132400000004,MultiPolygon
+way,314768732,Daynight Pharmacy,healthcare_pharmacies,0.08004313608274566,51.53855625,MultiPolygon
+way,314787506,Lords Pharmacy,healthcare_pharmacies,0.08059091859758113,51.5390382,MultiPolygon
+way,316038842,Boots,healthcare_pharmacies,0.24846644832129866,51.55403685,MultiPolygon
+way,316450916,Britannia Pharmacy,healthcare_pharmacies,0.24731758966019274,51.55338065,MultiPolygon
+way,317013214,Panchem Pharmacy,healthcare_pharmacies,0.25073495,51.5560294,MultiPolygon
+way,320418312,Boots,healthcare_pharmacies,-0.09614903631649377,51.51361105,MultiPolygon
+way,321282538,Boots,healthcare_pharmacies,-0.07518107871520563,51.5486426,MultiPolygon
+way,321290139,Day Lewis Pharmacy,healthcare_pharmacies,-0.1185841053422921,51.4677687,MultiPolygon
+way,325254487,Canons Pharmacy,healthcare_pharmacies,-0.2958412500000005,51.607614600000005,MultiPolygon
+way,326333066,Newcare Pharmacy & Health Food,healthcare_pharmacies,-0.2208580900042997,51.54950605,MultiPolygon
+way,328680364,Greenacre Pharmacy,healthcare_pharmacies,-0.14744847954545232,51.6489289,MultiPolygon
+way,328864234,Simmons Pharmacy,healthcare_pharmacies,-0.14822411124999224,51.64847935,MultiPolygon
+way,342715778,Gould Pharmacy,healthcare_pharmacies,-0.15348191160271513,51.51254305,MultiPolygon
+way,344376766,Church Pharmacy,healthcare_pharmacies,-0.14187175061056106,51.5171449,MultiPolygon
+way,345630056,Hyperchem,healthcare_pharmacies,-0.20490155915301872,51.5344248,MultiPolygon
+way,345692388,Healthxchange Pharmacy,healthcare_pharmacies,-0.1421501388977622,51.5183038,MultiPolygon
+way,347634184,Maple Leaf Pharmacy & Clinic,healthcare_pharmacies,-0.34043690465813414,51.444788900000006,MultiPolygon
+way,350425864,Boots,healthcare_pharmacies,-0.15670022531506134,51.5138216,MultiPolygon
+way,350999672,Al Farabi Pharmacy,healthcare_pharmacies,-0.16282861048690142,51.5147408,MultiPolygon
+way,351004150,Bin-Seena Pharmacy,healthcare_pharmacies,-0.16406845409271303,51.515562200000005,MultiPolygon
+way,351025507,Prince Pharmacy,healthcare_pharmacies,-0.164962815998434,51.51620535,MultiPolygon
+way,351280322,Pharmacentre,healthcare_pharmacies,-0.16679791024409296,51.517288,MultiPolygon
+way,356675355,Calder Pharmacy,healthcare_pharmacies,-0.19628220339390537,51.508902250000006,MultiPolygon
+way,356866949,Clockwork Pharmacy,healthcare_pharmacies,-0.11696268649163233,51.53604275,MultiPolygon
+way,357565930,Clockwork Pharmacy,healthcare_pharmacies,-0.11703473258212377,51.5400342,MultiPolygon
+way,358379511,Boots,healthcare_pharmacies,-0.4468007107347879,51.460687750000005,MultiPolygon
+way,358385145,Boots,healthcare_pharmacies,-0.446705270624688,51.460488999999995,MultiPolygon
+way,366302161,Norlington Chemist,healthcare_pharmacies,-0.06246527542050146,51.5358438,MultiPolygon
+way,367518263,Boots,healthcare_pharmacies,-0.19753306473381177,51.509114600000004,MultiPolygon
+way,367842877,Day Lewis Pharmacy,healthcare_pharmacies,0.14054410539640097,51.47326375,MultiPolygon
+way,369553300,Boots,healthcare_pharmacies,-0.08282472196415139,51.518207700000005,MultiPolygon
+way,371481596,Boots,healthcare_pharmacies,-0.0858681157195628,51.55164125,MultiPolygon
+way,372813576,Safedale Pharmacy,healthcare_pharmacies,-0.05175171768105297,51.551066500000005,MultiPolygon
+way,373710202,Morrisons Pharmacy,healthcare_pharmacies,-0.150429944374538,51.543348949999995,MultiPolygon
+way,377200482,Cavendish Pharmacy,healthcare_pharmacies,-0.030803646622861378,51.58896355,MultiPolygon
+way,377273227,Tesco Pharmacy,healthcare_pharmacies,-0.2013252399368231,51.49239755,MultiPolygon
+way,378326699,Bluedew Pharmacy,healthcare_pharmacies,-0.036112594643849374,51.587473700000004,MultiPolygon
+way,379967718,Wimbledon Pharmacy,healthcare_pharmacies,-0.21690890725202946,51.42528335,MultiPolygon
+way,386950388,TT Pharmacy,healthcare_pharmacies,-0.06429815000000477,51.40664035,MultiPolygon
+way,391735287,C. Goode Pharmacy,healthcare_pharmacies,-0.32831971364326845,51.44753540000001,MultiPolygon
+way,391835742,Boots,healthcare_pharmacies,-0.32813499378465016,51.446061150000006,MultiPolygon
+way,395988688,Armstrong Pharmacy,healthcare_pharmacies,-0.09287924534823876,51.564227599999995,MultiPolygon
+way,396000265,Friends Pharmacy,healthcare_pharmacies,-0.05157974920361353,51.5515736,MultiPolygon
+way,406542838,Lloyds,healthcare_pharmacies,-0.03434920204809665,51.5937814,MultiPolygon
+way,413752714,D Parry,healthcare_pharmacies,-0.19902958575199176,51.43460065,MultiPolygon
+way,416601702,Boots,healthcare_pharmacies,-0.12467694700854487,51.5317606,MultiPolygon
+way,422645020,Shanty's Pharmacy,healthcare_pharmacies,-0.060629410228925124,51.51919205,MultiPolygon
+way,423437082,Hampton Hill Pharmacy,healthcare_pharmacies,-0.3552483105213803,51.428255750000005,MultiPolygon
+way,424819920,Surdock Chemist,healthcare_pharmacies,-0.04611212211389723,51.4923814,MultiPolygon
+way,425013544,Boots,healthcare_pharmacies,-0.13122264646045,51.517096550000005,MultiPolygon
+way,431679584,Cooks Pharmacy,healthcare_pharmacies,-0.20606633184005196,51.44466565,MultiPolygon
+way,431783120,Shiv Pharmacy,healthcare_pharmacies,-0.1404618215517263,51.51862525,MultiPolygon
+way,432380097,Spatetree Pharmacy,healthcare_pharmacies,-0.2666764491226419,51.465717850000004,MultiPolygon
+way,434027992,Boots,healthcare_pharmacies,-0.20475131375584266,51.4209953,MultiPolygon
+way,434028038,Superdrug,healthcare_pharmacies,-0.20478661891857075,51.42142215,MultiPolygon
+way,436146450,Clockwork Pharmacy,healthcare_pharmacies,0.037302291465672724,51.530357800000004,MultiPolygon
+way,436678576,Broadway Pharmacy,healthcare_pharmacies,-0.23896898657408316,51.577201099999996,MultiPolygon
+way,440188133,Safedale Pharmacy,healthcare_pharmacies,-0.09019872665934794,51.55763965,MultiPolygon
+way,441838240,Ritechem Pharmacy,healthcare_pharmacies,-0.3064440871766417,51.39249835,MultiPolygon
+way,447309952,Gees Chemist,healthcare_pharmacies,-0.1398233187065365,51.492393750000005,MultiPolygon
+way,448420154,Bencrest Chemist,healthcare_pharmacies,-0.14052314772651625,51.4918337,MultiPolygon
+way,448420161,Warwick Pharmacy,healthcare_pharmacies,-0.14028514401168768,51.491966,MultiPolygon
+way,450493632,Boots,healthcare_pharmacies,-0.13736253800575965,51.49699635,MultiPolygon
+way,450892907,Pharmacy Hut,healthcare_pharmacies,0.1575857238666618,51.465674199999995,MultiPolygon
+way,450892926,Lloyds Pharmacy,healthcare_pharmacies,0.1579457436429946,51.46541225,MultiPolygon
+way,452820454,Pyramid Pharmacy,healthcare_pharmacies,-0.012999324573380265,51.575703399999995,MultiPolygon
+way,452822371,Medicos,healthcare_pharmacies,-0.013630696318008128,51.5759401,MultiPolygon
+way,458742241,Boots,healthcare_pharmacies,0.08169634183957575,51.5169306,MultiPolygon
+way,459555180,Boots,healthcare_pharmacies,0.034807388698179606,51.535790649999996,MultiPolygon
+way,459910527,Boots,healthcare_pharmacies,-0.05483984678430992,51.54881555,MultiPolygon
+way,460102252,Superdrug,healthcare_pharmacies,-0.26726519158295303,51.4648326,MultiPolygon
+way,460135886,Leyton Green Pharmacy,healthcare_pharmacies,-0.006583327745417535,51.5783503,MultiPolygon
+way,460408487,Boots,healthcare_pharmacies,-0.26758803927732927,51.46438465,MultiPolygon
+way,460423847,Dumlers Pharmacy,healthcare_pharmacies,-0.27326675,51.46404705,MultiPolygon
+way,460833856,Kingsland Pharmacy,healthcare_pharmacies,-0.07583258621307667,51.54157429999999,MultiPolygon
+way,463210599,Pyramid Pharmacy,healthcare_pharmacies,-0.0011528407098085685,51.58112855,MultiPolygon
+way,464989823,Richmond Pharmacy,healthcare_pharmacies,-0.29659998482832184,51.46195005,MultiPolygon
+way,469771545,Ridgway Pharmacy,healthcare_pharmacies,-0.2195191357147562,51.4214306,MultiPolygon
+way,473654265,Kings Pharmacy,healthcare_pharmacies,-0.20177609737850877,51.5449845,MultiPolygon
+way,474249424,Day Lewis Pharmacy,healthcare_pharmacies,-0.1415116057481805,51.54584285,MultiPolygon
+way,474249425,A&H Chinese Medicine Acupunture Herbs,healthcare_pharmacies,-0.14138875887788283,51.5464389,MultiPolygon
+way,476024044,Boots,healthcare_pharmacies,-0.08829571046922124,51.518665150000004,MultiPolygon
+way,480477243,Chemco Pharmacy,healthcare_pharmacies,-0.19612974411666156,51.4190187,MultiPolygon
+way,480675196,Bonamy Pharmacy,healthcare_pharmacies,-0.0626163395345136,51.48645805,MultiPolygon
+way,481694388,Boots,healthcare_pharmacies,-0.1177951771294379,51.55718795,MultiPolygon
+way,482814286,Medipharmacy,healthcare_pharmacies,-0.23043334657584763,51.4101168,MultiPolygon
+way,495626589,Harris Pharmacy,healthcare_pharmacies,-0.03820483089254775,51.35231725,MultiPolygon
+way,504637149,Broadway Pharmacy,healthcare_pharmacies,-0.14302511956536368,51.5908897,MultiPolygon
+way,506580527,Woodside Pharmacy,healthcare_pharmacies,0.009112213461548238,51.56267575,MultiPolygon
+way,507095523,UK Legal Way Ltd,healthcare_pharmacies,0.00833483606289374,51.5612594,MultiPolygon
+way,512168147,Boots,healthcare_pharmacies,0.010562896376371011,51.5679523,MultiPolygon
+way,512168201,Woodside Pharmacy,healthcare_pharmacies,0.012502234472513581,51.56965135,MultiPolygon
+way,517030126,Superdrug,healthcare_pharmacies,-0.09450732357488308,51.514449,MultiPolygon
+way,522373541,Parry Jones Pharmacy,healthcare_pharmacies,-0.20179556482131922,51.6537433,MultiPolygon
+way,531952743,Hollytree Pharmacy,healthcare_pharmacies,0.117130307348538,51.4189329,MultiPolygon
+way,532231403,Aspire Pharmacy,healthcare_pharmacies,0.10448679097139354,51.4257902,MultiPolygon
+way,532365019,Boots,healthcare_pharmacies,0.10341356685648906,51.4259704,MultiPolygon
+way,532571741,Osborn Pharmacy,healthcare_pharmacies,0.10445983746821988,51.4252424,MultiPolygon
+way,536724758,Lee Pharmacy,healthcare_pharmacies,0.01317889999999947,51.44897325,MultiPolygon
+way,561977189,Minal Pharmacy,healthcare_pharmacies,-0.3578573225806452,51.4527485,MultiPolygon
+way,568582151,Springfield Pharmacy,healthcare_pharmacies,-0.2946539066530367,51.46233565,MultiPolygon
+way,572711382,Boots,healthcare_pharmacies,-0.10591880848726588,51.51948215,MultiPolygon
+way,574526404,Barnes Pharmacy,healthcare_pharmacies,-0.2483242662771296,51.4733824,MultiPolygon
+way,585940471,Richmond Pharmacy,healthcare_pharmacies,-0.2925460716056504,51.466522499999996,MultiPolygon
+way,587533836,Mottingham Pharmacy,healthcare_pharmacies,0.045017045542625964,51.43651925,MultiPolygon
+way,588371843,Peace Pharmacy,healthcare_pharmacies,-0.09722284327554001,51.46946735,MultiPolygon
+way,589775212,Carsil Perfumery + Pharmacy,healthcare_pharmacies,-0.05538717166023063,51.5464508,MultiPolygon
+way,592995906,Greenfield Pharmacy,healthcare_pharmacies,-0.18649876580692915,51.6463133,MultiPolygon
+way,595216652,Forward Pharmacy,healthcare_pharmacies,-0.2400256640814133,51.47502025,MultiPolygon
+way,595234673,F.A. Strange,healthcare_pharmacies,-0.055540537584283275,51.5559909,MultiPolygon
+way,595656390,Clockwork Pharmacy,healthcare_pharmacies,-0.044741206809195605,51.538270749999995,MultiPolygon
+way,600866232,Round the Clock Pharmacy,healthcare_pharmacies,-0.2438774783029966,51.47429065,MultiPolygon
+way,607809313,Chrischem Pharmacy,healthcare_pharmacies,-0.03349174411922915,51.525127600000005,MultiPolygon
+way,609808905,Village Pharmacy,healthcare_pharmacies,-0.3731998924951625,51.608165,MultiPolygon
+way,610164108,Infohealth Pharmacy,healthcare_pharmacies,-0.13923079999999668,51.3208248,MultiPolygon
+way,610164136,Boots,healthcare_pharmacies,-0.13747599636902696,51.321660449999996,MultiPolygon
+way,611974221,Green Light Pharmacy,healthcare_pharmacies,-0.038194171551724374,51.51829165,MultiPolygon
+way,613834632,Superdrug,healthcare_pharmacies,-0.09265151550000052,51.4734457,MultiPolygon
+way,614265558,Pyramid Pharmacy,healthcare_pharmacies,-0.06491392737982954,51.4923708,MultiPolygon
+way,616081589,Massingham Chemists,healthcare_pharmacies,-0.04625356529124401,51.52945015,MultiPolygon
+way,617618457,Lloyds Pharmacy,healthcare_pharmacies,-0.17294848768342688,51.40485395,MultiPolygon
+way,619762275,Sinclairs Pharmacy,healthcare_pharmacies,-0.029870401042691792,51.5331606,MultiPolygon
+way,620885933,King’s Outpatient Pharmacy,healthcare_pharmacies,-0.09286912129837718,51.469633,MultiPolygon
+way,628144630,Tanna Pharmacy,healthcare_pharmacies,-0.3745084844390847,51.6079101,MultiPolygon
+way,628410640,Hall Healthcare,healthcare_pharmacies,-0.3759276762117966,51.607387149999994,MultiPolygon
+way,649646045,Praise Pharmacy,healthcare_pharmacies,0.1466712995365623,51.46590305,MultiPolygon
+way,676221088,Day Lewis Pharmacy,healthcare_pharmacies,0.19007087673962136,51.52841695,MultiPolygon
+way,679248292,Marijak Pharmacy,healthcare_pharmacies,-0.010119443126826583,51.56205305,MultiPolygon
+way,681099024,Rosewood Pharmacy,healthcare_pharmacies,0.0033758949097823436,51.63152795,MultiPolygon
+way,681581504,Well Pharmacy,healthcare_pharmacies,0.00029113227508853945,51.6079722,MultiPolygon
+way,684595004,Benjamin,healthcare_pharmacies,-0.01777072793663055,51.6165673,MultiPolygon
+way,688103322,Prime Pharmacy,healthcare_pharmacies,-0.23258932334997998,51.4858533,MultiPolygon
+way,689952454,Safedale Pharmacy,healthcare_pharmacies,-0.00422933795351719,51.56250145,MultiPolygon
+way,693587566,Nima Pharmacy,healthcare_pharmacies,-0.2966058010627448,51.45537965,MultiPolygon
+way,694705661,Day Lewis,healthcare_pharmacies,0.16284066234682615,51.47385745,MultiPolygon
+way,694986321,The Dispensary,healthcare_pharmacies,-0.008170403830346909,51.57170025,MultiPolygon
+way,694986324,Meraj Pharmacy,healthcare_pharmacies,-0.008202342872867146,51.5715617,MultiPolygon
+way,696349660,Granshaws Chemist,healthcare_pharmacies,0.010779881568860823,51.5550827,MultiPolygon
+way,705581312,Charles Harry,healthcare_pharmacies,-0.31067658951802013,51.455146049999996,MultiPolygon
+way,706910488,Twickenham Pharmacy,healthcare_pharmacies,-0.3247236968322915,51.448688000000004,MultiPolygon
+way,708076041,Boots,healthcare_pharmacies,-0.3372108237716102,51.42617235,MultiPolygon
+way,708212636,Superdrug,healthcare_pharmacies,-0.3381293850863903,51.426300999999995,MultiPolygon
+way,708212648,KC Pharmacy,healthcare_pharmacies,-0.33875449611713226,51.426289350000005,MultiPolygon
+way,725685190,Health on the Hill,healthcare_pharmacies,-0.35615407829615375,51.4262587,MultiPolygon
+way,729345120,Station Pharmacy,healthcare_pharmacies,-0.03191252450738908,51.4760158,MultiPolygon
+way,753674029,Boots,healthcare_pharmacies,-0.4106679572370109,51.4461055,MultiPolygon
+way,757269894,Bedfont Pharmacy,healthcare_pharmacies,-0.429372000000001,51.45374015,MultiPolygon
+way,757269914,Edwards & Taylor,healthcare_pharmacies,-0.4285671,51.4534356,MultiPolygon
+way,762443800,Percy Road Pharmacy,healthcare_pharmacies,-0.35796298373226954,51.44917445,MultiPolygon
+way,762693154,Post My Meds,healthcare_pharmacies,-0.35818854395765576,51.4498136,MultiPolygon
+way,764465752,Herbert & Herbert Pharmacy,healthcare_pharmacies,-0.3789766499999965,51.45036935,MultiPolygon
+way,765944260,Britannia Pharmacy,healthcare_pharmacies,0.0048677888132297835,51.5495356,MultiPolygon
+way,766082939,Ormay Chemist,healthcare_pharmacies,0.1624306255115866,51.473982649999996,MultiPolygon
+way,766561677,Strawberry Hill Pharmacy,healthcare_pharmacies,-0.3398736956262133,51.43891985,MultiPolygon
+way,773853764,Abbey Pharmacy,healthcare_pharmacies,-0.18454314503223168,51.415974500000004,MultiPolygon
+way,781269001,Herbert and Shrive,healthcare_pharmacies,-0.3191022180064555,51.421031049999996,MultiPolygon
+way,792355072,Life,healthcare_pharmacies,-0.15536292696590737,51.5133713,MultiPolygon
+way,802152481,Boots,healthcare_pharmacies,-0.14819355104712217,51.5142902,MultiPolygon
+way,806811010,Reena's Pharmacy,healthcare_pharmacies,-0.12310247661170251,51.4776393,MultiPolygon
+way,807588025,Boots,healthcare_pharmacies,-0.13894897287068803,51.51529095,MultiPolygon
+way,817843136,Jaypharm Chemists,healthcare_pharmacies,-0.05036864692931717,51.5145203,MultiPolygon
+way,818168686,Herbert Herbert,healthcare_pharmacies,-0.3702396248376236,51.46682435,MultiPolygon
+way,837365132,Boots,healthcare_pharmacies,-0.07925091730769254,51.5178827,MultiPolygon
+way,838373842,Village Pharmacy,healthcare_pharmacies,-0.17112793199390194,51.5492087,MultiPolygon
+way,840385657,Boots,healthcare_pharmacies,-0.1829998912882797,51.49472335,MultiPolygon
+way,845130173,Bows Chemist,healthcare_pharmacies,0.20786113509216836,51.521101,MultiPolygon
+way,846813803,Williams Dispensing Chemist,healthcare_pharmacies,0.19643599422934455,51.5167073,MultiPolygon
+way,846828366,Chansons Pharmacy,healthcare_pharmacies,0.20096500462531655,51.5199958,MultiPolygon
+way,848656838,Clockwork Pharmacy,healthcare_pharmacies,-0.046031421511138926,51.54477635,MultiPolygon
+way,848656905,Clockwork Pharmacy,healthcare_pharmacies,-0.046964645088183495,51.544385750000004,MultiPolygon
+way,849373840,Regal Pharmacy,healthcare_pharmacies,-0.0441773117452179,51.55309295,MultiPolygon
+way,853255276,Britannia Pharmacy,healthcare_pharmacies,0.0079118736517798,51.53577025,MultiPolygon
+way,854781824,Lords Pharmacy,healthcare_pharmacies,-0.16973663540610476,51.42662735,MultiPolygon
+way,856044880,Medina Pharmacy,healthcare_pharmacies,0.013418703338762225,51.5333908,MultiPolygon
+way,856420010,Well Pharmacy,healthcare_pharmacies,-0.0808090677752292,51.65410005,MultiPolygon
+way,857939227,Parnell Pharmacy & Perfumery,healthcare_pharmacies,-0.027337628401727612,51.5341594,MultiPolygon
+way,859458576,Well Enfield,healthcare_pharmacies,-0.043608147126139474,51.665056500000006,MultiPolygon
+way,860447254,Ronchetti Pharmacy,healthcare_pharmacies,-0.040026191592406384,51.671566799999994,MultiPolygon
+way,860491507,Lansbury Pharmacy,healthcare_pharmacies,-0.014769601230626983,51.51406875,MultiPolygon
+way,860654034,,healthcare_pharmacies,0.15047049174702046,51.561203500000005,MultiPolygon
+way,862792680,Lloyds Pharmacy,healthcare_pharmacies,-0.04752238313214837,51.658034400000005,MultiPolygon
+way,863305826,Zara Pharmacy,healthcare_pharmacies,-0.0468018272774794,51.646666749999994,MultiPolygon
+way,863356885,Superdrug,healthcare_pharmacies,-0.1408553872544201,51.54847515,MultiPolygon
+way,863760455,Temple Pharmacy,healthcare_pharmacies,-0.31310355,51.52638725,MultiPolygon
+way,864003579,Boots,healthcare_pharmacies,-0.14108223885220522,51.547788600000004,MultiPolygon
+way,865382582,,healthcare_pharmacies,0.17001074365421476,51.52839575,MultiPolygon
+way,868040589,Royal Docks Pharmacy,healthcare_pharmacies,0.06251836186969044,51.5099471,MultiPolygon
+way,869744086,Mastaa-Care Pharmacy,healthcare_pharmacies,0.14721563115228492,51.5627138,MultiPolygon
+way,871537849,Day Lewis Pharmacy,healthcare_pharmacies,-0.2106495955468829,51.60701855,MultiPolygon
+way,878935756,Ghirs Pharmacy,healthcare_pharmacies,0.06210677915805862,51.53361635,MultiPolygon
+way,900383757,Junction Pharmacy,healthcare_pharmacies,-0.10281663573943567,51.46582635,MultiPolygon
+way,901272231,Superdrug,healthcare_pharmacies,-0.2420838244974876,51.37846295,MultiPolygon
+way,906672311,Vantage Pharmacy,healthcare_pharmacies,-0.012807201271478226,51.4297304,MultiPolygon
+way,906820479,Herbert Pharmacy,healthcare_pharmacies,0.06946673918918952,51.4806141,MultiPolygon
+way,913318930,Borno,healthcare_pharmacies,-0.0015329992295007749,51.6077944,MultiPolygon
+way,917519933,Mount Pharmacy,healthcare_pharmacies,-0.01768254999999945,51.610694499999994,MultiPolygon
+way,919706701,Well Pharmacy,healthcare_pharmacies,-0.01767034531796753,51.616685000000004,MultiPolygon
+way,926312514,Hatch Pharmacy,healthcare_pharmacies,0.006183849999999786,51.619075949999996,MultiPolygon
+way,926312515,Well Pharmacy,healthcare_pharmacies,0.005737613879003508,51.6190935,MultiPolygon
+way,927797179,Boots,healthcare_pharmacies,0.0027657,51.6310127,MultiPolygon
+way,931287121,Bush Pharmacy,healthcare_pharmacies,-0.23305701521226302,51.50655835,MultiPolygon
+way,932193695,Well Pharmacy,healthcare_pharmacies,-0.2413811770341818,51.449363700000006,MultiPolygon
+way,932193702,Care Chemist,healthcare_pharmacies,-0.24204958243929486,51.449480699999995,MultiPolygon
+way,935915814,Green Light Pharmacy,healthcare_pharmacies,-0.1727665986265316,51.543546649999996,MultiPolygon
+way,940172452,Barkers Chemist,healthcare_pharmacies,-0.16541194084792404,51.43018705,MultiPolygon
+way,952589869,Kirby's Pharmacy & Dentist,healthcare_pharmacies,-0.3312727701797554,51.427533249999996,MultiPolygon
+way,956045169,Well Being Pharmacy,healthcare_pharmacies,-0.20558582441348983,51.4449649,MultiPolygon
+way,956366737,Boots,healthcare_pharmacies,-0.20486677903113382,51.44506405,MultiPolygon
+way,962064963,Day Lewis Pharmacy,healthcare_pharmacies,0.035411149945370646,51.405525,MultiPolygon
+way,963364248,Crooklog Pharmacy,healthcare_pharmacies,0.13185465057928875,51.45831865,MultiPolygon
+way,965172512,Broadway Pharmacy,healthcare_pharmacies,0.1419068571906294,51.457154,MultiPolygon
+way,967688445,Boots,healthcare_pharmacies,-0.4244505830202035,51.57452495,MultiPolygon
+way,969222738,Ashworths Pharmacy,healthcare_pharmacies,-0.42572008555707774,51.57491085,MultiPolygon
+way,969626272,Lloyds Pharmacy,healthcare_pharmacies,0.10656526544526902,51.39016875,MultiPolygon
+way,972298821,Whitton Corner Pharmacy,healthcare_pharmacies,-0.3643428933423723,51.44414035,MultiPolygon
+way,976066126,Shermans Pharmacy,healthcare_pharmacies,0.025385120080946184,51.5509117,MultiPolygon
+way,976066143,Woodgrange Pharmacy,healthcare_pharmacies,0.02542358753918547,51.55124535,MultiPolygon
+way,985620483,East Chemist,healthcare_pharmacies,-0.24014770720012052,51.45004705,MultiPolygon
+way,991115117,Temple Pharmacy,healthcare_pharmacies,0.0876567680843625,51.4793715,MultiPolygon
+way,996118947,Day Lewis,healthcare_pharmacies,0.013146400649194756,51.42769095,MultiPolygon
+way,1006729156,Crailmay Pharmacy,healthcare_pharmacies,0.03176085169491566,51.54467215,MultiPolygon
+way,1008664222,Kalhan Chemist,healthcare_pharmacies,0.026321253863475703,51.5374697,MultiPolygon
+way,1009885799,,healthcare_pharmacies,-0.1734136269492758,51.5225231,MultiPolygon
+way,1010367996,Husbands Pharmacy,healthcare_pharmacies,-0.2121991408629425,51.4599546,MultiPolygon
+way,1011408806,Boots,healthcare_pharmacies,-0.2156228602066027,51.46274065,MultiPolygon
+way,1011408827,Boots,healthcare_pharmacies,-0.2148672748878247,51.4642318,MultiPolygon
+way,1011678386,Weston Ltd Chemist,healthcare_pharmacies,0.0341744682307579,51.5380146,MultiPolygon
+way,1011903110,Munro Pharmacy,healthcare_pharmacies,0.03509453349811659,51.53715605,MultiPolygon
+way,1012069845,Superdrug,healthcare_pharmacies,0.03533689246575254,51.5366707,MultiPolygon
+way,1013334307,Cray Hill Pharmacy,healthcare_pharmacies,0.10567989900961153,51.403452099999996,MultiPolygon
+way,1018324378,Allchin Pharmacy,healthcare_pharmacies,-0.16208897725731358,51.546120599999995,MultiPolygon
+way,1024236407,Sheel Pharmacy,healthcare_pharmacies,-0.01134277012835621,51.465632299999996,MultiPolygon
+way,1025025757,Pharmaram Chemist,healthcare_pharmacies,0.022343189485876463,51.53268625,MultiPolygon
+way,1028386435,Primrose Pharmacy,healthcare_pharmacies,-0.15673064793965402,51.5419089,MultiPolygon
+way,1037817177,Redwood Pharmacy,healthcare_pharmacies,-0.13770154080114677,51.59860005,MultiPolygon
+way,1039675535,Muswell Hill Pharmacy,healthcare_pharmacies,-0.14664810000000572,51.590436249999996,MultiPolygon
+way,1056668949,Ram Dispensing Chemist,healthcare_pharmacies,-0.36290055,51.46006825,MultiPolygon
+way,1058683752,Your Pharmacy,healthcare_pharmacies,-0.3191894112074123,51.4537596,MultiPolygon
+way,1064267349,Browne's Chemist,healthcare_pharmacies,0.12928022456140364,51.496170899999996,MultiPolygon
+way,1065238767,Southcroft Pharmacy,healthcare_pharmacies,-0.3073633499999999,51.430669300000005,MultiPolygon
+way,1073990630,Barkers Pharmacy,healthcare_pharmacies,-0.18926136854629513,51.4484271,MultiPolygon
+way,1081247611,Priory Pharmacy,healthcare_pharmacies,0.10716780826530607,51.3827632,MultiPolygon
+way,1089879584,Macks Pharmacy,healthcare_pharmacies,-0.05186019262066361,51.414545000000004,MultiPolygon
+way,1089879597,Superdrug,healthcare_pharmacies,-0.05267014562817607,51.41528235,MultiPolygon
+way,1096373884,Brook Pharmacy,healthcare_pharmacies,0.03063714056764302,51.4317719,MultiPolygon
+way,1105345122,Larchwood Pharmacy,healthcare_pharmacies,-0.07414654999999638,51.3799645,MultiPolygon
+way,1106704834,T James,healthcare_pharmacies,-0.19691065361371773,51.438906,MultiPolygon
+way,1178558703,Pharmacare,healthcare_pharmacies,-0.31172747015956553,51.4357873,MultiPolygon
+way,1197229990,Fishers Pharmacy,healthcare_pharmacies,-0.06724253845127134,51.393153049999995,MultiPolygon
+way,1197274226,Baba Chemist,healthcare_pharmacies,-0.11335990355919934,51.454977,MultiPolygon
+way,1211698130,Lloyds Pharmacy,healthcare_pharmacies,-0.11043988776378488,51.64635105,MultiPolygon
+way,1212065388,Shah Pharmacy,healthcare_pharmacies,-0.3897576993968552,51.473675,MultiPolygon
+way,1216295315,Jade Pharmacy & Travel Clinic,healthcare_pharmacies,-0.3730069208732355,51.491089599999995,MultiPolygon
+way,1242781939,Kevin's Charlton Pharmacy,healthcare_pharmacies,0.0320379,51.4798762,MultiPolygon
+way,1271283647,Tigris Pharmacy,healthcare_pharmacies,-0.36724218743169385,51.470523,MultiPolygon
+way,1302900166,Mayors Chemist,healthcare_pharmacies,0.02638542121676913,51.54448805,MultiPolygon
+way,1318974500,Britcrown Pharmacy,healthcare_pharmacies,0.2001515162498901,51.5861516,MultiPolygon
+way,1319020190,Rowlands Pharmacy,healthcare_pharmacies,0.22091443238163244,51.58347475,MultiPolygon
+way,1344900088,Osborn Pharmacy,healthcare_pharmacies,-0.029493900000004306,51.471055750000005,MultiPolygon
+way,1351563631,My London Pharmacy,healthcare_pharmacies,-0.13649954925066005,51.518803000000005,MultiPolygon
+way,1351840825,Boots,healthcare_pharmacies,0.02604977222221318,51.57864615,MultiPolygon
+way,1370891007,Britannia Pharmacy,healthcare_pharmacies,-0.0056998422343139754,51.51330175,MultiPolygon
+way,1372794546,DH Roberts Pharmacy,healthcare_pharmacies,-0.13876574460085,51.556821049999996,MultiPolygon
+way,1396094952,Hearts Pharmacy,healthcare_pharmacies,-0.1784263309173273,51.3986722,MultiPolygon
+way,1424604503,Village Pharmacy,healthcare_pharmacies,0.07273313229431705,51.35971715,MultiPolygon
+way,1426725438,Kingsway Pharmacy,healthcare_pharmacies,0.051724451659589415,51.5324288,MultiPolygon

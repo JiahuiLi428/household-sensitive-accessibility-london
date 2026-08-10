@@ -1,0 +1,38 @@
+# Local archive and temporary files
+/非必须材料/
+/cache/
+/tmp/
+**/__pycache__/
+*.py[cod]
+~$*
+.DS_Store
+Thumbs.db
+
+# R/RStudio session state
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Generated R5 build caches
+data/r5/**/*.mapdb
+data/r5/**/*.mapdb.p
+data/r5/**/network.dat
+data/r5/**/r5r-log.log
+data/r5/**/gtfs_errors.csv
+
+# Large third-party inputs retained locally; download details are documented
+data/raw/osm/*.osm.pbf
+data/r5/london_network/*.osm.pbf
+data/r5/london_network/london_gtfs_bods.zip
+
+# Large reproducible intermediates
+data/poi/transport_bus_stops.geojson
+extension/data_intermediate/osm_residential_features.gpkg
+
+# Duplicate high-resolution raster exports; PNG/SVG/PDF equivalents are retained
+*.tif
+*.tiff
+
+# Working dissertation drafts; upload only the final submitted version
+/outputs/manuscript/final/*.docx

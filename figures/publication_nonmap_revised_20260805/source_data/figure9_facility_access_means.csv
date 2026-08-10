@@ -1,0 +1,13 @@
+facility_category,facility,scenario,value
+green_space_parks,Parks,WALK 15,42.1906287545054
+green_space_parks,Parks,WALK + PT 30,68.5462555066079
+transport_bus_stops,Bus stops,WALK 15,71.8515551995728
+transport_bus_stops,Bus stops,WALK + PT 30,85.3831264183687
+education_schools,Schools,WALK 15,45.3731144039514
+education_schools,Schools,WALK + PT 30,70.8036310238954
+food_retail_supermarkets,Supermarkets,WALK 15,26.8855960485916
+food_retail_supermarkets,Supermarkets,WALK + PT 30,58.8139100253638
+healthcare_pharmacies,Pharmacies,WALK 15,32.5497263382726
+healthcare_pharmacies,Pharmacies,WALK + PT 30,62.6718729141637
+healthcare_gps,GPs,WALK 15,26.0005339741023
+healthcare_gps,GPs,WALK + PT 30,55.5493258576959

@@ -1,0 +1,4 @@
+lsoa21cd,LSOA21NM,borough_name,london_ring,grid_count,unmatched_grid_count,min_grid_area_sqm,median_grid_area_sqm,max_grid_area_sqm
+E01000001,City of London 001A,City of London,Inner London,13,0,10000,10000,10000
+E01000095,Barking and Dagenham 018E,Barking and Dagenham,Outer London,229,0,10000,10000,10000
+E01000115,Barnet 009A,Barnet,Outer London,28,0,10000,10000,10000

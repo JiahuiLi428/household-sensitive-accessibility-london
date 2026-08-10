@@ -1,0 +1,17 @@
+facility_category,scenario,n_lsoas,reachable_lsoas,missing_lsoas,missing_pct,zero_min_count,min_time,median_time,mean_time,max_time
+education_schools,walk_15min,4994,4519,475,9.5,16,0,7,7.47864571807922,15
+education_schools,walk_transit_30min,4994,4906,88,1.8,16,0,8,8.37790460660416,29
+healthcare_gps,walk_15min,4994,3031,1963,39.3,8,0,9,8.5740679643682,15
+healthcare_gps,walk_transit_30min,4994,4761,233,4.7,8,0,12,12.519638731359,29
+healthcare_hospitals,walk_15min,4994,627,4367,87.4,2,0,11,10.1977671451356,15
+healthcare_hospitals,walk_transit_30min,4994,3353,1641,32.9,2,0,22,20.4903071875932,29
+healthcare_pharmacies,walk_15min,4994,3641,1353,27.1,11,0,8,8.30321340291129,15
+healthcare_pharmacies,walk_transit_30min,4994,4870,124,2.5,11,0,10,10.7197125256674,29
+food_retail_supermarkets,walk_15min,4994,3284,1710,34.2,16,0,9,8.86723507917174,15
+food_retail_supermarkets,walk_transit_30min,4994,4865,129,2.6,16,0,11,11.8879753340185,29
+green_space_parks,walk_15min,4994,4264,730,14.6,44,0,7,7.58794559099437,15
+green_space_parks,walk_transit_30min,4994,4914,80,1.6,44,0,8,9.1013431013431,29
+transport_underground_metro_stations,walk_15min,4994,1402,3592,71.9,8,0,10,9.33309557774608,15
+transport_underground_metro_stations,walk_transit_30min,4994,3256,1738,34.8,8,0,15,15.6434275184275,29
+transport_bus_stops,walk_15min,4994,4939,55,1.1,232,0,4,4.10224741850577,15
+transport_bus_stops,walk_transit_30min,4994,4940,54,1.1,232,0,4,4.10506072874494,18

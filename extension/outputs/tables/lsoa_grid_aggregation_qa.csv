@@ -1,0 +1,7 @@
+group,mode,lsoa_rows,missing_accessibility_rows,zero_valid_grid_rows,mean_valid_grid_count,median_valid_grid_count
+children_and_adolescents,walk_15min,4992,0,0,21.24,18
+children_and_adolescents,walk_transit_30min,4992,0,0,21.24,18
+caregiving_adults,walk_15min,4992,0,0,21.24,18
+caregiving_adults,walk_transit_30min,4992,0,0,21.24,18
+older_adults,walk_15min,4992,0,0,21.24,18
+older_adults,walk_transit_30min,4992,0,0,21.24,18

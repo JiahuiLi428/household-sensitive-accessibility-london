@@ -1,0 +1,7 @@
+group,metric,median,p05,p95
+Children,a  Spearman rank correlation,0.883442493741448,0.784536826348077,0.966013143750508
+Caregiving adults,a  Spearman rank correlation,0.924899421509761,0.825866064415057,0.970942541285474
+Older adults,a  Spearman rank correlation,0.904973243857584,0.768557481137156,0.96929825530189
+Children,b  Top-20% mismatch overlap (%),75.45,66.595,88
+Caregiving adults,b  Top-20% mismatch overlap (%),82.25,71.895,89.5
+Older adults,b  Top-20% mismatch overlap (%),85.6,78.1,91.6

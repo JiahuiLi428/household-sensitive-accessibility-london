@@ -1,0 +1,5 @@
+mismatch_flag,n_lsoas,nearest_tfl_station_km,nearest_full_recorded_step_free_station_km,older_adults_pct,caregiver_household_intensity
+Other LSOAs,3123,0.82,0.9,10.41,9.72
+High care mismatch,622,1.22,1.37,9.84,12.58
+High older + care mismatch,627,1.76,1.95,16.61,11.44
+High older mismatch,622,1.49,1.64,18.48,9.99

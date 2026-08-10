@@ -1,0 +1,3 @@
+group,mode,n_lsoas,pearson_correlation,spearman_rank_correlation,mean_absolute_difference,median_absolute_difference,rmse,lowest_accessibility_20_overlap_count,lowest_accessibility_20_jaccard,highest_mismatch_20_overlap_count,highest_mismatch_20_jaccard,overestimate_0_25_count,underestimate_0_25_count,overestimate_0_5_count,underestimate_0_5_count,overestimate_0_75_count,underestimate_0_75_count
+caregiving_adults,walk_15min,3,0.991992633748557,1,10.6392958020369,9.1199677947233,11.742971205007,1,1,1,1,0,3,0,3,0,3
+caregiving_adults,walk_transit_30min,3,0.982258479078871,1,12.9639933414303,6.9580303894769,17.4054856419943,1,1,1,1,0,2,0,1,0,1

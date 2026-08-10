@@ -1,0 +1,5 @@
+quadrant,n_lsoas,mean_care_need_score,mean_care_walk_index,mean_care_access_burden,mean_care_mismatch_index,mean_imd_decile
+High need / low access,1401,48.61,23.58,76.42,25.03,5.06
+High need / high access,1096,48.78,45.44,54.56,3.34,4.07
+Low need / low access,1095,32.64,22.67,77.33,9.96,6.5
+Low need / high access,1402,29.96,49.98,50.02,-20.02,4.91

@@ -1,0 +1,4 @@
+lsoa21cd,total_grid_count,retained_grid_count,excluded_grid_count,residential_weight_sum,residential_building_area_sqm,residential_landuse_grid_count,filter_method,limitation,run_mode,thames_buffer_removed_total,feature_mode
+E01000001,13,7,6,10281.7154816935,10281.7154816935,0,osm_residential_building_area_or_residential_landuse,OSM residential tags are incomplete and building footprint area is not population or floor area.,test,0,osm_residential_buildings_and_landuse
+E01000095,229,42,187,32115.6317395486,32091.6317395485,42,osm_residential_building_area_or_residential_landuse,OSM residential tags are incomplete and building footprint area is not population or floor area.,test,0,osm_residential_buildings_and_landuse
+E01000115,28,28,0,12119.5153083069,12104.5153083069,28,osm_residential_building_area_or_residential_landuse,OSM residential tags are incomplete and building footprint area is not population or floor area.,test,0,osm_residential_buildings_and_landuse

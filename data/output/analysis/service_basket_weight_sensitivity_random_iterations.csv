@@ -1,0 +1,3001 @@
+group,iteration,spearman_rank_correlation,top20_mismatch_overlap_pct
+Children and Adolescents,1,0.948548401405509,84
+Children and Adolescents,2,0.830961509283572,70.3
+Children and Adolescents,3,0.908320062747464,78.8
+Children and Adolescents,4,0.874808257201969,71.9
+Children and Adolescents,5,0.84096451911778,72.8
+Children and Adolescents,6,0.819827012809579,67.9
+Children and Adolescents,7,0.859614541393524,72.8
+Children and Adolescents,8,0.964666272767085,87.9
+Children and Adolescents,9,0.823954115290887,68.1
+Children and Adolescents,10,0.944640302792024,83.8
+Children and Adolescents,11,0.849169669861609,72.6
+Children and Adolescents,12,0.8296383449962,73.7
+Children and Adolescents,13,0.97622214268066,90.4
+Children and Adolescents,14,0.817110119423697,71.3
+Children and Adolescents,15,0.946193308017608,84.9
+Children and Adolescents,16,0.865482960974381,73.7
+Children and Adolescents,17,0.8357503751366,67.2
+Children and Adolescents,18,0.953310604481285,83.9
+Children and Adolescents,19,0.848519926022625,75.8
+Children and Adolescents,20,0.866691483258532,73.5
+Children and Adolescents,21,0.874892999132565,73.6
+Children and Adolescents,22,0.870481240061363,75.5
+Children and Adolescents,23,0.912528724299847,79.8
+Children and Adolescents,24,0.942194826570281,81.4
+Children and Adolescents,25,0.856407045506778,73.2
+Children and Adolescents,26,0.888106206654252,77.4
+Children and Adolescents,27,0.884710018083434,80
+Children and Adolescents,28,0.938650492896386,81.6
+Children and Adolescents,29,0.850244248296973,73
+Children and Adolescents,30,0.82757109404446,71.2
+Children and Adolescents,31,0.82583479597875,70.5
+Children and Adolescents,32,0.922961453023496,79.7
+Children and Adolescents,33,0.911964271278283,77.8
+Children and Adolescents,34,0.917970031794207,81.8
+Children and Adolescents,35,0.807736624728204,68.4
+Children and Adolescents,36,0.858000446856434,72.8
+Children and Adolescents,37,0.890720107309502,78.5
+Children and Adolescents,38,0.874261798602026,71.4
+Children and Adolescents,39,0.926895239964287,81.3
+Children and Adolescents,40,0.804232207179407,66.9
+Children and Adolescents,41,0.89150875352542,75.8
+Children and Adolescents,42,0.860254933490139,73.1
+Children and Adolescents,43,0.897994365413024,76.5
+Children and Adolescents,44,0.968704358609947,89.9
+Children and Adolescents,45,0.800839844052043,68.4
+Children and Adolescents,46,0.868342351478616,73.1
+Children and Adolescents,47,0.968755388127605,89.1
+Children and Adolescents,48,0.91149407764591,80.9
+Children and Adolescents,49,0.951213517045704,86.8
+Children and Adolescents,50,0.848467145067519,74.3
+Children and Adolescents,51,0.794664880718085,68.9
+Children and Adolescents,52,0.848459885107113,74.3
+Children and Adolescents,53,0.914892236842788,79.4
+Children and Adolescents,54,0.826527709954348,70.9
+Children and Adolescents,55,0.862040162258239,75.8
+Children and Adolescents,56,0.963296283433202,86.8
+Children and Adolescents,57,0.964385761443326,87.8
+Children and Adolescents,58,0.86149553568971,70.1
+Children and Adolescents,59,0.870906263930723,74
+Children and Adolescents,60,0.855861058282784,71.6
+Children and Adolescents,61,0.901928177885676,80.8
+Children and Adolescents,62,0.827052175409779,69.3
+Children and Adolescents,63,0.954751963843374,85.9
+Children and Adolescents,64,0.830110686532456,67
+Children and Adolescents,65,0.925030835548363,81.8
+Children and Adolescents,66,0.89400449576585,74.6
+Children and Adolescents,67,0.84958086003912,70.8
+Children and Adolescents,68,0.883474163316517,72.6
+Children and Adolescents,69,0.784543619494547,68.5
+Children and Adolescents,70,0.899050144546914,78.8
+Children and Adolescents,71,0.963391050521028,87.2
+Children and Adolescents,72,0.929831353997939,80.9
+Children and Adolescents,73,0.897931241356768,78.4
+Children and Adolescents,74,0.794772025892679,67.4
+Children and Adolescents,75,0.927132430224417,81.7
+Children and Adolescents,76,0.832399615838478,67.9
+Children and Adolescents,77,0.806682554831932,66.8
+Children and Adolescents,78,0.937372545967269,80.3
+Children and Adolescents,79,0.960421018037143,86.1
+Children and Adolescents,80,0.934891593755465,80.1
+Children and Adolescents,81,0.837140808746365,76.6
+Children and Adolescents,82,0.977687194549348,93
+Children and Adolescents,83,0.951279299739398,83.4
+Children and Adolescents,84,0.864581922497526,73.5
+Children and Adolescents,85,0.942677048936496,83.9
+Children and Adolescents,86,0.888804808261219,76.3
+Children and Adolescents,87,0.726258571544766,64.9
+Children and Adolescents,88,0.846017367498079,72.9
+Children and Adolescents,89,0.909027528582787,78.9
+Children and Adolescents,90,0.924198990629051,79.1
+Children and Adolescents,91,0.932892465516507,82
+Children and Adolescents,92,0.851090692189518,71.6
+Children and Adolescents,93,0.888597583589432,74
+Children and Adolescents,94,0.871097698206691,74.6
+Children and Adolescents,95,0.822480582749827,66.6
+Children and Adolescents,96,0.909036456640795,78.5
+Children and Adolescents,97,0.855745696618314,72.2
+Children and Adolescents,98,0.966111589519356,86.5
+Children and Adolescents,99,0.805630224859684,68.2
+Children and Adolescents,100,0.906380938330561,78.6
+Children and Adolescents,101,0.822446064204529,71
+Children and Adolescents,102,0.838604859428914,71.9
+Children and Adolescents,103,0.91936686706031,82.7
+Children and Adolescents,104,0.901683749680348,77.2
+Children and Adolescents,105,0.806347183729728,68.3
+Children and Adolescents,106,0.882116903830996,74.3
+Children and Adolescents,107,0.925506118354932,80.9
+Children and Adolescents,108,0.893394884446523,78.3
+Children and Adolescents,109,0.921969060827679,79.4
+Children and Adolescents,110,0.870002804166386,76.2
+Children and Adolescents,111,0.904484373549769,77.8
+Children and Adolescents,112,0.958355288495241,87.4
+Children and Adolescents,113,0.849715416122648,67.6
+Children and Adolescents,114,0.82220903421704,73.1
+Children and Adolescents,115,0.839990535971361,70.5
+Children and Adolescents,116,0.770906260618697,68.1
+Children and Adolescents,117,0.829550081884848,69
+Children and Adolescents,118,0.976182872078069,87.4
+Children and Adolescents,119,0.909406512871643,83.7
+Children and Adolescents,120,0.814211804394013,67.3
+Children and Adolescents,121,0.960161762998773,89.4
+Children and Adolescents,122,0.909127138534616,75.8
+Children and Adolescents,123,0.938208828950164,81.1
+Children and Adolescents,124,0.896019468740133,75.8
+Children and Adolescents,125,0.93911485413656,84
+Children and Adolescents,126,0.914608264121364,80
+Children and Adolescents,127,0.820298615993338,67.4
+Children and Adolescents,128,0.854175169792259,74.8
+Children and Adolescents,129,0.855891170944277,71.1
+Children and Adolescents,130,0.894230565022034,76.3
+Children and Adolescents,131,0.827914830877491,72.2
+Children and Adolescents,132,0.927696988119302,81.9
+Children and Adolescents,133,0.86232202811945,75.5
+Children and Adolescents,134,0.901648290647296,77.3
+Children and Adolescents,135,0.840727448279315,68.8
+Children and Adolescents,136,0.852070211558556,73
+Children and Adolescents,137,0.769340431125042,65
+Children and Adolescents,138,0.815479812251626,69
+Children and Adolescents,139,0.96852663768887,89.9
+Children and Adolescents,140,0.966354985948486,89.1
+Children and Adolescents,141,0.746063240699864,64.5
+Children and Adolescents,142,0.950128427625163,87.4
+Children and Adolescents,143,0.802523600343188,67.8
+Children and Adolescents,144,0.935947529115435,86.2
+Children and Adolescents,145,0.755782391019954,67.3
+Children and Adolescents,146,0.822068508736388,68.2
+Children and Adolescents,147,0.938598979381367,82
+Children and Adolescents,148,0.9326737718367,86.8
+Children and Adolescents,149,0.944914443579411,86
+Children and Adolescents,150,0.859686679497167,70.7
+Children and Adolescents,151,0.834913971720402,70.3
+Children and Adolescents,152,0.904954157612564,76.9
+Children and Adolescents,153,0.866647127720998,72
+Children and Adolescents,154,0.938256520490207,79.8
+Children and Adolescents,155,0.929498265347704,83
+Children and Adolescents,156,0.9492241564294,84.3
+Children and Adolescents,157,0.883662588494135,72.7
+Children and Adolescents,158,0.965399180426828,89.5
+Children and Adolescents,159,0.978415877842362,89.8
+Children and Adolescents,160,0.820524536875692,66.5
+Children and Adolescents,161,0.828193126180291,67.7
+Children and Adolescents,162,0.962144995101471,88
+Children and Adolescents,163,0.898609119812494,76.8
+Children and Adolescents,164,0.830874158045021,68.3
+Children and Adolescents,165,0.991460339759009,94.2
+Children and Adolescents,166,0.909553797984585,78.3
+Children and Adolescents,167,0.960985478766439,87.1
+Children and Adolescents,168,0.917615247517892,78.7
+Children and Adolescents,169,0.818334437354558,70.8
+Children and Adolescents,170,0.966247133204147,88.7
+Children and Adolescents,171,0.924727287308735,81.1
+Children and Adolescents,172,0.96154840782498,84.9
+Children and Adolescents,173,0.812940727462265,71.2
+Children and Adolescents,174,0.770495614221638,67.3
+Children and Adolescents,175,0.945405801726995,87.9
+Children and Adolescents,176,0.882283969439625,76.2
+Children and Adolescents,177,0.855090822754157,70.6
+Children and Adolescents,178,0.891938326594216,74.2
+Children and Adolescents,179,0.871154857249595,75.9
+Children and Adolescents,180,0.894084715666763,73.8
+Children and Adolescents,181,0.935002777058727,81.5
+Children and Adolescents,182,0.897417091399175,79.1
+Children and Adolescents,183,0.934205240215472,83.5
+Children and Adolescents,184,0.929382437413655,82.3
+Children and Adolescents,185,0.952740589368029,84.2
+Children and Adolescents,186,0.93301503429525,81
+Children and Adolescents,187,0.811910613387967,65.5
+Children and Adolescents,188,0.900197688655411,78.7
+Children and Adolescents,189,0.858923588023935,70.9
+Children and Adolescents,190,0.909347851158323,79.2
+Children and Adolescents,191,0.920843970545168,80.9
+Children and Adolescents,192,0.856115481970576,73.7
+Children and Adolescents,193,0.786745386642304,66.3
+Children and Adolescents,194,0.851827535850489,73.1
+Children and Adolescents,195,0.864340257080355,74.2
+Children and Adolescents,196,0.891730931292525,78.7
+Children and Adolescents,197,0.869403465856028,73.6
+Children and Adolescents,198,0.870245524868335,73.6
+Children and Adolescents,199,0.947745053462663,82.4
+Children and Adolescents,200,0.802796054678938,64.8
+Children and Adolescents,201,0.966801706600085,87.8
+Children and Adolescents,202,0.927751871502675,79.5
+Children and Adolescents,203,0.791153573276336,68.2
+Children and Adolescents,204,0.940492459094481,82.9
+Children and Adolescents,205,0.904489181873501,76.3
+Children and Adolescents,206,0.8210098876174,66.2
+Children and Adolescents,207,0.84519657493573,70.2
+Children and Adolescents,208,0.872038688697769,73.8
+Children and Adolescents,209,0.796725525951297,69.2
+Children and Adolescents,210,0.876334309357866,71.8
+Children and Adolescents,211,0.813747629921806,70.8
+Children and Adolescents,212,0.827707566799928,70.4
+Children and Adolescents,213,0.957569696323382,86.4
+Children and Adolescents,214,0.88001322276839,77.3
+Children and Adolescents,215,0.897686243261047,76.6
+Children and Adolescents,216,0.949911106788671,88.8
+Children and Adolescents,217,0.824550003427964,66.6
+Children and Adolescents,218,0.86831133417032,71.5
+Children and Adolescents,219,0.873372625262412,74.3
+Children and Adolescents,220,0.9556719818381,87
+Children and Adolescents,221,0.81610753977473,69.6
+Children and Adolescents,222,0.849974394357114,72.2
+Children and Adolescents,223,0.90792501887027,80.7
+Children and Adolescents,224,0.832653370206141,70.3
+Children and Adolescents,225,0.882898116710724,78.5
+Children and Adolescents,226,0.832206770662272,68.8
+Children and Adolescents,227,0.899211744747707,82.6
+Children and Adolescents,228,0.906870680166865,78.5
+Children and Adolescents,229,0.939016350677752,83.9
+Children and Adolescents,230,0.88835677560921,78.3
+Children and Adolescents,231,0.981709569289678,92.1
+Children and Adolescents,232,0.954370115265173,83.2
+Children and Adolescents,233,0.922485231800625,77.4
+Children and Adolescents,234,0.850862295728349,75.5
+Children and Adolescents,235,0.964338098373716,86.1
+Children and Adolescents,236,0.856527066013163,69.3
+Children and Adolescents,237,0.836432206743257,71.9
+Children and Adolescents,238,0.957170132391611,85.5
+Children and Adolescents,239,0.839558069612879,70.4
+Children and Adolescents,240,0.953522123178425,84.5
+Children and Adolescents,241,0.93047794046109,84.2
+Children and Adolescents,242,0.79263112168999,69.2
+Children and Adolescents,243,0.901211080517333,80.4
+Children and Adolescents,244,0.871297960291985,71.6
+Children and Adolescents,245,0.891296378499319,74.7
+Children and Adolescents,246,0.799069836945528,67.5
+Children and Adolescents,247,0.818589573862987,65.6
+Children and Adolescents,248,0.97854679115567,90.3
+Children and Adolescents,249,0.95192876971305,86.7
+Children and Adolescents,250,0.804861441515832,70
+Children and Adolescents,251,0.894004700502466,73.4
+Children and Adolescents,252,0.945078412462418,82.4
+Children and Adolescents,253,0.872976698801796,74.2
+Children and Adolescents,254,0.928262404992681,81.7
+Children and Adolescents,255,0.929270453084404,79.5
+Children and Adolescents,256,0.932859892788008,82.4
+Children and Adolescents,257,0.869297048435801,75.8
+Children and Adolescents,258,0.866008053742804,74.4
+Children and Adolescents,259,0.910779796971671,79.9
+Children and Adolescents,260,0.959989167815443,86.4
+Children and Adolescents,261,0.981841846052502,90.4
+Children and Adolescents,262,0.851013028027827,71
+Children and Adolescents,263,0.956154629285703,83.9
+Children and Adolescents,264,0.904818729736438,78.6
+Children and Adolescents,265,0.827445674079515,71.6
+Children and Adolescents,266,0.968917743059824,87.1
+Children and Adolescents,267,0.884892567464691,75.8
+Children and Adolescents,268,0.852326453211152,71
+Children and Adolescents,269,0.816026353902376,67.2
+Children and Adolescents,270,0.934727963097347,80.2
+Children and Adolescents,271,0.956065594967648,87.5
+Children and Adolescents,272,0.961506135301864,84.4
+Children and Adolescents,273,0.924937418710564,83
+Children and Adolescents,274,0.868934468078185,74.6
+Children and Adolescents,275,0.912295472064225,81.2
+Children and Adolescents,276,0.855572201750034,74.7
+Children and Adolescents,277,0.952286820622291,86.1
+Children and Adolescents,278,0.862979873217726,73.5
+Children and Adolescents,279,0.945168137489556,82.6
+Children and Adolescents,280,0.904868002324891,79.4
+Children and Adolescents,281,0.919322626175281,80.8
+Children and Adolescents,282,0.936632883926128,82.2
+Children and Adolescents,283,0.880066831244811,74.4
+Children and Adolescents,284,0.88341082416638,75.1
+Children and Adolescents,285,0.873009818634706,74.6
+Children and Adolescents,286,0.855178186565945,69.1
+Children and Adolescents,287,0.822028270861676,71.5
+Children and Adolescents,288,0.887361264624389,75.2
+Children and Adolescents,289,0.848119963023059,72.3
+Children and Adolescents,290,0.882026256477446,75.7
+Children and Adolescents,291,0.93789610465627,82.6
+Children and Adolescents,292,0.895410355292083,74.9
+Children and Adolescents,293,0.807077941895869,65.8
+Children and Adolescents,294,0.848035479397813,71.2
+Children and Adolescents,295,0.839577612614091,70.9
+Children and Adolescents,296,0.835060057510335,67.1
+Children and Adolescents,297,0.716989512322709,62.9
+Children and Adolescents,298,0.923972033683073,85.1
+Children and Adolescents,299,0.87300973746266,73.1
+Children and Adolescents,300,0.826679162685848,68.5
+Children and Adolescents,301,0.960810390710072,87.1
+Children and Adolescents,302,0.73233456404235,64.6
+Children and Adolescents,303,0.974204314425442,89.6
+Children and Adolescents,304,0.831433816664943,69.9
+Children and Adolescents,305,0.767561504246331,67.1
+Children and Adolescents,306,0.844552054192775,74.4
+Children and Adolescents,307,0.917101006030989,80.4
+Children and Adolescents,308,0.924641744352151,83.5
+Children and Adolescents,309,0.783048718231567,65.1
+Children and Adolescents,310,0.974277951393809,87.3
+Children and Adolescents,311,0.909499488297297,78.6
+Children and Adolescents,312,0.913258511869908,80.3
+Children and Adolescents,313,0.847051288661796,70.7
+Children and Adolescents,314,0.784213372877583,67.8
+Children and Adolescents,315,0.887158983161635,76.5
+Children and Adolescents,316,0.991778769508399,93.9
+Children and Adolescents,317,0.925764721463744,80
+Children and Adolescents,318,0.946498275925018,85
+Children and Adolescents,319,0.799844648987865,67.1
+Children and Adolescents,320,0.737611089198997,66.7
+Children and Adolescents,321,0.83570848573591,71.3
+Children and Adolescents,322,0.823164894559937,70.8
+Children and Adolescents,323,0.984558277937965,92.3
+Children and Adolescents,324,0.921263220841954,83.9
+Children and Adolescents,325,0.888309220255146,79.3
+Children and Adolescents,326,0.788201404038118,66.3
+Children and Adolescents,327,0.91022254774042,78
+Children and Adolescents,328,0.898431569280455,75.5
+Children and Adolescents,329,0.940813811422936,84.2
+Children and Adolescents,330,0.902715420523701,77.4
+Children and Adolescents,331,0.868397833270988,70.5
+Children and Adolescents,332,0.889025096911524,80
+Children and Adolescents,333,0.905574719016892,78
+Children and Adolescents,334,0.929979396732708,80.8
+Children and Adolescents,335,0.967368887146936,88.9
+Children and Adolescents,336,0.981529088808057,91.4
+Children and Adolescents,337,0.894314109460206,74.3
+Children and Adolescents,338,0.941192645411029,81.2
+Children and Adolescents,339,0.895959937498362,81.2
+Children and Adolescents,340,0.897611973584277,77.6
+Children and Adolescents,341,0.884332146453783,76.7
+Children and Adolescents,342,0.872557646401014,72.7
+Children and Adolescents,343,0.862725108944552,70
+Children and Adolescents,344,0.94081483500967,82.7
+Children and Adolescents,345,0.751712255369998,63.3
+Children and Adolescents,346,0.870010689705544,73.3
+Children and Adolescents,347,0.895209207010369,78.1
+Children and Adolescents,348,0.832535488017147,70.7
+Children and Adolescents,349,0.896780191627497,77.5
+Children and Adolescents,350,0.874694599138838,75
+Children and Adolescents,351,0.950644744466928,86.3
+Children and Adolescents,352,0.89032154528647,75.7
+Children and Adolescents,353,0.912353549049769,77.2
+Children and Adolescents,354,0.935854168736769,86.9
+Children and Adolescents,355,0.725018698881974,63.3
+Children and Adolescents,356,0.893699451359206,75.3
+Children and Adolescents,357,0.812195144390013,68.1
+Children and Adolescents,358,0.946441098383559,85.2
+Children and Adolescents,359,0.889101420891413,76.3
+Children and Adolescents,360,0.95102325386318,84.4
+Children and Adolescents,361,0.865193830431779,70.8
+Children and Adolescents,362,0.863915670046674,75.8
+Children and Adolescents,363,0.843054846824725,71.6
+Children and Adolescents,364,0.925497272143397,82.5
+Children and Adolescents,365,0.811480828163864,68.3
+Children and Adolescents,366,0.828180012679598,67.2
+Children and Adolescents,367,0.848267503502779,72.8
+Children and Adolescents,368,0.811464727387335,66.9
+Children and Adolescents,369,0.879119151502667,72.9
+Children and Adolescents,370,0.827098692098859,69.9
+Children and Adolescents,371,0.792123003562147,66.5
+Children and Adolescents,372,0.82722300899109,69
+Children and Adolescents,373,0.863701828383802,76.4
+Children and Adolescents,374,0.906644365034048,79
+Children and Adolescents,375,0.897600856626891,78.3
+Children and Adolescents,376,0.887513154576954,72.6
+Children and Adolescents,377,0.905111503434648,78.5
+Children and Adolescents,378,0.748115906744981,66
+Children and Adolescents,379,0.833049556995387,69.5
+Children and Adolescents,380,0.844274345255643,71.2
+Children and Adolescents,381,0.887200485875074,77.4
+Children and Adolescents,382,0.889534320617094,74.5
+Children and Adolescents,383,0.830089569564313,68.9
+Children and Adolescents,384,0.907905884234305,77.3
+Children and Adolescents,385,0.88155140491845,75.6
+Children and Adolescents,386,0.940353876877442,84.8
+Children and Adolescents,387,0.846011353781498,69.5
+Children and Adolescents,388,0.913840354015309,79.1
+Children and Adolescents,389,0.944860771128819,83.7
+Children and Adolescents,390,0.853235959160888,73.5
+Children and Adolescents,391,0.958397156940537,86.9
+Children and Adolescents,392,0.919316250339843,77.7
+Children and Adolescents,393,0.865350376865766,72.3
+Children and Adolescents,394,0.984774898093497,92.6
+Children and Adolescents,395,0.850287472484054,70.6
+Children and Adolescents,396,0.881694387093976,78.8
+Children and Adolescents,397,0.853126764404161,70.7
+Children and Adolescents,398,0.895004693099553,75.7
+Children and Adolescents,399,0.923793444486052,81.7
+Children and Adolescents,400,0.855480187623008,70.2
+Children and Adolescents,401,0.847481825534234,72.8
+Children and Adolescents,402,0.905108988161016,83
+Children and Adolescents,403,0.910634662412144,81.8
+Children and Adolescents,404,0.955681713186243,87.1
+Children and Adolescents,405,0.944027466750561,83.5
+Children and Adolescents,406,0.84852152412439,68
+Children and Adolescents,407,0.823110534627875,70.5
+Children and Adolescents,408,0.908683627237863,79.5
+Children and Adolescents,409,0.948245631598583,84.8
+Children and Adolescents,410,0.941578125968626,85.5
+Children and Adolescents,411,0.954609698486871,84.4
+Children and Adolescents,412,0.825592824660989,67.3
+Children and Adolescents,413,0.872213135711747,75.6
+Children and Adolescents,414,0.801477969738404,71.2
+Children and Adolescents,415,0.835018257615676,71.9
+Children and Adolescents,416,0.749135970997308,61.2
+Children and Adolescents,417,0.879933034469176,78.6
+Children and Adolescents,418,0.981235296051406,91.4
+Children and Adolescents,419,0.954689620724831,85
+Children and Adolescents,420,0.763965695933287,62.6
+Children and Adolescents,421,0.84088630948957,70.2
+Children and Adolescents,422,0.87588355293809,76.5
+Children and Adolescents,423,0.887225095890753,75.4
+Children and Adolescents,424,0.917177458778166,81.6
+Children and Adolescents,425,0.891659653757096,72.8
+Children and Adolescents,426,0.930208072165581,80.2
+Children and Adolescents,427,0.881234662198776,73.8
+Children and Adolescents,428,0.918903158231428,77.7
+Children and Adolescents,429,0.94501623766146,83.8
+Children and Adolescents,430,0.893976708719622,75.1
+Children and Adolescents,431,0.893314087910953,76.2
+Children and Adolescents,432,0.904335892437775,78.6
+Children and Adolescents,433,0.953329156268235,84.6
+Children and Adolescents,434,0.920572925423589,83.5
+Children and Adolescents,435,0.951063186367207,83.6
+Children and Adolescents,436,0.895579047376564,75.4
+Children and Adolescents,437,0.95268208662667,88
+Children and Adolescents,438,0.966800863904173,87.4
+Children and Adolescents,439,0.863669125490989,77.8
+Children and Adolescents,440,0.834130067927112,70.7
+Children and Adolescents,441,0.846497221711985,68.4
+Children and Adolescents,442,0.972851817306305,89.7
+Children and Adolescents,443,0.832972329862067,69.1
+Children and Adolescents,444,0.87883887097729,74.6
+Children and Adolescents,445,0.915125797050455,77.6
+Children and Adolescents,446,0.926695736897846,81.9
+Children and Adolescents,447,0.860992391746344,70.7
+Children and Adolescents,448,0.928576614277381,81.8
+Children and Adolescents,449,0.977631451320361,92.6
+Children and Adolescents,450,0.90389820683713,78.5
+Children and Adolescents,451,0.911356866200732,77.4
+Children and Adolescents,452,0.902797762941156,78.3
+Children and Adolescents,453,0.850470627403961,69.8
+Children and Adolescents,454,0.875991665818365,73
+Children and Adolescents,455,0.882045576725219,75.3
+Children and Adolescents,456,0.862803154446256,72.6
+Children and Adolescents,457,0.935100720936234,81.7
+Children and Adolescents,458,0.92297286509065,78.6
+Children and Adolescents,459,0.848939713066559,74.2
+Children and Adolescents,460,0.761257213175767,64.6
+Children and Adolescents,461,0.819521011873465,71.2
+Children and Adolescents,462,0.95072944573924,82.4
+Children and Adolescents,463,0.812383944645112,69.4
+Children and Adolescents,464,0.909375124917811,77.9
+Children and Adolescents,465,0.888653673377294,73.8
+Children and Adolescents,466,0.896954592202394,77.3
+Children and Adolescents,467,0.930384677585226,83.3
+Children and Adolescents,468,0.90612496216114,81.2
+Children and Adolescents,469,0.910382520068335,78.7
+Children and Adolescents,470,0.843286052368613,71.9
+Children and Adolescents,471,0.76594835824194,67.2
+Children and Adolescents,472,0.847243162663841,72.8
+Children and Adolescents,473,0.896896776701638,82.8
+Children and Adolescents,474,0.890938592109786,78.7
+Children and Adolescents,475,0.802488954957535,67.3
+Children and Adolescents,476,0.792220865159621,64.2
+Children and Adolescents,477,0.842698490460238,72
+Children and Adolescents,478,0.936865097159554,83.2
+Children and Adolescents,479,0.844158569252435,73.9
+Children and Adolescents,480,0.866712329010875,73.9
+Children and Adolescents,481,0.863860303436714,71
+Children and Adolescents,482,0.918788307734071,78.9
+Children and Adolescents,483,0.902990383629684,75.5
+Children and Adolescents,484,0.92963239774687,81.2
+Children and Adolescents,485,0.923531817441506,78
+Children and Adolescents,486,0.908006209415437,77.4
+Children and Adolescents,487,0.924141209283181,83.8
+Children and Adolescents,488,0.927128945414518,81.3
+Children and Adolescents,489,0.895558170263388,75.5
+Children and Adolescents,490,0.882089702668703,73.1
+Children and Adolescents,491,0.899907352719959,76.8
+Children and Adolescents,492,0.817965323538397,70.7
+Children and Adolescents,493,0.886125353494686,75.9
+Children and Adolescents,494,0.891804127571347,75.2
+Children and Adolescents,495,0.864856325588648,74.7
+Children and Adolescents,496,0.874910986954441,75.9
+Children and Adolescents,497,0.858941637604009,72
+Children and Adolescents,498,0.857092418430639,69.4
+Children and Adolescents,499,0.849327966817751,69.9
+Children and Adolescents,500,0.897698680504654,79.1
+Children and Adolescents,501,0.92217607642725,81.1
+Children and Adolescents,502,0.941372016653751,88
+Children and Adolescents,503,0.877266929589825,74.4
+Children and Adolescents,504,0.917374005929604,76.2
+Children and Adolescents,505,0.874008854365109,71
+Children and Adolescents,506,0.954955258439252,85.9
+Children and Adolescents,507,0.889444029119869,75.5
+Children and Adolescents,508,0.886440756658811,74.2
+Children and Adolescents,509,0.800694884698885,67.5
+Children and Adolescents,510,0.872980517500986,71.7
+Children and Adolescents,511,0.820843075882175,72.5
+Children and Adolescents,512,0.93736302802694,83.5
+Children and Adolescents,513,0.827060152044688,70.7
+Children and Adolescents,514,0.885334146288654,73.9
+Children and Adolescents,515,0.812267672071307,70.2
+Children and Adolescents,516,0.932875794126986,80.5
+Children and Adolescents,517,0.918890963299628,79.3
+Children and Adolescents,518,0.915227379314409,79.3
+Children and Adolescents,519,0.808504962806047,68.6
+Children and Adolescents,520,0.835623927971923,71.2
+Children and Adolescents,521,0.94539048391146,83.2
+Children and Adolescents,522,0.864064995396126,72.4
+Children and Adolescents,523,0.936194911453353,83.6
+Children and Adolescents,524,0.915565001074191,81.5
+Children and Adolescents,525,0.851894000582067,72.7
+Children and Adolescents,526,0.912814728056676,75.1
+Children and Adolescents,527,0.897729051182457,75.3
+Children and Adolescents,528,0.857540861760213,74.6
+Children and Adolescents,529,0.912766575208907,76.6
+Children and Adolescents,530,0.852566682533437,75.1
+Children and Adolescents,531,0.861789820874052,72.2
+Children and Adolescents,532,0.871462723938449,75.1
+Children and Adolescents,533,0.853826055612223,71.2
+Children and Adolescents,534,0.915456368596472,79.3
+Children and Adolescents,535,0.889480460049681,76.1
+Children and Adolescents,536,0.851063408988059,74.5
+Children and Adolescents,537,0.965630717306821,86.8
+Children and Adolescents,538,0.843222334865209,70.8
+Children and Adolescents,539,0.880485222225891,73.8
+Children and Adolescents,540,0.807158029561014,67.4
+Children and Adolescents,541,0.846383495531777,72.7
+Children and Adolescents,542,0.915105474460382,79.9
+Children and Adolescents,543,0.827494720205184,68.9
+Children and Adolescents,544,0.814076939471321,68.8
+Children and Adolescents,545,0.860169540689797,73.1
+Children and Adolescents,546,0.861614395267223,78.1
+Children and Adolescents,547,0.971343921338042,87.8
+Children and Adolescents,548,0.798073109777035,68.2
+Children and Adolescents,549,0.908046753238913,78.5
+Children and Adolescents,550,0.809716196718287,69.2
+Children and Adolescents,551,0.934024068928422,81.4
+Children and Adolescents,552,0.913917620602579,81.6
+Children and Adolescents,553,0.880660665897716,77.5
+Children and Adolescents,554,0.832810112031121,67.1
+Children and Adolescents,555,0.856247935336796,73
+Children and Adolescents,556,0.915107013405309,81.5
+Children and Adolescents,557,0.915021080582034,81.7
+Children and Adolescents,558,0.784909136449663,63.6
+Children and Adolescents,559,0.856943635320093,73.5
+Children and Adolescents,560,0.856203459173265,70.2
+Children and Adolescents,561,0.804724754967164,64.8
+Children and Adolescents,562,0.749361943184249,62.5
+Children and Adolescents,563,0.885710877174053,75.1
+Children and Adolescents,564,0.776446865660896,69.3
+Children and Adolescents,565,0.825588843328666,69.2
+Children and Adolescents,566,0.946974861338199,84.1
+Children and Adolescents,567,0.854467479581383,73.8
+Children and Adolescents,568,0.886796745653548,76.2
+Children and Adolescents,569,0.828434105850231,70.5
+Children and Adolescents,570,0.899761242024419,79.9
+Children and Adolescents,571,0.882718004995878,74.5
+Children and Adolescents,572,0.830998263360024,68.4
+Children and Adolescents,573,0.982810635247752,90.9
+Children and Adolescents,574,0.879285545864235,74.5
+Children and Adolescents,575,0.843144520595449,71.7
+Children and Adolescents,576,0.809328706032507,70.3
+Children and Adolescents,577,0.854709998292596,70.8
+Children and Adolescents,578,0.900286358734982,80.5
+Children and Adolescents,579,0.883103690868171,78.5
+Children and Adolescents,580,0.925283442572029,81.5
+Children and Adolescents,581,0.848531415552479,74.1
+Children and Adolescents,582,0.851388241646294,73.2
+Children and Adolescents,583,0.809097889295496,69.1
+Children and Adolescents,584,0.85964259079166,73.9
+Children and Adolescents,585,0.878910891682549,72.4
+Children and Adolescents,586,0.871340944190538,76.5
+Children and Adolescents,587,0.887711710893109,72.8
+Children and Adolescents,588,0.866120487529144,72.4
+Children and Adolescents,589,0.959645432090398,88.8
+Children and Adolescents,590,0.962313687282298,87
+Children and Adolescents,591,0.929361583134634,81.8
+Children and Adolescents,592,0.86875794503492,73.3
+Children and Adolescents,593,0.90544969055653,78.6
+Children and Adolescents,594,0.794606327250219,68.4
+Children and Adolescents,595,0.871576123696231,72.2
+Children and Adolescents,596,0.918307094743461,84.9
+Children and Adolescents,597,0.865476280683552,73.6
+Children and Adolescents,598,0.863613102808564,72.3
+Children and Adolescents,599,0.915056132743214,78.2
+Children and Adolescents,600,0.891778703426535,74.6
+Children and Adolescents,601,0.93713780816276,83.8
+Children and Adolescents,602,0.826686192763164,71.4
+Children and Adolescents,603,0.964046222048138,85.9
+Children and Adolescents,604,0.878538848157672,73.8
+Children and Adolescents,605,0.914376611866266,78.1
+Children and Adolescents,606,0.84148712778071,73.1
+Children and Adolescents,607,0.788327968793874,68.7
+Children and Adolescents,608,0.937795747054493,84
+Children and Adolescents,609,0.842765881612961,70.6
+Children and Adolescents,610,0.861468867372525,72.5
+Children and Adolescents,611,0.901911086183926,80.8
+Children and Adolescents,612,0.814715478484781,68.1
+Children and Adolescents,613,0.848158958459637,69.7
+Children and Adolescents,614,0.905656065836313,75.9
+Children and Adolescents,615,0.832969244119963,70
+Children and Adolescents,616,0.902449584190676,77
+Children and Adolescents,617,0.797638501825376,66.9
+Children and Adolescents,618,0.80315812054548,70
+Children and Adolescents,619,0.90394356380167,81.4
+Children and Adolescents,620,0.895626300057649,78.8
+Children and Adolescents,621,0.938742652265976,85.1
+Children and Adolescents,622,0.921629139129012,78.5
+Children and Adolescents,623,0.771975202775454,67
+Children and Adolescents,624,0.89426856967791,74.5
+Children and Adolescents,625,0.850377440930985,69.4
+Children and Adolescents,626,0.81946264001902,68.3
+Children and Adolescents,627,0.847211788680273,72.2
+Children and Adolescents,628,0.96073638873245,88.1
+Children and Adolescents,629,0.927172699267267,82.1
+Children and Adolescents,630,0.941117100345575,83.3
+Children and Adolescents,631,0.820769034065216,71.2
+Children and Adolescents,632,0.933718890070037,83
+Children and Adolescents,633,0.974451447803635,91.4
+Children and Adolescents,634,0.879301013595146,72.6
+Children and Adolescents,635,0.97355924561461,91.5
+Children and Adolescents,636,0.904920748450685,78.6
+Children and Adolescents,637,0.902982002531568,78.4
+Children and Adolescents,638,0.894296999982499,73.8
+Children and Adolescents,639,0.790097470225033,68.6
+Children and Adolescents,640,0.783672748596771,64.6
+Children and Adolescents,641,0.86031499179622,74.2
+Children and Adolescents,642,0.889901678515689,75.7
+Children and Adolescents,643,0.854514601712767,69.6
+Children and Adolescents,644,0.93288202255206,82.5
+Children and Adolescents,645,0.864296493207555,74.5
+Children and Adolescents,646,0.80723678330689,70
+Children and Adolescents,647,0.829993174844477,68.8
+Children and Adolescents,648,0.884451771360854,77.6
+Children and Adolescents,649,0.905010232803909,76.5
+Children and Adolescents,650,0.972353128383532,90.4
+Children and Adolescents,651,0.871158873507576,71.8
+Children and Adolescents,652,0.791367348700891,69.6
+Children and Adolescents,653,0.821573002432268,69.5
+Children and Adolescents,654,0.968054791759745,91.7
+Children and Adolescents,655,0.878591691641749,75.9
+Children and Adolescents,656,0.959661623673638,84.9
+Children and Adolescents,657,0.939760692275336,82.6
+Children and Adolescents,658,0.902043873439437,75.1
+Children and Adolescents,659,0.861524913081798,73.6
+Children and Adolescents,660,0.823190788009246,69.1
+Children and Adolescents,661,0.808577826207218,69.1
+Children and Adolescents,662,0.884144849061793,73.6
+Children and Adolescents,663,0.861997584605306,66.8
+Children and Adolescents,664,0.838456427405535,70.2
+Children and Adolescents,665,0.97953210293305,90.9
+Children and Adolescents,666,0.837140766546536,70.3
+Children and Adolescents,667,0.900781936672831,80
+Children and Adolescents,668,0.82205956863505,70.6
+Children and Adolescents,669,0.930477966233817,82
+Children and Adolescents,670,0.914895528911228,78.6
+Children and Adolescents,671,0.966007962394253,87.5
+Children and Adolescents,672,0.911748963893934,80.2
+Children and Adolescents,673,0.982179255897843,91.4
+Children and Adolescents,674,0.918980557680718,80.5
+Children and Adolescents,675,0.836651629622629,71.3
+Children and Adolescents,676,0.773655917210391,63.6
+Children and Adolescents,677,0.93177334867768,80.4
+Children and Adolescents,678,0.852718005389662,72.9
+Children and Adolescents,679,0.883655787384615,74
+Children and Adolescents,680,0.905835403983963,75.7
+Children and Adolescents,681,0.936352245521147,83.3
+Children and Adolescents,682,0.84865509805024,71.7
+Children and Adolescents,683,0.817549659408178,71.9
+Children and Adolescents,684,0.868200338405797,73.8
+Children and Adolescents,685,0.924586840350596,80.4
+Children and Adolescents,686,0.772389177370945,68.3
+Children and Adolescents,687,0.901434704399374,78.1
+Children and Adolescents,688,0.90328100171628,79.2
+Children and Adolescents,689,0.936740568641921,83.6
+Children and Adolescents,690,0.891455009778312,73.1
+Children and Adolescents,691,0.898927840384226,78.9
+Children and Adolescents,692,0.802264336970832,68.8
+Children and Adolescents,693,0.855336629101864,71.3
+Children and Adolescents,694,0.782979330872751,67.3
+Children and Adolescents,695,0.908013249223764,78.8
+Children and Adolescents,696,0.925486913626784,84.9
+Children and Adolescents,697,0.988660781194417,94
+Children and Adolescents,698,0.883598840159806,77.9
+Children and Adolescents,699,0.803191967795544,67.3
+Children and Adolescents,700,0.890436480376179,72.8
+Children and Adolescents,701,0.899767193501069,78.8
+Children and Adolescents,702,0.84881638493175,70.2
+Children and Adolescents,703,0.936658051114443,83.5
+Children and Adolescents,704,0.924669875355894,81.1
+Children and Adolescents,705,0.893140401023813,75.1
+Children and Adolescents,706,0.961062812940878,86.9
+Children and Adolescents,707,0.805175295185073,67.4
+Children and Adolescents,708,0.793416858767201,68.4
+Children and Adolescents,709,0.728895660139246,63.9
+Children and Adolescents,710,0.847239809993363,69
+Children and Adolescents,711,0.71436823430867,56.3
+Children and Adolescents,712,0.867671059568436,73.5
+Children and Adolescents,713,0.927616500037508,80.7
+Children and Adolescents,714,0.871237378871806,72.5
+Children and Adolescents,715,0.852577627801106,73.6
+Children and Adolescents,716,0.937928345229718,84.4
+Children and Adolescents,717,0.917218439870881,81.7
+Children and Adolescents,718,0.874979532436292,73.3
+Children and Adolescents,719,0.8871044294283,77.5
+Children and Adolescents,720,0.834648098534786,73.6
+Children and Adolescents,721,0.821165896726161,70.2
+Children and Adolescents,722,0.832433747118445,68.8
+Children and Adolescents,723,0.909681455889351,77.5
+Children and Adolescents,724,0.828751852501924,72
+Children and Adolescents,725,0.963155756314657,87.1
+Children and Adolescents,726,0.929579696566784,81.5
+Children and Adolescents,727,0.827721982184633,71.9
+Children and Adolescents,728,0.801348894622696,65.1
+Children and Adolescents,729,0.811295041631754,68.6
+Children and Adolescents,730,0.953521470092706,84.6
+Children and Adolescents,731,0.839267289856617,69.2
+Children and Adolescents,732,0.963109039465426,88.7
+Children and Adolescents,733,0.870702279011149,74.7
+Children and Adolescents,734,0.874817531915198,71.5
+Children and Adolescents,735,0.943198356486187,84.6
+Children and Adolescents,736,0.933619871253036,81.5
+Children and Adolescents,737,0.932785053220846,83.4
+Children and Adolescents,738,0.86877437695486,72.5
+Children and Adolescents,739,0.910984557385373,82.4
+Children and Adolescents,740,0.818987230757482,67.6
+Children and Adolescents,741,0.922908317464571,84.2
+Children and Adolescents,742,0.900392941967782,81
+Children and Adolescents,743,0.906120884096788,81
+Children and Adolescents,744,0.940724045400302,86.9
+Children and Adolescents,745,0.874163191666923,73.8
+Children and Adolescents,746,0.917657356733448,83
+Children and Adolescents,747,0.844681643076957,69.2
+Children and Adolescents,748,0.790980285264298,68
+Children and Adolescents,749,0.841703225014837,73.2
+Children and Adolescents,750,0.747892320197264,62.2
+Children and Adolescents,751,0.926972855952657,81
+Children and Adolescents,752,0.807503414933278,67.8
+Children and Adolescents,753,0.783536932829061,63.4
+Children and Adolescents,754,0.956991741235113,87.8
+Children and Adolescents,755,0.835745100735984,70.3
+Children and Adolescents,756,0.804790466749728,69
+Children and Adolescents,757,0.776599389863411,68.7
+Children and Adolescents,758,0.881215073625602,73.3
+Children and Adolescents,759,0.916634853851244,85.5
+Children and Adolescents,760,0.710883479471787,64.2
+Children and Adolescents,761,0.936192924255671,80.9
+Children and Adolescents,762,0.83488417628023,70.2
+Children and Adolescents,763,0.884781397071878,75.5
+Children and Adolescents,764,0.899809354984678,76.6
+Children and Adolescents,765,0.833614982443617,69.6
+Children and Adolescents,766,0.851529729485389,72.4
+Children and Adolescents,767,0.909287200657602,83.2
+Children and Adolescents,768,0.792054074524311,62.3
+Children and Adolescents,769,0.94682386432632,86
+Children and Adolescents,770,0.782850917706652,64.2
+Children and Adolescents,771,0.876438274852379,72.7
+Children and Adolescents,772,0.902451354704758,76.8
+Children and Adolescents,773,0.971916577987206,88.9
+Children and Adolescents,774,0.783668142215602,66.2
+Children and Adolescents,775,0.847614343789918,73.4
+Children and Adolescents,776,0.943493132123115,83.1
+Children and Adolescents,777,0.832083410781244,68.4
+Children and Adolescents,778,0.80090926869701,62.5
+Children and Adolescents,779,0.862097017568352,72
+Children and Adolescents,780,0.859056021639094,71.8
+Children and Adolescents,781,0.848669882587107,70.4
+Children and Adolescents,782,0.909292687454393,77.4
+Children and Adolescents,783,0.90756209513322,79.4
+Children and Adolescents,784,0.806860724150285,68.5
+Children and Adolescents,785,0.792507352961984,67.3
+Children and Adolescents,786,0.940454156197572,85.1
+Children and Adolescents,787,0.928507774408363,78
+Children and Adolescents,788,0.869271499907473,72.5
+Children and Adolescents,789,0.896670164291255,77.5
+Children and Adolescents,790,0.868590862661975,71.4
+Children and Adolescents,791,0.819856358696315,69.8
+Children and Adolescents,792,0.881045486577157,77.6
+Children and Adolescents,793,0.926034725174459,83.1
+Children and Adolescents,794,0.914772787623821,82.2
+Children and Adolescents,795,0.817847776539374,69.7
+Children and Adolescents,796,0.926783799897221,79.8
+Children and Adolescents,797,0.897418293757104,82.2
+Children and Adolescents,798,0.769183184154614,66.3
+Children and Adolescents,799,0.975027828635932,91.1
+Children and Adolescents,800,0.878247592978901,74.7
+Children and Adolescents,801,0.885174851036772,79.3
+Children and Adolescents,802,0.866660418306821,72.3
+Children and Adolescents,803,0.926787160323604,82.4
+Children and Adolescents,804,0.875733753129595,74.7
+Children and Adolescents,805,0.809350993660534,68
+Children and Adolescents,806,0.95909131759352,86.2
+Children and Adolescents,807,0.865147660590613,74.1
+Children and Adolescents,808,0.902957580247323,80.5
+Children and Adolescents,809,0.822937618080319,69.4
+Children and Adolescents,810,0.882024250443995,74
+Children and Adolescents,811,0.949022442881932,86
+Children and Adolescents,812,0.916949022959393,81.5
+Children and Adolescents,813,0.915736432052862,81.3
+Children and Adolescents,814,0.881411833992161,75.1
+Children and Adolescents,815,0.827443093001126,70.2
+Children and Adolescents,816,0.894513548648822,77.9
+Children and Adolescents,817,0.831749642887177,71.9
+Children and Adolescents,818,0.903517411809468,78.2
+Children and Adolescents,819,0.828108742611034,68.5
+Children and Adolescents,820,0.892084558686526,79.6
+Children and Adolescents,821,0.957186751657598,86.2
+Children and Adolescents,822,0.9020135044477,77.6
+Children and Adolescents,823,0.853813258947465,71.8
+Children and Adolescents,824,0.820729915353108,69.2
+Children and Adolescents,825,0.919508124823622,81.2
+Children and Adolescents,826,0.825253730001904,70
+Children and Adolescents,827,0.932356956712525,82.8
+Children and Adolescents,828,0.817353240301428,66.6
+Children and Adolescents,829,0.865554044804885,72.5
+Children and Adolescents,830,0.880051412891554,72.4
+Children and Adolescents,831,0.966388719846724,87.6
+Children and Adolescents,832,0.857179631170891,72.3
+Children and Adolescents,833,0.780697290929774,66.7
+Children and Adolescents,834,0.948713441036932,86.4
+Children and Adolescents,835,0.878407438129247,80.7
+Children and Adolescents,836,0.863336134825289,69.4
+Children and Adolescents,837,0.779142011923418,65.5
+Children and Adolescents,838,0.936476246203696,80.7
+Children and Adolescents,839,0.872791652645463,74.9
+Children and Adolescents,840,0.943560604014325,86.4
+Children and Adolescents,841,0.760399206192706,65.5
+Children and Adolescents,842,0.972622155717368,91
+Children and Adolescents,843,0.816630476353458,69
+Children and Adolescents,844,0.778671627428345,63.4
+Children and Adolescents,845,0.964598465059652,85
+Children and Adolescents,846,0.825593969066413,70
+Children and Adolescents,847,0.778400557208467,64.6
+Children and Adolescents,848,0.874327822114153,73
+Children and Adolescents,849,0.912243532552525,76.6
+Children and Adolescents,850,0.839310241816258,71.1
+Children and Adolescents,851,0.84267185398562,70.2
+Children and Adolescents,852,0.873935476280172,75.9
+Children and Adolescents,853,0.904152657164768,78
+Children and Adolescents,854,0.84855079654681,69.6
+Children and Adolescents,855,0.848860855362656,70.7
+Children and Adolescents,856,0.93393753133727,86.3
+Children and Adolescents,857,0.868823644870501,72
+Children and Adolescents,858,0.948456082293185,84.5
+Children and Adolescents,859,0.981050632246725,93.1
+Children and Adolescents,860,0.84404752049726,73
+Children and Adolescents,861,0.905951317232963,76.4
+Children and Adolescents,862,0.823750946523725,68.3
+Children and Adolescents,863,0.826190659289292,69.6
+Children and Adolescents,864,0.855969737247759,72.6
+Children and Adolescents,865,0.872862266111656,72
+Children and Adolescents,866,0.893498515425492,73.4
+Children and Adolescents,867,0.826260666349715,70.5
+Children and Adolescents,868,0.982785044230555,93.3
+Children and Adolescents,869,0.783686161061097,67.6
+Children and Adolescents,870,0.891827000794269,76.2
+Children and Adolescents,871,0.938718659350544,81.5
+Children and Adolescents,872,0.876939929758379,73.7
+Children and Adolescents,873,0.969043549567501,88.5
+Children and Adolescents,874,0.735612398421971,65.4
+Children and Adolescents,875,0.860474538609186,71.3
+Children and Adolescents,876,0.921949976195621,81.8
+Children and Adolescents,877,0.958828364144743,83.9
+Children and Adolescents,878,0.947118206644222,84.9
+Children and Adolescents,879,0.845507744483847,70
+Children and Adolescents,880,0.883001707705836,76.9
+Children and Adolescents,881,0.833846978319017,71.3
+Children and Adolescents,882,0.81832294907721,67.5
+Children and Adolescents,883,0.910227928507731,76.8
+Children and Adolescents,884,0.943996690935125,82.2
+Children and Adolescents,885,0.903025522117456,78.5
+Children and Adolescents,886,0.784407756565155,68.1
+Children and Adolescents,887,0.935050466960877,82.1
+Children and Adolescents,888,0.840507072868857,70.5
+Children and Adolescents,889,0.842793262798956,70.3
+Children and Adolescents,890,0.769768775292408,65.2
+Children and Adolescents,891,0.958696915770353,86.1
+Children and Adolescents,892,0.829570987468456,70.3
+Children and Adolescents,893,0.969673092357703,88.5
+Children and Adolescents,894,0.887632848998127,73.2
+Children and Adolescents,895,0.810328827685921,67
+Children and Adolescents,896,0.882634038222198,77.4
+Children and Adolescents,897,0.914969832791056,82.5
+Children and Adolescents,898,0.861143048269187,70.4
+Children and Adolescents,899,0.911040211830929,78
+Children and Adolescents,900,0.894111625621327,80.5
+Children and Adolescents,901,0.879937341934885,76.3
+Children and Adolescents,902,0.878291135977022,73.3
+Children and Adolescents,903,0.9149464511469,82.2
+Children and Adolescents,904,0.916755753376226,78.3
+Children and Adolescents,905,0.903914015346117,76.2
+Children and Adolescents,906,0.846170607652497,70.6
+Children and Adolescents,907,0.870152467740727,63.6
+Children and Adolescents,908,0.893178786634316,77.8
+Children and Adolescents,909,0.924244639812959,80.1
+Children and Adolescents,910,0.809224628486848,67.9
+Children and Adolescents,911,0.769078094969205,63.4
+Children and Adolescents,912,0.873447058005875,72.4
+Children and Adolescents,913,0.799883084409581,67.9
+Children and Adolescents,914,0.900325035216,75.9
+Children and Adolescents,915,0.833302425166629,74.6
+Children and Adolescents,916,0.877971059518985,79
+Children and Adolescents,917,0.935805847378722,87.1
+Children and Adolescents,918,0.916777026040543,81.3
+Children and Adolescents,919,0.827927095323394,70.2
+Children and Adolescents,920,0.879381548019675,75.9
+Children and Adolescents,921,0.897699833725796,76.6
+Children and Adolescents,922,0.882487977482392,75.2
+Children and Adolescents,923,0.969784103585861,90.3
+Children and Adolescents,924,0.789189539639254,65.6
+Children and Adolescents,925,0.926055316908878,81.2
+Children and Adolescents,926,0.899272638186488,77.8
+Children and Adolescents,927,0.823335110173881,69.9
+Children and Adolescents,928,0.88579963521811,75.8
+Children and Adolescents,929,0.769509166180125,65.4
+Children and Adolescents,930,0.877524768910626,75.5
+Children and Adolescents,931,0.821055961834523,69
+Children and Adolescents,932,0.947880509616529,84.6
+Children and Adolescents,933,0.902396286528524,75.9
+Children and Adolescents,934,0.882019650855264,75.3
+Children and Adolescents,935,0.853873361765695,73.3
+Children and Adolescents,936,0.893307741027681,74.5
+Children and Adolescents,937,0.870643778485763,75.8
+Children and Adolescents,938,0.784285721450467,71.9
+Children and Adolescents,939,0.92906911133863,85.1
+Children and Adolescents,940,0.941716736126193,81.9
+Children and Adolescents,941,0.94628663265167,89.6
+Children and Adolescents,942,0.990955032448124,93
+Children and Adolescents,943,0.883340095710468,78.2
+Children and Adolescents,944,0.891516462413009,74
+Children and Adolescents,945,0.972990320711791,90.5
+Children and Adolescents,946,0.986050947041923,93
+Children and Adolescents,947,0.799312523059033,69.8
+Children and Adolescents,948,0.930516817005911,85.6
+Children and Adolescents,949,0.960412676682018,87
+Children and Adolescents,950,0.79273084798039,66.8
+Children and Adolescents,951,0.872075055123503,75.5
+Children and Adolescents,952,0.905543185242416,78.2
+Children and Adolescents,953,0.942370885319075,83.8
+Children and Adolescents,954,0.919015381404007,78
+Children and Adolescents,955,0.942430175838759,84
+Children and Adolescents,956,0.8954583424718,78.1
+Children and Adolescents,957,0.878661503841087,73.9
+Children and Adolescents,958,0.936548915273688,83.8
+Children and Adolescents,959,0.959192210160032,85.8
+Children and Adolescents,960,0.897719069477563,78.6
+Children and Adolescents,961,0.899985565575781,81.7
+Children and Adolescents,962,0.895302332881306,79.2
+Children and Adolescents,963,0.973254208337617,87.8
+Children and Adolescents,964,0.875419609553306,75.4
+Children and Adolescents,965,0.83106213506623,68.7
+Children and Adolescents,966,0.80549747700995,66.5
+Children and Adolescents,967,0.866159527237005,74
+Children and Adolescents,968,0.906330874158091,77
+Children and Adolescents,969,0.876689597816163,74.9
+Children and Adolescents,970,0.876690239292111,73.8
+Children and Adolescents,971,0.898537328508592,78.2
+Children and Adolescents,972,0.934967911810035,84.9
+Children and Adolescents,973,0.760410934951274,67.1
+Children and Adolescents,974,0.886123393177717,76.8
+Children and Adolescents,975,0.886356882088868,75.1
+Children and Adolescents,976,0.90356656646963,84.1
+Children and Adolescents,977,0.875543964936021,75.9
+Children and Adolescents,978,0.823119030523016,68.8
+Children and Adolescents,979,0.872996924804358,74.6
+Children and Adolescents,980,0.911973387212244,80.8
+Children and Adolescents,981,0.865098972344549,72.3
+Children and Adolescents,982,0.761787020811677,64.3
+Children and Adolescents,983,0.906135401705281,80
+Children and Adolescents,984,0.932048846411184,82.9
+Children and Adolescents,985,0.828100687068224,70.2
+Children and Adolescents,986,0.835090858664938,70.6
+Children and Adolescents,987,0.824512055616607,67.9
+Children and Adolescents,988,0.848880081190719,70.2
+Children and Adolescents,989,0.772025824602294,66.8
+Children and Adolescents,990,0.909604823600205,79.8
+Children and Adolescents,991,0.861928850476728,73.5
+Children and Adolescents,992,0.829546391808426,70.2
+Children and Adolescents,993,0.95373342471023,84.5
+Children and Adolescents,994,0.842003118344568,70.4
+Children and Adolescents,995,0.841393831857948,70.2
+Children and Adolescents,996,0.852587285973973,71.6
+Children and Adolescents,997,0.837861173951967,70.3
+Children and Adolescents,998,0.902501113602891,79.3
+Children and Adolescents,999,0.969746461578749,89.9
+Children and Adolescents,1000,0.849254925078944,70.1
+Caregiving Adults,1,0.875103656811028,75.5
+Caregiving Adults,2,0.810605831712319,73.6
+Caregiving Adults,3,0.939187746931566,82.7
+Caregiving Adults,4,0.928223717139856,79.6
+Caregiving Adults,5,0.917821381726787,79.8
+Caregiving Adults,6,0.930543555690281,86
+Caregiving Adults,7,0.872053137713555,77.4
+Caregiving Adults,8,0.896213439151707,77.4
+Caregiving Adults,9,0.877446775145343,76.8
+Caregiving Adults,10,0.931500590081583,81.5
+Caregiving Adults,11,0.792610377056508,68.8
+Caregiving Adults,12,0.969306044210493,86
+Caregiving Adults,13,0.894071040312539,81.2
+Caregiving Adults,14,0.962964564522925,89.4
+Caregiving Adults,15,0.903632111833362,76.7
+Caregiving Adults,16,0.933676908928845,83.2
+Caregiving Adults,17,0.793233117381502,68.2
+Caregiving Adults,18,0.979735454209108,92.6
+Caregiving Adults,19,0.937789652909068,84
+Caregiving Adults,20,0.949861144264971,86.4
+Caregiving Adults,21,0.774393249216475,68.8
+Caregiving Adults,22,0.939540531057432,83.5
+Caregiving Adults,23,0.911399225338302,77.2
+Caregiving Adults,24,0.967855069274743,88.8
+Caregiving Adults,25,0.926005874470069,85.6
+Caregiving Adults,26,0.906700339041774,85
+Caregiving Adults,27,0.938035140937757,83.5
+Caregiving Adults,28,0.878526438994939,78
+Caregiving Adults,29,0.943827315160813,84.3
+Caregiving Adults,30,0.918343318267035,82.7
+Caregiving Adults,31,0.968351410727102,86.2
+Caregiving Adults,32,0.916879950659641,78.2
+Caregiving Adults,33,0.921234363732084,85.5
+Caregiving Adults,34,0.963287052619919,87.9
+Caregiving Adults,35,0.951738194341665,83.9
+Caregiving Adults,36,0.968895835660658,87.8
+Caregiving Adults,37,0.941771731935838,86.1
+Caregiving Adults,38,0.910114727899428,80.4
+Caregiving Adults,39,0.939334834010351,83.6
+Caregiving Adults,40,0.951511978465673,85.2
+Caregiving Adults,41,0.957946546265207,87.2
+Caregiving Adults,42,0.905146222857571,82.9
+Caregiving Adults,43,0.961871627394196,88.3
+Caregiving Adults,44,0.931967489087351,84.4
+Caregiving Adults,45,0.919315718680935,81.7
+Caregiving Adults,46,0.839965012578213,69.8
+Caregiving Adults,47,0.885735669928062,75.6
+Caregiving Adults,48,0.882577831224853,78.4
+Caregiving Adults,49,0.951112274724963,85.3
+Caregiving Adults,50,0.897160400462786,78.1
+Caregiving Adults,51,0.948921710558201,84.4
+Caregiving Adults,52,0.931590437384568,84.3
+Caregiving Adults,53,0.939161010666938,86.7
+Caregiving Adults,54,0.874940196310094,73.4
+Caregiving Adults,55,0.896316258217289,80.4
+Caregiving Adults,56,0.894466211429693,78.2
+Caregiving Adults,57,0.87780696220308,76.6
+Caregiving Adults,58,0.868575657327722,78.7
+Caregiving Adults,59,0.960987443810575,86.6
+Caregiving Adults,60,0.971329145881401,89.5
+Caregiving Adults,61,0.940000496098172,82.6
+Caregiving Adults,62,0.91121085159403,81.4
+Caregiving Adults,63,0.962117217502056,89.2
+Caregiving Adults,64,0.899556806100111,76.5
+Caregiving Adults,65,0.957870092144641,88.5
+Caregiving Adults,66,0.943997480948232,85.9
+Caregiving Adults,67,0.965046828805953,87.3
+Caregiving Adults,68,0.957739759201406,87.5
+Caregiving Adults,69,0.935099743156272,80.8
+Caregiving Adults,70,0.945233192539543,87.4
+Caregiving Adults,71,0.885948346415743,79.2
+Caregiving Adults,72,0.914817919297129,81.8
+Caregiving Adults,73,0.842412760137135,74.6
+Caregiving Adults,74,0.968685259672338,87.4
+Caregiving Adults,75,0.948565753451326,86.1
+Caregiving Adults,76,0.909971893750157,79.1
+Caregiving Adults,77,0.757441837114746,64.6
+Caregiving Adults,78,0.908985704265856,81.5
+Caregiving Adults,79,0.892969674353849,79.2
+Caregiving Adults,80,0.934210510049841,81.3
+Caregiving Adults,81,0.975831353216324,90.1
+Caregiving Adults,82,0.903583977143973,77.8
+Caregiving Adults,83,0.958658088677612,86
+Caregiving Adults,84,0.927690405877462,87
+Caregiving Adults,85,0.938616648069601,84.1
+Caregiving Adults,86,0.888973773402503,80
+Caregiving Adults,87,0.954535232163252,89.3
+Caregiving Adults,88,0.893060886164881,75.4
+Caregiving Adults,89,0.896946277283448,80.2
+Caregiving Adults,90,0.985715583887879,92.1
+Caregiving Adults,91,0.932673267952647,82.2
+Caregiving Adults,92,0.878839120265407,75.4
+Caregiving Adults,93,0.829270458071814,71.1
+Caregiving Adults,94,0.89955514041274,78
+Caregiving Adults,95,0.941563180814837,83.5
+Caregiving Adults,96,0.948637518144322,83.9
+Caregiving Adults,97,0.957554189960754,84.7
+Caregiving Adults,98,0.888583388155818,75.7
+Caregiving Adults,99,0.97518707288531,90.4
+Caregiving Adults,100,0.954155276623554,86
+Caregiving Adults,101,0.890923781520591,77.6
+Caregiving Adults,102,0.904213900104446,83.6
+Caregiving Adults,103,0.938479466331691,83.6
+Caregiving Adults,104,0.906663230396357,77.5
+Caregiving Adults,105,0.950158515442015,83.4
+Caregiving Adults,106,0.939475111025776,87
+Caregiving Adults,107,0.935278407769422,86.7
+Caregiving Adults,108,0.946643235750505,86.7
+Caregiving Adults,109,0.862786157251401,72.1
+Caregiving Adults,110,0.959019461954102,86.6
+Caregiving Adults,111,0.938651538528343,82.4
+Caregiving Adults,112,0.879205218906731,76.5
+Caregiving Adults,113,0.922581503338817,81.8
+Caregiving Adults,114,0.942195974950743,84.6
+Caregiving Adults,115,0.871122201580012,73.2
+Caregiving Adults,116,0.936369445907605,81.5
+Caregiving Adults,117,0.911611957562464,77.9
+Caregiving Adults,118,0.915483546555672,82.7
+Caregiving Adults,119,0.917267635794196,82.1
+Caregiving Adults,120,0.893333426523063,78.9
+Caregiving Adults,121,0.901973105903474,82.2
+Caregiving Adults,122,0.928956909152484,82.8
+Caregiving Adults,123,0.873552341469276,76.6
+Caregiving Adults,124,0.937912763714738,81.1
+Caregiving Adults,125,0.950541164494105,88.4
+Caregiving Adults,126,0.868520820097724,78.1
+Caregiving Adults,127,0.902210387181005,74.7
+Caregiving Adults,128,0.929506230466004,80.4
+Caregiving Adults,129,0.940597756228541,82.8
+Caregiving Adults,130,0.908611590651187,81
+Caregiving Adults,131,0.960989978351154,88.9
+Caregiving Adults,132,0.889828891880805,73.6
+Caregiving Adults,133,0.964289923498124,87
+Caregiving Adults,134,0.946610739648109,87.3
+Caregiving Adults,135,0.957357188141851,89.1
+Caregiving Adults,136,0.725898297570835,62
+Caregiving Adults,137,0.935677915733938,82.8
+Caregiving Adults,138,0.92460031648016,82.2
+Caregiving Adults,139,0.964680204931399,86.9
+Caregiving Adults,140,0.951607537433148,84.6
+Caregiving Adults,141,0.82073664303064,69.3
+Caregiving Adults,142,0.913901069414928,81.5
+Caregiving Adults,143,0.953207828425172,85.7
+Caregiving Adults,144,0.948099141702804,88
+Caregiving Adults,145,0.933863827936523,79.8
+Caregiving Adults,146,0.921174836207397,78.5
+Caregiving Adults,147,0.769607856578186,66.7
+Caregiving Adults,148,0.959674076657189,85.7
+Caregiving Adults,149,0.93251191994622,79.7
+Caregiving Adults,150,0.905022090200367,77.3
+Caregiving Adults,151,0.902771670834294,75.6
+Caregiving Adults,152,0.949148041761016,87.5
+Caregiving Adults,153,0.945704489187347,87.1
+Caregiving Adults,154,0.952547572294231,87.8
+Caregiving Adults,155,0.917404916142802,82.3
+Caregiving Adults,156,0.964455637352225,89.4
+Caregiving Adults,157,0.866800859654362,76.3
+Caregiving Adults,158,0.833077364807091,76.8
+Caregiving Adults,159,0.941950192872377,81.1
+Caregiving Adults,160,0.91936355026407,82.3
+Caregiving Adults,161,0.961913636417959,89.8
+Caregiving Adults,162,0.949658538593369,82
+Caregiving Adults,163,0.950665879132658,87.6
+Caregiving Adults,164,0.906957699856111,81.6
+Caregiving Adults,165,0.940045788419747,85.3
+Caregiving Adults,166,0.964193372642892,88.8
+Caregiving Adults,167,0.884986381056063,78.7
+Caregiving Adults,168,0.916937952054938,80
+Caregiving Adults,169,0.90958478659857,76.7
+Caregiving Adults,170,0.970436423440056,86.3
+Caregiving Adults,171,0.828770872582864,69.1
+Caregiving Adults,172,0.957267186443516,84.5
+Caregiving Adults,173,0.880124360343507,79.5
+Caregiving Adults,174,0.966642738534855,88.9
+Caregiving Adults,175,0.968081231389359,88
+Caregiving Adults,176,0.954095538388956,89.1
+Caregiving Adults,177,0.953165531036178,87
+Caregiving Adults,178,0.974312777059319,91
+Caregiving Adults,179,0.934566487437666,84.9
+Caregiving Adults,180,0.942078205164378,84.3
+Caregiving Adults,181,0.944058414169118,83.8
+Caregiving Adults,182,0.92077047088327,81.3
+Caregiving Adults,183,0.936436717382785,84.1
+Caregiving Adults,184,0.900053825832198,79.5
+Caregiving Adults,185,0.961245826042886,89.1
+Caregiving Adults,186,0.920030321589749,79.9
+Caregiving Adults,187,0.820756327546581,71.9
+Caregiving Adults,188,0.955758565775767,87
+Caregiving Adults,189,0.922507230504196,80.4
+Caregiving Adults,190,0.928870198941418,82.2
+Caregiving Adults,191,0.738445290186259,63.6
+Caregiving Adults,192,0.975252882446078,89.4
+Caregiving Adults,193,0.981364790988968,91.5
+Caregiving Adults,194,0.926218739363433,81.2
+Caregiving Adults,195,0.948506852564616,82.3
+Caregiving Adults,196,0.932148530714468,83
+Caregiving Adults,197,0.956276907288933,83.3
+Caregiving Adults,198,0.915910296893256,78.3
+Caregiving Adults,199,0.933947990070318,82.1
+Caregiving Adults,200,0.8922530044261,77.1
+Caregiving Adults,201,0.926625325620112,85.1
+Caregiving Adults,202,0.832041902154364,72.2
+Caregiving Adults,203,0.922655725013419,77.5
+Caregiving Adults,204,0.927546443124677,79.7
+Caregiving Adults,205,0.951321584767757,89.7
+Caregiving Adults,206,0.922037677102738,80.9
+Caregiving Adults,207,0.932790420446651,84.2
+Caregiving Adults,208,0.934129210757503,85.6
+Caregiving Adults,209,0.918541320163152,77
+Caregiving Adults,210,0.935133232928835,79.5
+Caregiving Adults,211,0.980934876437911,90.9
+Caregiving Adults,212,0.944493866141926,84.2
+Caregiving Adults,213,0.857738576740154,75.5
+Caregiving Adults,214,0.879938663347326,80.8
+Caregiving Adults,215,0.950298498022375,84.6
+Caregiving Adults,216,0.884611006216851,79
+Caregiving Adults,217,0.950645527272322,83.6
+Caregiving Adults,218,0.935990910034355,82.9
+Caregiving Adults,219,0.933266157418014,83.7
+Caregiving Adults,220,0.92103563138458,85.2
+Caregiving Adults,221,0.975306772974852,91.3
+Caregiving Adults,222,0.883519443230824,79.8
+Caregiving Adults,223,0.909876690012421,76.2
+Caregiving Adults,224,0.937484948940443,81.2
+Caregiving Adults,225,0.929964338667814,81.8
+Caregiving Adults,226,0.864226269450584,77.4
+Caregiving Adults,227,0.95286077600388,87.2
+Caregiving Adults,228,0.893209985826798,78.5
+Caregiving Adults,229,0.911903036057134,77.4
+Caregiving Adults,230,0.916042504258667,83.1
+Caregiving Adults,231,0.920969887146775,79.2
+Caregiving Adults,232,0.88437088926759,75.1
+Caregiving Adults,233,0.954482689041012,85.9
+Caregiving Adults,234,0.954848553271175,84.3
+Caregiving Adults,235,0.858227978157653,73.7
+Caregiving Adults,236,0.925130008243447,86.8
+Caregiving Adults,237,0.942671610180147,82.6
+Caregiving Adults,238,0.917528686055236,80.3
+Caregiving Adults,239,0.909641172743917,76.4
+Caregiving Adults,240,0.899022680468483,79.6
+Caregiving Adults,241,0.899341795231812,86.2
+Caregiving Adults,242,0.944803426217657,87.5
+Caregiving Adults,243,0.946028326714153,86.5
+Caregiving Adults,244,0.894783874635864,81.6
+Caregiving Adults,245,0.946840102057982,88.2
+Caregiving Adults,246,0.938032330508825,82.5
+Caregiving Adults,247,0.968836428183775,88.8
+Caregiving Adults,248,0.941992965442568,82.2
+Caregiving Adults,249,0.894051617618354,75.5
+Caregiving Adults,250,0.938535580249855,83.3
+Caregiving Adults,251,0.937179113140694,83.5
+Caregiving Adults,252,0.893718938753823,79.9
+Caregiving Adults,253,0.971094496502641,92.5
+Caregiving Adults,254,0.904553686935878,81.5
+Caregiving Adults,255,0.915468944031329,81
+Caregiving Adults,256,0.869580582747983,73.3
+Caregiving Adults,257,0.898627658254925,78.2
+Caregiving Adults,258,0.955706099538076,87.6
+Caregiving Adults,259,0.946364279049148,86.3
+Caregiving Adults,260,0.931528999307747,78.6
+Caregiving Adults,261,0.850502143947688,73.9
+Caregiving Adults,262,0.85269130579038,74.5
+Caregiving Adults,263,0.721135594545628,68.8
+Caregiving Adults,264,0.95903043293602,87.5
+Caregiving Adults,265,0.965410589501838,89.8
+Caregiving Adults,266,0.973432955758549,87.3
+Caregiving Adults,267,0.837743840894176,79.3
+Caregiving Adults,268,0.922240165183372,83.5
+Caregiving Adults,269,0.909777812917856,82.8
+Caregiving Adults,270,0.921724747691724,81.7
+Caregiving Adults,271,0.900563360258839,79.3
+Caregiving Adults,272,0.899155406033826,76.5
+Caregiving Adults,273,0.95098427813745,83.7
+Caregiving Adults,274,0.937728062460175,83.6
+Caregiving Adults,275,0.927361362072005,82.5
+Caregiving Adults,276,0.962232640960832,85.9
+Caregiving Adults,277,0.808201893605184,72.3
+Caregiving Adults,278,0.970755903501339,89.7
+Caregiving Adults,279,0.978350447613245,89.7
+Caregiving Adults,280,0.874848844122135,75.7
+Caregiving Adults,281,0.913120540028805,82
+Caregiving Adults,282,0.92241236407574,84.2
+Caregiving Adults,283,0.901603684654945,82.5
+Caregiving Adults,284,0.951029774280156,83.9
+Caregiving Adults,285,0.95174738402035,85.2
+Caregiving Adults,286,0.940008505338897,83.4
+Caregiving Adults,287,0.858964474712507,72.7
+Caregiving Adults,288,0.93125284431596,82.4
+Caregiving Adults,289,0.979695734138563,91.4
+Caregiving Adults,290,0.894453225118766,79.2
+Caregiving Adults,291,0.873933446375171,79
+Caregiving Adults,292,0.943251666959165,83.5
+Caregiving Adults,293,0.875629281689994,76.3
+Caregiving Adults,294,0.89206076000726,77.9
+Caregiving Adults,295,0.862573722304527,73.3
+Caregiving Adults,296,0.799037974038458,69.1
+Caregiving Adults,297,0.865451598689239,73.8
+Caregiving Adults,298,0.912890990417581,79.3
+Caregiving Adults,299,0.88490038800056,76
+Caregiving Adults,300,0.949317382532908,83.9
+Caregiving Adults,301,0.920744174874212,82.6
+Caregiving Adults,302,0.952482801012085,85.2
+Caregiving Adults,303,0.930133080164149,81.1
+Caregiving Adults,304,0.938922962374503,86.4
+Caregiving Adults,305,0.955448253040769,86.7
+Caregiving Adults,306,0.91172883055512,79.4
+Caregiving Adults,307,0.914309767202649,79.8
+Caregiving Adults,308,0.921006991167557,81.5
+Caregiving Adults,309,0.932035057309912,85.3
+Caregiving Adults,310,0.913280830439126,82.9
+Caregiving Adults,311,0.916746250934307,78.3
+Caregiving Adults,312,0.792853330785483,72.8
+Caregiving Adults,313,0.884387545515044,82.5
+Caregiving Adults,314,0.900833048229165,82.7
+Caregiving Adults,315,0.898703786290585,82.1
+Caregiving Adults,316,0.923000921800112,80.5
+Caregiving Adults,317,0.871498645239703,81.6
+Caregiving Adults,318,0.972617252076741,88.2
+Caregiving Adults,319,0.865002522880367,77.9
+Caregiving Adults,320,0.899645849439288,78.9
+Caregiving Adults,321,0.925128230649556,82.7
+Caregiving Adults,322,0.953503963283257,87.4
+Caregiving Adults,323,0.970584578857588,90.1
+Caregiving Adults,324,0.847119431138749,74.1
+Caregiving Adults,325,0.935727220263167,83.3
+Caregiving Adults,326,0.859194852229656,76.2
+Caregiving Adults,327,0.945102118739494,83.3
+Caregiving Adults,328,0.977645619688421,88.3
+Caregiving Adults,329,0.889427100792038,76.8
+Caregiving Adults,330,0.944286491171462,83.7
+Caregiving Adults,331,0.9526657101726,82.8
+Caregiving Adults,332,0.95654895218497,86.1
+Caregiving Adults,333,0.904323961347676,80.8
+Caregiving Adults,334,0.802363479203172,66.4
+Caregiving Adults,335,0.868912624191913,73.7
+Caregiving Adults,336,0.886810879821061,79.2
+Caregiving Adults,337,0.958671324285244,86.5
+Caregiving Adults,338,0.808323472452497,71.8
+Caregiving Adults,339,0.955041569859459,87.8
+Caregiving Adults,340,0.948022801560209,84.3
+Caregiving Adults,341,0.957410325433279,85.1
+Caregiving Adults,342,0.909296051926479,82.6
+Caregiving Adults,343,0.854300898078569,76.1
+Caregiving Adults,344,0.849055550323234,76.4
+Caregiving Adults,345,0.964675233449297,86.3
+Caregiving Adults,346,0.963508846285504,88.6
+Caregiving Adults,347,0.954763958445012,82.1
+Caregiving Adults,348,0.969062392595265,89.3
+Caregiving Adults,349,0.954825377589735,88.2
+Caregiving Adults,350,0.909974870906799,81
+Caregiving Adults,351,0.786250071108088,65.9
+Caregiving Adults,352,0.935467406128393,85.6
+Caregiving Adults,353,0.937798361240377,80.9
+Caregiving Adults,354,0.936259163067304,82.9
+Caregiving Adults,355,0.988420772999549,92.3
+Caregiving Adults,356,0.91081843049652,78.3
+Caregiving Adults,357,0.976052684418457,89.2
+Caregiving Adults,358,0.947753265335703,85
+Caregiving Adults,359,0.924805733785026,84.8
+Caregiving Adults,360,0.896317129960895,76.3
+Caregiving Adults,361,0.941198222916693,86.2
+Caregiving Adults,362,0.92487145918708,83.6
+Caregiving Adults,363,0.972814155477641,90.4
+Caregiving Adults,364,0.917221943249043,79.8
+Caregiving Adults,365,0.932134664518651,80.2
+Caregiving Adults,366,0.90870468666357,79.5
+Caregiving Adults,367,0.938212482375531,86.4
+Caregiving Adults,368,0.981539498793732,91.7
+Caregiving Adults,369,0.933982758120765,82.9
+Caregiving Adults,370,0.909272937906834,79.8
+Caregiving Adults,371,0.957989191272562,86.4
+Caregiving Adults,372,0.943804568510571,90.7
+Caregiving Adults,373,0.940494295254054,84.6
+Caregiving Adults,374,0.92631950610293,85.2
+Caregiving Adults,375,0.949032892504529,83.6
+Caregiving Adults,376,0.914601235997202,81
+Caregiving Adults,377,0.888686603398423,76.7
+Caregiving Adults,378,0.975582726313305,91.4
+Caregiving Adults,379,0.896157298208336,79.4
+Caregiving Adults,380,0.903746316989983,80.7
+Caregiving Adults,381,0.936982164794127,86.3
+Caregiving Adults,382,0.891396257450196,80.4
+Caregiving Adults,383,0.882353744607668,74.6
+Caregiving Adults,384,0.903558045084017,75.3
+Caregiving Adults,385,0.906026470250968,79.1
+Caregiving Adults,386,0.979501797874263,90.2
+Caregiving Adults,387,0.934663136421861,82.1
+Caregiving Adults,388,0.978792290156525,89.3
+Caregiving Adults,389,0.964749999289226,90.1
+Caregiving Adults,390,0.740854478265206,62
+Caregiving Adults,391,0.801240345860599,67.2
+Caregiving Adults,392,0.91629390353373,81.3
+Caregiving Adults,393,0.912507773113526,79.5
+Caregiving Adults,394,0.975679712992167,91.6
+Caregiving Adults,395,0.950128571318926,89
+Caregiving Adults,396,0.829850413205219,75.9
+Caregiving Adults,397,0.914833098503762,80.8
+Caregiving Adults,398,0.926329878098332,79.7
+Caregiving Adults,399,0.918089560669237,82
+Caregiving Adults,400,0.973199765259285,85.5
+Caregiving Adults,401,0.963851316320246,87.6
+Caregiving Adults,402,0.946531334577164,83.9
+Caregiving Adults,403,0.965491976999445,87.5
+Caregiving Adults,404,0.931407872277591,84
+Caregiving Adults,405,0.944574054847555,85.5
+Caregiving Adults,406,0.873029118895247,77
+Caregiving Adults,407,0.963319169261418,88.2
+Caregiving Adults,408,0.835448478510953,71.4
+Caregiving Adults,409,0.891336858114597,82.7
+Caregiving Adults,410,0.947539249245558,85.3
+Caregiving Adults,411,0.960656221368702,86
+Caregiving Adults,412,0.990018549153863,93
+Caregiving Adults,413,0.920641961154019,81.4
+Caregiving Adults,414,0.940703749142251,79.7
+Caregiving Adults,415,0.911118634262204,81.6
+Caregiving Adults,416,0.955875407455794,85.8
+Caregiving Adults,417,0.956426192032578,85.1
+Caregiving Adults,418,0.869128993161213,75.5
+Caregiving Adults,419,0.891815946356264,80.5
+Caregiving Adults,420,0.844489815732849,76.5
+Caregiving Adults,421,0.870434484754715,74.1
+Caregiving Adults,422,0.935599469359362,85.5
+Caregiving Adults,423,0.910746164078853,84.4
+Caregiving Adults,424,0.81793985792606,73.6
+Caregiving Adults,425,0.76453572908502,67.2
+Caregiving Adults,426,0.973973164037067,91
+Caregiving Adults,427,0.936385159018657,83.1
+Caregiving Adults,428,0.899229402691054,78
+Caregiving Adults,429,0.979348277158097,89.9
+Caregiving Adults,430,0.89592953731903,80.3
+Caregiving Adults,431,0.964011334358864,89.4
+Caregiving Adults,432,0.968799723808492,86.7
+Caregiving Adults,433,0.896297946928759,81.8
+Caregiving Adults,434,0.929563618278283,81
+Caregiving Adults,435,0.905801680014912,77.8
+Caregiving Adults,436,0.964969866505496,87
+Caregiving Adults,437,0.825120375226087,70.9
+Caregiving Adults,438,0.967275508343257,87.2
+Caregiving Adults,439,0.907657921693132,85.1
+Caregiving Adults,440,0.948078942070021,86.8
+Caregiving Adults,441,0.887865674072308,80.8
+Caregiving Adults,442,0.92982928132321,82.4
+Caregiving Adults,443,0.932390411913622,85.6
+Caregiving Adults,444,0.919537323459104,81.2
+Caregiving Adults,445,0.932952262999932,81.9
+Caregiving Adults,446,0.924326053638314,82.4
+Caregiving Adults,447,0.857435289499408,75.5
+Caregiving Adults,448,0.926818840368245,81.2
+Caregiving Adults,449,0.935381917880651,80.7
+Caregiving Adults,450,0.932094081182997,82.5
+Caregiving Adults,451,0.88402252836377,76.9
+Caregiving Adults,452,0.964167221346356,87.4
+Caregiving Adults,453,0.914279929205286,78.7
+Caregiving Adults,454,0.748120238659173,68.7
+Caregiving Adults,455,0.927186117665117,85.3
+Caregiving Adults,456,0.958868535079819,89.2
+Caregiving Adults,457,0.873419797565358,76.4
+Caregiving Adults,458,0.948988349903651,83.5
+Caregiving Adults,459,0.939767451901148,84.7
+Caregiving Adults,460,0.960262002300005,88.2
+Caregiving Adults,461,0.799221411515293,73.3
+Caregiving Adults,462,0.931623715676448,82.1
+Caregiving Adults,463,0.984492589800614,91
+Caregiving Adults,464,0.892554919884633,79.8
+Caregiving Adults,465,0.881501737255888,77.1
+Caregiving Adults,466,0.930964729441241,84.8
+Caregiving Adults,467,0.935621355201332,86.2
+Caregiving Adults,468,0.890677438897983,76.4
+Caregiving Adults,469,0.933500345248615,80.9
+Caregiving Adults,470,0.880426325324168,82.6
+Caregiving Adults,471,0.922670924838213,83.2
+Caregiving Adults,472,0.869438597700878,74.9
+Caregiving Adults,473,0.898658711856739,82.1
+Caregiving Adults,474,0.865845208510512,77.8
+Caregiving Adults,475,0.94180237365614,85
+Caregiving Adults,476,0.921743545867556,80.7
+Caregiving Adults,477,0.978887970713349,91.2
+Caregiving Adults,478,0.942544353389636,82.9
+Caregiving Adults,479,0.953312627123366,85.8
+Caregiving Adults,480,0.88358440609809,74
+Caregiving Adults,481,0.934071792499713,84.8
+Caregiving Adults,482,0.699677010274785,63.4
+Caregiving Adults,483,0.932400633945616,85.2
+Caregiving Adults,484,0.930215394082031,83.8
+Caregiving Adults,485,0.921228309748292,83.4
+Caregiving Adults,486,0.910462580141625,81.6
+Caregiving Adults,487,0.866503601347304,72
+Caregiving Adults,488,0.831386072184039,73.5
+Caregiving Adults,489,0.957250796112547,90.2
+Caregiving Adults,490,0.930654935002521,81.1
+Caregiving Adults,491,0.820012856705667,72.7
+Caregiving Adults,492,0.717258907085561,62.5
+Caregiving Adults,493,0.848334458185078,74.7
+Caregiving Adults,494,0.905539800788135,79.5
+Caregiving Adults,495,0.983730175782306,91
+Caregiving Adults,496,0.960350332963735,84.7
+Caregiving Adults,497,0.91264887061619,78.8
+Caregiving Adults,498,0.897524411900573,74.3
+Caregiving Adults,499,0.900308779765137,76.3
+Caregiving Adults,500,0.913334883600881,82.5
+Caregiving Adults,501,0.948673732404693,83.6
+Caregiving Adults,502,0.916382055474605,79.3
+Caregiving Adults,503,0.916709916192572,83.4
+Caregiving Adults,504,0.957918993174508,83.4
+Caregiving Adults,505,0.933548924432824,85
+Caregiving Adults,506,0.914410545166519,79.1
+Caregiving Adults,507,0.808604939318756,68.4
+Caregiving Adults,508,0.883982689064366,77.8
+Caregiving Adults,509,0.866037842651156,75.2
+Caregiving Adults,510,0.924326180334031,83.8
+Caregiving Adults,511,0.928261033990172,83.4
+Caregiving Adults,512,0.90640660051514,79.9
+Caregiving Adults,513,0.902345206308758,77.6
+Caregiving Adults,514,0.849788535817027,77
+Caregiving Adults,515,0.961548626733543,88.5
+Caregiving Adults,516,0.929823871271602,83.7
+Caregiving Adults,517,0.921800599260952,84.6
+Caregiving Adults,518,0.689690416160494,59.6
+Caregiving Adults,519,0.937522958185258,82
+Caregiving Adults,520,0.908994094653542,81.1
+Caregiving Adults,521,0.916714755583551,77.4
+Caregiving Adults,522,0.932549164729315,82.8
+Caregiving Adults,523,0.829146797223678,69.1
+Caregiving Adults,524,0.92285510755563,82
+Caregiving Adults,525,0.955329016040931,84
+Caregiving Adults,526,0.931259708718776,86.1
+Caregiving Adults,527,0.950008341997771,83.3
+Caregiving Adults,528,0.831578343339047,74.6
+Caregiving Adults,529,0.926676142549346,83.2
+Caregiving Adults,530,0.9769444365055,90.2
+Caregiving Adults,531,0.997433228511789,95.9
+Caregiving Adults,532,0.881175582305458,75.1
+Caregiving Adults,533,0.879824674103329,76.8
+Caregiving Adults,534,0.955049482512765,88.6
+Caregiving Adults,535,0.942992198756688,83.1
+Caregiving Adults,536,0.925884756303796,84.1
+Caregiving Adults,537,0.921557788558433,82.9
+Caregiving Adults,538,0.916348345309303,78.9
+Caregiving Adults,539,0.928212982399684,82.6
+Caregiving Adults,540,0.846082644154486,78.1
+Caregiving Adults,541,0.906078877187356,78.5
+Caregiving Adults,542,0.938551712998316,86.2
+Caregiving Adults,543,0.88018496738314,73.5
+Caregiving Adults,544,0.948791986091618,86.3
+Caregiving Adults,545,0.960413298615143,86.2
+Caregiving Adults,546,0.935228026856511,88.5
+Caregiving Adults,547,0.940256671609049,85
+Caregiving Adults,548,0.935886936833422,84.4
+Caregiving Adults,549,0.951733618169467,83.6
+Caregiving Adults,550,0.940849874441578,82.1
+Caregiving Adults,551,0.814756612347952,67.1
+Caregiving Adults,552,0.972276165674838,89.4
+Caregiving Adults,553,0.626966742538819,57
+Caregiving Adults,554,0.755285004116834,66.4
+Caregiving Adults,555,0.829476245395615,71.8
+Caregiving Adults,556,0.879551779382527,75.1
+Caregiving Adults,557,0.881824553605586,79.2
+Caregiving Adults,558,0.919096634135883,80.3
+Caregiving Adults,559,0.931592149221937,83.1
+Caregiving Adults,560,0.871774127588035,73.4
+Caregiving Adults,561,0.957351600186333,85.6
+Caregiving Adults,562,0.892397812379016,77.2
+Caregiving Adults,563,0.93848761575665,82.6
+Caregiving Adults,564,0.82748798480584,69.5
+Caregiving Adults,565,0.96606287897723,89.2
+Caregiving Adults,566,0.961922324901878,88.8
+Caregiving Adults,567,0.945137675916378,84.1
+Caregiving Adults,568,0.95774283858174,86.4
+Caregiving Adults,569,0.921523637800348,81.5
+Caregiving Adults,570,0.916429431290375,81.7
+Caregiving Adults,571,0.909063011727837,79.3
+Caregiving Adults,572,0.885998782776095,76.8
+Caregiving Adults,573,0.968096106092712,92.6
+Caregiving Adults,574,0.949302875295305,85.1
+Caregiving Adults,575,0.887756858349133,79.7
+Caregiving Adults,576,0.967647034571262,87.8
+Caregiving Adults,577,0.694755276666775,60.3
+Caregiving Adults,578,0.951662015820412,85.4
+Caregiving Adults,579,0.80627000201107,74.6
+Caregiving Adults,580,0.906255039969581,78.9
+Caregiving Adults,581,0.940620688683109,84.1
+Caregiving Adults,582,0.914765628169298,83
+Caregiving Adults,583,0.905673408791551,80.5
+Caregiving Adults,584,0.946351646859974,85.1
+Caregiving Adults,585,0.979062666763834,90.4
+Caregiving Adults,586,0.92530610276414,84.3
+Caregiving Adults,587,0.87111892989196,75.8
+Caregiving Adults,588,0.974351431777861,90
+Caregiving Adults,589,0.949445200493913,87.4
+Caregiving Adults,590,0.953285022824474,86.9
+Caregiving Adults,591,0.91262254560682,80.7
+Caregiving Adults,592,0.954567048492547,83
+Caregiving Adults,593,0.928571902548431,81.2
+Caregiving Adults,594,0.936226466226866,81
+Caregiving Adults,595,0.911002664373957,82
+Caregiving Adults,596,0.950975413628379,83.8
+Caregiving Adults,597,0.947337324214176,84.8
+Caregiving Adults,598,0.948082654254511,86.5
+Caregiving Adults,599,0.896961760800666,82.3
+Caregiving Adults,600,0.881309451167164,79.5
+Caregiving Adults,601,0.898527731464672,79.2
+Caregiving Adults,602,0.961715933822407,86.2
+Caregiving Adults,603,0.872091366676683,77.7
+Caregiving Adults,604,0.809567736823608,74.6
+Caregiving Adults,605,0.95467175233756,85.1
+Caregiving Adults,606,0.934885129043076,79.4
+Caregiving Adults,607,0.9143576193076,80.6
+Caregiving Adults,608,0.71731415720871,62.2
+Caregiving Adults,609,0.932099419215558,81
+Caregiving Adults,610,0.830443685070053,75.3
+Caregiving Adults,611,0.914294749906397,82.3
+Caregiving Adults,612,0.949967467695529,86.9
+Caregiving Adults,613,0.869559942859629,74.9
+Caregiving Adults,614,0.919575810534645,81
+Caregiving Adults,615,0.910331829198873,84
+Caregiving Adults,616,0.937337425748989,84.6
+Caregiving Adults,617,0.947041011933915,86.4
+Caregiving Adults,618,0.927924807356543,83.1
+Caregiving Adults,619,0.948383686985931,83.7
+Caregiving Adults,620,0.907130714466564,81.7
+Caregiving Adults,621,0.94093222410403,82.8
+Caregiving Adults,622,0.959659028530041,89.5
+Caregiving Adults,623,0.927940450230959,77.7
+Caregiving Adults,624,0.908181524547003,77.2
+Caregiving Adults,625,0.943044060178896,81.7
+Caregiving Adults,626,0.961071424764678,86.8
+Caregiving Adults,627,0.861330212615961,74.7
+Caregiving Adults,628,0.868406937075801,77.6
+Caregiving Adults,629,0.935217365291546,82.4
+Caregiving Adults,630,0.912300432105222,80.7
+Caregiving Adults,631,0.878632636307859,76.9
+Caregiving Adults,632,0.969337537008065,90
+Caregiving Adults,633,0.832957296047466,73.9
+Caregiving Adults,634,0.913519960606998,81.5
+Caregiving Adults,635,0.94560600937779,86.9
+Caregiving Adults,636,0.8759727259329,78.3
+Caregiving Adults,637,0.93117557862021,84
+Caregiving Adults,638,0.909870678758326,81.1
+Caregiving Adults,639,0.949558627844817,83.1
+Caregiving Adults,640,0.936653415520081,83.4
+Caregiving Adults,641,0.959955185740526,88.2
+Caregiving Adults,642,0.918417960879724,82.8
+Caregiving Adults,643,0.944086928750237,85.3
+Caregiving Adults,644,0.938161583262687,82
+Caregiving Adults,645,0.766306178927511,64.8
+Caregiving Adults,646,0.823731475603255,72.4
+Caregiving Adults,647,0.932252115349755,87.4
+Caregiving Adults,648,0.907588198439061,82.3
+Caregiving Adults,649,0.941388410866546,83.3
+Caregiving Adults,650,0.902589426127778,79.2
+Caregiving Adults,651,0.908374800018474,77.7
+Caregiving Adults,652,0.903020453385168,79.2
+Caregiving Adults,653,0.924216201226236,83.4
+Caregiving Adults,654,0.95861963069873,85.8
+Caregiving Adults,655,0.929057929427933,82.8
+Caregiving Adults,656,0.948709262219156,84.6
+Caregiving Adults,657,0.93518077012508,82.7
+Caregiving Adults,658,0.843833164793552,73.7
+Caregiving Adults,659,0.831881813493723,75.9
+Caregiving Adults,660,0.909722914941356,82.8
+Caregiving Adults,661,0.949680232464833,83.6
+Caregiving Adults,662,0.973666376526074,91.9
+Caregiving Adults,663,0.896608805129763,79.6
+Caregiving Adults,664,0.961021606852846,85.1
+Caregiving Adults,665,0.966826076341181,90.7
+Caregiving Adults,666,0.914369830847726,82.6
+Caregiving Adults,667,0.854056256887903,69.3
+Caregiving Adults,668,0.846834022012433,75
+Caregiving Adults,669,0.916653513042059,78.9
+Caregiving Adults,670,0.939508872206577,82.7
+Caregiving Adults,671,0.960296884617463,88.1
+Caregiving Adults,672,0.957423231439354,85.7
+Caregiving Adults,673,0.917656142861189,77
+Caregiving Adults,674,0.952436910908326,87.2
+Caregiving Adults,675,0.912978477133686,81.4
+Caregiving Adults,676,0.827352013517841,76.1
+Caregiving Adults,677,0.969374751827382,86.1
+Caregiving Adults,678,0.949835753046387,85.8
+Caregiving Adults,679,0.895203411555246,76.7
+Caregiving Adults,680,0.877270325250392,79.6
+Caregiving Adults,681,0.769898893740184,65.9
+Caregiving Adults,682,0.907704095633834,81
+Caregiving Adults,683,0.72925949075105,63.7
+Caregiving Adults,684,0.938682444960797,83.7
+Caregiving Adults,685,0.888147727159165,84.4
+Caregiving Adults,686,0.888412352214511,75.8
+Caregiving Adults,687,0.90290526236245,80.3
+Caregiving Adults,688,0.960987419964803,83.2
+Caregiving Adults,689,0.927003018027468,79.4
+Caregiving Adults,690,0.85864371150784,72.2
+Caregiving Adults,691,0.803877203733186,75.2
+Caregiving Adults,692,0.903295366421722,74.8
+Caregiving Adults,693,0.933576284637726,84.9
+Caregiving Adults,694,0.882044827597001,80
+Caregiving Adults,695,0.937009564838328,82.7
+Caregiving Adults,696,0.940647084651714,79.9
+Caregiving Adults,697,0.901842934918794,76.9
+Caregiving Adults,698,0.898132313700344,79.5
+Caregiving Adults,699,0.895298473904417,77.4
+Caregiving Adults,700,0.900609989774214,84.5
+Caregiving Adults,701,0.971942861232142,90.9
+Caregiving Adults,702,0.908872352691516,81
+Caregiving Adults,703,0.917628947649759,84
+Caregiving Adults,704,0.925686386074809,82.5
+Caregiving Adults,705,0.904014121288864,79.7
+Caregiving Adults,706,0.931818799283667,81.6
+Caregiving Adults,707,0.933209295946951,84.9
+Caregiving Adults,708,0.872037301086223,75.1
+Caregiving Adults,709,0.869040896715952,78.6
+Caregiving Adults,710,0.966709137640176,87.5
+Caregiving Adults,711,0.871074684231157,81.7
+Caregiving Adults,712,0.950227958713005,85.4
+Caregiving Adults,713,0.869128319361599,75.8
+Caregiving Adults,714,0.882518224792339,76.3
+Caregiving Adults,715,0.910751110703544,77.9
+Caregiving Adults,716,0.944841997355565,85.5
+Caregiving Adults,717,0.975122650281337,90
+Caregiving Adults,718,0.925328600021331,84.7
+Caregiving Adults,719,0.907431263875504,76.6
+Caregiving Adults,720,0.851027758999305,75.3
+Caregiving Adults,721,0.947266675358776,82.2
+Caregiving Adults,722,0.955995435846213,86.2
+Caregiving Adults,723,0.909814710516149,80.8
+Caregiving Adults,724,0.956807584918318,85.9
+Caregiving Adults,725,0.961397246211518,86.5
+Caregiving Adults,726,0.958740487814019,87.4
+Caregiving Adults,727,0.960127132590313,87.5
+Caregiving Adults,728,0.886787069649402,79.4
+Caregiving Adults,729,0.893682638359634,75.7
+Caregiving Adults,730,0.914430259694411,85.9
+Caregiving Adults,731,0.899460897924557,80.5
+Caregiving Adults,732,0.936355626488039,83
+Caregiving Adults,733,0.901707995743237,80.8
+Caregiving Adults,734,0.896099769633744,80
+Caregiving Adults,735,0.951577689801131,85.4
+Caregiving Adults,736,0.968507015804582,86.5
+Caregiving Adults,737,0.858298381666558,77
+Caregiving Adults,738,0.955152344982469,85.5
+Caregiving Adults,739,0.925758014389261,85.1
+Caregiving Adults,740,0.834331305069763,74.2
+Caregiving Adults,741,0.890750039830881,76.3
+Caregiving Adults,742,0.962534365556845,87.3
+Caregiving Adults,743,0.938073020066553,82.9
+Caregiving Adults,744,0.933506543848581,84.4
+Caregiving Adults,745,0.889348106880004,79
+Caregiving Adults,746,0.925103652933087,80.3
+Caregiving Adults,747,0.931571722307637,83
+Caregiving Adults,748,0.922529383466982,77.4
+Caregiving Adults,749,0.849308716305028,71.3
+Caregiving Adults,750,0.807080554379936,69.1
+Caregiving Adults,751,0.914944304006821,77.9
+Caregiving Adults,752,0.928835563174787,78.5
+Caregiving Adults,753,0.919239901507426,80.7
+Caregiving Adults,754,0.827809290008037,73.2
+Caregiving Adults,755,0.950100767197284,83.1
+Caregiving Adults,756,0.883378828857947,77.5
+Caregiving Adults,757,0.858927637619848,72.2
+Caregiving Adults,758,0.879978447054769,77
+Caregiving Adults,759,0.965911045048329,86.2
+Caregiving Adults,760,0.9219936573746,80.4
+Caregiving Adults,761,0.920193583086879,83.3
+Caregiving Adults,762,0.910644147194665,85.2
+Caregiving Adults,763,0.944975305721203,85.7
+Caregiving Adults,764,0.943449732684872,84.6
+Caregiving Adults,765,0.927974993938458,84.8
+Caregiving Adults,766,0.837959987110247,74.5
+Caregiving Adults,767,0.893356628844324,79.6
+Caregiving Adults,768,0.961895438143935,84.8
+Caregiving Adults,769,0.931409585271119,83.8
+Caregiving Adults,770,0.859096743547019,75.5
+Caregiving Adults,771,0.917112000126685,79.2
+Caregiving Adults,772,0.93702931641147,85.6
+Caregiving Adults,773,0.938448344371999,87.3
+Caregiving Adults,774,0.926640446970639,84.6
+Caregiving Adults,775,0.945368747465916,83
+Caregiving Adults,776,0.980606223943976,88.3
+Caregiving Adults,777,0.946916262755123,86.9
+Caregiving Adults,778,0.830394939013616,70.8
+Caregiving Adults,779,0.894241141258728,80.5
+Caregiving Adults,780,0.976545385898068,90.4
+Caregiving Adults,781,0.929658818451197,84.3
+Caregiving Adults,782,0.894588066887958,75.8
+Caregiving Adults,783,0.944955363237369,85.2
+Caregiving Adults,784,0.939904187939906,83.2
+Caregiving Adults,785,0.934435468073419,81.8
+Caregiving Adults,786,0.864159588772463,80.9
+Caregiving Adults,787,0.971445013401437,89.5
+Caregiving Adults,788,0.971154038816523,86.8
+Caregiving Adults,789,0.967022954017551,87.4
+Caregiving Adults,790,0.934879439779159,83
+Caregiving Adults,791,0.937944402718203,86.5
+Caregiving Adults,792,0.887999707204886,76.5
+Caregiving Adults,793,0.940483741260014,80.8
+Caregiving Adults,794,0.789940412966982,70
+Caregiving Adults,795,0.949209818158756,87.8
+Caregiving Adults,796,0.888914441702184,76.5
+Caregiving Adults,797,0.922301621373344,79.9
+Caregiving Adults,798,0.957655625489844,86.6
+Caregiving Adults,799,0.836210989935625,71.2
+Caregiving Adults,800,0.958162595556647,83.8
+Caregiving Adults,801,0.889075057715679,76
+Caregiving Adults,802,0.879781777486952,76.7
+Caregiving Adults,803,0.959316843199361,87.9
+Caregiving Adults,804,0.943966259703418,83.3
+Caregiving Adults,805,0.948025067775641,88.3
+Caregiving Adults,806,0.90364969464561,82.8
+Caregiving Adults,807,0.909186840074455,77.9
+Caregiving Adults,808,0.944743789339633,84.2
+Caregiving Adults,809,0.903208673167649,77.7
+Caregiving Adults,810,0.949779492055211,81.7
+Caregiving Adults,811,0.920656998201313,83.7
+Caregiving Adults,812,0.944003031087728,88.3
+Caregiving Adults,813,0.918513889432574,80.6
+Caregiving Adults,814,0.904832396267461,82.9
+Caregiving Adults,815,0.913883633097613,81.2
+Caregiving Adults,816,0.91578443780218,80.6
+Caregiving Adults,817,0.932571885269641,85.4
+Caregiving Adults,818,0.949831710537742,85.5
+Caregiving Adults,819,0.95789657506601,89.8
+Caregiving Adults,820,0.963385631762771,83.3
+Caregiving Adults,821,0.898011808009104,78.6
+Caregiving Adults,822,0.923497826301723,83.1
+Caregiving Adults,823,0.911727530936475,79.7
+Caregiving Adults,824,0.877338281315999,80.4
+Caregiving Adults,825,0.969847698024509,89.1
+Caregiving Adults,826,0.935150164968295,83.4
+Caregiving Adults,827,0.952291212954133,88.2
+Caregiving Adults,828,0.939783030078853,84.4
+Caregiving Adults,829,0.949519283670345,84.9
+Caregiving Adults,830,0.748492873065224,65.8
+Caregiving Adults,831,0.856655520817489,73.7
+Caregiving Adults,832,0.957540088631176,86.4
+Caregiving Adults,833,0.893337874506173,75.5
+Caregiving Adults,834,0.970934543642465,87.6
+Caregiving Adults,835,0.882396184396867,77.7
+Caregiving Adults,836,0.923725862501303,80.8
+Caregiving Adults,837,0.966885613500524,88.5
+Caregiving Adults,838,0.919508488092139,79.8
+Caregiving Adults,839,0.755989679621412,65
+Caregiving Adults,840,0.939960833112959,84.2
+Caregiving Adults,841,0.74387363135717,69.8
+Caregiving Adults,842,0.93013318368852,84.1
+Caregiving Adults,843,0.917978691367472,82
+Caregiving Adults,844,0.966202317006876,86.6
+Caregiving Adults,845,0.890992078508475,80.9
+Caregiving Adults,846,0.859125761587047,73.4
+Caregiving Adults,847,0.958399058803775,86.9
+Caregiving Adults,848,0.887626496116546,79.5
+Caregiving Adults,849,0.870153183315486,75.4
+Caregiving Adults,850,0.91881954270378,80.2
+Caregiving Adults,851,0.930698399196438,84.3
+Caregiving Adults,852,0.979487812979494,89.5
+Caregiving Adults,853,0.912043611506004,82
+Caregiving Adults,854,0.887035118906665,79.8
+Caregiving Adults,855,0.922957405723577,85.3
+Caregiving Adults,856,0.913552315561694,78.7
+Caregiving Adults,857,0.976211529341454,92.4
+Caregiving Adults,858,0.962348429284002,86.4
+Caregiving Adults,859,0.918085215439725,82
+Caregiving Adults,860,0.921301397375799,80.9
+Caregiving Adults,861,0.904475091175972,80.6
+Caregiving Adults,862,0.901110186293,77.6
+Caregiving Adults,863,0.853282055639686,73.4
+Caregiving Adults,864,0.947716329439655,86.8
+Caregiving Adults,865,0.911934342713167,80.7
+Caregiving Adults,866,0.927757289943155,85.2
+Caregiving Adults,867,0.92340268480386,79.7
+Caregiving Adults,868,0.894524158726401,79.2
+Caregiving Adults,869,0.880571247447749,72.9
+Caregiving Adults,870,0.875892567335568,77.8
+Caregiving Adults,871,0.917110788472443,80.2
+Caregiving Adults,872,0.926240397731192,82
+Caregiving Adults,873,0.968594454106544,88.1
+Caregiving Adults,874,0.958768892897281,85.8
+Caregiving Adults,875,0.927856000213665,88.4
+Caregiving Adults,876,0.905449350066694,82.2
+Caregiving Adults,877,0.924326010475059,83.3
+Caregiving Adults,878,0.851269009273062,72.7
+Caregiving Adults,879,0.856160558469681,77.5
+Caregiving Adults,880,0.900081647585259,75.9
+Caregiving Adults,881,0.956347935219844,87.2
+Caregiving Adults,882,0.939693632136189,80.8
+Caregiving Adults,883,0.902234543333135,79
+Caregiving Adults,884,0.900874282867514,82.1
+Caregiving Adults,885,0.898061689413315,80.3
+Caregiving Adults,886,0.911925108426028,80.5
+Caregiving Adults,887,0.982567038002339,91.6
+Caregiving Adults,888,0.944733297826333,81.5
+Caregiving Adults,889,0.912894763926651,77.1
+Caregiving Adults,890,0.906426623592865,80.3
+Caregiving Adults,891,0.965428524075348,88.7
+Caregiving Adults,892,0.929061470982678,79.8
+Caregiving Adults,893,0.938771531463231,83
+Caregiving Adults,894,0.921552710468871,81.9
+Caregiving Adults,895,0.931048090357107,86.4
+Caregiving Adults,896,0.95049575159482,84.7
+Caregiving Adults,897,0.929775349798978,79.4
+Caregiving Adults,898,0.973484637398091,87.2
+Caregiving Adults,899,0.84779545578001,73.9
+Caregiving Adults,900,0.856191913202643,73.7
+Caregiving Adults,901,0.946665836339373,88.4
+Caregiving Adults,902,0.893567032516834,78.7
+Caregiving Adults,903,0.920817963374714,78.7
+Caregiving Adults,904,0.976331532633596,90
+Caregiving Adults,905,0.952999357753542,84.8
+Caregiving Adults,906,0.772868793703805,65
+Caregiving Adults,907,0.937185151082784,83.7
+Caregiving Adults,908,0.900621290887594,77.5
+Caregiving Adults,909,0.93381099818329,81.9
+Caregiving Adults,910,0.94833708223162,86.9
+Caregiving Adults,911,0.949777010023502,83.6
+Caregiving Adults,912,0.942067752430565,84.9
+Caregiving Adults,913,0.904860291436595,77.2
+Caregiving Adults,914,0.912168479817308,79.3
+Caregiving Adults,915,0.933889856294858,83.1
+Caregiving Adults,916,0.95786939589628,86.6
+Caregiving Adults,917,0.895127938820662,81.1
+Caregiving Adults,918,0.797630839433566,71.2
+Caregiving Adults,919,0.932252880341381,81.8
+Caregiving Adults,920,0.891572297342394,73.4
+Caregiving Adults,921,0.959802983189716,88.1
+Caregiving Adults,922,0.862897673953825,80
+Caregiving Adults,923,0.911168579255139,80.4
+Caregiving Adults,924,0.946772069059652,81.7
+Caregiving Adults,925,0.970658949821172,88.4
+Caregiving Adults,926,0.942197846482523,83.6
+Caregiving Adults,927,0.932386616678405,82.9
+Caregiving Adults,928,0.91311874032338,83.7
+Caregiving Adults,929,0.953195622039586,86.3
+Caregiving Adults,930,0.902324244911958,75.7
+Caregiving Adults,931,0.966672937398229,91.2
+Caregiving Adults,932,0.871054629407242,76.8
+Caregiving Adults,933,0.951687469953295,84.8
+Caregiving Adults,934,0.924927383832441,84.1
+Caregiving Adults,935,0.955773497612626,84.8
+Caregiving Adults,936,0.918434951160674,82.3
+Caregiving Adults,937,0.893996678309184,77
+Caregiving Adults,938,0.945265568642307,85.5
+Caregiving Adults,939,0.94920804167285,84.7
+Caregiving Adults,940,0.874256737761545,76.6
+Caregiving Adults,941,0.894712291700639,83.4
+Caregiving Adults,942,0.906326843249372,80.1
+Caregiving Adults,943,0.825905311214476,69.6
+Caregiving Adults,944,0.896256723996517,80.1
+Caregiving Adults,945,0.899544904121457,77.4
+Caregiving Adults,946,0.815207282451399,72.8
+Caregiving Adults,947,0.892356941208036,78.1
+Caregiving Adults,948,0.954108755979783,85.1
+Caregiving Adults,949,0.973990852926869,86.3
+Caregiving Adults,950,0.889713408012741,79.2
+Caregiving Adults,951,0.854271871126485,77.6
+Caregiving Adults,952,0.924810678145573,84.2
+Caregiving Adults,953,0.956165457161977,88.3
+Caregiving Adults,954,0.94503347943231,87.1
+Caregiving Adults,955,0.95049096659147,89.3
+Caregiving Adults,956,0.911777598963958,80.5
+Caregiving Adults,957,0.925600767759222,80.5
+Caregiving Adults,958,0.924493738453837,79.6
+Caregiving Adults,959,0.906574454467035,77.3
+Caregiving Adults,960,0.966360747013445,87.4
+Caregiving Adults,961,0.930801464909194,80.5
+Caregiving Adults,962,0.956313884710346,86
+Caregiving Adults,963,0.91517512809024,84
+Caregiving Adults,964,0.906354489266321,80.5
+Caregiving Adults,965,0.914940156962168,82.4
+Caregiving Adults,966,0.930436727837348,84.7
+Caregiving Adults,967,0.966073057316061,85.9
+Caregiving Adults,968,0.92972285065894,84.4
+Caregiving Adults,969,0.941776764019922,84.7
+Caregiving Adults,970,0.962493183523715,86.7
+Caregiving Adults,971,0.922240401136079,86
+Caregiving Adults,972,0.897471574776829,78.4
+Caregiving Adults,973,0.852662729788334,75.9
+Caregiving Adults,974,0.882252669318337,82.2
+Caregiving Adults,975,0.935424582590877,82.6
+Caregiving Adults,976,0.943987952996802,87.6
+Caregiving Adults,977,0.919401334346993,81.1
+Caregiving Adults,978,0.894634375087581,81.9
+Caregiving Adults,979,0.942939392271147,84.8
+Caregiving Adults,980,0.963227614986565,86
+Caregiving Adults,981,0.848928904128999,72.6
+Caregiving Adults,982,0.934464387984483,86.1
+Caregiving Adults,983,0.970315127947954,86.6
+Caregiving Adults,984,0.840789082223856,76
+Caregiving Adults,985,0.88584631768093,76.7
+Caregiving Adults,986,0.913618326631276,82.4
+Caregiving Adults,987,0.897899778164942,81.2
+Caregiving Adults,988,0.904137691619414,77.8
+Caregiving Adults,989,0.782592985333193,68.8
+Caregiving Adults,990,0.896268557809984,78.6
+Caregiving Adults,991,0.965342201803675,90.4
+Caregiving Adults,992,0.896786019630954,80.6
+Caregiving Adults,993,0.935050122706698,83.9
+Caregiving Adults,994,0.907091625947669,78.4
+Caregiving Adults,995,0.891693661818628,74.6
+Caregiving Adults,996,0.948758488852197,84.8
+Caregiving Adults,997,0.831443967405435,74.6
+Caregiving Adults,998,0.86682184720925,76.4
+Caregiving Adults,999,0.986070116077418,91.2
+Caregiving Adults,1000,0.941018091138243,85.6
+Older adults,1,0.92619935603185,89.1
+Older adults,2,0.857371953469181,85.2
+Older adults,3,0.807720872648192,81.9
+Older adults,4,0.933331752331805,87.8
+Older adults,5,0.896545138857738,85.9
+Older adults,6,0.897203923034861,83.5
+Older adults,7,0.871392179029764,79.6
+Older adults,8,0.932020126149697,87
+Older adults,9,0.86025058338677,82.8
+Older adults,10,0.936044754088581,88.4
+Older adults,11,0.890045518085911,87
+Older adults,12,0.861612790484649,84.6
+Older adults,13,0.844927072459389,81.7
+Older adults,14,0.936370166415181,87.9
+Older adults,15,0.819062487634351,79
+Older adults,16,0.913948390812649,88
+Older adults,17,0.963393320701059,91.1
+Older adults,18,0.87733540828291,85.5
+Older adults,19,0.940302277600169,85.3
+Older adults,20,0.852369611558218,84
+Older adults,21,0.951340823983129,90
+Older adults,22,0.962179009667174,89.6
+Older adults,23,0.866809406402595,80.8
+Older adults,24,0.893278026441821,86.6
+Older adults,25,0.919578963923209,87.6
+Older adults,26,0.928301305319562,86.4
+Older adults,27,0.944199846290582,89.5
+Older adults,28,0.866221974344781,83.3
+Older adults,29,0.921000786350827,91.7
+Older adults,30,0.947525129223698,89.9
+Older adults,31,0.964548330109502,90.7
+Older adults,32,0.910263991658542,85.1
+Older adults,33,0.90131047909965,86.7
+Older adults,34,0.905526799295768,89.4
+Older adults,35,0.942371071060717,89
+Older adults,36,0.835016071088005,83.4
+Older adults,37,0.771758484888835,72.5
+Older adults,38,0.813878973206375,82.2
+Older adults,39,0.910769930209641,86.9
+Older adults,40,0.944399626164451,89
+Older adults,41,0.933891647106605,87.5
+Older adults,42,0.844348956051059,82.3
+Older adults,43,0.868194778144471,83.4
+Older adults,44,0.903719340976177,87.1
+Older adults,45,0.936463506112949,87.7
+Older adults,46,0.982805280182161,93.5
+Older adults,47,0.896276544054039,87.1
+Older adults,48,0.858615156321923,80.6
+Older adults,49,0.934299497617631,84.6
+Older adults,50,0.919196687490162,85.5
+Older adults,51,0.986224718530928,94.9
+Older adults,52,0.907634162872991,86.9
+Older adults,53,0.748097445175989,76
+Older adults,54,0.863055593332291,83.9
+Older adults,55,0.895391479553198,84.8
+Older adults,56,0.933087855767969,89.4
+Older adults,57,0.963364926271155,91.6
+Older adults,58,0.84847376891586,79.8
+Older adults,59,0.812239019540758,81.1
+Older adults,60,0.760457883174618,80.2
+Older adults,61,0.887761591835847,84.8
+Older adults,62,0.933449901597849,86.9
+Older adults,63,0.903857154568667,85.6
+Older adults,64,0.756597499282321,75.2
+Older adults,65,0.802983536632744,82.4
+Older adults,66,0.934736836669737,85.1
+Older adults,67,0.973558623097881,94.2
+Older adults,68,0.955302846863151,89.4
+Older adults,69,0.893328179530833,86.1
+Older adults,70,0.901079123096296,86.7
+Older adults,71,0.872012920346589,80.8
+Older adults,72,0.73975646901539,78
+Older adults,73,0.943581588931778,89.6
+Older adults,74,0.874297109574502,85.6
+Older adults,75,0.907154890391423,86.1
+Older adults,76,0.934628455881862,89.5
+Older adults,77,0.975165720622211,91.5
+Older adults,78,0.813682613489745,81.7
+Older adults,79,0.945361185087861,86.6
+Older adults,80,0.922348386785094,86.3
+Older adults,81,0.907719602444469,87.2
+Older adults,82,0.9646811674038,90.7
+Older adults,83,0.817033830933202,83.7
+Older adults,84,0.911003869070728,84.8
+Older adults,85,0.805598843684149,79.1
+Older adults,86,0.9598837703114,90.9
+Older adults,87,0.913550810215298,86
+Older adults,88,0.944523634118367,88.9
+Older adults,89,0.863410664733327,83.4
+Older adults,90,0.964373790858277,91.2
+Older adults,91,0.948891631305293,90.3
+Older adults,92,0.94715085311733,89.5
+Older adults,93,0.70877251381251,70.5
+Older adults,94,0.919335406499152,86.7
+Older adults,95,0.90202090597946,87.9
+Older adults,96,0.919791105393884,88.3
+Older adults,97,0.974450071616041,90.8
+Older adults,98,0.864029548392738,84.2
+Older adults,99,0.980584318459857,93.5
+Older adults,100,0.666768208183849,71.8
+Older adults,101,0.919888932093999,87
+Older adults,102,0.936961658226662,87
+Older adults,103,0.906542791454541,88
+Older adults,104,0.923057970440089,86.5
+Older adults,105,0.926466710807555,85
+Older adults,106,0.960019619109136,88.9
+Older adults,107,0.928184329265195,88
+Older adults,108,0.877098412731863,84.4
+Older adults,109,0.949151500533821,87.2
+Older adults,110,0.886099515851151,85.5
+Older adults,111,0.907272836510811,81.6
+Older adults,112,0.93001926672267,85.1
+Older adults,113,0.93511702137148,90.2
+Older adults,114,0.867760960365284,80
+Older adults,115,0.908447372181125,88
+Older adults,116,0.977738625951853,92.1
+Older adults,117,0.792198130492248,80
+Older adults,118,0.890442887780711,87.1
+Older adults,119,0.92473767234773,87.1
+Older adults,120,0.97756522339697,92.1
+Older adults,121,0.826811155639332,80
+Older adults,122,0.8845393849471,85.4
+Older adults,123,0.938483680706603,88.9
+Older adults,124,0.850652939368006,82.6
+Older adults,125,0.906514078792054,86.2
+Older adults,126,0.832907291216815,80.2
+Older adults,127,0.958500289321971,89.5
+Older adults,128,0.825200605488985,81.7
+Older adults,129,0.949145339125156,86.5
+Older adults,130,0.781562879645491,81.6
+Older adults,131,0.93571129697138,88.5
+Older adults,132,0.862699898858256,85.6
+Older adults,133,0.904613056094591,85.7
+Older adults,134,0.81490869628699,80.3
+Older adults,135,0.867348087598772,84.1
+Older adults,136,0.921926742197078,88.4
+Older adults,137,0.914519431098374,87.1
+Older adults,138,0.930319714218564,89.9
+Older adults,139,0.825341041200418,80.1
+Older adults,140,0.921505563589046,85.8
+Older adults,141,0.870335146525675,84.6
+Older adults,142,0.916361792152209,84.8
+Older adults,143,0.9288085409358,89
+Older adults,144,0.983675924931656,91.6
+Older adults,145,0.943990286425135,87.8
+Older adults,146,0.897176729468087,83.6
+Older adults,147,0.937008599796843,89.6
+Older adults,148,0.90629232010726,83.9
+Older adults,149,0.868211711576743,82.7
+Older adults,150,0.935347850841056,87.8
+Older adults,151,0.9561324673572,91.5
+Older adults,152,0.939628590493859,87.2
+Older adults,153,0.884999703802388,84.7
+Older adults,154,0.952108832269291,91.6
+Older adults,155,0.879227883164547,86
+Older adults,156,0.914935116798129,85.3
+Older adults,157,0.8491710845747,85
+Older adults,158,0.84058512645845,82.9
+Older adults,159,0.908544835847521,86.8
+Older adults,160,0.66452105229731,71.6
+Older adults,161,0.927234065382522,84.4
+Older adults,162,0.949462841690814,90.4
+Older adults,163,0.959605070009376,88.8
+Older adults,164,0.849342433166118,80.8
+Older adults,165,0.816333564902796,80.8
+Older adults,166,0.904432360300201,87.9
+Older adults,167,0.946703193232408,87.6
+Older adults,168,0.880123563414926,82.6
+Older adults,169,0.900710745565262,83.3
+Older adults,170,0.941855526327176,85.7
+Older adults,171,0.960560439439109,89.9
+Older adults,172,0.882206089820593,86.5
+Older adults,173,0.879935772469492,86.8
+Older adults,174,0.906391908407301,83.9
+Older adults,175,0.909654157684023,88.7
+Older adults,176,0.771200016909775,77.5
+Older adults,177,0.918390366188036,86.6
+Older adults,178,0.954697348048851,88.6
+Older adults,179,0.825428169485674,80.5
+Older adults,180,0.935979115125713,88.4
+Older adults,181,0.840744281144193,83
+Older adults,182,0.910623139384848,85.2
+Older adults,183,0.948297475319608,87.6
+Older adults,184,0.947857722160713,89.7
+Older adults,185,0.898795559205526,81.6
+Older adults,186,0.854145216896574,85.2
+Older adults,187,0.973372482616652,93.6
+Older adults,188,0.888898899014894,83.3
+Older adults,189,0.919957364431765,85.8
+Older adults,190,0.797322684072452,80.1
+Older adults,191,0.914792023367709,84.6
+Older adults,192,0.91424765083758,82.8
+Older adults,193,0.909978077843764,84.4
+Older adults,194,0.875555026469062,85.3
+Older adults,195,0.923155201285099,90
+Older adults,196,0.988248100885898,94.4
+Older adults,197,0.818826408290615,81.5
+Older adults,198,0.924416978206972,87.5
+Older adults,199,0.880443672395044,83.8
+Older adults,200,0.902646509327495,86.9
+Older adults,201,0.911435113241448,84.1
+Older adults,202,0.97678559494871,92.7
+Older adults,203,0.930278588221184,87.2
+Older adults,204,0.946696595855702,90
+Older adults,205,0.874372816026989,84.2
+Older adults,206,0.863500539183681,83.8
+Older adults,207,0.738526669747159,81
+Older adults,208,0.870127801618743,82.9
+Older adults,209,0.858295193403143,83.5
+Older adults,210,0.975187384813547,94
+Older adults,211,0.955767117756687,89
+Older adults,212,0.816019431430717,78.7
+Older adults,213,0.931501221523672,86.5
+Older adults,214,0.877424666549042,80.8
+Older adults,215,0.903185293614457,86.7
+Older adults,216,0.718140992699802,78.1
+Older adults,217,0.934836383637117,87.6
+Older adults,218,0.815300902482293,81.7
+Older adults,219,0.980910964214713,92
+Older adults,220,0.894834355800901,86
+Older adults,221,0.849593433889399,84.3
+Older adults,222,0.849576126488077,85.5
+Older adults,223,0.949919755033536,91.1
+Older adults,224,0.947754180521746,88.3
+Older adults,225,0.982256528798663,93.3
+Older adults,226,0.916696189852394,89.5
+Older adults,227,0.961723743609221,89.3
+Older adults,228,0.922170079228451,85.3
+Older adults,229,0.98882257443199,94.7
+Older adults,230,0.817516921386824,82.8
+Older adults,231,0.843277620230403,81.7
+Older adults,232,0.922885693549871,88
+Older adults,233,0.954298543706069,87.5
+Older adults,234,0.851232522700404,82.4
+Older adults,235,0.844282731349472,83.7
+Older adults,236,0.886343724192354,84.7
+Older adults,237,0.735049409462933,75.1
+Older adults,238,0.894838232447991,84.3
+Older adults,239,0.912554383290567,87.8
+Older adults,240,0.949292172294249,89
+Older adults,241,0.93882903319976,88.6
+Older adults,242,0.928008542374601,89.1
+Older adults,243,0.847142705158861,80.2
+Older adults,244,0.899934062719416,85.6
+Older adults,245,0.939196965658005,88.6
+Older adults,246,0.887100090012197,82.1
+Older adults,247,0.921671729026275,88.8
+Older adults,248,0.841931434741252,83
+Older adults,249,0.942766704061169,89.7
+Older adults,250,0.92695159942461,86.9
+Older adults,251,0.949684008518883,88
+Older adults,252,0.890678930175552,84.1
+Older adults,253,0.884003129467469,83.2
+Older adults,254,0.949139010651612,89.5
+Older adults,255,0.830745958553631,80.5
+Older adults,256,0.950496496095173,89.6
+Older adults,257,0.965512618867274,90.2
+Older adults,258,0.922656768899334,86
+Older adults,259,0.874750931253475,84.3
+Older adults,260,0.928361515155555,90.2
+Older adults,261,0.8804991507012,86.1
+Older adults,262,0.867067874270867,83.8
+Older adults,263,0.96427002800768,91.5
+Older adults,264,0.87273516562148,85.7
+Older adults,265,0.833084217983187,82.7
+Older adults,266,0.946344250194301,89
+Older adults,267,0.919282100084612,87.3
+Older adults,268,0.81240102015843,78.5
+Older adults,269,0.917210052857281,88.5
+Older adults,270,0.818031516288114,81.1
+Older adults,271,0.863937284114921,84.3
+Older adults,272,0.877733492146352,86.9
+Older adults,273,0.86266769623547,80.9
+Older adults,274,0.937141521249833,87.3
+Older adults,275,0.872717862507578,83.5
+Older adults,276,0.941389877967323,89.9
+Older adults,277,0.902859669807228,85.8
+Older adults,278,0.92042181106137,86.5
+Older adults,279,0.869817474508961,80.4
+Older adults,280,0.893512755970693,86.5
+Older adults,281,0.911571835757677,86.4
+Older adults,282,0.938498123870155,87.6
+Older adults,283,0.97161622973103,91.1
+Older adults,284,0.958473296396842,88.8
+Older adults,285,0.930968216775909,89.9
+Older adults,286,0.935640408375219,87.3
+Older adults,287,0.887307707627978,84.2
+Older adults,288,0.942035386363606,87.5
+Older adults,289,0.808195299381114,78.4
+Older adults,290,0.77292727348873,78.5
+Older adults,291,0.840226972353891,82.1
+Older adults,292,0.956768224473169,87.8
+Older adults,293,0.869638068890933,82.8
+Older adults,294,0.837633792438892,84
+Older adults,295,0.886244845002762,84.9
+Older adults,296,0.818606146590007,78.3
+Older adults,297,0.890163563105011,87.1
+Older adults,298,0.882313209480585,84.5
+Older adults,299,0.882168228332635,86.9
+Older adults,300,0.985980432775289,93.1
+Older adults,301,0.97258894206578,91
+Older adults,302,0.751276058102858,79
+Older adults,303,0.918143321067824,89
+Older adults,304,0.928671181376325,90
+Older adults,305,0.831725292592586,84.4
+Older adults,306,0.78453571633143,74.1
+Older adults,307,0.941006989155742,86.9
+Older adults,308,0.908490823935527,86.5
+Older adults,309,0.96187780994576,90.4
+Older adults,310,0.747404464581021,78.2
+Older adults,311,0.925367102676219,89.3
+Older adults,312,0.859688689614199,83.9
+Older adults,313,0.782801610044211,76.3
+Older adults,314,0.967760092552838,91
+Older adults,315,0.963554844981495,88.8
+Older adults,316,0.943583956984927,86.6
+Older adults,317,0.867945707772059,82.5
+Older adults,318,0.899492351172811,84.4
+Older adults,319,0.869927708040578,81.7
+Older adults,320,0.917545969894045,88.5
+Older adults,321,0.96602211804885,89.3
+Older adults,322,0.898933654226225,85.7
+Older adults,323,0.934036711931515,87
+Older adults,324,0.905116874395813,84
+Older adults,325,0.86556547150893,83.6
+Older adults,326,0.940251616235046,86.8
+Older adults,327,0.936453558863797,88.1
+Older adults,328,0.890369253404837,83.8
+Older adults,329,0.771021663540357,75.8
+Older adults,330,0.910409244889088,86.4
+Older adults,331,0.895376674223045,82.2
+Older adults,332,0.968197087599665,89
+Older adults,333,0.884603416368142,84
+Older adults,334,0.939656950287187,86.6
+Older adults,335,0.908390961096054,86.3
+Older adults,336,0.859624946702837,81.3
+Older adults,337,0.905846869929967,84.7
+Older adults,338,0.840830603538911,83.4
+Older adults,339,0.974730452394212,93.2
+Older adults,340,0.946403754725533,87.3
+Older adults,341,0.938712265831973,88.2
+Older adults,342,0.975869716419424,93.7
+Older adults,343,0.85679352668051,84.3
+Older adults,344,0.774696859047819,81.1
+Older adults,345,0.849155693505828,81.7
+Older adults,346,0.859719317067592,83.1
+Older adults,347,0.864874727068713,83.2
+Older adults,348,0.93799927603816,85.9
+Older adults,349,0.863129129338359,84.7
+Older adults,350,0.92056536849667,84.6
+Older adults,351,0.944271741997004,87.6
+Older adults,352,0.972367011450607,91.6
+Older adults,353,0.835890080547312,81.4
+Older adults,354,0.884263591612532,82.7
+Older adults,355,0.823231991799815,81.4
+Older adults,356,0.838290982610876,84.3
+Older adults,357,0.882313531759722,86.4
+Older adults,358,0.911038103834491,85.6
+Older adults,359,0.756682734213773,77.1
+Older adults,360,0.869725245975705,83.5
+Older adults,361,0.950334136972069,91
+Older adults,362,0.909431686902038,87.6
+Older adults,363,0.89466113331768,83.1
+Older adults,364,0.896379909908765,86.3
+Older adults,365,0.705676130913392,75.3
+Older adults,366,0.918851585305285,88.1
+Older adults,367,0.928898032456877,83.4
+Older adults,368,0.945803948786729,87.5
+Older adults,369,0.883485076785621,84.2
+Older adults,370,0.933877872250747,88.6
+Older adults,371,0.91880832166748,88.1
+Older adults,372,0.939578262776765,87.7
+Older adults,373,0.902421684029049,86.1
+Older adults,374,0.856409310695499,82.7
+Older adults,375,0.892977630105934,83.5
+Older adults,376,0.891256801285621,85.5
+Older adults,377,0.930130729298777,88.6
+Older adults,378,0.752165821423889,76.6
+Older adults,379,0.86620312621795,83.1
+Older adults,380,0.851612262666571,84.7
+Older adults,381,0.944628680063855,89.9
+Older adults,382,0.88934196919207,82.6
+Older adults,383,0.812074031554453,78.1
+Older adults,384,0.961465287206186,90.8
+Older adults,385,0.855898088500782,81.5
+Older adults,386,0.764702912901963,77.8
+Older adults,387,0.777984568135537,79.8
+Older adults,388,0.878673564011518,87.2
+Older adults,389,0.968872108575487,93.6
+Older adults,390,0.951264633244817,91.2
+Older adults,391,0.918158646621057,86.5
+Older adults,392,0.912578556490022,87.3
+Older adults,393,0.949912748665818,86.2
+Older adults,394,0.873773556469348,84.8
+Older adults,395,0.921000312181387,86.4
+Older adults,396,0.951486314563348,86.7
+Older adults,397,0.904050732327463,85.1
+Older adults,398,0.867602340595466,82.5
+Older adults,399,0.93010221780784,85.9
+Older adults,400,0.93861013364637,85.7
+Older adults,401,0.908675257493486,86.4
+Older adults,402,0.939395794495292,88.6
+Older adults,403,0.867748426019152,83.7
+Older adults,404,0.688793302680219,74.4
+Older adults,405,0.804702188310555,82
+Older adults,406,0.942561978671824,91
+Older adults,407,0.865993469331549,84.3
+Older adults,408,0.980892600903613,93.9
+Older adults,409,0.97303235056379,92.2
+Older adults,410,0.92086712158437,89.2
+Older adults,411,0.833435006781036,83
+Older adults,412,0.879841384858708,84.9
+Older adults,413,0.944837121876013,89.9
+Older adults,414,0.850021301547858,81.2
+Older adults,415,0.914824194196141,88.9
+Older adults,416,0.973003216144374,92
+Older adults,417,0.960121365475066,92.2
+Older adults,418,0.888882045742934,83.9
+Older adults,419,0.865128320525247,84.8
+Older adults,420,0.930218423571713,89.5
+Older adults,421,0.991318490792332,95.1
+Older adults,422,0.848681054136118,84.9
+Older adults,423,0.945123080347406,89.2
+Older adults,424,0.861249245213747,84
+Older adults,425,0.931273906390066,87.8
+Older adults,426,0.844530982053793,83.1
+Older adults,427,0.862099013115736,80.3
+Older adults,428,0.812503266803709,78
+Older adults,429,0.937588864395543,87.3
+Older adults,430,0.835558939359787,81.9
+Older adults,431,0.907575761654029,84.7
+Older adults,432,0.759960438244423,79.1
+Older adults,433,0.909670648500344,88.3
+Older adults,434,0.865269008712758,82.9
+Older adults,435,0.826193015052521,79.8
+Older adults,436,0.863599091951235,82.7
+Older adults,437,0.813983276223783,81.7
+Older adults,438,0.957434234688096,88.8
+Older adults,439,0.78504831387284,79.7
+Older adults,440,0.758471778351297,76.8
+Older adults,441,0.924025104310845,86.6
+Older adults,442,0.814960218219304,81.1
+Older adults,443,0.945924301594224,88.3
+Older adults,444,0.944678674373788,90.6
+Older adults,445,0.965824088261497,92
+Older adults,446,0.882924662173127,84.2
+Older adults,447,0.89747325190276,86.8
+Older adults,448,0.946426747583669,89.3
+Older adults,449,0.8374492702903,78.1
+Older adults,450,0.909050747373419,85.4
+Older adults,451,0.824881092026759,81.9
+Older adults,452,0.938882909552188,85.5
+Older adults,453,0.811698127384447,81.1
+Older adults,454,0.943360721548719,88.9
+Older adults,455,0.93027816371838,85.4
+Older adults,456,0.897708170559867,84.2
+Older adults,457,0.914223895107632,86.5
+Older adults,458,0.944183849683779,87.3
+Older adults,459,0.940929119241959,87.7
+Older adults,460,0.916898599456582,89
+Older adults,461,0.906934012217553,86.5
+Older adults,462,0.899310810804753,85.1
+Older adults,463,0.828899178951657,80.8
+Older adults,464,0.886060984706647,85.6
+Older adults,465,0.780880437674665,76.4
+Older adults,466,0.816527455017037,81.1
+Older adults,467,0.820904961606317,79.9
+Older adults,468,0.960284541809424,91.2
+Older adults,469,0.956720290581919,90.5
+Older adults,470,0.872761643574414,83.2
+Older adults,471,0.921125084163273,88.8
+Older adults,472,0.799557622303898,82.1
+Older adults,473,0.963387918503039,90.4
+Older adults,474,0.767330761236449,80.5
+Older adults,475,0.959995023863712,90.5
+Older adults,476,0.864134955734055,85.2
+Older adults,477,0.909315328188052,85.2
+Older adults,478,0.951703996730179,88.5
+Older adults,479,0.88359637056261,85.6
+Older adults,480,0.895915051831311,83.5
+Older adults,481,0.788948095739357,77.2
+Older adults,482,0.772369289458281,78.6
+Older adults,483,0.909360602866944,83.7
+Older adults,484,0.957318155523561,88.3
+Older adults,485,0.923224852261929,87.5
+Older adults,486,0.839533398938734,81
+Older adults,487,0.952618680032607,90.9
+Older adults,488,0.960439535384953,90.9
+Older adults,489,0.973432137930201,91.5
+Older adults,490,0.874729134489315,80.5
+Older adults,491,0.918422555515001,85.4
+Older adults,492,0.839318955749495,83.7
+Older adults,493,0.928315557090736,87.5
+Older adults,494,0.927742496803697,86.5
+Older adults,495,0.981030585848404,93.6
+Older adults,496,0.929098328699965,88.6
+Older adults,497,0.9570693987591,87.9
+Older adults,498,0.883948006920869,83.6
+Older adults,499,0.941949115658799,89.2
+Older adults,500,0.94517656273888,90.8
+Older adults,501,0.881246238446705,84.3
+Older adults,502,0.975516839888652,93.5
+Older adults,503,0.899057137765987,85.4
+Older adults,504,0.929114487457975,90.4
+Older adults,505,0.843335077638773,81.7
+Older adults,506,0.89955292592128,86.1
+Older adults,507,0.927773926775498,85.4
+Older adults,508,0.918548668399696,85.2
+Older adults,509,0.844225692614942,84.1
+Older adults,510,0.971867681500584,91.4
+Older adults,511,0.93589648925825,86.3
+Older adults,512,0.78707619787483,79.7
+Older adults,513,0.898609053859993,85.4
+Older adults,514,0.925875185949214,86.2
+Older adults,515,0.719281552393128,76.6
+Older adults,516,0.751893744704827,78.1
+Older adults,517,0.874680141412505,86.4
+Older adults,518,0.968035305110533,91.5
+Older adults,519,0.923489958406008,88
+Older adults,520,0.959096953255963,88.1
+Older adults,521,0.887477968659782,82.1
+Older adults,522,0.92413713904081,84.6
+Older adults,523,0.95414972237819,88
+Older adults,524,0.89289713470108,87.2
+Older adults,525,0.931564872327753,90.9
+Older adults,526,0.897107599388762,84.7
+Older adults,527,0.809588563926942,81.1
+Older adults,528,0.814411723647477,82.2
+Older adults,529,0.952794067085108,88.2
+Older adults,530,0.904376723793045,86.4
+Older adults,531,0.899975785968925,84.7
+Older adults,532,0.91119665558366,84.3
+Older adults,533,0.910440891688752,86.2
+Older adults,534,0.85147705370613,82.1
+Older adults,535,0.894760278520037,84
+Older adults,536,0.947181522385116,91.7
+Older adults,537,0.889869210105118,82.1
+Older adults,538,0.885106410954719,85.1
+Older adults,539,0.884482751446068,83.7
+Older adults,540,0.84168051769493,82.7
+Older adults,541,0.921680928192806,86.4
+Older adults,542,0.885364735266664,86
+Older adults,543,0.909498319053094,86
+Older adults,544,0.774032756205115,81.5
+Older adults,545,0.875746218254255,80.7
+Older adults,546,0.887824412855453,84.9
+Older adults,547,0.858186615731136,84
+Older adults,548,0.814761470024061,76.4
+Older adults,549,0.961954558530471,89.1
+Older adults,550,0.768622045342456,79.8
+Older adults,551,0.800174705921119,78.5
+Older adults,552,0.934253116254339,86.9
+Older adults,553,0.936591696084276,91.8
+Older adults,554,0.868024152441056,82.6
+Older adults,555,0.864098911148929,81.2
+Older adults,556,0.871670302216082,84.5
+Older adults,557,0.891329998681816,86.8
+Older adults,558,0.922547089071216,86.3
+Older adults,559,0.75378373235266,72.8
+Older adults,560,0.829701807050483,82.7
+Older adults,561,0.953266076194593,90.9
+Older adults,562,0.879797717817988,84.5
+Older adults,563,0.923105071945507,87.6
+Older adults,564,0.910744049557009,83.6
+Older adults,565,0.895089142461016,85.7
+Older adults,566,0.900227626593068,84.7
+Older adults,567,0.940809294172574,88.2
+Older adults,568,0.837615161621656,83.1
+Older adults,569,0.941283828042836,88
+Older adults,570,0.861340171575498,83.3
+Older adults,571,0.949854694390705,89.8
+Older adults,572,0.759078681175382,77.4
+Older adults,573,0.904351063244058,84.2
+Older adults,574,0.967292614668757,89.9
+Older adults,575,0.919950152942288,86.1
+Older adults,576,0.917434323970495,85.2
+Older adults,577,0.856385218571647,83.8
+Older adults,578,0.956323116133359,88.9
+Older adults,579,0.880766837053482,82.2
+Older adults,580,0.90878632938442,88.4
+Older adults,581,0.932220675254248,87
+Older adults,582,0.858099570833801,82.8
+Older adults,583,0.919318361112214,85.7
+Older adults,584,0.823155282042755,83.1
+Older adults,585,0.846757091089377,80.3
+Older adults,586,0.869609634525392,85.5
+Older adults,587,0.875541291597012,84.3
+Older adults,588,0.973062179545329,90.5
+Older adults,589,0.83564956468681,83
+Older adults,590,0.877654748225037,82.5
+Older adults,591,0.941550241272092,85
+Older adults,592,0.931249179968845,87.7
+Older adults,593,0.889707532103796,84.4
+Older adults,594,0.954415158220089,90.9
+Older adults,595,0.765142520914813,81.1
+Older adults,596,0.882395885929976,83.7
+Older adults,597,0.952840514831158,89.3
+Older adults,598,0.790065700583252,78.3
+Older adults,599,0.746070448862738,77.1
+Older adults,600,0.954474345674895,91.1
+Older adults,601,0.757610912292702,74.9
+Older adults,602,0.935216807615463,86.9
+Older adults,603,0.922848956955805,84.8
+Older adults,604,0.920668551244819,88.7
+Older adults,605,0.876172429908584,83.3
+Older adults,606,0.735364735849554,74.5
+Older adults,607,0.965657005990704,88.5
+Older adults,608,0.888378224454969,81.4
+Older adults,609,0.882972982847515,82
+Older adults,610,0.95038968132377,87.9
+Older adults,611,0.857225608536121,84.1
+Older adults,612,0.886691493586349,86.1
+Older adults,613,0.873787503255586,84.1
+Older adults,614,0.94729829413667,86.6
+Older adults,615,0.960310968457833,90.5
+Older adults,616,0.948831553753084,86.5
+Older adults,617,0.715977175163304,74.1
+Older adults,618,0.86118990278555,83.2
+Older adults,619,0.816498642202333,81.1
+Older adults,620,0.885065283223102,83
+Older adults,621,0.826582223859153,80.7
+Older adults,622,0.946330741592074,90.3
+Older adults,623,0.89597004994637,84.8
+Older adults,624,0.818024154064493,82.7
+Older adults,625,0.802861944182642,81.7
+Older adults,626,0.831195006213948,82.4
+Older adults,627,0.933241380540671,88.3
+Older adults,628,0.857021488732881,83.9
+Older adults,629,0.968584210792996,91.1
+Older adults,630,0.983820153709566,92.5
+Older adults,631,0.907548320476677,83.3
+Older adults,632,0.93392221246466,89.8
+Older adults,633,0.960080026118299,88.7
+Older adults,634,0.971567963058871,91.1
+Older adults,635,0.762432244560459,74.5
+Older adults,636,0.875710851563303,86.5
+Older adults,637,0.93937158164924,86.3
+Older adults,638,0.927191469088945,85.7
+Older adults,639,0.958382675164546,88.4
+Older adults,640,0.95525336203366,89.4
+Older adults,641,0.955572526817799,87.7
+Older adults,642,0.928930584191309,87.5
+Older adults,643,0.773830235465206,78.4
+Older adults,644,0.900723893975993,83.5
+Older adults,645,0.94250156116089,88.8
+Older adults,646,0.886168644822491,85.3
+Older adults,647,0.763585836759642,79.4
+Older adults,648,0.83861297083003,83.3
+Older adults,649,0.865054917429215,83.6
+Older adults,650,0.833376015246895,81.5
+Older adults,651,0.834481125150388,81.7
+Older adults,652,0.861407946155515,82.6
+Older adults,653,0.916074071021078,87.4
+Older adults,654,0.911882199720006,87.4
+Older adults,655,0.949737032108189,88
+Older adults,656,0.946042368146773,89.4
+Older adults,657,0.914989393325863,87.3
+Older adults,658,0.884166715322746,84.6
+Older adults,659,0.908210396381116,87.2
+Older adults,660,0.883357731773348,82.2
+Older adults,661,0.929107761217788,85.5
+Older adults,662,0.842289952746648,82.6
+Older adults,663,0.914249913198586,87.5
+Older adults,664,0.913906376452104,88
+Older adults,665,0.921602098089522,85.2
+Older adults,666,0.963469601282509,93
+Older adults,667,0.801825513986626,78.4
+Older adults,668,0.866523740535609,83.8
+Older adults,669,0.950586764121096,87.6
+Older adults,670,0.843601243161104,84.3
+Older adults,671,0.745573524059276,78.7
+Older adults,672,0.878075979293754,84.4
+Older adults,673,0.900761378941718,86.3
+Older adults,674,0.927883431301108,84.7
+Older adults,675,0.942817393077745,91.5
+Older adults,676,0.975613165943414,90.9
+Older adults,677,0.959354615426391,88.8
+Older adults,678,0.892971727387699,85.5
+Older adults,679,0.872595190783665,83.9
+Older adults,680,0.95822105304421,88.5
+Older adults,681,0.977498080657487,92.1
+Older adults,682,0.905921132870592,84.7
+Older adults,683,0.931380425088587,88
+Older adults,684,0.80630216515201,79.4
+Older adults,685,0.905965950144342,85.3
+Older adults,686,0.873400303755804,83.1
+Older adults,687,0.765085120399069,76.6
+Older adults,688,0.892899537053592,86.1
+Older adults,689,0.888680172837082,81.7
+Older adults,690,0.744869316925953,79
+Older adults,691,0.897781910097977,85.7
+Older adults,692,0.739741423637862,73.1
+Older adults,693,0.957269462036282,89.1
+Older adults,694,0.808637863739015,82.7
+Older adults,695,0.894730530710448,83.1
+Older adults,696,0.910587843171381,85.6
+Older adults,697,0.961059375572698,90.7
+Older adults,698,0.874456583263601,84.6
+Older adults,699,0.903186322402687,84.8
+Older adults,700,0.913069700549953,87.1
+Older adults,701,0.716225702093122,74
+Older adults,702,0.839654150909896,83.2
+Older adults,703,0.909879182660649,86.6
+Older adults,704,0.854379696165339,83
+Older adults,705,0.922835941985016,85.3
+Older adults,706,0.86320468915143,81.2
+Older adults,707,0.790589153584363,79.6
+Older adults,708,0.957813290160352,89.4
+Older adults,709,0.772908383981065,74.3
+Older adults,710,0.928646833307921,86
+Older adults,711,0.957792961958152,88.9
+Older adults,712,0.926857461833066,87.8
+Older adults,713,0.846254202483981,81.1
+Older adults,714,0.871158713085612,79.8
+Older adults,715,0.786781628095248,81.3
+Older adults,716,0.899423308383441,88.6
+Older adults,717,0.754357729802381,80.3
+Older adults,718,0.943125829386907,91.1
+Older adults,719,0.91772352599594,84.4
+Older adults,720,0.872756700274908,85.1
+Older adults,721,0.957511745325674,91.8
+Older adults,722,0.728660726564019,77.4
+Older adults,723,0.945691295560225,91.2
+Older adults,724,0.771826443008989,78.9
+Older adults,725,0.910758808592655,83.4
+Older adults,726,0.960343903314234,91.5
+Older adults,727,0.835561046313843,82.2
+Older adults,728,0.944374051845606,88.8
+Older adults,729,0.892501808901533,87.8
+Older adults,730,0.948798002038034,88.9
+Older adults,731,0.89319659970325,82.9
+Older adults,732,0.934514019955542,88.2
+Older adults,733,0.685842336752573,73.9
+Older adults,734,0.941837681312226,86.8
+Older adults,735,0.958350160330835,91
+Older adults,736,0.870714239235864,82.6
+Older adults,737,0.925221607037807,86.9
+Older adults,738,0.853792238816561,84.7
+Older adults,739,0.840487892337657,83.5
+Older adults,740,0.806921643414021,79
+Older adults,741,0.917661588281307,85.2
+Older adults,742,0.987922460988799,93.8
+Older adults,743,0.715615973184493,74
+Older adults,744,0.942340967587918,92.1
+Older adults,745,0.939545568979377,88.2
+Older adults,746,0.92098724277481,88.8
+Older adults,747,0.853742327075602,80.4
+Older adults,748,0.90098132708255,84.2
+Older adults,749,0.810768693428521,79.1
+Older adults,750,0.909168524500997,88
+Older adults,751,0.87283596673162,85
+Older adults,752,0.919709097926613,88.9
+Older adults,753,0.930587937558222,88.5
+Older adults,754,0.892397482231053,85.2
+Older adults,755,0.931163462871191,85.1
+Older adults,756,0.945324109643055,88
+Older adults,757,0.904807781677753,84.1
+Older adults,758,0.945514958964513,89.7
+Older adults,759,0.898608781343838,86.4
+Older adults,760,0.960528854204877,90.6
+Older adults,761,0.934302071756003,87
+Older adults,762,0.939019121287297,86.7
+Older adults,763,0.864923542000792,81.5
+Older adults,764,0.871164418630677,83.7
+Older adults,765,0.895171167415182,83.3
+Older adults,766,0.856617108479288,82.8
+Older adults,767,0.894854780927709,84.9
+Older adults,768,0.979346028894677,91.3
+Older adults,769,0.956617940894028,89.5
+Older adults,770,0.92725887779302,83.9
+Older adults,771,0.874462593938122,84.3
+Older adults,772,0.857451876672003,82.3
+Older adults,773,0.8919604074093,83
+Older adults,774,0.891541711843999,85.9
+Older adults,775,0.799235402515864,81.3
+Older adults,776,0.870980410635334,84.8
+Older adults,777,0.911060887572487,84.5
+Older adults,778,0.985219854107145,93.9
+Older adults,779,0.989260479279084,93.8
+Older adults,780,0.95331159665348,90.9
+Older adults,781,0.926504277282443,88
+Older adults,782,0.829138019683242,82.2
+Older adults,783,0.910954192945205,84.2
+Older adults,784,0.952942443002987,87.5
+Older adults,785,0.95113608553883,92
+Older adults,786,0.748201002278574,78
+Older adults,787,0.893960872923546,87.1
+Older adults,788,0.845894397915217,82.3
+Older adults,789,0.940631561949225,90.2
+Older adults,790,0.766559728729107,77.1
+Older adults,791,0.91981009616175,86.3
+Older adults,792,0.651886849973827,69.9
+Older adults,793,0.685021134680963,72.5
+Older adults,794,0.875032457302829,85.9
+Older adults,795,0.956659125132885,90.9
+Older adults,796,0.94434302204911,87.1
+Older adults,797,0.922534167363867,85.7
+Older adults,798,0.943040648602204,91.3
+Older adults,799,0.923256222017151,84
+Older adults,800,0.879375804856717,82
+Older adults,801,0.968306259055326,89.6
+Older adults,802,0.85091511508425,80
+Older adults,803,0.782862590796951,79.2
+Older adults,804,0.831513592340837,83.4
+Older adults,805,0.726834264806993,71.8
+Older adults,806,0.937082334084067,88.6
+Older adults,807,0.958466470052612,92
+Older adults,808,0.780900985498777,79
+Older adults,809,0.916925986920744,90.3
+Older adults,810,0.9179790295224,87.2
+Older adults,811,0.896629537164111,86.8
+Older adults,812,0.963630539824225,91.3
+Older adults,813,0.939635985667993,86.3
+Older adults,814,0.815737333372023,80.9
+Older adults,815,0.892488783814359,86.4
+Older adults,816,0.957276027377766,89.4
+Older adults,817,0.960003634979208,89.8
+Older adults,818,0.97196427193022,90
+Older adults,819,0.854565422693709,85.4
+Older adults,820,0.915561147009457,90.5
+Older adults,821,0.960873845302206,89
+Older adults,822,0.868533725809459,81.8
+Older adults,823,0.824153561614881,77.9
+Older adults,824,0.91859145873518,87.7
+Older adults,825,0.953255284371774,88.8
+Older adults,826,0.949082453553377,89
+Older adults,827,0.937801947990746,88.9
+Older adults,828,0.971165389158166,90.8
+Older adults,829,0.98309015210558,94
+Older adults,830,0.751998298175036,78.4
+Older adults,831,0.880615838245888,86.8
+Older adults,832,0.831638060542119,82
+Older adults,833,0.826196449035486,78.6
+Older adults,834,0.86328944499977,84.1
+Older adults,835,0.957040524619831,91
+Older adults,836,0.880258717650539,80.2
+Older adults,837,0.945637935143456,88.9
+Older adults,838,0.887893421586325,82
+Older adults,839,0.911570648720274,86.6
+Older adults,840,0.846224219155303,83.2
+Older adults,841,0.883201838128551,85
+Older adults,842,0.862974633585344,82.5
+Older adults,843,0.879108163883649,86
+Older adults,844,0.933762855499381,85.5
+Older adults,845,0.906840154994407,85.8
+Older adults,846,0.950001683496654,89.2
+Older adults,847,0.952232593142535,91.3
+Older adults,848,0.844828793653189,84.4
+Older adults,849,0.861915046934786,80.6
+Older adults,850,0.889739867058538,87
+Older adults,851,0.879737464240672,82.2
+Older adults,852,0.908907294522275,82
+Older adults,853,0.892349505610118,81.7
+Older adults,854,0.897130963999978,85.9
+Older adults,855,0.962192997256167,90.6
+Older adults,856,0.884325175831752,85.6
+Older adults,857,0.866540751382317,84.4
+Older adults,858,0.955446089871555,90.9
+Older adults,859,0.979166493064316,92.1
+Older adults,860,0.886928891576845,87.3
+Older adults,861,0.874875228776882,85.9
+Older adults,862,0.936846147651165,88.4
+Older adults,863,0.924906616467011,86.5
+Older adults,864,0.967468154382332,89.9
+Older adults,865,0.951617657715684,88.4
+Older adults,866,0.856787940846006,81.5
+Older adults,867,0.968492464233249,91.2
+Older adults,868,0.772796183390551,76.2
+Older adults,869,0.847118562790294,81.3
+Older adults,870,0.959659221142104,90.7
+Older adults,871,0.896866121893561,89.2
+Older adults,872,0.95705754818428,91.4
+Older adults,873,0.975932732444403,92.7
+Older adults,874,0.869881227006803,85.6
+Older adults,875,0.846374895442894,84
+Older adults,876,0.84700763773147,83.7
+Older adults,877,0.924776485787562,86.9
+Older adults,878,0.918645846735848,85.8
+Older adults,879,0.863806535420665,83.5
+Older adults,880,0.839737534205592,80.7
+Older adults,881,0.850880047356576,81.7
+Older adults,882,0.912287814847053,86.6
+Older adults,883,0.880902151802412,85.7
+Older adults,884,0.852006258450467,81.1
+Older adults,885,0.942704098713268,86.8
+Older adults,886,0.807342931134497,82
+Older adults,887,0.835909799020507,79.2
+Older adults,888,0.909553001344233,84.2
+Older adults,889,0.824853617995241,83.6
+Older adults,890,0.914599047196636,85.2
+Older adults,891,0.803027515017271,80.1
+Older adults,892,0.829240826439064,78.2
+Older adults,893,0.874816292979207,82.7
+Older adults,894,0.873431418144552,84.7
+Older adults,895,0.776092341057171,79.7
+Older adults,896,0.916512502161084,82.8
+Older adults,897,0.891983925885922,86.1
+Older adults,898,0.942926406621446,90.1
+Older adults,899,0.895589469260396,86.4
+Older adults,900,0.921131790074343,88.3
+Older adults,901,0.875405782228096,86.5
+Older adults,902,0.923017195673978,85.9
+Older adults,903,0.900785498765197,85.2
+Older adults,904,0.746137417696737,79.1
+Older adults,905,0.831933143029752,80
+Older adults,906,0.974581568633782,92.3
+Older adults,907,0.889254784014189,82.2
+Older adults,908,0.894837158714106,83.9
+Older adults,909,0.869328222935714,81.9
+Older adults,910,0.749656188111952,77
+Older adults,911,0.945486316297778,86.9
+Older adults,912,0.9247429892309,91.4
+Older adults,913,0.794666860078247,80.4
+Older adults,914,0.807217291311256,79.4
+Older adults,915,0.873332525081061,81.6
+Older adults,916,0.96742038235325,90.9
+Older adults,917,0.870690449110205,82.4
+Older adults,918,0.895993379631969,83.3
+Older adults,919,0.828665509957196,84.4
+Older adults,920,0.919469266752716,87.8
+Older adults,921,0.901389765596439,84.5
+Older adults,922,0.969259080456595,91.4
+Older adults,923,0.904430949497986,86.3
+Older adults,924,0.891389662281165,87.2
+Older adults,925,0.951879275874568,89.9
+Older adults,926,0.939307688148254,88.2
+Older adults,927,0.904829613319355,83.7
+Older adults,928,0.934485706986628,90.5
+Older adults,929,0.849570708007493,82.7
+Older adults,930,0.919584386883906,87
+Older adults,931,0.900662716290949,85.5
+Older adults,932,0.959812307682622,90.2
+Older adults,933,0.9524729670846,90.7
+Older adults,934,0.957380044583197,90.3
+Older adults,935,0.97004257736249,92.8
+Older adults,936,0.994240730809843,96.3
+Older adults,937,0.919758456831191,86.5
+Older adults,938,0.851439873821687,85.8
+Older adults,939,0.947703213015529,89
+Older adults,940,0.950536416845656,88.1
+Older adults,941,0.973466311176705,92.5
+Older adults,942,0.898345813610957,85.5
+Older adults,943,0.966355342489186,89.2
+Older adults,944,0.835330636674265,85.2
+Older adults,945,0.917955063227114,85.6
+Older adults,946,0.841266887162973,80.9
+Older adults,947,0.920683260951042,85.8
+Older adults,948,0.866613488964704,83.6
+Older adults,949,0.759513538148224,73.6
+Older adults,950,0.92152244923344,86.8
+Older adults,951,0.944576075437428,88.1
+Older adults,952,0.827847884365066,79.7
+Older adults,953,0.804550884277159,81.1
+Older adults,954,0.776165823831783,80.2
+Older adults,955,0.934599981725205,87.3
+Older adults,956,0.957982773434806,90.8
+Older adults,957,0.932052662757724,88.5
+Older adults,958,0.88709182849008,82.4
+Older adults,959,0.921532709801502,88.4
+Older adults,960,0.916879614614027,87
+Older adults,961,0.789013505397487,80.8
+Older adults,962,0.915935009500179,88.6
+Older adults,963,0.874719886378747,84.9
+Older adults,964,0.953954049805,88.8
+Older adults,965,0.88119248758563,80.8
+Older adults,966,0.924521448530127,84.2
+Older adults,967,0.897917482188483,84.8
+Older adults,968,0.957124966523008,91.3
+Older adults,969,0.913157126256942,89.1
+Older adults,970,0.935756216083409,85.5
+Older adults,971,0.889191960682267,84.4
+Older adults,972,0.912820017172755,84.5
+Older adults,973,0.922642131260314,85.4
+Older adults,974,0.967708425137266,90.8
+Older adults,975,0.896709524003815,84.6
+Older adults,976,0.895693864240565,86.2
+Older adults,977,0.942319806373633,88.9
+Older adults,978,0.86448904497858,84.7
+Older adults,979,0.801430844258765,80.4
+Older adults,980,0.894968361634069,86
+Older adults,981,0.786291274992142,81
+Older adults,982,0.820070806322043,76.5
+Older adults,983,0.971719101761624,93.6
+Older adults,984,0.919121866028711,85.3
+Older adults,985,0.936269715331978,89.3
+Older adults,986,0.916154843325855,84.1
+Older adults,987,0.831587023570056,83.3
+Older adults,988,0.963339207817904,90.7
+Older adults,989,0.916718089370126,86
+Older adults,990,0.765097657057517,78.2
+Older adults,991,0.953821289298885,88.7
+Older adults,992,0.922679639590073,87.4
+Older adults,993,0.852295662273716,82.1
+Older adults,994,0.958373011752267,89.5
+Older adults,995,0.878269300192705,84.7
+Older adults,996,0.928975310899321,86.1
+Older adults,997,0.978865072372139,92.4
+Older adults,998,0.865153294219834,81.4
+Older adults,999,0.926988117023016,88.3
+Older adults,1000,0.833716720754294,81.1

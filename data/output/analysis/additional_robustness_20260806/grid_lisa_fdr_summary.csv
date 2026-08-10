@@ -1,0 +1,4 @@
+group,n_lsoas,analytical_high_high,fdr_high_high,analytical_high_high_retained_fdr,retention_pct,analytical_fdr_high_high_jaccard
+children_and_adolescents,4992,780,741,738,94.6153846153846,0.942528735632184
+caregiving_adults,4992,677,597,597,88.1831610044313,0.881831610044313
+older_adults,4992,883,761,761,86.1834654586636,0.861834654586636

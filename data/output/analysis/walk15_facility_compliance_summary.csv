@@ -1,0 +1,9 @@
+facility,n_lsoas,reached_15min_n,reached_15min_pct,mean_time_reached,median_time_reached
+Bus stops,4994,4939,98.9,4.1,4
+Schools,4994,4519,90.5,7.48,7
+Parks,4994,4264,85.4,7.59,7
+Pharmacies,4994,3641,72.9,8.3,8
+Supermarkets,4994,3284,65.8,8.87,9
+GPs,4994,3031,60.7,8.57,9
+Underground/metro,4994,1402,28.1,9.33,10
+Hospitals,4994,627,12.6,10.2,11

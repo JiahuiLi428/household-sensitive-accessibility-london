@@ -1,0 +1,6 @@
+lisa_cluster,n_lsoas,share_lsoas_pct,mean_family_care_mismatch_z,mean_family_care_demand_z,mean_family_care_access,mean_imd_decile,mean_dep_child_hh_intensity
+High-high mismatch cluster,670,13.42,1.8,1.09,24.72,3.87,41.52
+Low-low surplus cluster,888,17.78,-2.26,-1.11,53.11,4.67,20.71
+High-low spatial outlier,40,0.8,0.46,0.4,34.63,4.05,32.2
+Low-high spatial outlier,31,0.62,-0.32,0.01,40.66,5.13,33.34
+Not significant,3365,67.38,0.24,0.07,33.1,5.51,33.03

@@ -1,0 +1,21 @@
+model,term,estimate,std_error,t_value,p_value,r_squared,adj_r_squared,n
+gp_time,(Intercept),4.3269,0.3604,12.007,9.565e-33,0.1477,0.147,4813
+gp_time,older_adults_pct,0.1691,0.0148,11.432,6.99e-30,0.1477,0.147,4813
+gp_time,children_pct,0.1828,0.0159,11.51,2.911e-30,0.1477,0.147,4813
+gp_time,IMD_Decile,0.1094,0.0307,3.563,0.0003706,0.1477,0.147,4813
+gp_time,london_ringOuter London,1.5819,0.1545,10.24,2.34e-24,0.1477,0.147,4813
+older_access,(Intercept),74.93,1.2096,61.944,0,0.3213,0.3208,4813
+older_access,older_adults_pct,-0.9009,0.0497,-18.144,3.222e-71,0.3213,0.3208,4813
+older_access,children_pct,-1.0123,0.0533,-18.991,1.328e-77,0.3213,0.3208,4813
+older_access,IMD_Decile,-0.7746,0.1031,-7.516,6.7e-14,0.3213,0.3208,4813
+older_access,london_ringOuter London,-8.6468,0.5186,-16.674,9.987e-61,0.3213,0.3208,4813
+children_access,(Intercept),73.8443,1.1794,62.613,0,0.3359,0.3353,4813
+children_access,older_adults_pct,-0.8656,0.0484,-17.881,2.79e-69,0.3359,0.3353,4813
+children_access,children_pct,-0.704,0.052,-13.546,4.732e-41,0.3359,0.3353,4813
+children_access,IMD_Decile,-0.794,0.1005,-7.901,3.394e-15,0.3359,0.3353,4813
+children_access,london_ringOuter London,-10.7278,0.5056,-21.218,1.386e-95,0.3359,0.3353,4813
+older_mismatch,(Intercept),-4.434,0.0694,-63.872,0,0.741,0.7407,4813
+older_mismatch,older_adults_pct,0.2382,0.0028,83.596,0,0.741,0.7407,4813
+older_mismatch,children_pct,0.0615,0.0031,20.101,2.346e-86,0.741,0.7407,4813
+older_mismatch,IMD_Decile,0.0178,0.0059,3.017,0.002569,0.741,0.7407,4813
+older_mismatch,london_ringOuter London,0.4347,0.0298,14.608,2.556e-47,0.741,0.7407,4813

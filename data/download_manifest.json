@@ -1,0 +1,80 @@
+{
+  "sources": {
+    "TS007B_Nomis_API": "https://www.nomisweb.co.uk/api/v01/dataset/NM_2018_1.data.csv",
+    "TS003_Nomis_API": "https://www.nomisweb.co.uk/api/v01/dataset/NM_2023_1.data.csv",
+    "London_GTFS_BODS": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/london/",
+    "Greater_London_OSM_PBF": "https://download.geofabrik.de/europe/united-kingdom/england/greater-london-latest.osm.pbf",
+    "OSM_POIs": "Geofabrik Greater London OSM PBF, extracted with scripts/extract_osm_pois_from_pbf.py and clipped to the London LSOA 2021 boundary",
+    "LSOA11_to_LSOA21_bestfit_lookup": "ONS Geography Open Data ArcGIS Feature Service: LSOA11_LSOA21_LAD22_EW_LU_v2"
+  },
+  "outputs": {
+    "TS007B_age_broad_bands": "data/census/TS007B_age_broad_bands_london_lsoa_2021.csv",
+    "TS003_selected_households": "data/census/TS003_household_composition_selected_london_lsoa_2021.csv",
+    "London_GTFS": "data/r5/london_network/london_gtfs_bods.zip",
+    "London_LSOA_boundary_subset": "data/boundaries/london_lsoa_2021.gpkg",
+    "Greater_London_OSM_PBF": "data/raw/osm/greater-london-latest.osm.pbf",
+    "OSM_POI_folder": "data/poi/",
+    "TS003_source_zip": "data/raw/census/census2021-ts003.zip",
+    "TS007_source_zip": "data/raw/census/census2021-ts007.zip",
+    "R5r_London_network_folder": "data/r5/london_network/",
+    "R5r_nearest_times_full_long": "data/output/r5r/nearest_facility_times_full_long.csv",
+    "R5r_nearest_times_full_wide": "data/output/r5r/nearest_facility_times_full_wide.csv",
+    "R5r_nearest_times_test_long": "data/output/r5r/nearest_facility_times_test_long.csv",
+    "R5r_nearest_times_test_wide": "data/output/r5r/nearest_facility_times_test_wide.csv",
+    "LSOA11_to_LSOA21_lookup": "data/raw/lookups/LSOA11_LSOA21_LAD22_EW_bestfit_v2.csv",
+    "R5r_accessibility_enriched_long": "data/output/analysis/r5r_accessibility_enriched_long.csv",
+    "R5r_accessibility_enriched_wide": "data/output/analysis/r5r_accessibility_enriched_wide.csv",
+    "R5r_quality_summary": "data/output/analysis/r5r_result_quality_summary.csv",
+    "IMD_match_summary": "data/output/analysis/imd_match_summary.csv",
+    "River_Thames_OSM_layer": "data/boundaries/river_thames_osm.geojson",
+    "Publication_figures_folder": "figures/publication/",
+    "Final_manuscript": "outputs/manuscript/final/newdraft_CASA_compliance_polished_20260806_v13.9_crossreview_fixes2.docx"
+  },
+  "counts": {
+    "london_lsoas": 4994,
+    "ts007b_rows": 4994,
+    "ts003_rows": 4994,
+    "gtfs_size_mb": 299.67,
+    "gtfs_missing_required_files": []
+  },
+  "poi_counts": {
+    "education_schools": 3266,
+    "healthcare_gps": 955,
+    "healthcare_hospitals": 206,
+    "healthcare_pharmacies": 1289,
+    "food_retail_supermarkets": 1258,
+    "green_space_parks": 3230,
+    "transport_underground_metro_features": 1540,
+    "transport_bus_stop_features": 26359
+  },
+  "r5r_run": {
+    "departure_datetime": "2026-06-02 08:30:00 Europe/London",
+    "origins": "London LSOA 2021 point-on-surface coordinates",
+    "scenarios": {
+      "walk_15min": "mode WALK, max_trip_duration 15, max_walk_time 15",
+      "walk_transit_30min": "mode WALK + TRANSIT, max_trip_duration 30, max_walk_time 15"
+    },
+    "full_rows_long": 79904,
+    "full_rows_wide": 4994
+  },
+  "final_figure_sets": [
+    "figures/publication/",
+    "figures/publication_nature_revised/",
+    "figures/publication_nonmap_revised_20260805/",
+    "figures/publication_additional_20260806/",
+    "extension/outputs/maps/",
+    "extension/outputs/case_studies/"
+  ],
+  "github_excluded_large_files": [
+    "data/raw/osm/greater-london-latest.osm.pbf",
+    "data/r5/london_network/greater-london-latest.osm.pbf",
+    "data/r5/london_network/london_gtfs_bods.zip",
+    "data/poi/transport_bus_stops.geojson",
+    "extension/data_intermediate/osm_residential_features.gpkg"
+  ],
+  "imd_join_note": {
+    "direct_2011_lsoa_code_matches": 4659,
+    "bestfit_lsoa11_to_lsoa21_matches": 154,
+    "missing_imd_for_2021_lsoas": 181
+  }
+}

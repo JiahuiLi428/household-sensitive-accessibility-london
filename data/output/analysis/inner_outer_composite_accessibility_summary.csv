@@ -1,0 +1,17 @@
+london_ring,index_type,n_lsoas,mean_index,median_index,q1_index,q3_index,mean_imd_decile
+Inner London,family_walk_index,1798,49.94,51.33,40.8,60.53,4.42
+Outer London,family_walk_index,3196,32.63,32.67,21.6,43.77,5.52
+Inner London,working_walk_index,1798,45.15,45.47,35.62,54.8,4.42
+Outer London,working_walk_index,3196,30.21,29.13,21.2,39.08,5.52
+Inner London,older_walk_index,1798,45.57,46.6,34.55,57.4,4.42
+Outer London,older_walk_index,3196,29.21,27.27,17.33,39.93,5.52
+Inner London,family_transit_index,1798,72.9,74,67.75,79.47,4.42
+Outer London,family_transit_index,3196,59.52,61.87,53.27,69.27,5.52
+Inner London,working_transit_index,1798,68.12,69,61.01,76.17,4.42
+Outer London,working_transit_index,3196,54.87,56.27,48.13,64.28,5.52
+Inner London,older_transit_index,1798,69.96,71.43,64,77.96,4.42
+Outer London,older_transit_index,3196,55.93,58.22,48.13,66.83,5.52
+Inner London,children_walk_index,1798,49.94,51.33,40.8,60.53,4.42
+Outer London,children_walk_index,3196,32.63,32.67,21.6,43.77,5.52
+Inner London,children_transit_index,1798,72.9,74,67.75,79.47,4.42
+Outer London,children_transit_index,3196,59.52,61.87,53.27,69.27,5.52
