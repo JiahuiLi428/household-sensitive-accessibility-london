@@ -12,7 +12,7 @@ mismatch analysis, and comparative neighbourhood cases.
 - `outputs/maps/`: PNG/PDF/SVG map exports.
 - `outputs/case_studies/`: case profiles and PNG/PDF/SVG maps.
 
-Most duplicate TIFF exports were moved to `非必须材料`; equivalent PNG files remain.
+Most duplicate TIFF exports were moved to `Non‑essential Materials/`; equivalent PNG files remain.
 Some case-study TIFFs were regenerated later and are still present here. TIFFs are
 excluded from Git by `.gitignore`.
 

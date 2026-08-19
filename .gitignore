@@ -1,5 +1,4 @@
 # Local archive and temporary files
-/非必须材料/
 /cache/
 /tmp/
 **/__pycache__/

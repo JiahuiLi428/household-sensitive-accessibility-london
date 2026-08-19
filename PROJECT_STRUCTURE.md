@@ -31,7 +31,7 @@ Last reorganised 19 August 2026.
 
 `Non‑essential Materials/` holds superseded drafts, QA renders, working
 directories, E-series duplicates and test artefacts. Original relative paths are
-preserved under `原目录结构/`. Nothing was deleted; see that folder's
+preserved in an internal archive mirror. Nothing was deleted; see that folder's
 `README_ARCHIVE_20260819.md` for what was moved and why.
 
 The former multi-format `figures/` tree was additionally archived under

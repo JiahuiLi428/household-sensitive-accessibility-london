@@ -13,7 +13,8 @@ standard GitHub commit by `.gitignore`.
 | `extension/data_intermediate/osm_residential_features.gpkg` | 229 MB | Reproducible Appendix D residential-feature intermediate |
 
 Generated R5 files such as `network.dat` and `*.mapdb*` are not source data.
-They have been moved to `非必须材料/原目录结构/data/r5/` because R5r can rebuild
+They have been moved to the local `Non‑essential Materials/` archive under their
+original `data/r5/` paths because R5r can rebuild
 them from the OSM and GTFS inputs.
 
 If the full binary inputs must be distributed, use an institutional data store,

@@ -9,7 +9,7 @@
    inside the dissertation before final submission.
 3. Review `data/LARGE_FILES.md`. Large local files are intentionally excluded
    from GitHub; do not force-add them unless Git LFS has been configured.
-4. Do not upload `非必须材料/`. It contains old drafts, internal review documents,
+4. Do not upload `Non‑essential Materials/`. It contains old drafts, internal review documents,
    QA renders and caches.
 
 ## Inspect and stage the repository
