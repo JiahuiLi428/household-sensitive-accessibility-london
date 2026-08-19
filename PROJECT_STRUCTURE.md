@@ -4,7 +4,6 @@ Last reorganised 19 August 2026.
 
 ## Entry points
 
-- Final dissertation: `outputs/manuscript/final/casa0010JiahuiLi.docx`
 - Main pipeline: `scripts/model/run_pipeline.R`
 - Main configuration: `scripts/model/00_config.R`
 - Repository guide: `README.md`
