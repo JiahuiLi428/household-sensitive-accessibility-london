@@ -136,7 +136,7 @@ imd_match_summary <- data.table(
   metric = c(
     "lsoa_rows",
     "direct_imd_matches",
-    "bestfit_imd_matches",
+    "total_imd_matches",
     "remaining_missing_imd",
     "bestfit_assigned_lsoas"
   ),

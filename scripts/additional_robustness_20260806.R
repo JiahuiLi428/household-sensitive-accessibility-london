@@ -262,7 +262,8 @@ p9b <- ggplot() +
     size = 2.2, colour = "#333333", stroke = 0.35
   ) +
   scale_fill_manual(values = c("WALK 15" = palette[["walk"]], "WALK + PT 30" = palette[["pt30"]])) +
-  scale_shape_manual(values = c(`TRUE` = 21, `FALSE` = 1), labels = c(`TRUE` = "q < 0.05", `FALSE` = "q >= 0.05")) +
+  scale_shape_manual(values = c(`TRUE` = 21, `FALSE` = 1), breaks = c(FALSE, TRUE),
+                     labels = c(`TRUE` = "q < 0.05", `FALSE` = "q >= 0.05")) +
   scale_x_continuous(limits = c(0, max(eta_long$eta_sq_h) * 1.12), expand = expansion(mult = c(0, 0.02))) +
   labs(
     title = "b  IMD association across\nregistered benchmarks",
@@ -271,8 +272,11 @@ p9b <- ggplot() +
     y = NULL
   ) +
   guides(
-    fill = guide_legend(nrow = 1, byrow = TRUE),
-    shape = guide_legend(nrow = 1, byrow = TRUE)
+    fill = guide_legend(nrow = 1, byrow = TRUE,
+                        override.aes = list(shape = 21, size = 2.6)),
+    shape = guide_legend(nrow = 1, byrow = TRUE,
+                         override.aes = list(fill = c(NA, "#666666"),
+                                             colour = "#333333", size = 2.6))
   ) +
   theme_pub() +
   theme(

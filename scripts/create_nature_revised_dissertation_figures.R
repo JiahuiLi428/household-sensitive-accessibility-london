@@ -32,6 +32,7 @@ palette <- list(
 # rose/yellow/green endpoints.  The low chroma keeps boundaries and labels
 # legible at journal size while preserving metric direction.
 map_palettes <- list(
+  accessibility_seq = c("#F7FCF0", "#C7E9C0", "#7FCDBB", "#2C7FB8", "#253494"),
   blue_rose = c("#6F9FBC", "#A9C7D8", "#DCE8EC", "#F5ECEE", "#E5BDC9", "#C985A2"),
   blue_yellow = c("#778CB8", "#AEBAD2", "#DEE2EA", "#F4EFD9", "#E8D58F", "#D6B84E"),
   purple_green = c("#8974AD", "#B3A5C9", "#E1DCE8", "#EFF1DF", "#C8D38F", "#91A85B"),
@@ -238,12 +239,12 @@ make_fig4 <- function(base) {
       add_london_context(base$thames, base$boroughs) +
       map_furniture(base$lsoas, 20) +
       scale_fill_stepsn(
-        colours = map_palettes$blue_rose,
-        limits = c(0, 100), breaks = seq(0, 100, 25), name = "Accessibility score (0–100)",
+        colours = map_palettes$accessibility_seq,
+        limits = c(0, 100), breaks = seq(0, 100, 25), name = "Accessibility score (0-100)",
         na.value = palette$pale
       ) +
       labs(title = title, subtitle = subtitle,
-           caption = "Modelled WALK ≤15 min | London LSOAs | British National Grid (EPSG:27700)") +
+           caption = "Modelled WALK <=15 min | London LSOAs | British National Grid (EPSG:27700)") +
       theme_map()
   }
 
@@ -261,7 +262,7 @@ make_fig4 <- function(base) {
       oob = scales::squish, name = "Score-point gap", na.value = palette$pale
     ) +
     labs(title = "d  Household sensitivity gap", subtitle = "Maximum minus minimum household accessibility score",
-         caption = "Score-point range; this is not need–access mismatch | WALK ≤15 min | EPSG:27700") +
+         caption = "Score-point range; this is not need-access mismatch | WALK <=15 min | EPSG:27700") +
     theme_map()
 
   function() {
@@ -320,14 +321,14 @@ make_fig6 <- function(base) {
         name = "Mismatch (score points)"
       ) +
       labs(title = title, subtitle = subtitle,
-           caption = "Positive = need > access; negative = access surplus | WALK ≤15 min | EPSG:27700") +
+           caption = "Positive = need > access; negative = access surplus | WALK <=15 min | EPSG:27700") +
       theme_map()
   }
 
   plots <- list(
-    make_mismatch_map("family_mismatch_index", "a  Children", "Need score − accessibility score"),
-    make_mismatch_map("working_mismatch_index", "b  Caregivers", "Need score − accessibility score"),
-    make_mismatch_map("older_mismatch_index", "c  Older adults", "Need score − accessibility score"),
+    make_mismatch_map("family_mismatch_index", "a  Children", "Need score - accessibility score"),
+    make_mismatch_map("working_mismatch_index", "b  Caregivers", "Need score - accessibility score"),
+    make_mismatch_map("older_mismatch_index", "c  Older adults", "Need score - accessibility score"),
     make_mismatch_map("household_mean_mismatch", "d  Household mean", "Signed mean of three role-specific differences")
   )
 
@@ -358,12 +359,12 @@ make_fig7 <- function(base) {
     add_london_context(base$thames, base$boroughs) +
     map_furniture(base$lsoas, 20) +
     scale_fill_stepsn(
-      colours = map_palettes$blue_rose,
-      limits = c(0, 100), breaks = c(0, 25, 50, 75, 100), name = "Accessibility score (0–100)",
+      colours = map_palettes$accessibility_seq,
+      limits = c(0, 100), breaks = c(0, 25, 50, 75, 100), name = "Accessibility score (0-100)",
       na.value = palette$pale
     ) +
-    labs(title = "a  Accessibility baseline", subtitle = "Caregiving service-basket score; WALK ≤15 min",
-         caption = "Modelled score (0–100) | London LSOAs | EPSG:27700") +
+    labs(title = "a  Accessibility baseline", subtitle = "Caregiving service-basket score; WALK <=15 min",
+         caption = "Modelled score (0-100) | London LSOAs | EPSG:27700") +
     theme_map()
 
   lim <- quantile(abs(map_data$care_mismatch_index), 0.98, na.rm = TRUE)
@@ -373,11 +374,11 @@ make_fig7 <- function(base) {
     map_furniture(base$lsoas, 20) +
     scale_fill_gradientn(
       colours = map_palettes$blue_white_rose,
-      limits = c(-lim, lim), oob = scales::squish, name = "Need − access (score points)",
+      limits = c(-lim, lim), oob = scales::squish, name = "Need - access (score points)",
       na.value = palette$pale
     ) +
-    labs(title = "b  Need–access mismatch", subtitle = "Need score − accessibility score; positive values indicate deficit",
-         caption = "Positive = need exceeds modelled accessibility | WALK ≤15 min | EPSG:27700") +
+    labs(title = "b  Need-access mismatch", subtitle = "Need score - accessibility score; positive values indicate deficit",
+         caption = "Positive = need exceeds modelled accessibility | WALK <=15 min | EPSG:27700") +
     theme_map()
 
   typology_palette <- c(
@@ -391,10 +392,13 @@ make_fig7 <- function(base) {
     add_london_context(base$thames, base$boroughs) +
     map_furniture(base$lsoas, 20) +
     scale_fill_manual(
-      values = typology_palette, na.value = palette$pale, name = NULL,
+      values = typology_palette, breaks = names(typology_palette),
+      na.value = palette$pale, name = NULL,
       labels = c(
-        "Low care + less deprived", "Low care + more deprived",
-        "High care + less deprived", "High care + more deprived"
+        "Low caregiving adult demand + Less deprived"  = "Low care + less deprived",
+        "Low caregiving adult demand + More deprived"  = "Low care + more deprived",
+        "High caregiving adult demand + Less deprived" = "High care + less deprived",
+        "High caregiving adult demand + More deprived" = "High care + more deprived"
       )
     ) +
     guides(fill = guide_legend(nrow = 2, byrow = TRUE)) +
@@ -414,12 +418,19 @@ make_fig7 <- function(base) {
     add_london_context(base$thames, base$boroughs) +
     map_furniture(base$lsoas, 20) +
     scale_fill_manual(
-      values = lisa_palette, na.value = palette$pale, name = NULL,
-      labels = c("High-high deficit", "Low-low surplus", "High-low outlier", "Low-high outlier", "Not significant")
+      values = lisa_palette, breaks = names(lisa_palette),
+      na.value = palette$pale, name = NULL,
+      labels = c(
+        "High-high mismatch cluster" = "High-high deficit",
+        "Low-low surplus cluster"    = "Low-low surplus",
+        "High-low spatial outlier"   = "High-low outlier",
+        "Low-high spatial outlier"   = "Low-high outlier",
+        "Not significant"            = "Not significant"
+      )
     ) +
     guides(fill = guide_legend(nrow = 2, byrow = TRUE)) +
     labs(title = "d  Spatial clusters", subtitle = "Local Moran's I; analytical p < 0.05, unadjusted",
-         caption = "High–high = neighbouring high positive mismatch values | Queen contiguity | EPSG:27700") +
+         caption = "High-high = neighbouring high positive mismatch values | Queen contiguity | EPSG:27700") +
     theme_map()
 
   function() {

@@ -1,9 +1,9 @@
-facility,statistic_H,p_value,eta_sq_h,inequality_rank
-Parks,222.6446,5.814e-43,0.0522,1
-Bus stops,150.1743,8.116e-28,0.0297,2
-Schools,137.0476,4.195e-25,0.0294,3
-Supermarkets,86.8629,6.922e-15,0.0249,4
-Pharmacies,88.099,3.915e-15,0.0227,5
-GPs,32.5735,0.0001584,0.0081,6
-Hospitals,11.0719,0.2708,0.0034,7
-Underground/metro,7.4463,0.5908,-0.0012,8
+facility,n_observations,statistic_H,p_value,eta_sq_h,inequality_rank
+Parks,4099,222.6446,5.814e-43,0.0522,1
+Bus stops,4758,150.1743,8.116000000000001e-28,0.0297,2
+Schools,4360,137.0476,4.195e-25,0.0294,3
+Supermarkets,3133,86.8629,6.922e-15,0.0249,4
+Pharmacies,3496,88.099,3.915e-15,0.0227,5
+GPs,2917,32.5735,0.0001584,0.0081,6
+Hospitals,611,11.0719,0.2708,0.0034,7
+Underground/metro,1332,7.4463,0.5908,0.0,8

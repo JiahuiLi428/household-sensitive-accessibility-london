@@ -10,6 +10,6 @@ Grid accessibility was calculated using the original R5r network, POI categories
 
 Centroid-grid comparison uses Pearson and Spearman correlations, absolute differences, RMSE, lowest-accessibility quintile overlap, high-mismatch quintile overlap, Jaccard indices and threshold sensitivity at 0.25, 0.50 and 0.75 SD.
 
-Grid-informed mismatch keeps the original need score and z-score mismatch logic, replacing only centroid-based accessibility with grid-informed LSOA accessibility. LISA uses queen contiguity, row-standardised spatial weights and p < 0.05, matching the original approach.
+Grid-informed mismatch keeps the original need score and z-score mismatch logic, replacing only centroid-based accessibility with grid-informed LSOA accessibility. LISA uses queen contiguity, row-standardised spatial weights and analytical p < 0.05, matching the original approach. Conditional-permutation (9,999 simulations) and Benjamini-Hochberg FDR results are additionally reported for every group in Appendix D.
 
 Compound mismatch counts whether children/adolescents, caregiving adults and older adults are each in grid-informed high-high mismatch clusters. Case studies were selected from automatic candidate lists: one fixed Barking Riverside / Thames View case, one compound mismatch case and one positive counter-case matched on need-related variables.

@@ -349,7 +349,7 @@ for (row_i in seq_len(nrow(selection))) {
   case_slug <- slugify(case_name)
   lsoa_id <- sel$LSOA21CD
   display_title <- fcase(
-    grepl("^Case 1", case_name), "Case 1: Compound mismatch — Barking Riverside / Thames View",
+    grepl("^Case 1", case_name), "Case 1: Barking Riverside / Thames View",
     grepl("^Case 2", case_name), "Case 2: Compound mismatch — Hillingdon 003D",
     grepl("^Case 3", case_name), "Case 3: Positive counter-case — Barking and Dagenham 015F",
     default = case_name

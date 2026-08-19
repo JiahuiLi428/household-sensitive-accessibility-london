@@ -27,8 +27,8 @@
     "R5r_quality_summary": "data/output/analysis/r5r_result_quality_summary.csv",
     "IMD_match_summary": "data/output/analysis/imd_match_summary.csv",
     "River_Thames_OSM_layer": "data/boundaries/river_thames_osm.geojson",
-    "Publication_figures_folder": "figures/publication/",
-    "Final_manuscript": "outputs/manuscript/final/newdraft_CASA_compliance_polished_20260806_v13.9_crossreview_fixes2.docx"
+    "Publication_figures_folder": "figures/",
+    "Final_manuscript": "outputs/manuscript/final/casa0010JiahuiLi.docx"
   },
   "counts": {
     "london_lsoas": 4994,
@@ -58,12 +58,7 @@
     "full_rows_wide": 4994
   },
   "final_figure_sets": [
-    "figures/publication/",
-    "figures/publication_nature_revised/",
-    "figures/publication_nonmap_revised_20260805/",
-    "figures/publication_additional_20260806/",
-    "extension/outputs/maps/",
-    "extension/outputs/case_studies/"
+    "figures/"
   ],
   "github_excluded_large_files": [
     "data/raw/osm/greater-london-latest.osm.pbf",

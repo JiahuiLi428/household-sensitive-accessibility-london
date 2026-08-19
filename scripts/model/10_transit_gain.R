@@ -86,7 +86,7 @@ summary_dt <- indices[, .(
 setorder(summary_dt, transit_gain_group)
 fwrite(summary_dt, file.path(analysis_dir, "transit_gain_winners_losers_summary.csv"))
 
-typology_summary <- indices[, .(
+typology_summary <- indices[!is.na(vulnerability_typology), .(
   n_lsoas = .N,
   top_gain_pct = round(mean(transit_gain_group == "Top 20% gain", na.rm = TRUE) * 100, 1),
   bottom_gain_pct = round(mean(transit_gain_group == "Bottom 20% gain", na.rm = TRUE) * 100, 1),

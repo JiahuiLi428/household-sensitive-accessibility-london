@@ -1,4 +1,0 @@
-case_name,case_type,care_need,child_need,older_need,centroid_access,grid_mean_access,lowest_decile_access,within_lsoa_variation,mismatch_score,lisa_class,compound_type,main_service_deficit,policy_implication
-Case 1 Barking Riverside / Thames View,Barking Riverside / Thames View,82.36,82.93,10.83,15.73,28.48,17.3,6.2,4.25,High-high mismatch cluster,children_caregiver,healthcare_hospitals,Prioritise multi-service neighbourhood repair and public-transport-linked care trips.
-Case 2 compound mismatch,Compound mismatch case,33.5,35.77,46.49,0,17.94,0,14.51,1.1,High-high mismatch cluster,all_three,healthcare_gps,Prioritise multi-service neighbourhood repair and public-transport-linked care trips.
-Case 3 positive counter-case,Positive counter-case,56.82,63.79,5.09,56.6,54.47,42.53,6.45,0.2,Not significant,none,healthcare_hospitals,Protect comparatively strong access while targeting remaining internal low-access pockets.

@@ -69,7 +69,7 @@ fwrite(
     older_access_score,
     older_mismatch_index,
     working_age_pct,
-    working_need_score,
+    care_need_score,
     working_access_score,
     working_mismatch_index,
     children_pct,

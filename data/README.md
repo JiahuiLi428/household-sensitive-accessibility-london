@@ -28,6 +28,7 @@
 - `CHECKSUMS.sha256`: checksums for the retained model inputs.
 - `LARGE_FILES.md`: large local files excluded from the normal GitHub commit.
 
-R5-generated `network.dat` and `*.mapdb*` caches are not original data and have
-been archived under `非必须材料/原目录结构/data/r5/`. They can be rebuilt from
-the OSM and GTFS inputs.
+R5-generated `network.dat` and `*.mapdb*` caches are not original data. They are
+regenerated in place under `data/r5/london_network/` whenever the network is
+rebuilt, and are excluded from Git by `.gitignore`. They can be rebuilt from the
+OSM and GTFS inputs.

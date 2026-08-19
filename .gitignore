@@ -5,6 +5,7 @@
 **/__pycache__/
 *.py[cod]
 ~$*
+~WRL*.tmp
 .DS_Store
 Thumbs.db
 
@@ -20,6 +21,7 @@ data/r5/**/*.mapdb.p
 data/r5/**/network.dat
 data/r5/**/r5r-log.log
 data/r5/**/gtfs_errors.csv
+data/r5/london_network/network_settings.json
 
 # Large third-party inputs retained locally; download details are documented
 data/raw/osm/*.osm.pbf
@@ -34,5 +36,27 @@ extension/data_intermediate/osm_residential_features.gpkg
 *.tif
 *.tiff
 
-# Working dissertation drafts; upload only the final submitted version
-/outputs/manuscript/final/*.docx
+# Local manuscript, revision logs and duplicate Word-embedded assets
+/outputs/manuscript/final/
+
+# Local execution logs
+/extension/logs/
+
+# One-off manuscript editing and local cleanup helpers
+/scripts/audit_final_submission_v4.py
+/scripts/finalize_submission_v4.py
+/scripts/organize_final_figures.py
+/scripts/revise_final_draft.py
+/scripts/rewrite_chapters_6_7.py
+
+
+# Codex QA render directories (page contact sheets, duplicate PDFs)
+/.codex_qa_v*/
+/.codex_work/
+
+# Staging area for files pending manual deletion
+/_to_delete/
+
+# Local archive of superseded material (see its README)
+/Non‑essential Materials/
+/docs/audit/

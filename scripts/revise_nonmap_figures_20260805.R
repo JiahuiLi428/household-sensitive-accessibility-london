@@ -16,6 +16,9 @@ source_dir <- file.path(out_dir, "source_data")
 dir.create(out_dir, recursive = TRUE, showWarnings = FALSE)
 dir.create(source_dir, recursive = TRUE, showWarnings = FALSE)
 
+requested_figures <- commandArgs(trailingOnly = TRUE)
+should_save <- function(name) length(requested_figures) == 0L || name %in% requested_figures
+
 pal <- list(
   child_light = "#FBDDDD",
   child_dark = "#F09A9B",
@@ -251,12 +254,12 @@ p5d <- ggplot(eta_walk, aes(x = eta_sq_h, y = facility)) +
                      expand = expansion(mult = c(0, 0))) +
   labs(title = "d  IMD effect-size ranking (WALK 15)",
        x = expression(eta[H]^2), y = NULL,
-       caption = "Filled = BH-adjusted q < 0.05; grey = not significant") +
+       caption = "All six displayed tests remain significant after BH correction (q < 0.05)") +
   theme_paper(6.3) +
   theme(plot.caption = element_text(size = 4.8, colour = pal$muted))
 
 draw5 <- function() draw_layout(list(p5a, p5b, p5c, p5d), matrix(1:4, 2, 2, byrow = TRUE))
-save_page(draw5, "figure5_deprivation_accessibility_revised", 183, 148)
+if (should_save("fig5")) save_page(draw5, "figure5_deprivation_accessibility_revised", 183, 148)
 
 # -----------------------------------------------------------------------------
 # Figure 8: current caregiving need-access quadrants with direct statistics.
@@ -326,7 +329,7 @@ draw8 <- function() {
   grid.rect(gp = gpar(fill = "white", col = NA))
   print(p8, vp = viewport(x = 0.5, y = 0.5, width = 0.98, height = 0.98))
 }
-save_page(draw8, "figure8_need_access_quadrants_revised", 160, 120)
+if (should_save("fig8")) save_page(draw8, "figure8_need_access_quadrants_revised", 160, 120)
 
 # -----------------------------------------------------------------------------
 # Figure 9: paired scenario dumbbells for access and IMD effect sizes.
@@ -410,7 +413,7 @@ p9b <- ggplot() +
   theme(legend.position = "none")
 
 draw9 <- function() draw_layout(list(p9a, p9b), matrix(c(1, 2), 1, 2), widths = c(1, 1.02))
-save_page(draw9, "figure9_scenario_comparison_revised", 183, 124.4)
+if (should_save("fig9")) save_page(draw9, "figure9_scenario_comparison_revised", 183, 124.4)
 
 # -----------------------------------------------------------------------------
 # Figure 10: means, borough-block bootstrap CIs and deterministic point samples.
@@ -425,11 +428,11 @@ gain[, group := factor(
 gain[, inner_london_pct := as.numeric(inner_london) * 100]
 
 metric_map10 <- c(
-  transit_gain_mean = "Scenario difference\n(score points)",
-  walk_service_basket_mean = "Walking baseline\n(score)",
-  IMD_Decile = "Mean IMD\ndecile",
-  inner_london_pct = "Inner London\nshare (%)",
-  care_mismatch_index = "Care mismatch\n(score)"
+  transit_gain_mean = "a  Scenario difference\n(score points)",
+  walk_service_basket_mean = "b  Walking baseline\n(score)",
+  IMD_Decile = "c  Mean IMD\ndecile",
+  inner_london_pct = "d  Inner London\nshare (%)",
+  care_mismatch_index = "e  Care mismatch\n(score)"
 )
 
 gain_long <- melt(
@@ -480,7 +483,7 @@ draw10 <- function() {
   grid.rect(gp = gpar(fill = "white", col = NA))
   print(p10, vp = viewport(x = 0.5, y = 0.5, width = 0.99, height = 0.99))
 }
-save_page(draw10, "figure10_high_low_difference_revised", 183, 152.5)
+if (should_save("fig10")) save_page(draw10, "figure10_high_low_difference_revised", 183, 152.5)
 
 # -----------------------------------------------------------------------------
 # Figure 11: three-panel need gradient with borough-block bootstrap CIs.
@@ -551,7 +554,7 @@ draw11 <- function() {
   grid.rect(gp = gpar(fill = "white", col = NA))
   print(p11, vp = viewport(x = 0.5, y = 0.5, width = 0.99, height = 0.99))
 }
-save_page(draw11, "figure11_care_need_gradient_revised", 183, 122)
+if (should_save("fig11")) save_page(draw11, "figure11_care_need_gradient_revised", 183, 122)
 
 # -----------------------------------------------------------------------------
 # Appendix candidate S1: weight-sensitivity distributions (iteration order is
@@ -599,7 +602,7 @@ draw_s1 <- function() {
   grid.newpage(); grid.rect(gp = gpar(fill = "white", col = NA))
   print(p_s1, vp = viewport(width = 0.98, height = 0.98))
 }
-save_page(draw_s1, "appendix_candidate_weight_sensitivity", 183, 92)
+if (should_save("appendix_s1")) save_page(draw_s1, "appendix_candidate_weight_sensitivity", 183, 92)
 
 # -----------------------------------------------------------------------------
 # Appendix candidate S2: centroid-grid agreement for caregiving adults.
@@ -644,6 +647,6 @@ draw_s2 <- function() {
   grid.newpage(); grid.rect(gp = gpar(fill = "white", col = NA))
   print(p_s2, vp = viewport(width = 0.98, height = 0.98))
 }
-save_page(draw_s2, "appendix_candidate_centroid_grid_agreement", 183, 96)
+if (should_save("appendix_s2")) save_page(draw_s2, "appendix_candidate_centroid_grid_agreement", 183, 96)
 
 message("Revised non-map figures written to: ", out_dir)

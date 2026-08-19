@@ -1,2 +1,2 @@
 indicator,global_moran_i,expected_i,variance_i,z_score,p_value,n_lsoas
-family_care_mismatch_z,0.682,0,1e-04,81.39,0,4994
+family_care_mismatch_z,0.682,0,0.0001,81.39,< 2.2e-16,4994

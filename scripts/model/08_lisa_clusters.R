@@ -167,7 +167,8 @@ global_dt <- data.table(
   expected_i = round(as.numeric(global$estimate["Expectation"]), 3),
   variance_i = round(as.numeric(global$estimate["Variance"]), 4),
   z_score = round(as.numeric(global$statistic), 2),
-  p_value = signif(global$p.value, 3),
+  # A z of ~81 underflows to 0 in double precision; report a bound rather than "0".
+  p_value = if (global$p.value < 2.2e-16) "< 2.2e-16" else format(signif(global$p.value, 3)),
   n_lsoas = nrow(g)
 )
 
